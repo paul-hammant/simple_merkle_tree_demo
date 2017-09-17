@@ -1,4 +1,4 @@
-CSV Date from https://raw.githubusercontent.com/tonmcg/County_Level_Election_Results_12-16/master/2016_US_County_Level_Presidential_Results.csv via wget.
+CSV Data from https://raw.githubusercontent.com/tonmcg/County_Level_Election_Results_12-16/master/2016_US_County_Level_Presidential_Results.csv (via wget into the checkout directory).
 
 After that, I ran:
 
