@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 23180, 
+        "dem": 19208, 
+        "tot": 63078, 
+        "gop": 42388
+    }, 
+    "for": "NC/Rowan County/37159", 
+    "pct": {
+        "dem": 30.45, 
+        "per_point_diff": 36.75, 
+        "gop": 67.2
+    }
+}

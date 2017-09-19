@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2725, 
+        "dem": 896, 
+        "tot": 4650, 
+        "gop": 3621
+    }, 
+    "for": "TN/Bledsoe County/47007", 
+    "pct": {
+        "dem": 19.27, 
+        "per_point_diff": 58.6, 
+        "gop": 77.87
+    }
+}

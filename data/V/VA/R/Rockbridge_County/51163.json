@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3165, 
+        "dem": 3506, 
+        "tot": 10685, 
+        "gop": 6671
+    }, 
+    "for": "VA/Rockbridge County/51163", 
+    "pct": {
+        "dem": 32.81, 
+        "per_point_diff": 29.62, 
+        "gop": 62.43
+    }
+}

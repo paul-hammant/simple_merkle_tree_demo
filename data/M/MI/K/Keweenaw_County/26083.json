@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 287, 
+        "dem": 527, 
+        "tot": 1429, 
+        "gop": 814
+    }, 
+    "for": "MI/Keweenaw County/26083", 
+    "pct": {
+        "dem": 36.88, 
+        "per_point_diff": 20.08, 
+        "gop": 56.96
+    }
+}

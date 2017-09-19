@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16209, 
+        "dem": 7700, 
+        "tot": 32692, 
+        "gop": 23909
+    }, 
+    "for": "PA/Clearfield County/42033", 
+    "pct": {
+        "dem": 23.55, 
+        "per_point_diff": 49.58, 
+        "gop": 73.13
+    }
+}

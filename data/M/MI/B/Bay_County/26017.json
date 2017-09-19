@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6686, 
+        "dem": 21641, 
+        "tot": 52932, 
+        "gop": 28327
+    }, 
+    "for": "MI/Bay County/26017", 
+    "pct": {
+        "dem": 40.88, 
+        "per_point_diff": 12.63, 
+        "gop": 53.52
+    }
+}

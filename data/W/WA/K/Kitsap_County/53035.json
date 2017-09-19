@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13799, 
+        "dem": 60561, 
+        "tot": 118625, 
+        "gop": 46762
+    }, 
+    "for": "WA/Kitsap County/53035", 
+    "pct": {
+        "dem": 51.05, 
+        "per_point_diff": 11.63, 
+        "gop": 39.42
+    }
+}

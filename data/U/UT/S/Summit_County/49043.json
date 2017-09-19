@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3091, 
+        "dem": 10251, 
+        "tot": 20133, 
+        "gop": 7160
+    }, 
+    "for": "UT/Summit County/49043", 
+    "pct": {
+        "dem": 50.92, 
+        "per_point_diff": 15.35, 
+        "gop": 35.56
+    }
+}

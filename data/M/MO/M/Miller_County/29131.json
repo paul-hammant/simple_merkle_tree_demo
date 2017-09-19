@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7535, 
+        "dem": 1750, 
+        "tot": 11414, 
+        "gop": 9285
+    }, 
+    "for": "MO/Miller County/29131", 
+    "pct": {
+        "dem": 15.33, 
+        "per_point_diff": 66.02, 
+        "gop": 81.35
+    }
+}

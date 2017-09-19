@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 887, 
+        "dem": 526, 
+        "tot": 1996, 
+        "gop": 1413
+    }, 
+    "for": "TX/Castro County/48069", 
+    "pct": {
+        "dem": 26.35, 
+        "per_point_diff": 44.44, 
+        "gop": 70.79
+    }
+}

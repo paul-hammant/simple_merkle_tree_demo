@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 424, 
+        "dem": 99589, 
+        "tot": 210622, 
+        "gop": 100013
+    }, 
+    "for": "NH/Hillsborough County/33011", 
+    "pct": {
+        "dem": 47.28, 
+        "per_point_diff": 0.2, 
+        "gop": 47.48
+    }
+}

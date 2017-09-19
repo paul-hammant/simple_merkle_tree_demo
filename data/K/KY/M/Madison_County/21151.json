@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11638, 
+        "dem": 11793, 
+        "tot": 37318, 
+        "gop": 23431
+    }, 
+    "for": "KY/Madison County/21151", 
+    "pct": {
+        "dem": 31.6, 
+        "per_point_diff": 31.19, 
+        "gop": 62.79
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1284, 
+        "dem": 2983, 
+        "tot": 7700, 
+        "gop": 4267
+    }, 
+    "for": "IL/Warren County/17187", 
+    "pct": {
+        "dem": 38.74, 
+        "per_point_diff": 16.68, 
+        "gop": 55.42
+    }
+}

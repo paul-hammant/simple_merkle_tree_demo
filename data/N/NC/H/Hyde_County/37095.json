@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 319, 
+        "dem": 956, 
+        "tot": 2273, 
+        "gop": 1275
+    }, 
+    "for": "NC/Hyde County/37095", 
+    "pct": {
+        "dem": 42.06, 
+        "per_point_diff": 14.03, 
+        "gop": 56.09
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5179, 
+        "dem": 7825, 
+        "tot": 21513, 
+        "gop": 13004
+    }, 
+    "for": "TX/San Patricio County/48409", 
+    "pct": {
+        "dem": 36.37, 
+        "per_point_diff": 24.07, 
+        "gop": 60.45
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3934, 
+        "dem": 2279, 
+        "tot": 8920, 
+        "gop": 6213
+    }, 
+    "for": "MI/Kalkaska County/26079", 
+    "pct": {
+        "dem": 25.55, 
+        "per_point_diff": 44.1, 
+        "gop": 69.65
+    }
+}

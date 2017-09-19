@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17302, 
+        "dem": 99389, 
+        "tot": 193500, 
+        "gop": 82087
+    }, 
+    "for": "IL/Kane County/17089", 
+    "pct": {
+        "dem": 51.36, 
+        "per_point_diff": 8.94, 
+        "gop": 42.42
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2405, 
+        "dem": 800, 
+        "tot": 4143, 
+        "gop": 3205
+    }, 
+    "for": "IL/Hamilton County/17065", 
+    "pct": {
+        "dem": 19.31, 
+        "per_point_diff": 58.05, 
+        "gop": 77.36
+    }
+}

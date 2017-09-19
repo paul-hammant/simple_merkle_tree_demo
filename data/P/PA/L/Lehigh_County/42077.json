@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6802, 
+        "dem": 77087, 
+        "tot": 153031, 
+        "gop": 70285
+    }, 
+    "for": "PA/Lehigh County/42077", 
+    "pct": {
+        "dem": 50.37, 
+        "per_point_diff": 4.44, 
+        "gop": 45.93
+    }
+}

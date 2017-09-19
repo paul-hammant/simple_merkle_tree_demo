@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 817, 
+        "dem": 2744, 
+        "tot": 4732, 
+        "gop": 1927
+    }, 
+    "for": "LA/Madison Parish/22065", 
+    "pct": {
+        "dem": 57.99, 
+        "per_point_diff": 17.27, 
+        "gop": 40.72
+    }
+}

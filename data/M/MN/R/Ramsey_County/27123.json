@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 106151, 
+        "dem": 176929, 
+        "tot": 269161, 
+        "gop": 70778
+    }, 
+    "for": "MN/Ramsey County/27123", 
+    "pct": {
+        "dem": 65.73, 
+        "per_point_diff": 39.44, 
+        "gop": 26.3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1192, 
+        "dem": 1016, 
+        "tot": 3550, 
+        "gop": 2208
+    }, 
+    "for": "NM/Quay County/35037", 
+    "pct": {
+        "dem": 28.62, 
+        "per_point_diff": 33.58, 
+        "gop": 62.2
+    }
+}

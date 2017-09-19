@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5345, 
+        "dem": 2395, 
+        "tot": 10579, 
+        "gop": 7740
+    }, 
+    "for": "KY/Mercer County/21167", 
+    "pct": {
+        "dem": 22.64, 
+        "per_point_diff": 50.52, 
+        "gop": 73.16
+    }
+}

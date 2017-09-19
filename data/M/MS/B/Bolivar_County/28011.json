@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4159, 
+        "dem": 8410, 
+        "tot": 12831, 
+        "gop": 4251
+    }, 
+    "for": "MS/Bolivar County/28011", 
+    "pct": {
+        "dem": 65.54, 
+        "per_point_diff": 32.41, 
+        "gop": 33.13
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 436, 
+        "dem": 354, 
+        "tot": 1219, 
+        "gop": 790
+    }, 
+    "for": "ND/Eddy County/38027", 
+    "pct": {
+        "dem": 29.04, 
+        "per_point_diff": 35.77, 
+        "gop": 64.81
+    }
+}

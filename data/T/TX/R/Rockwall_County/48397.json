@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18763, 
+        "dem": 9633, 
+        "tot": 39529, 
+        "gop": 28396
+    }, 
+    "for": "TX/Rockwall County/48397", 
+    "pct": {
+        "dem": 24.37, 
+        "per_point_diff": 47.47, 
+        "gop": 71.84
+    }
+}

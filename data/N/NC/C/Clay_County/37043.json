@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3043, 
+        "dem": 1352, 
+        "tot": 5885, 
+        "gop": 4395
+    }, 
+    "for": "NC/Clay County/37043", 
+    "pct": {
+        "dem": 22.97, 
+        "per_point_diff": 51.71, 
+        "gop": 74.68
+    }
+}

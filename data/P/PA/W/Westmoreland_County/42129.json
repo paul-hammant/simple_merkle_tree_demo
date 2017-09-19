@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 56921, 
+        "dem": 59506, 
+        "tot": 181740, 
+        "gop": 116427
+    }, 
+    "for": "PA/Westmoreland County/42129", 
+    "pct": {
+        "dem": 32.74, 
+        "per_point_diff": 31.32, 
+        "gop": 64.06
+    }
+}

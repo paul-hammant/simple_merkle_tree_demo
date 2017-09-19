@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8882, 
+        "dem": 16456, 
+        "tot": 26335, 
+        "gop": 7574
+    }, 
+    "for": "HI/Kauai County/15007", 
+    "pct": {
+        "dem": 62.49, 
+        "per_point_diff": 33.73, 
+        "gop": 28.76
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18072, 
+        "dem": 75676, 
+        "tot": 195587, 
+        "gop": 93748
+    }, 
+    "for": "ID/Ada County/16001", 
+    "pct": {
+        "dem": 38.69, 
+        "per_point_diff": 9.24, 
+        "gop": 47.93
+    }
+}

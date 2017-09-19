@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7232, 
+        "dem": 2496, 
+        "tot": 12923, 
+        "gop": 9728
+    }, 
+    "for": "IL/Iroquois County/17075", 
+    "pct": {
+        "dem": 19.31, 
+        "per_point_diff": 55.96, 
+        "gop": 75.28
+    }
+}

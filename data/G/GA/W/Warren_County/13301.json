@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 322, 
+        "dem": 1313, 
+        "tot": 2332, 
+        "gop": 991
+    }, 
+    "for": "GA/Warren County/13301", 
+    "pct": {
+        "dem": 56.3, 
+        "per_point_diff": 13.81, 
+        "gop": 42.5
+    }
+}

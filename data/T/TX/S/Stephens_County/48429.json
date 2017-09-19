@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2685, 
+        "dem": 348, 
+        "tot": 3453, 
+        "gop": 3033
+    }, 
+    "for": "TX/Stephens County/48429", 
+    "pct": {
+        "dem": 10.08, 
+        "per_point_diff": 77.76, 
+        "gop": 87.84
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15923, 
+        "dem": 12287, 
+        "tot": 42770, 
+        "gop": 28210
+    }, 
+    "for": "WV/Berkeley County/54003", 
+    "pct": {
+        "dem": 28.73, 
+        "per_point_diff": 37.23, 
+        "gop": 65.96
+    }
+}

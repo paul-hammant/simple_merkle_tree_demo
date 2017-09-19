@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1283, 
+        "dem": 1679, 
+        "tot": 4968, 
+        "gop": 2962
+    }, 
+    "for": "MN/Swift County/27151", 
+    "pct": {
+        "dem": 33.8, 
+        "per_point_diff": 25.83, 
+        "gop": 59.62
+    }
+}

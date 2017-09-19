@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1287, 
+        "dem": 657, 
+        "tot": 2706, 
+        "gop": 1944
+    }, 
+    "for": "OK/Tillman County/40141", 
+    "pct": {
+        "dem": 24.28, 
+        "per_point_diff": 47.56, 
+        "gop": 71.84
+    }
+}

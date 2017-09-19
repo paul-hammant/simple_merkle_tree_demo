@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1018, 
+        "dem": 2965, 
+        "tot": 7108, 
+        "gop": 3983
+    }, 
+    "for": "NC/Chowan County/37041", 
+    "pct": {
+        "dem": 41.71, 
+        "per_point_diff": 14.32, 
+        "gop": 56.04
+    }
+}

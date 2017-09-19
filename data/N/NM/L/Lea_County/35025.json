@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8429, 
+        "dem": 3877, 
+        "tot": 17369, 
+        "gop": 12306
+    }, 
+    "for": "NM/Lea County/35025", 
+    "pct": {
+        "dem": 22.32, 
+        "per_point_diff": 48.53, 
+        "gop": 70.85
+    }
+}

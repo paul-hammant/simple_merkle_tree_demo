@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5291, 
+        "dem": 24024, 
+        "tot": 44048, 
+        "gop": 18733
+    }, 
+    "for": "SC/Sumter County/45085", 
+    "pct": {
+        "dem": 54.54, 
+        "per_point_diff": 12.01, 
+        "gop": 42.53
+    }
+}

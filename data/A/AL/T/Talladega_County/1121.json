@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8488, 
+        "dem": 12108, 
+        "tot": 33218, 
+        "gop": 20596
+    }, 
+    "for": "AL/Talladega County/1121", 
+    "pct": {
+        "dem": 36.45, 
+        "per_point_diff": 25.55, 
+        "gop": 62.0
+    }
+}

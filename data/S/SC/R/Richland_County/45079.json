@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 55648, 
+        "dem": 108401, 
+        "tot": 169400, 
+        "gop": 52753
+    }, 
+    "for": "SC/Richland County/45079", 
+    "pct": {
+        "dem": 63.99, 
+        "per_point_diff": 32.85, 
+        "gop": 31.14
+    }
+}

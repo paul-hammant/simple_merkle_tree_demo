@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1885, 
+        "dem": 414, 
+        "tot": 2867, 
+        "gop": 2299
+    }, 
+    "for": "NE/Boone County/31011", 
+    "pct": {
+        "dem": 14.44, 
+        "per_point_diff": 65.75, 
+        "gop": 80.19
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7978, 
+        "dem": 3379, 
+        "tot": 15535, 
+        "gop": 11357
+    }, 
+    "for": "IN/Whitley County/18183", 
+    "pct": {
+        "dem": 21.75, 
+        "per_point_diff": 51.36, 
+        "gop": 73.11
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5005, 
+        "dem": 500, 
+        "tot": 6932, 
+        "gop": 5505
+    }, 
+    "for": "UT/Duchesne County/49013", 
+    "pct": {
+        "dem": 7.21, 
+        "per_point_diff": 72.2, 
+        "gop": 79.41
+    }
+}

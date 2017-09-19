@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1756, 
+        "dem": 1682, 
+        "tot": 5232, 
+        "gop": 3438
+    }, 
+    "for": "TX/Falls County/48145", 
+    "pct": {
+        "dem": 32.15, 
+        "per_point_diff": 33.56, 
+        "gop": 65.71
+    }
+}

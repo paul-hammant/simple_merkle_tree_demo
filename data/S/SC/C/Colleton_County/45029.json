@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1467, 
+        "dem": 7616, 
+        "tot": 17231, 
+        "gop": 9083
+    }, 
+    "for": "SC/Colleton County/45029", 
+    "pct": {
+        "dem": 44.2, 
+        "per_point_diff": 8.51, 
+        "gop": 52.71
+    }
+}

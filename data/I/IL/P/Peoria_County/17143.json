@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2137, 
+        "dem": 37436, 
+        "tot": 77465, 
+        "gop": 35299
+    }, 
+    "for": "IL/Peoria County/17143", 
+    "pct": {
+        "dem": 48.33, 
+        "per_point_diff": 2.76, 
+        "gop": 45.57
+    }
+}

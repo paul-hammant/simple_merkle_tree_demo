@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3375, 
+        "dem": 1341, 
+        "tot": 6346, 
+        "gop": 4716
+    }, 
+    "for": "OK/Pawnee County/40117", 
+    "pct": {
+        "dem": 21.13, 
+        "per_point_diff": 53.18, 
+        "gop": 74.31
+    }
+}

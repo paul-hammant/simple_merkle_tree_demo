@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9768, 
+        "dem": 28797, 
+        "tot": 70582, 
+        "gop": 38565
+    }, 
+    "for": "NJ/Hunterdon County/34019", 
+    "pct": {
+        "dem": 40.8, 
+        "per_point_diff": 13.84, 
+        "gop": 54.64
+    }
+}

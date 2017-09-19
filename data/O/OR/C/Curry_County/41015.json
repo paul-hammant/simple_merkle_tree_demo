@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2904, 
+        "dem": 4253, 
+        "tot": 12163, 
+        "gop": 7157
+    }, 
+    "for": "OR/Curry County/41015", 
+    "pct": {
+        "dem": 34.97, 
+        "per_point_diff": 23.88, 
+        "gop": 58.84
+    }
+}

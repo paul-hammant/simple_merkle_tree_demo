@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 334839, 
+        "dem": 473389, 
+        "tot": 627021, 
+        "gop": 138550
+    }, 
+    "for": "NY/Queens County/36081", 
+    "pct": {
+        "dem": 75.5, 
+        "per_point_diff": 53.4, 
+        "gop": 22.1
+    }
+}

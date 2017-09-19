@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 131, 
+        "dem": 697, 
+        "tot": 1271, 
+        "gop": 566
+    }, 
+    "for": "GA/Clay County/13061", 
+    "pct": {
+        "dem": 54.84, 
+        "per_point_diff": 10.31, 
+        "gop": 44.53
+    }
+}

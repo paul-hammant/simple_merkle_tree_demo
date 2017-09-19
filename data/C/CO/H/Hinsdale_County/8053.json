@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 142, 
+        "dem": 197, 
+        "tot": 589, 
+        "gop": 339
+    }, 
+    "for": "CO/Hinsdale County/8053", 
+    "pct": {
+        "dem": 33.45, 
+        "per_point_diff": 24.11, 
+        "gop": 57.56
+    }
+}

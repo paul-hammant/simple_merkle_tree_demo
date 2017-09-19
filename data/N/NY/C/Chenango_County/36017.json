@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5081, 
+        "dem": 5943, 
+        "tot": 18113, 
+        "gop": 11024
+    }, 
+    "for": "NY/Chenango County/36017", 
+    "pct": {
+        "dem": 32.81, 
+        "per_point_diff": 28.05, 
+        "gop": 60.86
+    }
+}

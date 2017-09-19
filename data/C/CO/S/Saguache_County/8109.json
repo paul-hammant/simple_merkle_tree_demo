@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 236, 
+        "dem": 1345, 
+        "tot": 2707, 
+        "gop": 1109
+    }, 
+    "for": "CO/Saguache County/8109", 
+    "pct": {
+        "dem": 49.69, 
+        "per_point_diff": 8.72, 
+        "gop": 40.97
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4226, 
+        "dem": 3443, 
+        "tot": 11513, 
+        "gop": 7669
+    }, 
+    "for": "OH/Pike County/39131", 
+    "pct": {
+        "dem": 29.91, 
+        "per_point_diff": 36.71, 
+        "gop": 66.61
+    }
+}

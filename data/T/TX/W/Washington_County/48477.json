@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7563, 
+        "dem": 3381, 
+        "tot": 14747, 
+        "gop": 10944
+    }, 
+    "for": "TX/Washington County/48477", 
+    "pct": {
+        "dem": 22.93, 
+        "per_point_diff": 51.29, 
+        "gop": 74.21
+    }
+}

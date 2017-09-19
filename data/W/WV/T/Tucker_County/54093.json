@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1807, 
+        "dem": 750, 
+        "tot": 3464, 
+        "gop": 2557
+    }, 
+    "for": "WV/Tucker County/54093", 
+    "pct": {
+        "dem": 21.65, 
+        "per_point_diff": 52.17, 
+        "gop": 73.82
+    }
+}

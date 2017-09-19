@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4382, 
+        "dem": 1891, 
+        "tot": 8609, 
+        "gop": 6273
+    }, 
+    "for": "IN/Carroll County/18015", 
+    "pct": {
+        "dem": 21.97, 
+        "per_point_diff": 50.9, 
+        "gop": 72.87
+    }
+}

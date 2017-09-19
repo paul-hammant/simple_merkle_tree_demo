@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 21782, 
+        "dem": 10350, 
+        "tot": 43474, 
+        "gop": 32132
+    }, 
+    "for": "AL/Etowah County/1055", 
+    "pct": {
+        "dem": 23.81, 
+        "per_point_diff": 50.1, 
+        "gop": 73.91
+    }
+}

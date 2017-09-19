@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3651, 
+        "dem": 2421, 
+        "tot": 8997, 
+        "gop": 6072
+    }, 
+    "for": "AR/Johnson County/5071", 
+    "pct": {
+        "dem": 26.91, 
+        "per_point_diff": 40.58, 
+        "gop": 67.49
+    }
+}

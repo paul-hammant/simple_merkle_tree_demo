@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1944, 
+        "dem": 1035, 
+        "tot": 4213, 
+        "gop": 2979
+    }, 
+    "for": "AR/Perry County/5105", 
+    "pct": {
+        "dem": 24.57, 
+        "per_point_diff": 46.14, 
+        "gop": 70.71
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 322, 
+        "dem": 5083, 
+        "tot": 10699, 
+        "gop": 5405
+    }, 
+    "for": "GA/Peach County/13225", 
+    "pct": {
+        "dem": 47.51, 
+        "per_point_diff": 3.01, 
+        "gop": 50.52
+    }
+}

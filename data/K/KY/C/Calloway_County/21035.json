@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5618, 
+        "dem": 4749, 
+        "tot": 16039, 
+        "gop": 10367
+    }, 
+    "for": "KY/Calloway County/21035", 
+    "pct": {
+        "dem": 29.61, 
+        "per_point_diff": 35.03, 
+        "gop": 64.64
+    }
+}

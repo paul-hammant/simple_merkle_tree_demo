@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6393, 
+        "dem": 37054, 
+        "tot": 85892, 
+        "gop": 43447
+    }, 
+    "for": "WI/Winnebago County/55139", 
+    "pct": {
+        "dem": 43.14, 
+        "per_point_diff": 7.44, 
+        "gop": 50.58
+    }
+}

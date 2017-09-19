@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5700, 
+        "dem": 7285, 
+        "tot": 21580, 
+        "gop": 12985
+    }, 
+    "for": "IL/Coles County/17029", 
+    "pct": {
+        "dem": 33.76, 
+        "per_point_diff": 26.41, 
+        "gop": 60.17
+    }
+}

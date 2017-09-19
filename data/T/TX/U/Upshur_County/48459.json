@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10820, 
+        "dem": 2378, 
+        "tot": 15918, 
+        "gop": 13198
+    }, 
+    "for": "TX/Upshur County/48459", 
+    "pct": {
+        "dem": 14.94, 
+        "per_point_diff": 67.97, 
+        "gop": 82.91
+    }
+}

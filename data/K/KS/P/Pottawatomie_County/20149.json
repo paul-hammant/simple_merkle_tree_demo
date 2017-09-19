@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5260, 
+        "dem": 2191, 
+        "tot": 10359, 
+        "gop": 7451
+    }, 
+    "for": "KS/Pottawatomie County/20149", 
+    "pct": {
+        "dem": 21.15, 
+        "per_point_diff": 50.78, 
+        "gop": 71.93
+    }
+}

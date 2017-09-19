@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2418, 
+        "dem": 2761, 
+        "tot": 8423, 
+        "gop": 5179
+    }, 
+    "for": "NY/Schuyler County/36097", 
+    "pct": {
+        "dem": 32.78, 
+        "per_point_diff": 28.71, 
+        "gop": 61.49
+    }
+}

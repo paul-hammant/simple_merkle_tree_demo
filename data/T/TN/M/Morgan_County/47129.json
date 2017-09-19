@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4376, 
+        "dem": 1053, 
+        "tot": 6664, 
+        "gop": 5429
+    }, 
+    "for": "TN/Morgan County/47129", 
+    "pct": {
+        "dem": 15.8, 
+        "per_point_diff": 65.67, 
+        "gop": 81.47
+    }
+}

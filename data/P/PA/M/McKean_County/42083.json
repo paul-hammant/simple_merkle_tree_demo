@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7357, 
+        "dem": 3802, 
+        "tot": 15572, 
+        "gop": 11159
+    }, 
+    "for": "PA/McKean County/42083", 
+    "pct": {
+        "dem": 24.42, 
+        "per_point_diff": 47.25, 
+        "gop": 71.66
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6590, 
+        "dem": 54472, 
+        "tot": 105738, 
+        "gop": 47882
+    }, 
+    "for": "NJ/Atlantic County/34001", 
+    "pct": {
+        "dem": 51.52, 
+        "per_point_diff": 6.23, 
+        "gop": 45.28
+    }
+}

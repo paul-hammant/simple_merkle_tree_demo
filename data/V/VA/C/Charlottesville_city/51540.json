@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14914, 
+        "dem": 17865, 
+        "tot": 22211, 
+        "gop": 2951
+    }, 
+    "for": "VA/Charlottesville city/51540", 
+    "pct": {
+        "dem": 80.43, 
+        "per_point_diff": 67.15, 
+        "gop": 13.29
+    }
+}

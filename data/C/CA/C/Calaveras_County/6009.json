@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5334, 
+        "dem": 7738, 
+        "tot": 22334, 
+        "gop": 13072
+    }, 
+    "for": "CA/Calaveras County/6009", 
+    "pct": {
+        "dem": 34.65, 
+        "per_point_diff": 23.88, 
+        "gop": 58.53
+    }
+}

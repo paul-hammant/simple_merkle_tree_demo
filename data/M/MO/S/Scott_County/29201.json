@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9594, 
+        "dem": 3574, 
+        "tot": 17244, 
+        "gop": 13168
+    }, 
+    "for": "MO/Scott County/29201", 
+    "pct": {
+        "dem": 20.73, 
+        "per_point_diff": 55.64, 
+        "gop": 76.36
+    }
+}

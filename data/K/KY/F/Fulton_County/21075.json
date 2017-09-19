@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 775, 
+        "dem": 774, 
+        "tot": 2381, 
+        "gop": 1549
+    }, 
+    "for": "KY/Fulton County/21075", 
+    "pct": {
+        "dem": 32.51, 
+        "per_point_diff": 32.55, 
+        "gop": 65.06
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9872, 
+        "dem": 4645, 
+        "tot": 19557, 
+        "gop": 14517
+    }, 
+    "for": "NC/McDowell County/37111", 
+    "pct": {
+        "dem": 23.75, 
+        "per_point_diff": 50.48, 
+        "gop": 74.23
+    }
+}

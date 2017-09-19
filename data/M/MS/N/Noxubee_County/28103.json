@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3149, 
+        "dem": 4330, 
+        "tot": 5538, 
+        "gop": 1181
+    }, 
+    "for": "MS/Noxubee County/28103", 
+    "pct": {
+        "dem": 78.19, 
+        "per_point_diff": 56.86, 
+        "gop": 21.33
+    }
+}

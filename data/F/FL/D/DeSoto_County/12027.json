@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2983, 
+        "dem": 3761, 
+        "tot": 10761, 
+        "gop": 6744
+    }, 
+    "for": "FL/DeSoto County/12027", 
+    "pct": {
+        "dem": 34.95, 
+        "per_point_diff": 27.72, 
+        "gop": 62.67
+    }
+}

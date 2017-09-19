@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 20555, 
+        "dem": 25426, 
+        "tot": 74773, 
+        "gop": 45981
+    }, 
+    "for": "SC/Aiken County/45003", 
+    "pct": {
+        "dem": 34.0, 
+        "per_point_diff": 27.49, 
+        "gop": 61.49
+    }
+}

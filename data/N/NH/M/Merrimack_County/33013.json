@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2524, 
+        "dem": 40198, 
+        "tot": 81982, 
+        "gop": 37674
+    }, 
+    "for": "NH/Merrimack County/33013", 
+    "pct": {
+        "dem": 49.03, 
+        "per_point_diff": 3.08, 
+        "gop": 45.95
+    }
+}

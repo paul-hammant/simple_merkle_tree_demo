@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3822, 
+        "dem": 1435, 
+        "tot": 6988, 
+        "gop": 5257
+    }, 
+    "for": "WV/Lincoln County/54043", 
+    "pct": {
+        "dem": 20.54, 
+        "per_point_diff": 54.69, 
+        "gop": 75.23
+    }
+}

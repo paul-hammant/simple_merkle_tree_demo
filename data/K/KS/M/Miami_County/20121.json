@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5890, 
+        "dem": 3949, 
+        "tot": 14712, 
+        "gop": 9839
+    }, 
+    "for": "KS/Miami County/20121", 
+    "pct": {
+        "dem": 26.84, 
+        "per_point_diff": 40.04, 
+        "gop": 66.88
+    }
+}

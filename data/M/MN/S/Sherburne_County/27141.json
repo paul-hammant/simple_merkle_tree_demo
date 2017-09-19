@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17750, 
+        "dem": 13299, 
+        "tot": 47938, 
+        "gop": 31049
+    }, 
+    "for": "MN/Sherburne County/27141", 
+    "pct": {
+        "dem": 27.74, 
+        "per_point_diff": 37.03, 
+        "gop": 64.77
+    }
+}

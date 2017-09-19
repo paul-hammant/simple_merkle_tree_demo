@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3309, 
+        "dem": 8952, 
+        "tot": 22604, 
+        "gop": 12261
+    }, 
+    "for": "IL/Boone County/17007", 
+    "pct": {
+        "dem": 39.6, 
+        "per_point_diff": 14.64, 
+        "gop": 54.24
+    }
+}

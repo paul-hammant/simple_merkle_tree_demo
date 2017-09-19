@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 671, 
+        "dem": 1290, 
+        "tot": 1926, 
+        "gop": 619
+    }, 
+    "for": "MS/Sharkey County/28125", 
+    "pct": {
+        "dem": 66.98, 
+        "per_point_diff": 34.84, 
+        "gop": 32.14
+    }
+}

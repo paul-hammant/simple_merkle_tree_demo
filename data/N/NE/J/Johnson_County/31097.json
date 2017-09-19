@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 788, 
+        "dem": 560, 
+        "tot": 2051, 
+        "gop": 1348
+    }, 
+    "for": "NE/Johnson County/31097", 
+    "pct": {
+        "dem": 27.3, 
+        "per_point_diff": 38.42, 
+        "gop": 65.72
+    }
+}

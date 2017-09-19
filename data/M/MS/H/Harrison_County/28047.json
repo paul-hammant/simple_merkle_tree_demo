@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 19031, 
+        "dem": 20679, 
+        "tot": 62076, 
+        "gop": 39710
+    }, 
+    "for": "MS/Harrison County/28047", 
+    "pct": {
+        "dem": 33.31, 
+        "per_point_diff": 30.66, 
+        "gop": 63.97
+    }
+}

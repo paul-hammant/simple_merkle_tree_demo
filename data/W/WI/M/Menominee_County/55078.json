@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 734, 
+        "dem": 1003, 
+        "tot": 1279, 
+        "gop": 269
+    }, 
+    "for": "WI/Menominee County/55078", 
+    "pct": {
+        "dem": 78.42, 
+        "per_point_diff": 57.39, 
+        "gop": 21.03
+    }
+}

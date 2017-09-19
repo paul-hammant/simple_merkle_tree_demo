@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9286, 
+        "dem": 3642, 
+        "tot": 17334, 
+        "gop": 12928
+    }, 
+    "for": "PA/Tioga County/42117", 
+    "pct": {
+        "dem": 21.01, 
+        "per_point_diff": 53.57, 
+        "gop": 74.58
+    }
+}

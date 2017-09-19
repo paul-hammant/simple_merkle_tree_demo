@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 26250, 
+        "dem": 119671, 
+        "tot": 228420, 
+        "gop": 93421
+    }, 
+    "for": "IA/Polk County/19153", 
+    "pct": {
+        "dem": 52.39, 
+        "per_point_diff": 11.49, 
+        "gop": 40.9
+    }
+}

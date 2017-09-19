@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 635, 
+        "dem": 232, 
+        "tot": 1189, 
+        "gop": 867
+    }, 
+    "for": "MT/Judith Basin County/30045", 
+    "pct": {
+        "dem": 19.51, 
+        "per_point_diff": 53.41, 
+        "gop": 72.92
+    }
+}

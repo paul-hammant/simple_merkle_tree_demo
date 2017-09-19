@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6793, 
+        "dem": 6085, 
+        "tot": 19683, 
+        "gop": 12878
+    }, 
+    "for": "TX/Walker County/48471", 
+    "pct": {
+        "dem": 30.92, 
+        "per_point_diff": 34.51, 
+        "gop": 65.43
+    }
+}

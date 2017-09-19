@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2100, 
+        "dem": 1129, 
+        "tot": 4447, 
+        "gop": 3229
+    }, 
+    "for": "TN/Jackson County/47087", 
+    "pct": {
+        "dem": 25.39, 
+        "per_point_diff": 47.22, 
+        "gop": 72.61
+    }
+}

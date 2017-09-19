@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7438, 
+        "dem": 5981, 
+        "tot": 20693, 
+        "gop": 13419
+    }, 
+    "for": "OH/Fulton County/39051", 
+    "pct": {
+        "dem": 28.9, 
+        "per_point_diff": 35.94, 
+        "gop": 64.85
+    }
+}

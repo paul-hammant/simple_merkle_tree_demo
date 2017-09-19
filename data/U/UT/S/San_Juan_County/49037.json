@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 638, 
+        "dem": 1997, 
+        "tot": 5385, 
+        "gop": 2635
+    }, 
+    "for": "UT/San Juan County/49037", 
+    "pct": {
+        "dem": 37.08, 
+        "per_point_diff": 11.85, 
+        "gop": 48.93
+    }
+}

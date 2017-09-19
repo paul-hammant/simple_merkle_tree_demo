@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8242, 
+        "dem": 3077, 
+        "tot": 15547, 
+        "gop": 11319
+    }, 
+    "for": "ND/Morton County/38059", 
+    "pct": {
+        "dem": 19.79, 
+        "per_point_diff": 53.01, 
+        "gop": 72.81
+    }
+}

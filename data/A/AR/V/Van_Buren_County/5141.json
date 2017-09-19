@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3835, 
+        "dem": 1547, 
+        "tot": 7111, 
+        "gop": 5382
+    }, 
+    "for": "AR/Van Buren County/5141", 
+    "pct": {
+        "dem": 21.76, 
+        "per_point_diff": 53.93, 
+        "gop": 75.69
+    }
+}

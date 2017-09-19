@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6437, 
+        "dem": 33511, 
+        "tot": 64160, 
+        "gop": 27074
+    }, 
+    "for": "RI/Washington County/44009", 
+    "pct": {
+        "dem": 52.23, 
+        "per_point_diff": 10.03, 
+        "gop": 42.2
+    }
+}

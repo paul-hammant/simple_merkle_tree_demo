@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 23125, 
+        "dem": 10047, 
+        "tot": 45266, 
+        "gop": 33172
+    }, 
+    "for": "TX/Taylor County/48441", 
+    "pct": {
+        "dem": 22.2, 
+        "per_point_diff": 51.09, 
+        "gop": 73.28
+    }
+}

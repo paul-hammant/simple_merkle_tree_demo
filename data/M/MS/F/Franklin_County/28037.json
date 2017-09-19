@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1214, 
+        "dem": 1471, 
+        "tot": 4219, 
+        "gop": 2685
+    }, 
+    "for": "MS/Franklin County/28037", 
+    "pct": {
+        "dem": 34.87, 
+        "per_point_diff": 28.77, 
+        "gop": 63.64
+    }
+}

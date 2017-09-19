@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5245, 
+        "dem": 1196, 
+        "tot": 8223, 
+        "gop": 6441
+    }, 
+    "for": "ID/Idaho County/16049", 
+    "pct": {
+        "dem": 14.54, 
+        "per_point_diff": 63.78, 
+        "gop": 78.33
+    }
+}

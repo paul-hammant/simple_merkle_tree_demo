@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 35542, 
+        "dem": 17328, 
+        "tot": 72013, 
+        "gop": 52870
+    }, 
+    "for": "NC/Davidson County/37057", 
+    "pct": {
+        "dem": 24.06, 
+        "per_point_diff": 49.35, 
+        "gop": 73.42
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9611, 
+        "dem": 18626, 
+        "tot": 48375, 
+        "gop": 28237
+    }, 
+    "for": "NJ/Cape May County/34009", 
+    "pct": {
+        "dem": 38.5, 
+        "per_point_diff": 19.87, 
+        "gop": 58.37
+    }
+}

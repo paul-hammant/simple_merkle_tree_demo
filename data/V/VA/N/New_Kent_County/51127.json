@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4572, 
+        "dem": 3545, 
+        "tot": 12163, 
+        "gop": 8117
+    }, 
+    "for": "VA/New Kent County/51127", 
+    "pct": {
+        "dem": 29.15, 
+        "per_point_diff": 37.59, 
+        "gop": 66.74
+    }
+}

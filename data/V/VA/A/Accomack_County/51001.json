@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1845, 
+        "dem": 6737, 
+        "tot": 15755, 
+        "gop": 8582
+    }, 
+    "for": "VA/Accomack County/51001", 
+    "pct": {
+        "dem": 42.76, 
+        "per_point_diff": 11.71, 
+        "gop": 54.47
+    }
+}

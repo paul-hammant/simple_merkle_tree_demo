@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1461, 
+        "dem": 4310, 
+        "tot": 10185, 
+        "gop": 5771
+    }, 
+    "for": "AL/Monroe County/1099", 
+    "pct": {
+        "dem": 42.32, 
+        "per_point_diff": 14.34, 
+        "gop": 56.66
+    }
+}

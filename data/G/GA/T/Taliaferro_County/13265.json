@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 196, 
+        "dem": 545, 
+        "tot": 897, 
+        "gop": 349
+    }, 
+    "for": "GA/Taliaferro County/13265", 
+    "pct": {
+        "dem": 60.76, 
+        "per_point_diff": 21.85, 
+        "gop": 38.91
+    }
+}

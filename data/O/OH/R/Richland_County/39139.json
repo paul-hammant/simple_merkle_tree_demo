@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 20176, 
+        "dem": 15629, 
+        "tot": 53739, 
+        "gop": 35805
+    }, 
+    "for": "OH/Richland County/39139", 
+    "pct": {
+        "dem": 29.08, 
+        "per_point_diff": 37.54, 
+        "gop": 66.63
+    }
+}

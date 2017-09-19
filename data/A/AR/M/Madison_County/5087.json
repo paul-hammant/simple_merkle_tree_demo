@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3330, 
+        "dem": 1587, 
+        "tot": 6782, 
+        "gop": 4917
+    }, 
+    "for": "AR/Madison County/5087", 
+    "pct": {
+        "dem": 23.4, 
+        "per_point_diff": 49.1, 
+        "gop": 72.5
+    }
+}

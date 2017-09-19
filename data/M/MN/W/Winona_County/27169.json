@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 756, 
+        "dem": 11366, 
+        "tot": 25852, 
+        "gop": 12122
+    }, 
+    "for": "MN/Winona County/27169", 
+    "pct": {
+        "dem": 43.97, 
+        "per_point_diff": 2.92, 
+        "gop": 46.89
+    }
+}

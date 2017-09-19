@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 864, 
+        "dem": 168, 
+        "tot": 1261, 
+        "gop": 1032
+    }, 
+    "for": "ND/Hettinger County/38041", 
+    "pct": {
+        "dem": 13.32, 
+        "per_point_diff": 68.52, 
+        "gop": 81.84
+    }
+}

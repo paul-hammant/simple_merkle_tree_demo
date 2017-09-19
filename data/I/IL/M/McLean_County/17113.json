@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1163, 
+        "dem": 35918, 
+        "tot": 78995, 
+        "gop": 37081
+    }, 
+    "for": "IL/McLean County/17113", 
+    "pct": {
+        "dem": 45.47, 
+        "per_point_diff": 1.47, 
+        "gop": 46.94
+    }
+}

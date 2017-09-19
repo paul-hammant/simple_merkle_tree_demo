@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 673, 
+        "dem": 12827, 
+        "tot": 26920, 
+        "gop": 13500
+    }, 
+    "for": "NC/Granville County/37077", 
+    "pct": {
+        "dem": 47.65, 
+        "per_point_diff": 2.5, 
+        "gop": 50.15
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1097, 
+        "dem": 138, 
+        "tot": 1390, 
+        "gop": 1235
+    }, 
+    "for": "GA/Glascock County/13125", 
+    "pct": {
+        "dem": 9.93, 
+        "per_point_diff": 78.92, 
+        "gop": 88.85
+    }
+}

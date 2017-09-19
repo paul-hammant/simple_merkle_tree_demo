@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 51725, 
+        "dem": 170489, 
+        "tot": 307881, 
+        "gop": 118764
+    }, 
+    "for": "CA/Ventura County/6111", 
+    "pct": {
+        "dem": 55.37, 
+        "per_point_diff": 16.8, 
+        "gop": 38.57
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2507, 
+        "dem": 20766, 
+        "tot": 42425, 
+        "gop": 18259
+    }, 
+    "for": "WA/Island County/53029", 
+    "pct": {
+        "dem": 48.95, 
+        "per_point_diff": 5.91, 
+        "gop": 43.04
+    }
+}

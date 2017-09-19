@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7689, 
+        "dem": 3362, 
+        "tot": 15101, 
+        "gop": 11051
+    }, 
+    "for": "IN/Montgomery County/18107", 
+    "pct": {
+        "dem": 22.26, 
+        "per_point_diff": 50.92, 
+        "gop": 73.18
+    }
+}

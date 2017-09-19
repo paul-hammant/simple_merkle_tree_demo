@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 77690, 
+        "dem": 128025, 
+        "tot": 187201, 
+        "gop": 50335
+    }, 
+    "for": "MI/Washtenaw County/26161", 
+    "pct": {
+        "dem": 68.39, 
+        "per_point_diff": 41.5, 
+        "gop": 26.89
+    }
+}

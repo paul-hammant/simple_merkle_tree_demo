@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12964, 
+        "dem": 8539, 
+        "tot": 31422, 
+        "gop": 21503
+    }, 
+    "for": "IL/Williamson County/17199", 
+    "pct": {
+        "dem": 27.18, 
+        "per_point_diff": 41.26, 
+        "gop": 68.43
+    }
+}

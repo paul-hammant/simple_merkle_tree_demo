@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2507, 
+        "dem": 776, 
+        "tot": 4454, 
+        "gop": 3283
+    }, 
+    "for": "ID/Washington County/16087", 
+    "pct": {
+        "dem": 17.42, 
+        "per_point_diff": 56.29, 
+        "gop": 73.71
+    }
+}

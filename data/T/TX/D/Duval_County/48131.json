@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1467, 
+        "dem": 2783, 
+        "tot": 4159, 
+        "gop": 1316
+    }, 
+    "for": "TX/Duval County/48131", 
+    "pct": {
+        "dem": 66.92, 
+        "per_point_diff": 35.27, 
+        "gop": 31.64
+    }
+}

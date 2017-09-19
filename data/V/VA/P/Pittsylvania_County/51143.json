@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12547, 
+        "dem": 9195, 
+        "tot": 31687, 
+        "gop": 21742
+    }, 
+    "for": "VA/Pittsylvania County/51143", 
+    "pct": {
+        "dem": 29.02, 
+        "per_point_diff": 39.6, 
+        "gop": 68.61
+    }
+}

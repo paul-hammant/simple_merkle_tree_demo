@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9288, 
+        "dem": 3637, 
+        "tot": 17534, 
+        "gop": 12925
+    }, 
+    "for": "MN/Morrison County/27097", 
+    "pct": {
+        "dem": 20.74, 
+        "per_point_diff": 52.97, 
+        "gop": 73.71
+    }
+}

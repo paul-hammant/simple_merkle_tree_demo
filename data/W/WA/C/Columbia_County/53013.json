@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 968, 
+        "dem": 523, 
+        "tot": 2171, 
+        "gop": 1491
+    }, 
+    "for": "WA/Columbia County/53013", 
+    "pct": {
+        "dem": 24.09, 
+        "per_point_diff": 44.59, 
+        "gop": 68.68
+    }
+}

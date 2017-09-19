@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 26176, 
+        "dem": 11216, 
+        "tot": 49991, 
+        "gop": 37392
+    }, 
+    "for": "AL/Morgan County/1103", 
+    "pct": {
+        "dem": 22.44, 
+        "per_point_diff": 52.36, 
+        "gop": 74.8
+    }
+}

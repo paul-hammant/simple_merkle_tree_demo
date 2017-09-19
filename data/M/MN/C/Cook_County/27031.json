@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 756, 
+        "dem": 1912, 
+        "tot": 3360, 
+        "gop": 1156
+    }, 
+    "for": "MN/Cook County/27031", 
+    "pct": {
+        "dem": 56.9, 
+        "per_point_diff": 22.5, 
+        "gop": 34.4
+    }
+}

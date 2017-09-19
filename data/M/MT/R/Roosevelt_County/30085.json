@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 218, 
+        "dem": 1504, 
+        "tot": 3486, 
+        "gop": 1722
+    }, 
+    "for": "MT/Roosevelt County/30085", 
+    "pct": {
+        "dem": 43.14, 
+        "per_point_diff": 6.25, 
+        "gop": 49.4
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2512, 
+        "dem": 786, 
+        "tot": 4297, 
+        "gop": 3298
+    }, 
+    "for": "MT/Dawson County/30021", 
+    "pct": {
+        "dem": 18.29, 
+        "per_point_diff": 58.46, 
+        "gop": 76.75
+    }
+}

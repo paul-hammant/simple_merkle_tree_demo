@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 19183, 
+        "dem": 8436, 
+        "tot": 36905, 
+        "gop": 27619
+    }, 
+    "for": "AL/Elmore County/1051", 
+    "pct": {
+        "dem": 22.86, 
+        "per_point_diff": 51.98, 
+        "gop": 74.84
+    }
+}

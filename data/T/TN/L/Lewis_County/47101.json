@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2689, 
+        "dem": 890, 
+        "tot": 4601, 
+        "gop": 3579
+    }, 
+    "for": "TN/Lewis County/47101", 
+    "pct": {
+        "dem": 19.34, 
+        "per_point_diff": 58.44, 
+        "gop": 77.79
+    }
+}

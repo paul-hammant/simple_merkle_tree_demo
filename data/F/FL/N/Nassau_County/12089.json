@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 23372, 
+        "dem": 10849, 
+        "tot": 46537, 
+        "gop": 34221
+    }, 
+    "for": "FL/Nassau County/12089", 
+    "pct": {
+        "dem": 23.31, 
+        "per_point_diff": 50.22, 
+        "gop": 73.54
+    }
+}

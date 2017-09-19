@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 576, 
+        "dem": 114, 
+        "tot": 847, 
+        "gop": 690
+    }, 
+    "for": "KS/Hamilton County/20075", 
+    "pct": {
+        "dem": 13.46, 
+        "per_point_diff": 68.0, 
+        "gop": 81.46
+    }
+}

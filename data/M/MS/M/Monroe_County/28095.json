@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4622, 
+        "dem": 5485, 
+        "tot": 15781, 
+        "gop": 10107
+    }, 
+    "for": "MS/Monroe County/28095", 
+    "pct": {
+        "dem": 34.76, 
+        "per_point_diff": 29.29, 
+        "gop": 64.05
+    }
+}

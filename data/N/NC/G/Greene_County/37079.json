@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 788, 
+        "dem": 3570, 
+        "tot": 8013, 
+        "gop": 4358
+    }, 
+    "for": "NC/Greene County/37079", 
+    "pct": {
+        "dem": 44.55, 
+        "per_point_diff": 9.83, 
+        "gop": 54.39
+    }
+}

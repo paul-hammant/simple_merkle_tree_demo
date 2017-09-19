@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7583, 
+        "dem": 126324, 
+        "tot": 279753, 
+        "gop": 133907
+    }, 
+    "for": "KS/Johnson County/20091", 
+    "pct": {
+        "dem": 45.16, 
+        "per_point_diff": 2.71, 
+        "gop": 47.87
+    }
+}

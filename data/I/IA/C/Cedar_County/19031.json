@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1697, 
+        "dem": 3578, 
+        "tot": 9386, 
+        "gop": 5275
+    }, 
+    "for": "IA/Cedar County/19031", 
+    "pct": {
+        "dem": 38.12, 
+        "per_point_diff": 18.08, 
+        "gop": 56.2
+    }
+}

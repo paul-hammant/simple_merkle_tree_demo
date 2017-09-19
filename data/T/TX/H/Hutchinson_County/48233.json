@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6185, 
+        "dem": 854, 
+        "tot": 8126, 
+        "gop": 7039
+    }, 
+    "for": "TX/Hutchinson County/48233", 
+    "pct": {
+        "dem": 10.51, 
+        "per_point_diff": 76.11, 
+        "gop": 86.62
+    }
+}

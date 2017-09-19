@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 29004, 
+        "dem": 3730, 
+        "tot": 37278, 
+        "gop": 32734
+    }, 
+    "for": "AL/Cullman County/1043", 
+    "pct": {
+        "dem": 10.01, 
+        "per_point_diff": 77.8, 
+        "gop": 87.81
+    }
+}

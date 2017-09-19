@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1523, 
+        "dem": 681, 
+        "tot": 3093, 
+        "gop": 2204
+    }, 
+    "for": "ND/Pembina County/38067", 
+    "pct": {
+        "dem": 22.02, 
+        "per_point_diff": 49.24, 
+        "gop": 71.26
+    }
+}

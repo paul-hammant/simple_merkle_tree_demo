@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 55408, 
+        "dem": 25203, 
+        "tot": 110825, 
+        "gop": 80611
+    }, 
+    "for": "GA/Cherokee County/13057", 
+    "pct": {
+        "dem": 22.74, 
+        "per_point_diff": 50.0, 
+        "gop": 72.74
+    }
+}

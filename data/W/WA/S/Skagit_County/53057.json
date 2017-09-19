@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1746, 
+        "dem": 26076, 
+        "tot": 54831, 
+        "gop": 24330
+    }, 
+    "for": "WA/Skagit County/53057", 
+    "pct": {
+        "dem": 47.56, 
+        "per_point_diff": 3.18, 
+        "gop": 44.37
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4290, 
+        "dem": 568, 
+        "tot": 5556, 
+        "gop": 4858
+    }, 
+    "for": "TX/Callahan County/48059", 
+    "pct": {
+        "dem": 10.22, 
+        "per_point_diff": 77.21, 
+        "gop": 87.44
+    }
+}

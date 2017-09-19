@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6434, 
+        "dem": 203627, 
+        "tot": 428734, 
+        "gop": 210061
+    }, 
+    "for": "FL/Duval County/12031", 
+    "pct": {
+        "dem": 47.49, 
+        "per_point_diff": 1.5, 
+        "gop": 49.0
+    }
+}

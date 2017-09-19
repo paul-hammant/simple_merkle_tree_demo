@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7171, 
+        "dem": 10293, 
+        "tot": 28875, 
+        "gop": 17464
+    }, 
+    "for": "SC/Kershaw County/45055", 
+    "pct": {
+        "dem": 35.65, 
+        "per_point_diff": 24.83, 
+        "gop": 60.48
+    }
+}

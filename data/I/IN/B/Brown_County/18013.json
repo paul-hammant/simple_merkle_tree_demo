@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2497, 
+        "dem": 2518, 
+        "tot": 7908, 
+        "gop": 5015
+    }, 
+    "for": "IN/Brown County/18013", 
+    "pct": {
+        "dem": 31.84, 
+        "per_point_diff": 31.58, 
+        "gop": 63.42
+    }
+}

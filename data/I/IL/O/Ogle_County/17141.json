@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6319, 
+        "dem": 8025, 
+        "tot": 23798, 
+        "gop": 14344
+    }, 
+    "for": "IL/Ogle County/17141", 
+    "pct": {
+        "dem": 33.72, 
+        "per_point_diff": 26.55, 
+        "gop": 60.27
+    }
+}

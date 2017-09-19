@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 23758, 
+        "dem": 41258, 
+        "tot": 64865, 
+        "gop": 17500
+    }, 
+    "for": "HI/Hawaii County/15001", 
+    "pct": {
+        "dem": 63.61, 
+        "per_point_diff": 36.63, 
+        "gop": 26.98
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3819, 
+        "dem": 2116, 
+        "tot": 8486, 
+        "gop": 5935
+    }, 
+    "for": "NE/Dawson County/31047", 
+    "pct": {
+        "dem": 24.94, 
+        "per_point_diff": 45.0, 
+        "gop": 69.94
+    }
+}

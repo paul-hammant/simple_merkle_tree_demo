@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2379, 
+        "dem": 532, 
+        "tot": 3715, 
+        "gop": 2911
+    }, 
+    "for": "WY/Washakie County/56043", 
+    "pct": {
+        "dem": 14.32, 
+        "per_point_diff": 64.04, 
+        "gop": 78.36
+    }
+}

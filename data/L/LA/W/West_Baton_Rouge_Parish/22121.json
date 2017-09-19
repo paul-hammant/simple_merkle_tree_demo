@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1544, 
+        "dem": 5382, 
+        "tot": 12710, 
+        "gop": 6926
+    }, 
+    "for": "LA/West Baton Rouge Parish/22121", 
+    "pct": {
+        "dem": 42.34, 
+        "per_point_diff": 12.15, 
+        "gop": 54.49
+    }
+}

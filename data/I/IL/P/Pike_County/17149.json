@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4337, 
+        "dem": 1412, 
+        "tot": 7458, 
+        "gop": 5749
+    }, 
+    "for": "IL/Pike County/17149", 
+    "pct": {
+        "dem": 18.93, 
+        "per_point_diff": 58.15, 
+        "gop": 77.09
+    }
+}

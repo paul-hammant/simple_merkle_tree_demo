@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 153, 
+        "dem": 593, 
+        "tot": 1384, 
+        "gop": 746
+    }, 
+    "for": "GA/Chattahoochee County/13053", 
+    "pct": {
+        "dem": 42.85, 
+        "per_point_diff": 11.05, 
+        "gop": 53.9
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8850, 
+        "dem": 7080, 
+        "tot": 24332, 
+        "gop": 15930
+    }, 
+    "for": "OH/Huron County/39077", 
+    "pct": {
+        "dem": 29.1, 
+        "per_point_diff": 36.37, 
+        "gop": 65.47
+    }
+}

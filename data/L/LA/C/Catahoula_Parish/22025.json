@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2157, 
+        "dem": 1322, 
+        "tot": 4856, 
+        "gop": 3479
+    }, 
+    "for": "LA/Catahoula Parish/22025", 
+    "pct": {
+        "dem": 27.22, 
+        "per_point_diff": 44.42, 
+        "gop": 71.64
+    }
+}

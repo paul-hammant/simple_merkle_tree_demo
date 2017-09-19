@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2361, 
+        "dem": 5837, 
+        "tot": 9380, 
+        "gop": 3476
+    }, 
+    "for": "NC/Bertie County/37015", 
+    "pct": {
+        "dem": 62.23, 
+        "per_point_diff": 25.17, 
+        "gop": 37.06
+    }
+}

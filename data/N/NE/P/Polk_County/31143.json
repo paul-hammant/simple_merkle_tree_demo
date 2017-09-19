@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1608, 
+        "dem": 411, 
+        "tot": 2538, 
+        "gop": 2019
+    }, 
+    "for": "NE/Polk County/31143", 
+    "pct": {
+        "dem": 16.19, 
+        "per_point_diff": 63.36, 
+        "gop": 79.55
+    }
+}

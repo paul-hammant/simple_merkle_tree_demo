@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8667, 
+        "dem": 5091, 
+        "tot": 19367, 
+        "gop": 13758
+    }, 
+    "for": "FL/Levy County/12075", 
+    "pct": {
+        "dem": 26.29, 
+        "per_point_diff": 44.75, 
+        "gop": 71.04
+    }
+}

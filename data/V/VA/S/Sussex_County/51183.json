@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 819, 
+        "dem": 2874, 
+        "tot": 5036, 
+        "gop": 2055
+    }, 
+    "for": "VA/Sussex County/51183", 
+    "pct": {
+        "dem": 57.07, 
+        "per_point_diff": 16.26, 
+        "gop": 40.81
+    }
+}

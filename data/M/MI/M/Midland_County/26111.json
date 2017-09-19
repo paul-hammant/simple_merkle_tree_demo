@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8222, 
+        "dem": 15655, 
+        "tot": 42379, 
+        "gop": 23877
+    }, 
+    "for": "MI/Midland County/26111", 
+    "pct": {
+        "dem": 36.94, 
+        "per_point_diff": 19.4, 
+        "gop": 56.34
+    }
+}

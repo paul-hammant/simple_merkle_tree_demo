@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17172, 
+        "dem": 14077, 
+        "tot": 47138, 
+        "gop": 31249
+    }, 
+    "for": "PA/Adams County/42001", 
+    "pct": {
+        "dem": 29.86, 
+        "per_point_diff": 36.43, 
+        "gop": 66.29
+    }
+}

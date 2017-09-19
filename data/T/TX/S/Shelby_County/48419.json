@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5414, 
+        "dem": 1757, 
+        "tot": 9072, 
+        "gop": 7171
+    }, 
+    "for": "TX/Shelby County/48419", 
+    "pct": {
+        "dem": 19.37, 
+        "per_point_diff": 59.68, 
+        "gop": 79.05
+    }
+}

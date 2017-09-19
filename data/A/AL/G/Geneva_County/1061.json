@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8445, 
+        "dem": 1522, 
+        "tot": 11659, 
+        "gop": 9967
+    }, 
+    "for": "AL/Geneva County/1061", 
+    "pct": {
+        "dem": 13.05, 
+        "per_point_diff": 72.43, 
+        "gop": 85.49
+    }
+}

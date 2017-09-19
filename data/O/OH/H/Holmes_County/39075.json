@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6812, 
+        "dem": 1766, 
+        "tot": 10823, 
+        "gop": 8578
+    }, 
+    "for": "OH/Holmes County/39075", 
+    "pct": {
+        "dem": 16.32, 
+        "per_point_diff": 62.94, 
+        "gop": 79.26
+    }
+}

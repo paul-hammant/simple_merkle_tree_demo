@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6688, 
+        "dem": 15642, 
+        "tot": 24881, 
+        "gop": 8954
+    }, 
+    "for": "NC/Halifax County/37083", 
+    "pct": {
+        "dem": 62.87, 
+        "per_point_diff": 26.88, 
+        "gop": 35.99
+    }
+}

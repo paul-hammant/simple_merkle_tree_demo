@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1541, 
+        "dem": 281, 
+        "tot": 2209, 
+        "gop": 1822
+    }, 
+    "for": "KS/Barber County/20007", 
+    "pct": {
+        "dem": 12.72, 
+        "per_point_diff": 69.76, 
+        "gop": 82.48
+    }
+}

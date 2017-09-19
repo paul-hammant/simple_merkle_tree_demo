@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1437, 
+        "dem": 528, 
+        "tot": 2583, 
+        "gop": 1965
+    }, 
+    "for": "IL/Scott County/17171", 
+    "pct": {
+        "dem": 20.44, 
+        "per_point_diff": 55.63, 
+        "gop": 76.07
+    }
+}

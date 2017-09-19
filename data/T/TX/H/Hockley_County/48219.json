@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4536, 
+        "dem": 1257, 
+        "tot": 7282, 
+        "gop": 5793
+    }, 
+    "for": "TX/Hockley County/48219", 
+    "pct": {
+        "dem": 17.26, 
+        "per_point_diff": 62.29, 
+        "gop": 79.55
+    }
+}

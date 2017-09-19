@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 81, 
+        "dem": 1860, 
+        "tot": 3836, 
+        "gop": 1941
+    }, 
+    "for": "GA/Dooly County/13093", 
+    "pct": {
+        "dem": 48.49, 
+        "per_point_diff": 2.11, 
+        "gop": 50.6
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 33133, 
+        "dem": 67045, 
+        "tot": 182918, 
+        "gop": 100178
+    }, 
+    "for": "CO/Douglas County/8035", 
+    "pct": {
+        "dem": 36.65, 
+        "per_point_diff": 18.11, 
+        "gop": 54.77
+    }
+}

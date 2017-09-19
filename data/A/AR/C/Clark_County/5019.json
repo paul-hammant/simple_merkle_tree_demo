@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 792, 
+        "dem": 3606, 
+        "tot": 8365, 
+        "gop": 4398
+    }, 
+    "for": "AR/Clark County/5019", 
+    "pct": {
+        "dem": 43.11, 
+        "per_point_diff": 9.47, 
+        "gop": 52.58
+    }
+}

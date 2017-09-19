@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7976, 
+        "dem": 5389, 
+        "tot": 19917, 
+        "gop": 13365
+    }, 
+    "for": "IN/Dubois County/18037", 
+    "pct": {
+        "dem": 27.06, 
+        "per_point_diff": 40.05, 
+        "gop": 67.1
+    }
+}

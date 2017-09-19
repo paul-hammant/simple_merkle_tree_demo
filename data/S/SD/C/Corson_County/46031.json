@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 53, 
+        "dem": 535, 
+        "tot": 1175, 
+        "gop": 588
+    }, 
+    "for": "SD/Corson County/46031", 
+    "pct": {
+        "dem": 45.53, 
+        "per_point_diff": 4.51, 
+        "gop": 50.04
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 63198, 
+        "dem": 27716, 
+        "tot": 124389, 
+        "gop": 90914
+    }, 
+    "for": "LA/St. Tammany Parish/22103", 
+    "pct": {
+        "dem": 22.28, 
+        "per_point_diff": 50.81, 
+        "gop": 73.09
+    }
+}

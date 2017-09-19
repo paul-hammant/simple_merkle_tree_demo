@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 155836, 
+        "dem": 178562, 
+        "tot": 208980, 
+        "gop": 22726
+    }, 
+    "for": "MD/Baltimore city/24510", 
+    "pct": {
+        "dem": 85.44, 
+        "per_point_diff": 74.57, 
+        "gop": 10.87
+    }
+}

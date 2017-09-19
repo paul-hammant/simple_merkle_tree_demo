@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1598, 
+        "dem": 541, 
+        "tot": 2784, 
+        "gop": 2139
+    }, 
+    "for": "VA/Craig County/51045", 
+    "pct": {
+        "dem": 19.43, 
+        "per_point_diff": 57.4, 
+        "gop": 76.83
+    }
+}

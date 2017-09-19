@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6192, 
+        "dem": 4005, 
+        "tot": 15096, 
+        "gop": 10197
+    }, 
+    "for": "IL/Livingston County/17105", 
+    "pct": {
+        "dem": 26.53, 
+        "per_point_diff": 41.02, 
+        "gop": 67.55
+    }
+}

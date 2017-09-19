@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 902, 
+        "dem": 8518, 
+        "tot": 18287, 
+        "gop": 9420
+    }, 
+    "for": "MS/Warren County/28149", 
+    "pct": {
+        "dem": 46.58, 
+        "per_point_diff": 4.93, 
+        "gop": 51.51
+    }
+}

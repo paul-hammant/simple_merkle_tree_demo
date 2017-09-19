@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1143, 
+        "dem": 2247, 
+        "tot": 5798, 
+        "gop": 3390
+    }, 
+    "for": "LA/West Feliciana Parish/22125", 
+    "pct": {
+        "dem": 38.75, 
+        "per_point_diff": 19.71, 
+        "gop": 58.47
+    }
+}

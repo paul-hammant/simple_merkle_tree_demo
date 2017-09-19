@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1267, 
+        "dem": 5751, 
+        "tot": 13492, 
+        "gop": 7018
+    }, 
+    "for": "VA/Fluvanna County/51065", 
+    "pct": {
+        "dem": 42.63, 
+        "per_point_diff": 9.39, 
+        "gop": 52.02
+    }
+}

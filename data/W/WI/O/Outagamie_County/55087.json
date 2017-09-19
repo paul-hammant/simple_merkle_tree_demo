@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11797, 
+        "dem": 38087, 
+        "tot": 93474, 
+        "gop": 49884
+    }, 
+    "for": "WI/Outagamie County/55087", 
+    "pct": {
+        "dem": 40.75, 
+        "per_point_diff": 12.62, 
+        "gop": 53.37
+    }
+}

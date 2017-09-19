@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1093, 
+        "dem": 3155, 
+        "tot": 7996, 
+        "gop": 4248
+    }, 
+    "for": "CA/Inyo County/6027", 
+    "pct": {
+        "dem": 39.46, 
+        "per_point_diff": 13.67, 
+        "gop": 53.13
+    }
+}

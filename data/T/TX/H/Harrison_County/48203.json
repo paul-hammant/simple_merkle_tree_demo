@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11582, 
+        "dem": 7130, 
+        "tot": 26364, 
+        "gop": 18712
+    }, 
+    "for": "TX/Harrison County/48203", 
+    "pct": {
+        "dem": 27.04, 
+        "per_point_diff": 43.93, 
+        "gop": 70.98
+    }
+}

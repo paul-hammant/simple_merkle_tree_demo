@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 565, 
+        "dem": 276, 
+        "tot": 1232, 
+        "gop": 841
+    }, 
+    "for": "WA/Garfield County/53023", 
+    "pct": {
+        "dem": 22.4, 
+        "per_point_diff": 45.86, 
+        "gop": 68.26
+    }
+}

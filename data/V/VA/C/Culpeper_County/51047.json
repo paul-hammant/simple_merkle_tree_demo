@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5597, 
+        "dem": 7744, 
+        "tot": 22087, 
+        "gop": 13341
+    }, 
+    "for": "VA/Culpeper County/51047", 
+    "pct": {
+        "dem": 35.06, 
+        "per_point_diff": 25.34, 
+        "gop": 60.4
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1892, 
+        "dem": 879, 
+        "tot": 3786, 
+        "gop": 2771
+    }, 
+    "for": "KY/Trimble County/21223", 
+    "pct": {
+        "dem": 23.22, 
+        "per_point_diff": 49.97, 
+        "gop": 73.19
+    }
+}

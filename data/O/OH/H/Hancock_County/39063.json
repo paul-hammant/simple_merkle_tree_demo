@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14358, 
+        "dem": 9419, 
+        "tot": 35216, 
+        "gop": 23777
+    }, 
+    "for": "OH/Hancock County/39063", 
+    "pct": {
+        "dem": 26.75, 
+        "per_point_diff": 40.77, 
+        "gop": 67.52
+    }
+}

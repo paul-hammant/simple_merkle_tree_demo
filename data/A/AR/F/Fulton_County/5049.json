@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2403, 
+        "dem": 1067, 
+        "tot": 4744, 
+        "gop": 3470
+    }, 
+    "for": "AR/Fulton County/5049", 
+    "pct": {
+        "dem": 22.49, 
+        "per_point_diff": 50.65, 
+        "gop": 73.15
+    }
+}

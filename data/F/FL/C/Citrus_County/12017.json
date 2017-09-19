@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 31612, 
+        "dem": 22765, 
+        "tot": 79590, 
+        "gop": 54377
+    }, 
+    "for": "FL/Citrus County/12017", 
+    "pct": {
+        "dem": 28.6, 
+        "per_point_diff": 39.72, 
+        "gop": 68.32
+    }
+}

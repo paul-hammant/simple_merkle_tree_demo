@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2818, 
+        "dem": 2066, 
+        "tot": 7462, 
+        "gop": 4884
+    }, 
+    "for": "IL/Bond County/17005", 
+    "pct": {
+        "dem": 27.69, 
+        "per_point_diff": 37.76, 
+        "gop": 65.45
+    }
+}

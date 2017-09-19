@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4587, 
+        "dem": 2252, 
+        "tot": 9530, 
+        "gop": 6839
+    }, 
+    "for": "IN/Fayette County/18041", 
+    "pct": {
+        "dem": 23.63, 
+        "per_point_diff": 48.13, 
+        "gop": 71.76
+    }
+}

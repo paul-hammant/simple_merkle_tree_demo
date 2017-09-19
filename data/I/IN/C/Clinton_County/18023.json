@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5711, 
+        "dem": 2819, 
+        "tot": 11896, 
+        "gop": 8530
+    }, 
+    "for": "IN/Clinton County/18023", 
+    "pct": {
+        "dem": 23.7, 
+        "per_point_diff": 48.01, 
+        "gop": 71.7
+    }
+}

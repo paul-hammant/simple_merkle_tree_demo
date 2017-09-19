@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1742, 
+        "dem": 222, 
+        "tot": 2246, 
+        "gop": 1964
+    }, 
+    "for": "OK/Dewey County/40043", 
+    "pct": {
+        "dem": 9.88, 
+        "per_point_diff": 77.56, 
+        "gop": 87.44
+    }
+}

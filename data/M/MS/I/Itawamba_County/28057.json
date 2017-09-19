@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7285, 
+        "dem": 1100, 
+        "tot": 9634, 
+        "gop": 8385
+    }, 
+    "for": "MS/Itawamba County/28057", 
+    "pct": {
+        "dem": 11.42, 
+        "per_point_diff": 75.62, 
+        "gop": 87.04
+    }
+}

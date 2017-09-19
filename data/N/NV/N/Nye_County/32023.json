@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8225, 
+        "dem": 5095, 
+        "tot": 19592, 
+        "gop": 13320
+    }, 
+    "for": "NV/Nye County/32023", 
+    "pct": {
+        "dem": 26.01, 
+        "per_point_diff": 41.98, 
+        "gop": 67.99
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1904, 
+        "dem": 2808, 
+        "tot": 7813, 
+        "gop": 4712
+    }, 
+    "for": "WI/Marquette County/55077", 
+    "pct": {
+        "dem": 35.94, 
+        "per_point_diff": 24.37, 
+        "gop": 60.31
+    }
+}

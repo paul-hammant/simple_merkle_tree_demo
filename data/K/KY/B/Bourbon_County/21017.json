@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2778, 
+        "dem": 2791, 
+        "tot": 8791, 
+        "gop": 5569
+    }, 
+    "for": "KY/Bourbon County/21017", 
+    "pct": {
+        "dem": 31.75, 
+        "per_point_diff": 31.6, 
+        "gop": 63.35
+    }
+}

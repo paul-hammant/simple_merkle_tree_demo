@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8524, 
+        "dem": 5255, 
+        "tot": 19484, 
+        "gop": 13779
+    }, 
+    "for": "TN/Gibson County/47053", 
+    "pct": {
+        "dem": 26.97, 
+        "per_point_diff": 43.75, 
+        "gop": 70.72
+    }
+}

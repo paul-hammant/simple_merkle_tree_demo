@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2432, 
+        "dem": 1932, 
+        "tot": 6788, 
+        "gop": 4364
+    }, 
+    "for": "WA/Pend Oreille County/53051", 
+    "pct": {
+        "dem": 28.46, 
+        "per_point_diff": 35.83, 
+        "gop": 64.29
+    }
+}

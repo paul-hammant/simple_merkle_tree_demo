@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 44180, 
+        "dem": 46276, 
+        "tot": 145405, 
+        "gop": 90456
+    }, 
+    "for": "MI/Ottawa County/26139", 
+    "pct": {
+        "dem": 31.83, 
+        "per_point_diff": 30.38, 
+        "gop": 62.21
+    }
+}

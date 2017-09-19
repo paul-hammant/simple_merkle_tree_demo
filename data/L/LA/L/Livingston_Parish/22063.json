@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 41847, 
+        "dem": 6950, 
+        "tot": 57700, 
+        "gop": 48797
+    }, 
+    "for": "LA/Livingston Parish/22063", 
+    "pct": {
+        "dem": 12.05, 
+        "per_point_diff": 72.53, 
+        "gop": 84.57
+    }
+}

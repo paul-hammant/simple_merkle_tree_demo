@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1761, 
+        "dem": 780, 
+        "tot": 3413, 
+        "gop": 2541
+    }, 
+    "for": "TX/Ward County/48475", 
+    "pct": {
+        "dem": 22.85, 
+        "per_point_diff": 51.6, 
+        "gop": 74.45
+    }
+}

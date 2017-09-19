@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7020, 
+        "dem": 4273, 
+        "tot": 16015, 
+        "gop": 11293
+    }, 
+    "for": "AR/Miller County/5091", 
+    "pct": {
+        "dem": 26.68, 
+        "per_point_diff": 43.83, 
+        "gop": 70.52
+    }
+}

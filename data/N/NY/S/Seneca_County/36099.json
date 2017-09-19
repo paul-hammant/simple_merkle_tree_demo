@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1544, 
+        "dem": 5175, 
+        "tot": 12727, 
+        "gop": 6719
+    }, 
+    "for": "NY/Seneca County/36099", 
+    "pct": {
+        "dem": 40.66, 
+        "per_point_diff": 12.13, 
+        "gop": 52.79
+    }
+}

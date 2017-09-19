@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15908, 
+        "dem": 25555, 
+        "tot": 37747, 
+        "gop": 9647
+    }, 
+    "for": "NY/Tompkins County/36109", 
+    "pct": {
+        "dem": 67.7, 
+        "per_point_diff": 42.14, 
+        "gop": 25.56
+    }
+}

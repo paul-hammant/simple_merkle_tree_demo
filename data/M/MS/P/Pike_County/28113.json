@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 112, 
+        "dem": 7636, 
+        "tot": 15633, 
+        "gop": 7748
+    }, 
+    "for": "MS/Pike County/28113", 
+    "pct": {
+        "dem": 48.85, 
+        "per_point_diff": 0.72, 
+        "gop": 49.56
+    }
+}

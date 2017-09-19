@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5458, 
+        "dem": 871, 
+        "tot": 7573, 
+        "gop": 6329
+    }, 
+    "for": "OK/Woodward County/40153", 
+    "pct": {
+        "dem": 11.5, 
+        "per_point_diff": 72.07, 
+        "gop": 83.57
+    }
+}

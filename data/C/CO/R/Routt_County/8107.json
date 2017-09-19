@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2338, 
+        "dem": 7487, 
+        "tot": 13772, 
+        "gop": 5149
+    }, 
+    "for": "CO/Routt County/8107", 
+    "pct": {
+        "dem": 54.36, 
+        "per_point_diff": 16.98, 
+        "gop": 37.39
+    }
+}

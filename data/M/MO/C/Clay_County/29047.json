@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12146, 
+        "dem": 45182, 
+        "tot": 109237, 
+        "gop": 57328
+    }, 
+    "for": "MO/Clay County/29047", 
+    "pct": {
+        "dem": 41.36, 
+        "per_point_diff": 11.12, 
+        "gop": 52.48
+    }
+}

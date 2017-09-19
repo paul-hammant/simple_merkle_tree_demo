@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2117, 
+        "dem": 19527, 
+        "tot": 37593, 
+        "gop": 17410
+    }, 
+    "for": "NC/Wilson County/37195", 
+    "pct": {
+        "dem": 51.94, 
+        "per_point_diff": 5.63, 
+        "gop": 46.31
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7710, 
+        "dem": 8303, 
+        "tot": 25491, 
+        "gop": 16013
+    }, 
+    "for": "WI/Waupaca County/55135", 
+    "pct": {
+        "dem": 32.57, 
+        "per_point_diff": 30.25, 
+        "gop": 62.82
+    }
+}

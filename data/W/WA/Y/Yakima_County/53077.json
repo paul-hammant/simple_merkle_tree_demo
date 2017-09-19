@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11109, 
+        "dem": 28484, 
+        "tot": 72306, 
+        "gop": 39593
+    }, 
+    "for": "WA/Yakima County/53077", 
+    "pct": {
+        "dem": 39.39, 
+        "per_point_diff": 15.36, 
+        "gop": 54.76
+    }
+}

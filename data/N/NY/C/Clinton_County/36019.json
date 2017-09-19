@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 265, 
+        "dem": 13446, 
+        "tot": 28378, 
+        "gop": 13181
+    }, 
+    "for": "NY/Clinton County/36019", 
+    "pct": {
+        "dem": 47.38, 
+        "per_point_diff": 0.93, 
+        "gop": 46.45
+    }
+}

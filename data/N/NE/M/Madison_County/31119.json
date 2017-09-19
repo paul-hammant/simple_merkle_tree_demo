@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7855, 
+        "dem": 2663, 
+        "tot": 13956, 
+        "gop": 10518
+    }, 
+    "for": "NE/Madison County/31119", 
+    "pct": {
+        "dem": 19.08, 
+        "per_point_diff": 56.28, 
+        "gop": 75.37
+    }
+}

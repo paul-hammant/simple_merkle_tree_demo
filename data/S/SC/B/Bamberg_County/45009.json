@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1689, 
+        "dem": 3886, 
+        "tot": 6195, 
+        "gop": 2197
+    }, 
+    "for": "SC/Bamberg County/45009", 
+    "pct": {
+        "dem": 62.73, 
+        "per_point_diff": 27.26, 
+        "gop": 35.46
+    }
+}

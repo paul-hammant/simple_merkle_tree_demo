@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 912, 
+        "dem": 6445, 
+        "tot": 12966, 
+        "gop": 5533
+    }, 
+    "for": "VT/Caledonia County/50005", 
+    "pct": {
+        "dem": 49.71, 
+        "per_point_diff": 7.03, 
+        "gop": 42.67
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13761, 
+        "dem": 5548, 
+        "tot": 25715, 
+        "gop": 19309
+    }, 
+    "for": "VA/Washington County/51191", 
+    "pct": {
+        "dem": 21.57, 
+        "per_point_diff": 53.51, 
+        "gop": 75.09
+    }
+}

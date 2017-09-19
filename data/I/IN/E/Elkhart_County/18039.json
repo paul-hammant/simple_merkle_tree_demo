@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 21143, 
+        "dem": 20667, 
+        "tot": 65187, 
+        "gop": 41810
+    }, 
+    "for": "IN/Elkhart County/18039", 
+    "pct": {
+        "dem": 31.7, 
+        "per_point_diff": 32.43, 
+        "gop": 64.14
+    }
+}

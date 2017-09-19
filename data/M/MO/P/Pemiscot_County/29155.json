@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2018, 
+        "dem": 1946, 
+        "tot": 6025, 
+        "gop": 3964
+    }, 
+    "for": "MO/Pemiscot County/29155", 
+    "pct": {
+        "dem": 32.3, 
+        "per_point_diff": 33.49, 
+        "gop": 65.79
+    }
+}

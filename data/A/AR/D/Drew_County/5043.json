@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1603, 
+        "dem": 2364, 
+        "tot": 6552, 
+        "gop": 3967
+    }, 
+    "for": "AR/Drew County/5043", 
+    "pct": {
+        "dem": 36.08, 
+        "per_point_diff": 24.47, 
+        "gop": 60.55
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1609, 
+        "dem": 3781, 
+        "tot": 9859, 
+        "gop": 5390
+    }, 
+    "for": "WA/Klickitat County/53039", 
+    "pct": {
+        "dem": 38.35, 
+        "per_point_diff": 16.32, 
+        "gop": 54.67
+    }
+}

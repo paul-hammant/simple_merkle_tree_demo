@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14725, 
+        "dem": 4213, 
+        "tot": 23939, 
+        "gop": 18938
+    }, 
+    "for": "GA/Walker County/13295", 
+    "pct": {
+        "dem": 17.6, 
+        "per_point_diff": 61.51, 
+        "gop": 79.11
+    }
+}

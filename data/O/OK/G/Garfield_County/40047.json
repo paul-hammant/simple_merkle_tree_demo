@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11607, 
+        "dem": 4391, 
+        "tot": 21692, 
+        "gop": 15998
+    }, 
+    "for": "OK/Garfield County/40047", 
+    "pct": {
+        "dem": 20.24, 
+        "per_point_diff": 53.51, 
+        "gop": 73.75
+    }
+}

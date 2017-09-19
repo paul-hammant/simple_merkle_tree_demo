@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1036, 
+        "dem": 3762, 
+        "tot": 9114, 
+        "gop": 4798
+    }, 
+    "for": "VA/Waynesboro city/51820", 
+    "pct": {
+        "dem": 41.28, 
+        "per_point_diff": 11.37, 
+        "gop": 52.64
+    }
+}

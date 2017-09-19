@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 51945, 
+        "dem": 89998, 
+        "tot": 240814, 
+        "gop": 141943
+    }, 
+    "for": "FL/Pasco County/12101", 
+    "pct": {
+        "dem": 37.37, 
+        "per_point_diff": 21.57, 
+        "gop": 58.94
+    }
+}

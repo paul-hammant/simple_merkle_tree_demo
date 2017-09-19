@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6801, 
+        "dem": 3018, 
+        "tot": 13415, 
+        "gop": 9819
+    }, 
+    "for": "IN/Wabash County/18169", 
+    "pct": {
+        "dem": 22.5, 
+        "per_point_diff": 50.7, 
+        "gop": 73.19
+    }
+}

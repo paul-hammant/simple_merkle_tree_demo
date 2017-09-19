@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1898, 
+        "dem": 4456, 
+        "tot": 11745, 
+        "gop": 6354
+    }, 
+    "for": "KS/Lyon County/20111", 
+    "pct": {
+        "dem": 37.94, 
+        "per_point_diff": 16.16, 
+        "gop": 54.1
+    }
+}

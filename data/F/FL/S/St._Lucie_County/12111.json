@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3436, 
+        "dem": 66812, 
+        "tot": 140731, 
+        "gop": 70248
+    }, 
+    "for": "FL/St. Lucie County/12111", 
+    "pct": {
+        "dem": 47.47, 
+        "per_point_diff": 2.44, 
+        "gop": 49.92
+    }
+}

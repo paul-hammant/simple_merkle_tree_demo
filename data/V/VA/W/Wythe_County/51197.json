@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7279, 
+        "dem": 2765, 
+        "tot": 13250, 
+        "gop": 10044
+    }, 
+    "for": "VA/Wythe County/51197", 
+    "pct": {
+        "dem": 20.87, 
+        "per_point_diff": 54.94, 
+        "gop": 75.8
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 993, 
+        "dem": 1913, 
+        "tot": 5349, 
+        "gop": 2906
+    }, 
+    "for": "ID/Valley County/16085", 
+    "pct": {
+        "dem": 35.76, 
+        "per_point_diff": 18.56, 
+        "gop": 54.33
+    }
+}

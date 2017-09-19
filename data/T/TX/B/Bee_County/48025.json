@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1300, 
+        "dem": 3443, 
+        "tot": 8458, 
+        "gop": 4743
+    }, 
+    "for": "TX/Bee County/48025", 
+    "pct": {
+        "dem": 40.71, 
+        "per_point_diff": 15.37, 
+        "gop": 56.08
+    }
+}

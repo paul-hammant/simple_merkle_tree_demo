@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7929, 
+        "dem": 6822, 
+        "tot": 22430, 
+        "gop": 14751
+    }, 
+    "for": "TX/Nacogdoches County/48347", 
+    "pct": {
+        "dem": 30.41, 
+        "per_point_diff": 35.35, 
+        "gop": 65.76
+    }
+}

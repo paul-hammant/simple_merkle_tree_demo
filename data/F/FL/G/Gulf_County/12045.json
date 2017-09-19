@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3605, 
+        "dem": 1715, 
+        "tot": 7279, 
+        "gop": 5320
+    }, 
+    "for": "FL/Gulf County/12045", 
+    "pct": {
+        "dem": 23.56, 
+        "per_point_diff": 49.53, 
+        "gop": 73.09
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3540, 
+        "dem": 832, 
+        "tot": 5331, 
+        "gop": 4372
+    }, 
+    "for": "KY/Green County/21087", 
+    "pct": {
+        "dem": 15.61, 
+        "per_point_diff": 66.4, 
+        "gop": 82.01
+    }
+}

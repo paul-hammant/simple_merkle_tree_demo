@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1204, 
+        "dem": 586, 
+        "tot": 2568, 
+        "gop": 1790
+    }, 
+    "for": "KS/Morris County/20127", 
+    "pct": {
+        "dem": 22.82, 
+        "per_point_diff": 46.88, 
+        "gop": 69.7
+    }
+}

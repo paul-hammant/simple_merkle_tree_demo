@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8878, 
+        "dem": 14340, 
+        "tot": 21151, 
+        "gop": 5462
+    }, 
+    "for": "VT/Windham County/50025", 
+    "pct": {
+        "dem": 67.8, 
+        "per_point_diff": 41.97, 
+        "gop": 25.82
+    }
+}

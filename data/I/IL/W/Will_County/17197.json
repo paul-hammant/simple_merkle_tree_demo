@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16504, 
+        "dem": 146230, 
+        "tot": 291010, 
+        "gop": 129726
+    }, 
+    "for": "IL/Will County/17197", 
+    "pct": {
+        "dem": 50.25, 
+        "per_point_diff": 5.67, 
+        "gop": 44.58
+    }
+}

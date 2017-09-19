@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 208699, 
+        "dem": 271754, 
+        "tot": 357762, 
+        "gop": 63055
+    }, 
+    "for": "OR/Multnomah County/41051", 
+    "pct": {
+        "dem": 75.96, 
+        "per_point_diff": 58.33, 
+        "gop": 17.62
+    }
+}

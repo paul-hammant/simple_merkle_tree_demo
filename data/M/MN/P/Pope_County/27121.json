@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1687, 
+        "dem": 2106, 
+        "tot": 6294, 
+        "gop": 3793
+    }, 
+    "for": "MN/Pope County/27121", 
+    "pct": {
+        "dem": 33.46, 
+        "per_point_diff": 26.8, 
+        "gop": 60.26
+    }
+}

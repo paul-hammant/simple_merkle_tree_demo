@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7319, 
+        "dem": 2123, 
+        "tot": 11811, 
+        "gop": 9442
+    }, 
+    "for": "MS/Pontotoc County/28115", 
+    "pct": {
+        "dem": 17.97, 
+        "per_point_diff": 61.97, 
+        "gop": 79.94
+    }
+}

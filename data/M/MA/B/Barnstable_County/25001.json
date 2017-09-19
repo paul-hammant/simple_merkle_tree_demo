@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17790, 
+        "dem": 71632, 
+        "tot": 132667, 
+        "gop": 53842
+    }, 
+    "for": "MA/Barnstable County/25001", 
+    "pct": {
+        "dem": 53.99, 
+        "per_point_diff": 13.41, 
+        "gop": 40.58
+    }
+}

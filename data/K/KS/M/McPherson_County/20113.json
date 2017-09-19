@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5224, 
+        "dem": 3183, 
+        "tot": 12443, 
+        "gop": 8407
+    }, 
+    "for": "KS/McPherson County/20113", 
+    "pct": {
+        "dem": 25.58, 
+        "per_point_diff": 41.98, 
+        "gop": 67.56
+    }
+}

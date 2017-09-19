@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 21282, 
+        "dem": 34460, 
+        "tot": 50623, 
+        "gop": 13178
+    }, 
+    "for": "CA/Yolo County/6113", 
+    "pct": {
+        "dem": 68.07, 
+        "per_point_diff": 42.04, 
+        "gop": 26.03
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5347, 
+        "dem": 1358, 
+        "tot": 8196, 
+        "gop": 6705
+    }, 
+    "for": "AL/Fayette County/1057", 
+    "pct": {
+        "dem": 16.57, 
+        "per_point_diff": 65.24, 
+        "gop": 81.81
+    }
+}

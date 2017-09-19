@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4640, 
+        "dem": 1585, 
+        "tot": 7948, 
+        "gop": 6225
+    }, 
+    "for": "NC/Mitchell County/37121", 
+    "pct": {
+        "dem": 19.94, 
+        "per_point_diff": 58.38, 
+        "gop": 78.32
+    }
+}

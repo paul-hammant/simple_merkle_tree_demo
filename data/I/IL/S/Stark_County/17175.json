@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1029, 
+        "dem": 748, 
+        "tot": 2707, 
+        "gop": 1777
+    }, 
+    "for": "IL/Stark County/17175", 
+    "pct": {
+        "dem": 27.63, 
+        "per_point_diff": 38.01, 
+        "gop": 65.64
+    }
+}

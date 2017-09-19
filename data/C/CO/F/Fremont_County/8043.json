@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9791, 
+        "dem": 5275, 
+        "tot": 21880, 
+        "gop": 15066
+    }, 
+    "for": "CO/Fremont County/8043", 
+    "pct": {
+        "dem": 24.11, 
+        "per_point_diff": 44.75, 
+        "gop": 68.86
+    }
+}

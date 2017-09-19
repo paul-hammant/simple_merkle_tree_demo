@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2776, 
+        "dem": 1148, 
+        "tot": 5147, 
+        "gop": 3924
+    }, 
+    "for": "TX/Red River County/48387", 
+    "pct": {
+        "dem": 22.3, 
+        "per_point_diff": 53.93, 
+        "gop": 76.24
+    }
+}

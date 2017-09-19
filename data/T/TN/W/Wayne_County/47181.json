@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4317, 
+        "dem": 717, 
+        "tot": 5842, 
+        "gop": 5034
+    }, 
+    "for": "TN/Wayne County/47181", 
+    "pct": {
+        "dem": 12.27, 
+        "per_point_diff": 73.9, 
+        "gop": 86.17
+    }
+}

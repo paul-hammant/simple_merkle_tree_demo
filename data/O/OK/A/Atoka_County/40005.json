@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3273, 
+        "dem": 795, 
+        "tot": 5002, 
+        "gop": 4068
+    }, 
+    "for": "OK/Atoka County/40005", 
+    "pct": {
+        "dem": 15.89, 
+        "per_point_diff": 65.43, 
+        "gop": 81.33
+    }
+}

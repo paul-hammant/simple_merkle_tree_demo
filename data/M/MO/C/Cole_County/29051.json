@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13703, 
+        "dem": 10907, 
+        "tot": 37261, 
+        "gop": 24610
+    }, 
+    "for": "MO/Cole County/29051", 
+    "pct": {
+        "dem": 29.27, 
+        "per_point_diff": 36.78, 
+        "gop": 66.05
+    }
+}

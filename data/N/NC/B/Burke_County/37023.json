@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14811, 
+        "dem": 10930, 
+        "tot": 37638, 
+        "gop": 25741
+    }, 
+    "for": "NC/Burke County/37023", 
+    "pct": {
+        "dem": 29.04, 
+        "per_point_diff": 39.35, 
+        "gop": 68.39
+    }
+}

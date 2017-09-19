@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1983, 
+        "dem": 1225, 
+        "tot": 4794, 
+        "gop": 3208
+    }, 
+    "for": "MN/Marshall County/27089", 
+    "pct": {
+        "dem": 25.55, 
+        "per_point_diff": 41.36, 
+        "gop": 66.92
+    }
+}

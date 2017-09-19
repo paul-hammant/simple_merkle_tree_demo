@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4330, 
+        "dem": 3794, 
+        "tot": 12472, 
+        "gop": 8124
+    }, 
+    "for": "MI/Gladwin County/26051", 
+    "pct": {
+        "dem": 30.42, 
+        "per_point_diff": 34.72, 
+        "gop": 65.14
+    }
+}

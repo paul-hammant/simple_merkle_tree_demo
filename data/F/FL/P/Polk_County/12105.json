@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 40034, 
+        "dem": 117182, 
+        "tot": 283828, 
+        "gop": 157216
+    }, 
+    "for": "FL/Polk County/12105", 
+    "pct": {
+        "dem": 41.29, 
+        "per_point_diff": 14.11, 
+        "gop": 55.39
+    }
+}

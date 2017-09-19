@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2063, 
+        "dem": 1318, 
+        "tot": 4931, 
+        "gop": 3381
+    }, 
+    "for": "AZ/La Paz County/4012", 
+    "pct": {
+        "dem": 26.73, 
+        "per_point_diff": 41.84, 
+        "gop": 68.57
+    }
+}

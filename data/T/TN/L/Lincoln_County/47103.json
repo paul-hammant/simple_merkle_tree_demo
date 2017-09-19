@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7825, 
+        "dem": 2550, 
+        "tot": 13270, 
+        "gop": 10375
+    }, 
+    "for": "TN/Lincoln County/47103", 
+    "pct": {
+        "dem": 19.22, 
+        "per_point_diff": 58.97, 
+        "gop": 78.18
+    }
+}

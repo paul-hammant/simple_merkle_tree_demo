@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3201, 
+        "dem": 901, 
+        "tot": 5089, 
+        "gop": 4102
+    }, 
+    "for": "GA/Jeff Davis County/13161", 
+    "pct": {
+        "dem": 17.7, 
+        "per_point_diff": 62.9, 
+        "gop": 80.61
+    }
+}

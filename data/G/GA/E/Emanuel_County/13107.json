@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2897, 
+        "dem": 2433, 
+        "tot": 7838, 
+        "gop": 5330
+    }, 
+    "for": "GA/Emanuel County/13107", 
+    "pct": {
+        "dem": 31.04, 
+        "per_point_diff": 36.96, 
+        "gop": 68.0
+    }
+}

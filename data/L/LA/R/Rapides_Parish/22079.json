@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18496, 
+        "dem": 18318, 
+        "tot": 56838, 
+        "gop": 36814
+    }, 
+    "for": "LA/Rapides Parish/22079", 
+    "pct": {
+        "dem": 32.23, 
+        "per_point_diff": 32.54, 
+        "gop": 64.77
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1063, 
+        "dem": 848, 
+        "tot": 2818, 
+        "gop": 1911
+    }, 
+    "for": "TX/Parmer County/48369", 
+    "pct": {
+        "dem": 30.09, 
+        "per_point_diff": 37.72, 
+        "gop": 67.81
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18857, 
+        "dem": 8752, 
+        "tot": 37913, 
+        "gop": 27609
+    }, 
+    "for": "TX/Wichita County/48485", 
+    "pct": {
+        "dem": 23.08, 
+        "per_point_diff": 49.74, 
+        "gop": 72.82
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1043, 
+        "dem": 752, 
+        "tot": 2688, 
+        "gop": 1795
+    }, 
+    "for": "NY/Hamilton County/36041", 
+    "pct": {
+        "dem": 27.98, 
+        "per_point_diff": 38.8, 
+        "gop": 66.78
+    }
+}

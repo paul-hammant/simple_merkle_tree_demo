@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3030, 
+        "dem": 3712, 
+        "tot": 10724, 
+        "gop": 6742
+    }, 
+    "for": "SC/Abbeville County/45001", 
+    "pct": {
+        "dem": 34.61, 
+        "per_point_diff": 28.25, 
+        "gop": 62.87
+    }
+}

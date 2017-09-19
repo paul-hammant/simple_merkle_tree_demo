@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1798, 
+        "dem": 2427, 
+        "tot": 6772, 
+        "gop": 4225
+    }, 
+    "for": "NC/Pamlico County/37137", 
+    "pct": {
+        "dem": 35.84, 
+        "per_point_diff": 26.55, 
+        "gop": 62.39
+    }
+}

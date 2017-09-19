@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3694, 
+        "dem": 946, 
+        "tot": 5738, 
+        "gop": 4640
+    }, 
+    "for": "MO/Wayne County/29223", 
+    "pct": {
+        "dem": 16.49, 
+        "per_point_diff": 64.38, 
+        "gop": 80.86
+    }
+}

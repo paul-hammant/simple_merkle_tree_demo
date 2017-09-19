@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3920, 
+        "dem": 6677, 
+        "tot": 9566, 
+        "gop": 2757
+    }, 
+    "for": "MS/Leflore County/28083", 
+    "pct": {
+        "dem": 69.8, 
+        "per_point_diff": 40.98, 
+        "gop": 28.82
+    }
+}

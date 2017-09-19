@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2892, 
+        "dem": 1189, 
+        "tot": 5527, 
+        "gop": 4081
+    }, 
+    "for": "AR/Stone County/5137", 
+    "pct": {
+        "dem": 21.51, 
+        "per_point_diff": 52.32, 
+        "gop": 73.84
+    }
+}

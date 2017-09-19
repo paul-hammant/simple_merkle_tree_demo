@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 883, 
+        "dem": 2829, 
+        "tot": 6717, 
+        "gop": 3712
+    }, 
+    "for": "VA/Nottoway County/51135", 
+    "pct": {
+        "dem": 42.12, 
+        "per_point_diff": 13.15, 
+        "gop": 55.26
+    }
+}

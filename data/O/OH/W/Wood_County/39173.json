@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5294, 
+        "dem": 26440, 
+        "tot": 62287, 
+        "gop": 31734
+    }, 
+    "for": "OH/Wood County/39173", 
+    "pct": {
+        "dem": 42.45, 
+        "per_point_diff": 8.5, 
+        "gop": 50.95
+    }
+}

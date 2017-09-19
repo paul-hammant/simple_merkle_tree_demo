@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10389, 
+        "dem": 1621, 
+        "tot": 13949, 
+        "gop": 12010
+    }, 
+    "for": "TX/Brown County/48049", 
+    "pct": {
+        "dem": 11.62, 
+        "per_point_diff": 74.48, 
+        "gop": 86.1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5906, 
+        "dem": 9092, 
+        "tot": 25968, 
+        "gop": 14998
+    }, 
+    "for": "ME/Somerset County/23025", 
+    "pct": {
+        "dem": 35.01, 
+        "per_point_diff": 22.74, 
+        "gop": 57.76
+    }
+}

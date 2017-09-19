@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12845, 
+        "dem": 6597, 
+        "tot": 27218, 
+        "gop": 19442
+    }, 
+    "for": "VA/Campbell County/51031", 
+    "pct": {
+        "dem": 24.24, 
+        "per_point_diff": 47.19, 
+        "gop": 71.43
+    }
+}

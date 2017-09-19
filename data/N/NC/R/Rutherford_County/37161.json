@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14243, 
+        "dem": 7451, 
+        "tot": 29764, 
+        "gop": 21694
+    }, 
+    "for": "NC/Rutherford County/37161", 
+    "pct": {
+        "dem": 25.03, 
+        "per_point_diff": 47.85, 
+        "gop": 72.89
+    }
+}

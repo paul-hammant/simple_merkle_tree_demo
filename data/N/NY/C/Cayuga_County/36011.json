@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3992, 
+        "dem": 12202, 
+        "tot": 30124, 
+        "gop": 16194
+    }, 
+    "for": "NY/Cayuga County/36011", 
+    "pct": {
+        "dem": 40.51, 
+        "per_point_diff": 13.25, 
+        "gop": 53.76
+    }
+}

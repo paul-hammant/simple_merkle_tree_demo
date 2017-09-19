@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3314, 
+        "dem": 2367, 
+        "tot": 8427, 
+        "gop": 5681
+    }, 
+    "for": "VA/Colonial Heights city/51570", 
+    "pct": {
+        "dem": 28.09, 
+        "per_point_diff": 39.33, 
+        "gop": 67.41
+    }
+}

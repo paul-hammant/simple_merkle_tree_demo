@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 948, 
+        "dem": 860, 
+        "tot": 2700, 
+        "gop": 1808
+    }, 
+    "for": "GA/Treutlen County/13283", 
+    "pct": {
+        "dem": 31.85, 
+        "per_point_diff": 35.11, 
+        "gop": 66.96
+    }
+}

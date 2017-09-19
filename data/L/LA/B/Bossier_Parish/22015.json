@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 22813, 
+        "dem": 12638, 
+        "tot": 49818, 
+        "gop": 35451
+    }, 
+    "for": "LA/Bossier Parish/22015", 
+    "pct": {
+        "dem": 25.37, 
+        "per_point_diff": 45.79, 
+        "gop": 71.16
+    }
+}

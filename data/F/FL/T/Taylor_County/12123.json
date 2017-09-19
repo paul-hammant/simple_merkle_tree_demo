@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4774, 
+        "dem": 2149, 
+        "tot": 9279, 
+        "gop": 6923
+    }, 
+    "for": "FL/Taylor County/12123", 
+    "pct": {
+        "dem": 23.16, 
+        "per_point_diff": 51.45, 
+        "gop": 74.61
+    }
+}

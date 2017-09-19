@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5909, 
+        "dem": 2557, 
+        "tot": 11623, 
+        "gop": 8466
+    }, 
+    "for": "KS/Montgomery County/20125", 
+    "pct": {
+        "dem": 22.0, 
+        "per_point_diff": 50.84, 
+        "gop": 72.84
+    }
+}

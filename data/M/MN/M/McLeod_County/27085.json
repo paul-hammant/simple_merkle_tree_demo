@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7177, 
+        "dem": 4978, 
+        "tot": 18684, 
+        "gop": 12155
+    }, 
+    "for": "MN/McLeod County/27085", 
+    "pct": {
+        "dem": 26.64, 
+        "per_point_diff": 38.41, 
+        "gop": 65.06
+    }
+}

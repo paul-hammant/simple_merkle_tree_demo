@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7446, 
+        "dem": 4231, 
+        "tot": 16600, 
+        "gop": 11677
+    }, 
+    "for": "IL/Marion County/17121", 
+    "pct": {
+        "dem": 25.49, 
+        "per_point_diff": 44.86, 
+        "gop": 70.34
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3560, 
+        "dem": 2329, 
+        "tot": 8856, 
+        "gop": 5889
+    }, 
+    "for": "NM/Lincoln County/35027", 
+    "pct": {
+        "dem": 26.3, 
+        "per_point_diff": 40.2, 
+        "gop": 66.5
+    }
+}

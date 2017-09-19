@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1549, 
+        "dem": 253, 
+        "tot": 2084, 
+        "gop": 1802
+    }, 
+    "for": "TX/Childress County/48075", 
+    "pct": {
+        "dem": 12.14, 
+        "per_point_diff": 74.33, 
+        "gop": 86.47
+    }
+}

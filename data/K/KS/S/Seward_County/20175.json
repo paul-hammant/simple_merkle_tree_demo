@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1534, 
+        "dem": 1491, 
+        "tot": 4743, 
+        "gop": 3025
+    }, 
+    "for": "KS/Seward County/20175", 
+    "pct": {
+        "dem": 31.44, 
+        "per_point_diff": 32.34, 
+        "gop": 63.78
+    }
+}

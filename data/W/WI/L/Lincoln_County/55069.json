@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3030, 
+        "dem": 5370, 
+        "tot": 14563, 
+        "gop": 8400
+    }, 
+    "for": "WI/Lincoln County/55069", 
+    "pct": {
+        "dem": 36.87, 
+        "per_point_diff": 20.81, 
+        "gop": 57.68
+    }
+}

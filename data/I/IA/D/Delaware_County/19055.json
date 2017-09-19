@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2732, 
+        "dem": 2956, 
+        "tot": 9165, 
+        "gop": 5688
+    }, 
+    "for": "IA/Delaware County/19055", 
+    "pct": {
+        "dem": 32.25, 
+        "per_point_diff": 29.81, 
+        "gop": 62.06
+    }
+}

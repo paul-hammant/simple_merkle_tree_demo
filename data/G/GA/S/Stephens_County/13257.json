@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5847, 
+        "dem": 1835, 
+        "tot": 9760, 
+        "gop": 7682
+    }, 
+    "for": "GA/Stephens County/13257", 
+    "pct": {
+        "dem": 18.8, 
+        "per_point_diff": 59.91, 
+        "gop": 78.71
+    }
+}

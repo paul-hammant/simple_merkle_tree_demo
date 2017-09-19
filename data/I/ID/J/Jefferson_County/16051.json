@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7460, 
+        "dem": 976, 
+        "tot": 11471, 
+        "gop": 8436
+    }, 
+    "for": "ID/Jefferson County/16051", 
+    "pct": {
+        "dem": 8.51, 
+        "per_point_diff": 65.03, 
+        "gop": 73.54
+    }
+}

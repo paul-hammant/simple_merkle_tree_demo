@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 821, 
+        "dem": 2558, 
+        "tot": 4363, 
+        "gop": 1737
+    }, 
+    "for": "VA/Greensville County/51081", 
+    "pct": {
+        "dem": 58.63, 
+        "per_point_diff": 18.82, 
+        "gop": 39.81
+    }
+}

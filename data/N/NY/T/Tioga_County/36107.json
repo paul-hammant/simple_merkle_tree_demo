@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5676, 
+        "dem": 6852, 
+        "tot": 20556, 
+        "gop": 12528
+    }, 
+    "for": "NY/Tioga County/36107", 
+    "pct": {
+        "dem": 33.33, 
+        "per_point_diff": 27.61, 
+        "gop": 60.95
+    }
+}

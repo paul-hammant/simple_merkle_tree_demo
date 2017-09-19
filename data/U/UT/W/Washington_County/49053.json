@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 29983, 
+        "dem": 9583, 
+        "tot": 57494, 
+        "gop": 39566
+    }, 
+    "for": "UT/Washington County/49053", 
+    "pct": {
+        "dem": 16.67, 
+        "per_point_diff": 52.15, 
+        "gop": 68.82
+    }
+}

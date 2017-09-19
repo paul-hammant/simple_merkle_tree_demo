@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6522, 
+        "dem": 1700, 
+        "tot": 10175, 
+        "gop": 8222
+    }, 
+    "for": "TX/Palo Pinto County/48363", 
+    "pct": {
+        "dem": 16.71, 
+        "per_point_diff": 64.1, 
+        "gop": 80.81
+    }
+}

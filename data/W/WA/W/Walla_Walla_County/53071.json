@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3225, 
+        "dem": 7550, 
+        "tot": 19718, 
+        "gop": 10775
+    }, 
+    "for": "WA/Walla Walla County/53071", 
+    "pct": {
+        "dem": 38.29, 
+        "per_point_diff": 16.36, 
+        "gop": 54.65
+    }
+}

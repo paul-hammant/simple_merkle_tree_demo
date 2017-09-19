@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 864, 
+        "dem": 752, 
+        "tot": 2558, 
+        "gop": 1616
+    }, 
+    "for": "NV/Storey County/32029", 
+    "pct": {
+        "dem": 29.4, 
+        "per_point_diff": 33.78, 
+        "gop": 63.17
+    }
+}

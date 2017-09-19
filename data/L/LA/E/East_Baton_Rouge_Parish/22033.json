@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18091, 
+        "dem": 102711, 
+        "tot": 196332, 
+        "gop": 84620
+    }, 
+    "for": "LA/East Baton Rouge Parish/22033", 
+    "pct": {
+        "dem": 52.31, 
+        "per_point_diff": 9.21, 
+        "gop": 43.1
+    }
+}

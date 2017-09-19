@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1886, 
+        "dem": 798, 
+        "tot": 3666, 
+        "gop": 2684
+    }, 
+    "for": "NE/Richardson County/31147", 
+    "pct": {
+        "dem": 21.77, 
+        "per_point_diff": 51.45, 
+        "gop": 73.21
+    }
+}

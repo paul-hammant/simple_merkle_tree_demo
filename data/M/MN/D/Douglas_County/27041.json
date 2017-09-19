@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7739, 
+        "dem": 6227, 
+        "tot": 21623, 
+        "gop": 13966
+    }, 
+    "for": "MN/Douglas County/27041", 
+    "pct": {
+        "dem": 28.8, 
+        "per_point_diff": 35.79, 
+        "gop": 64.59
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 689, 
+        "dem": 3288, 
+        "tot": 7602, 
+        "gop": 3977
+    }, 
+    "for": "WI/Lafayette County/55065", 
+    "pct": {
+        "dem": 43.25, 
+        "per_point_diff": 9.06, 
+        "gop": 52.32
+    }
+}

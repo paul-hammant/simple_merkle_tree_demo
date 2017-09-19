@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1231, 
+        "dem": 666, 
+        "tot": 2651, 
+        "gop": 1897
+    }, 
+    "for": "WI/Florence County/55037", 
+    "pct": {
+        "dem": 25.12, 
+        "per_point_diff": 46.44, 
+        "gop": 71.56
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3767, 
+        "dem": 1525, 
+        "tot": 7214, 
+        "gop": 5292
+    }, 
+    "for": "IN/Rush County/18139", 
+    "pct": {
+        "dem": 21.14, 
+        "per_point_diff": 52.22, 
+        "gop": 73.36
+    }
+}

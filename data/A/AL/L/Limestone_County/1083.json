@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 19484, 
+        "dem": 9340, 
+        "tot": 39400, 
+        "gop": 28824
+    }, 
+    "for": "AL/Limestone County/1083", 
+    "pct": {
+        "dem": 23.71, 
+        "per_point_diff": 49.45, 
+        "gop": 73.16
+    }
+}

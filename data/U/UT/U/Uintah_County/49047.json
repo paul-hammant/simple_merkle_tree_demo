@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8874, 
+        "dem": 1002, 
+        "tot": 12883, 
+        "gop": 9876
+    }, 
+    "for": "UT/Uintah County/49047", 
+    "pct": {
+        "dem": 7.78, 
+        "per_point_diff": 68.88, 
+        "gop": 76.66
+    }
+}

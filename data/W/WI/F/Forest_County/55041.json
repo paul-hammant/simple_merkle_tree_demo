@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1204, 
+        "dem": 1583, 
+        "tot": 4507, 
+        "gop": 2787
+    }, 
+    "for": "WI/Forest County/55041", 
+    "pct": {
+        "dem": 35.12, 
+        "per_point_diff": 26.71, 
+        "gop": 61.84
+    }
+}

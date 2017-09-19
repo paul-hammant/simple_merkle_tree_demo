@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1471, 
+        "dem": 4145, 
+        "tot": 10515, 
+        "gop": 5616
+    }, 
+    "for": "MN/Houston County/27055", 
+    "pct": {
+        "dem": 39.42, 
+        "per_point_diff": 13.99, 
+        "gop": 53.41
+    }
+}

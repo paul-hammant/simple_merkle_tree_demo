@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1158, 
+        "dem": 13629, 
+        "tot": 27660, 
+        "gop": 12471
+    }, 
+    "for": "VT/Rutland County/50021", 
+    "pct": {
+        "dem": 49.27, 
+        "per_point_diff": 4.19, 
+        "gop": 45.09
+    }
+}

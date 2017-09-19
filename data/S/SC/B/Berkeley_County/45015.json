@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13731, 
+        "dem": 30492, 
+        "tot": 78919, 
+        "gop": 44223
+    }, 
+    "for": "SC/Berkeley County/45015", 
+    "pct": {
+        "dem": 38.64, 
+        "per_point_diff": 17.4, 
+        "gop": 56.04
+    }
+}

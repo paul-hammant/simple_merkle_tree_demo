@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5110, 
+        "dem": 934, 
+        "tot": 7123, 
+        "gop": 6044
+    }, 
+    "for": "TN/Scott County/47151", 
+    "pct": {
+        "dem": 13.11, 
+        "per_point_diff": 71.74, 
+        "gop": 84.85
+    }
+}

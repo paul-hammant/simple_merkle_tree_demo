@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 899, 
+        "dem": 7001, 
+        "tot": 16382, 
+        "gop": 7900
+    }, 
+    "for": "ME/Franklin County/23007", 
+    "pct": {
+        "dem": 42.74, 
+        "per_point_diff": 5.49, 
+        "gop": 48.22
+    }
+}

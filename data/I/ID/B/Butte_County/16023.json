@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 754, 
+        "dem": 160, 
+        "tot": 1230, 
+        "gop": 914
+    }, 
+    "for": "ID/Butte County/16023", 
+    "pct": {
+        "dem": 13.01, 
+        "per_point_diff": 61.3, 
+        "gop": 74.31
+    }
+}

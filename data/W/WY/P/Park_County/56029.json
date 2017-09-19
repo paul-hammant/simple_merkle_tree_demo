@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8580, 
+        "dem": 2535, 
+        "tot": 14634, 
+        "gop": 11115
+    }, 
+    "for": "WY/Park County/56029", 
+    "pct": {
+        "dem": 17.32, 
+        "per_point_diff": 58.63, 
+        "gop": 75.95
+    }
+}

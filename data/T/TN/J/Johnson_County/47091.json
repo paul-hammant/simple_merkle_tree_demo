@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4412, 
+        "dem": 988, 
+        "tot": 6556, 
+        "gop": 5400
+    }, 
+    "for": "TN/Johnson County/47091", 
+    "pct": {
+        "dem": 15.07, 
+        "per_point_diff": 67.3, 
+        "gop": 82.37
+    }
+}

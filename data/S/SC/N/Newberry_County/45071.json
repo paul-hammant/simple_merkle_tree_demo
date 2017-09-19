@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3799, 
+        "dem": 6212, 
+        "tot": 16795, 
+        "gop": 10011
+    }, 
+    "for": "SC/Newberry County/45071", 
+    "pct": {
+        "dem": 36.99, 
+        "per_point_diff": 22.62, 
+        "gop": 59.61
+    }
+}

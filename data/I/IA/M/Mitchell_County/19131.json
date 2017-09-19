@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1301, 
+        "dem": 1879, 
+        "tot": 5360, 
+        "gop": 3180
+    }, 
+    "for": "IA/Mitchell County/19131", 
+    "pct": {
+        "dem": 35.06, 
+        "per_point_diff": 24.27, 
+        "gop": 59.33
+    }
+}

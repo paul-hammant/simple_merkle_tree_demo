@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4859, 
+        "dem": 2724, 
+        "tot": 10816, 
+        "gop": 7583
+    }, 
+    "for": "WV/Randolph County/54083", 
+    "pct": {
+        "dem": 25.18, 
+        "per_point_diff": 44.92, 
+        "gop": 70.11
+    }
+}

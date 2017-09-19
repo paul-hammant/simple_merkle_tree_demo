@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 978, 
+        "dem": 149, 
+        "tot": 1328, 
+        "gop": 1127
+    }, 
+    "for": "KS/Gove County/20063", 
+    "pct": {
+        "dem": 11.22, 
+        "per_point_diff": 73.64, 
+        "gop": 84.86
+    }
+}

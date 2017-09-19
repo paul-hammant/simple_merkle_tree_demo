@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3752, 
+        "dem": 2048, 
+        "tot": 8189, 
+        "gop": 5800
+    }, 
+    "for": "IN/Orange County/18117", 
+    "pct": {
+        "dem": 25.01, 
+        "per_point_diff": 45.82, 
+        "gop": 70.83
+    }
+}

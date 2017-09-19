@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 62095, 
+        "dem": 119525, 
+        "tot": 314337, 
+        "gop": 181620
+    }, 
+    "for": "FL/Brevard County/12009", 
+    "pct": {
+        "dem": 38.02, 
+        "per_point_diff": 19.75, 
+        "gop": 57.78
+    }
+}

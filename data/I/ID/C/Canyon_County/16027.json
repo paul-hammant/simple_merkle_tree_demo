@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 30072, 
+        "dem": 16683, 
+        "tot": 72007, 
+        "gop": 46755
+    }, 
+    "for": "ID/Canyon County/16027", 
+    "pct": {
+        "dem": 23.17, 
+        "per_point_diff": 41.76, 
+        "gop": 64.93
+    }
+}

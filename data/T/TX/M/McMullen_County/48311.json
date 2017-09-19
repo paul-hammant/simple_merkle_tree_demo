@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 414, 
+        "dem": 40, 
+        "tot": 497, 
+        "gop": 454
+    }, 
+    "for": "TX/McMullen County/48311", 
+    "pct": {
+        "dem": 8.05, 
+        "per_point_diff": 83.3, 
+        "gop": 91.35
+    }
+}

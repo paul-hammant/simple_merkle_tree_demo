@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1415, 
+        "dem": 8368, 
+        "tot": 15798, 
+        "gop": 6953
+    }, 
+    "for": "AR/Crittenden County/5035", 
+    "pct": {
+        "dem": 52.97, 
+        "per_point_diff": 8.96, 
+        "gop": 44.01
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7778, 
+        "dem": 5924, 
+        "tot": 21087, 
+        "gop": 13702
+    }, 
+    "for": "MO/Johnson County/29101", 
+    "pct": {
+        "dem": 28.09, 
+        "per_point_diff": 36.89, 
+        "gop": 64.98
+    }
+}

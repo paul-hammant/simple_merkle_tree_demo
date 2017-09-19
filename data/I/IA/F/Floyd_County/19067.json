@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1194, 
+        "dem": 3177, 
+        "tot": 7985, 
+        "gop": 4371
+    }, 
+    "for": "IA/Floyd County/19067", 
+    "pct": {
+        "dem": 39.79, 
+        "per_point_diff": 14.95, 
+        "gop": 54.74
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 291, 
+        "dem": 59, 
+        "tot": 441, 
+        "gop": 350
+    }, 
+    "for": "MT/Treasure County/30103", 
+    "pct": {
+        "dem": 13.38, 
+        "per_point_diff": 65.99, 
+        "gop": 79.37
+    }
+}

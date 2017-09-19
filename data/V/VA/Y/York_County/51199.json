@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5834, 
+        "dem": 12989, 
+        "tot": 34062, 
+        "gop": 18823
+    }, 
+    "for": "VA/York County/51199", 
+    "pct": {
+        "dem": 38.13, 
+        "per_point_diff": 17.13, 
+        "gop": 55.26
+    }
+}

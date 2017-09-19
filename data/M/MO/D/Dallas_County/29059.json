@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4624, 
+        "dem": 1271, 
+        "tot": 7440, 
+        "gop": 5895
+    }, 
+    "for": "MO/Dallas County/29059", 
+    "pct": {
+        "dem": 17.08, 
+        "per_point_diff": 62.15, 
+        "gop": 79.23
+    }
+}

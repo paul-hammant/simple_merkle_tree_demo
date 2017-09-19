@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 29351, 
+        "dem": 42297, 
+        "tot": 56867, 
+        "gop": 12946
+    }, 
+    "for": "TX/Webb County/48479", 
+    "pct": {
+        "dem": 74.38, 
+        "per_point_diff": 51.61, 
+        "gop": 22.77
+    }
+}

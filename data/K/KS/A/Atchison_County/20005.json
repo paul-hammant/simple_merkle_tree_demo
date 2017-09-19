@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2031, 
+        "dem": 1946, 
+        "tot": 6393, 
+        "gop": 3977
+    }, 
+    "for": "KS/Atchison County/20005", 
+    "pct": {
+        "dem": 30.44, 
+        "per_point_diff": 31.77, 
+        "gop": 62.21
+    }
+}

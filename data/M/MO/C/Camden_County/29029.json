@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12015, 
+        "dem": 4706, 
+        "tot": 22182, 
+        "gop": 16721
+    }, 
+    "for": "MO/Camden County/29029", 
+    "pct": {
+        "dem": 21.22, 
+        "per_point_diff": 54.17, 
+        "gop": 75.38
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1863, 
+        "dem": 792, 
+        "tot": 3590, 
+        "gop": 2655
+    }, 
+    "for": "IA/Ida County/19093", 
+    "pct": {
+        "dem": 22.06, 
+        "per_point_diff": 51.89, 
+        "gop": 73.96
+    }
+}

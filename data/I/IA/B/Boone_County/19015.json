@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1941, 
+        "dem": 5517, 
+        "tot": 13984, 
+        "gop": 7458
+    }, 
+    "for": "IA/Boone County/19015", 
+    "pct": {
+        "dem": 39.45, 
+        "per_point_diff": 13.88, 
+        "gop": 53.33
+    }
+}

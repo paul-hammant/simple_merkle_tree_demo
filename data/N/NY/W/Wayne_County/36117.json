@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9557, 
+        "dem": 12378, 
+        "tot": 36598, 
+        "gop": 21935
+    }, 
+    "for": "NY/Wayne County/36117", 
+    "pct": {
+        "dem": 33.82, 
+        "per_point_diff": 26.11, 
+        "gop": 59.93
+    }
+}

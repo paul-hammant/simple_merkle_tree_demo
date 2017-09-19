@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4631, 
+        "dem": 3709, 
+        "tot": 12948, 
+        "gop": 8340
+    }, 
+    "for": "MN/Mille Lacs County/27095", 
+    "pct": {
+        "dem": 28.65, 
+        "per_point_diff": 35.77, 
+        "gop": 64.41
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1305, 
+        "dem": 5785, 
+        "tot": 10394, 
+        "gop": 4480
+    }, 
+    "for": "NC/Anson County/37007", 
+    "pct": {
+        "dem": 55.66, 
+        "per_point_diff": 12.56, 
+        "gop": 43.1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1352, 
+        "dem": 537, 
+        "tot": 2528, 
+        "gop": 1889
+    }, 
+    "for": "WV/Gilmer County/54021", 
+    "pct": {
+        "dem": 21.24, 
+        "per_point_diff": 53.48, 
+        "gop": 74.72
+    }
+}

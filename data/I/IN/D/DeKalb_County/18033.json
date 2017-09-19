@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8113, 
+        "dem": 3941, 
+        "tot": 16816, 
+        "gop": 12054
+    }, 
+    "for": "IN/DeKalb County/18033", 
+    "pct": {
+        "dem": 23.44, 
+        "per_point_diff": 48.25, 
+        "gop": 71.68
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4205, 
+        "dem": 1946, 
+        "tot": 8520, 
+        "gop": 6151
+    }, 
+    "for": "IN/Owen County/18119", 
+    "pct": {
+        "dem": 22.84, 
+        "per_point_diff": 49.35, 
+        "gop": 72.19
+    }
+}

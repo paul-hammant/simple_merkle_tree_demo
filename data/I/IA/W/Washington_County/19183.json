@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2232, 
+        "dem": 3938, 
+        "tot": 10824, 
+        "gop": 6170
+    }, 
+    "for": "IA/Washington County/19183", 
+    "pct": {
+        "dem": 36.38, 
+        "per_point_diff": 20.62, 
+        "gop": 57.0
+    }
+}

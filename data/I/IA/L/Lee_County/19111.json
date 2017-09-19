@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2567, 
+        "dem": 6195, 
+        "tot": 15893, 
+        "gop": 8762
+    }, 
+    "for": "IA/Lee County/19111", 
+    "pct": {
+        "dem": 38.98, 
+        "per_point_diff": 16.15, 
+        "gop": 55.13
+    }
+}

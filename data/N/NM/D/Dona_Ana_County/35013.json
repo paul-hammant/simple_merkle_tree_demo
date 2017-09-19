@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12448, 
+        "dem": 37543, 
+        "tot": 69324, 
+        "gop": 25095
+    }, 
+    "for": "NM/Dona Ana County/35013", 
+    "pct": {
+        "dem": 54.16, 
+        "per_point_diff": 17.96, 
+        "gop": 36.2
+    }
+}

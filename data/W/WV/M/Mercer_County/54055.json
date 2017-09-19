@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12673, 
+        "dem": 4689, 
+        "tot": 22919, 
+        "gop": 17362
+    }, 
+    "for": "WV/Mercer County/54055", 
+    "pct": {
+        "dem": 20.46, 
+        "per_point_diff": 55.29, 
+        "gop": 75.75
+    }
+}

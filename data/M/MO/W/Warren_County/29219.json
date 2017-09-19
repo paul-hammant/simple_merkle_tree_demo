@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7194, 
+        "dem": 3915, 
+        "tot": 15766, 
+        "gop": 11109
+    }, 
+    "for": "MO/Warren County/29219", 
+    "pct": {
+        "dem": 24.83, 
+        "per_point_diff": 45.63, 
+        "gop": 70.46
+    }
+}

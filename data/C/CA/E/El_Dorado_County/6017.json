@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12390, 
+        "dem": 35243, 
+        "tot": 89228, 
+        "gop": 47633
+    }, 
+    "for": "CA/El Dorado County/6017", 
+    "pct": {
+        "dem": 39.5, 
+        "per_point_diff": 13.89, 
+        "gop": 53.38
+    }
+}

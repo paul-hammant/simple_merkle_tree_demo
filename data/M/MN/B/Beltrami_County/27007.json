@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2095, 
+        "dem": 8688, 
+        "tot": 21316, 
+        "gop": 10783
+    }, 
+    "for": "MN/Beltrami County/27007", 
+    "pct": {
+        "dem": 40.76, 
+        "per_point_diff": 9.83, 
+        "gop": 50.59
+    }
+}

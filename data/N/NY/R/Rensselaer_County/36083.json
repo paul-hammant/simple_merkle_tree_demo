@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1894, 
+        "dem": 30039, 
+        "tot": 65991, 
+        "gop": 31933
+    }, 
+    "for": "NY/Rensselaer County/36083", 
+    "pct": {
+        "dem": 45.52, 
+        "per_point_diff": 2.87, 
+        "gop": 48.39
+    }
+}

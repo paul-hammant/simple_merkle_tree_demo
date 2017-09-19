@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7121, 
+        "dem": 3611, 
+        "tot": 14623, 
+        "gop": 10732
+    }, 
+    "for": "AL/Lawrence County/1079", 
+    "pct": {
+        "dem": 24.69, 
+        "per_point_diff": 48.7, 
+        "gop": 73.39
+    }
+}

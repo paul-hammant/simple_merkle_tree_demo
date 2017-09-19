@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 38104, 
+        "dem": 8329, 
+        "tot": 56413, 
+        "gop": 46433
+    }, 
+    "for": "TX/Parker County/48367", 
+    "pct": {
+        "dem": 14.76, 
+        "per_point_diff": 67.54, 
+        "gop": 82.31
+    }
+}

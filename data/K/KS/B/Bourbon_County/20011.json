@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3008, 
+        "dem": 1306, 
+        "tot": 5918, 
+        "gop": 4314
+    }, 
+    "for": "KS/Bourbon County/20011", 
+    "pct": {
+        "dem": 22.07, 
+        "per_point_diff": 50.83, 
+        "gop": 72.9
+    }
+}

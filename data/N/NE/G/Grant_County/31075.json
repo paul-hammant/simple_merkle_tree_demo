@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 347, 
+        "dem": 20, 
+        "tot": 394, 
+        "gop": 367
+    }, 
+    "for": "NE/Grant County/31075", 
+    "pct": {
+        "dem": 5.08, 
+        "per_point_diff": 88.07, 
+        "gop": 93.15
+    }
+}

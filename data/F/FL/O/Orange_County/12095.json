@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 134488, 
+        "dem": 329579, 
+        "tot": 545800, 
+        "gop": 195091
+    }, 
+    "for": "FL/Orange County/12095", 
+    "pct": {
+        "dem": 60.38, 
+        "per_point_diff": 24.64, 
+        "gop": 35.74
+    }
+}

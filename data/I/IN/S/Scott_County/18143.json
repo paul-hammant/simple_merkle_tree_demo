@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3432, 
+        "dem": 2642, 
+        "tot": 9060, 
+        "gop": 6074
+    }, 
+    "for": "IN/Scott County/18143", 
+    "pct": {
+        "dem": 29.16, 
+        "per_point_diff": 37.88, 
+        "gop": 67.04
+    }
+}

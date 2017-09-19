@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1350, 
+        "dem": 427, 
+        "tot": 2413, 
+        "gop": 1777
+    }, 
+    "for": "ID/Custer County/16037", 
+    "pct": {
+        "dem": 17.7, 
+        "per_point_diff": 55.95, 
+        "gop": 73.64
+    }
+}

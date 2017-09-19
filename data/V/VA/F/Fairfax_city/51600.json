@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3668, 
+        "dem": 7363, 
+        "tot": 11854, 
+        "gop": 3695
+    }, 
+    "for": "VA/Fairfax city/51600", 
+    "pct": {
+        "dem": 62.11, 
+        "per_point_diff": 30.94, 
+        "gop": 31.17
+    }
+}

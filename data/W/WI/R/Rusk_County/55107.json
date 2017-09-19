@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2393, 
+        "dem": 2171, 
+        "tot": 7029, 
+        "gop": 4564
+    }, 
+    "for": "WI/Rusk County/55107", 
+    "pct": {
+        "dem": 30.89, 
+        "per_point_diff": 34.04, 
+        "gop": 64.93
+    }
+}

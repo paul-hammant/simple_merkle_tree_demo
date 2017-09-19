@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9365, 
+        "dem": 5889, 
+        "tot": 22096, 
+        "gop": 15254
+    }, 
+    "for": "PA/Venango County/42121", 
+    "pct": {
+        "dem": 26.65, 
+        "per_point_diff": 42.38, 
+        "gop": 69.04
+    }
+}

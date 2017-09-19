@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 420, 
+        "dem": 4178, 
+        "tot": 9166, 
+        "gop": 4598
+    }, 
+    "for": "MD/Kent County/24029", 
+    "pct": {
+        "dem": 45.58, 
+        "per_point_diff": 4.58, 
+        "gop": 50.16
+    }
+}

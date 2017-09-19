@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 709, 
+        "dem": 227, 
+        "tot": 1230, 
+        "gop": 936
+    }, 
+    "for": "CO/Dolores County/8033", 
+    "pct": {
+        "dem": 18.46, 
+        "per_point_diff": 57.64, 
+        "gop": 76.1
+    }
+}

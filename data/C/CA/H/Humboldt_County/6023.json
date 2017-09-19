@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8713, 
+        "dem": 19596, 
+        "tot": 33636, 
+        "gop": 10883
+    }, 
+    "for": "CA/Humboldt County/6023", 
+    "pct": {
+        "dem": 58.26, 
+        "per_point_diff": 25.9, 
+        "gop": 32.36
+    }
+}

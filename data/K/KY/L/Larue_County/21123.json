@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3521, 
+        "dem": 1278, 
+        "tot": 6359, 
+        "gop": 4799
+    }, 
+    "for": "KY/Larue County/21123", 
+    "pct": {
+        "dem": 20.1, 
+        "per_point_diff": 55.37, 
+        "gop": 75.47
+    }
+}

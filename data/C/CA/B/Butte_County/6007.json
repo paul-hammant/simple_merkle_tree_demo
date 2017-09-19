@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3517, 
+        "dem": 38676, 
+        "tot": 87847, 
+        "gop": 42193
+    }, 
+    "for": "CA/Butte County/6007", 
+    "pct": {
+        "dem": 44.03, 
+        "per_point_diff": 4.0, 
+        "gop": 48.03
+    }
+}

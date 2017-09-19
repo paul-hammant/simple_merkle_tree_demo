@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 37427, 
+        "dem": 31546, 
+        "tot": 105969, 
+        "gop": 68973
+    }, 
+    "for": "MO/Jefferson County/29099", 
+    "pct": {
+        "dem": 29.77, 
+        "per_point_diff": 35.32, 
+        "gop": 65.09
+    }
+}

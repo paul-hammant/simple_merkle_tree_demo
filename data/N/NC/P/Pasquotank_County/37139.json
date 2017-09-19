@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 373, 
+        "dem": 8455, 
+        "tot": 16964, 
+        "gop": 8082
+    }, 
+    "for": "NC/Pasquotank County/37139", 
+    "pct": {
+        "dem": 49.84, 
+        "per_point_diff": 2.2, 
+        "gop": 47.64
+    }
+}

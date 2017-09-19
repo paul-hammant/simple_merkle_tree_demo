@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16841, 
+        "dem": 8327, 
+        "tot": 35256, 
+        "gop": 25168
+    }, 
+    "for": "WV/Wood County/54107", 
+    "pct": {
+        "dem": 23.62, 
+        "per_point_diff": 47.77, 
+        "gop": 71.39
+    }
+}

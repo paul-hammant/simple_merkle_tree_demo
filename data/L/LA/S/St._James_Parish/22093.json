@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 962, 
+        "dem": 6418, 
+        "tot": 12085, 
+        "gop": 5456
+    }, 
+    "for": "LA/St. James Parish/22093", 
+    "pct": {
+        "dem": 53.11, 
+        "per_point_diff": 7.96, 
+        "gop": 45.15
+    }
+}

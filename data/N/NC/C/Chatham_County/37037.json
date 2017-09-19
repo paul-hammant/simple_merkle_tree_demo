@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3941, 
+        "dem": 20953, 
+        "tot": 39080, 
+        "gop": 17012
+    }, 
+    "for": "NC/Chatham County/37037", 
+    "pct": {
+        "dem": 53.62, 
+        "per_point_diff": 10.08, 
+        "gop": 43.53
+    }
+}

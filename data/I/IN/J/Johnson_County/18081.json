@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 28138, 
+        "dem": 17318, 
+        "tot": 66229, 
+        "gop": 45456
+    }, 
+    "for": "IN/Johnson County/18081", 
+    "pct": {
+        "dem": 26.15, 
+        "per_point_diff": 42.49, 
+        "gop": 68.63
+    }
+}

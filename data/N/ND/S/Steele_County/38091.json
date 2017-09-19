@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 176, 
+        "dem": 361, 
+        "tot": 984, 
+        "gop": 537
+    }, 
+    "for": "ND/Steele County/38091", 
+    "pct": {
+        "dem": 36.69, 
+        "per_point_diff": 17.89, 
+        "gop": 54.57
+    }
+}

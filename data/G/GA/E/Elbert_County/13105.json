@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2762, 
+        "dem": 2507, 
+        "tot": 7912, 
+        "gop": 5269
+    }, 
+    "for": "GA/Elbert County/13105", 
+    "pct": {
+        "dem": 31.69, 
+        "per_point_diff": 34.91, 
+        "gop": 66.6
+    }
+}

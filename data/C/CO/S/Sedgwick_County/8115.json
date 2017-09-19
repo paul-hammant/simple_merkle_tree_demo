@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 748, 
+        "dem": 267, 
+        "tot": 1364, 
+        "gop": 1015
+    }, 
+    "for": "CO/Sedgwick County/8115", 
+    "pct": {
+        "dem": 19.57, 
+        "per_point_diff": 54.84, 
+        "gop": 74.41
+    }
+}

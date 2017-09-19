@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3856, 
+        "dem": 1778, 
+        "tot": 7783, 
+        "gop": 5634
+    }, 
+    "for": "IL/Edgar County/17045", 
+    "pct": {
+        "dem": 22.84, 
+        "per_point_diff": 49.54, 
+        "gop": 72.39
+    }
+}

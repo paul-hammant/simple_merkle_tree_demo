@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3130, 
+        "dem": 1279, 
+        "tot": 6200, 
+        "gop": 4409
+    }, 
+    "for": "WY/Carbon County/56007", 
+    "pct": {
+        "dem": 20.63, 
+        "per_point_diff": 50.48, 
+        "gop": 71.11
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3867, 
+        "dem": 3802, 
+        "tot": 11961, 
+        "gop": 7669
+    }, 
+    "for": "WI/Waushara County/55137", 
+    "pct": {
+        "dem": 31.79, 
+        "per_point_diff": 32.33, 
+        "gop": 64.12
+    }
+}

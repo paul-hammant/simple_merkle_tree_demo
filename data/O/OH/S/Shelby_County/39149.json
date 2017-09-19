@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14005, 
+        "dem": 4143, 
+        "tot": 23110, 
+        "gop": 18148
+    }, 
+    "for": "OH/Shelby County/39149", 
+    "pct": {
+        "dem": 17.93, 
+        "per_point_diff": 60.6, 
+        "gop": 78.53
+    }
+}

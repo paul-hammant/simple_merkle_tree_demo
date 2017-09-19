@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4378, 
+        "dem": 4302, 
+        "tot": 13647, 
+        "gop": 8680
+    }, 
+    "for": "MI/Cheboygan County/26031", 
+    "pct": {
+        "dem": 31.52, 
+        "per_point_diff": 32.08, 
+        "gop": 63.6
+    }
+}

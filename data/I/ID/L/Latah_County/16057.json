@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 838, 
+        "dem": 8093, 
+        "tot": 18146, 
+        "gop": 7255
+    }, 
+    "for": "ID/Latah County/16057", 
+    "pct": {
+        "dem": 44.6, 
+        "per_point_diff": 4.62, 
+        "gop": 39.98
+    }
+}

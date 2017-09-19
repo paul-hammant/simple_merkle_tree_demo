@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1611, 
+        "dem": 304, 
+        "tot": 2315, 
+        "gop": 1915
+    }, 
+    "for": "NE/Furnas County/31065", 
+    "pct": {
+        "dem": 13.13, 
+        "per_point_diff": 69.59, 
+        "gop": 82.72
+    }
+}

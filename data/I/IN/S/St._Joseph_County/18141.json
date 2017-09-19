@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 228, 
+        "dem": 52247, 
+        "tot": 109452, 
+        "gop": 52019
+    }, 
+    "for": "IN/St. Joseph County/18141", 
+    "pct": {
+        "dem": 47.74, 
+        "per_point_diff": 0.21, 
+        "gop": 47.53
+    }
+}

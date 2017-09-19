@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2592, 
+        "dem": 15741, 
+        "tot": 37030, 
+        "gop": 18333
+    }, 
+    "for": "OR/Polk County/41053", 
+    "pct": {
+        "dem": 42.51, 
+        "per_point_diff": 7.0, 
+        "gop": 49.51
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2422, 
+        "dem": 1808, 
+        "tot": 6423, 
+        "gop": 4230
+    }, 
+    "for": "IL/Menard County/17129", 
+    "pct": {
+        "dem": 28.15, 
+        "per_point_diff": 37.71, 
+        "gop": 65.86
+    }
+}

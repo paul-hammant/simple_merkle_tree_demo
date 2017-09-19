@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13781, 
+        "dem": 18595, 
+        "tot": 53660, 
+        "gop": 32376
+    }, 
+    "for": "IN/Madison County/18095", 
+    "pct": {
+        "dem": 34.65, 
+        "per_point_diff": 25.68, 
+        "gop": 60.34
+    }
+}

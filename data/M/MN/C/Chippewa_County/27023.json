@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1786, 
+        "dem": 1978, 
+        "tot": 6182, 
+        "gop": 3764
+    }, 
+    "for": "MN/Chippewa County/27023", 
+    "pct": {
+        "dem": 32.0, 
+        "per_point_diff": 28.89, 
+        "gop": 60.89
+    }
+}

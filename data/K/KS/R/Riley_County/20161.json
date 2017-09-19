@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 925, 
+        "dem": 8892, 
+        "tot": 20475, 
+        "gop": 9817
+    }, 
+    "for": "KS/Riley County/20161", 
+    "pct": {
+        "dem": 43.43, 
+        "per_point_diff": 4.52, 
+        "gop": 47.95
+    }
+}

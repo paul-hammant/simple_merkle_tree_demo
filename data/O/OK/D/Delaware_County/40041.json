@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8490, 
+        "dem": 3306, 
+        "tot": 15680, 
+        "gop": 11796
+    }, 
+    "for": "OK/Delaware County/40041", 
+    "pct": {
+        "dem": 21.08, 
+        "per_point_diff": 54.15, 
+        "gop": 75.23
+    }
+}

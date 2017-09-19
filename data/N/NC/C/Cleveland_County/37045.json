@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13498, 
+        "dem": 14896, 
+        "tot": 44137, 
+        "gop": 28394
+    }, 
+    "for": "NC/Cleveland County/37045", 
+    "pct": {
+        "dem": 33.75, 
+        "per_point_diff": 30.58, 
+        "gop": 64.33
+    }
+}

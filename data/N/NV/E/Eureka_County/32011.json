@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 649, 
+        "dem": 74, 
+        "tot": 854, 
+        "gop": 723
+    }, 
+    "for": "NV/Eureka County/32011", 
+    "pct": {
+        "dem": 8.67, 
+        "per_point_diff": 76.0, 
+        "gop": 84.66
+    }
+}

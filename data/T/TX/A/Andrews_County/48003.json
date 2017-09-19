@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3089, 
+        "dem": 836, 
+        "tot": 4926, 
+        "gop": 3925
+    }, 
+    "for": "TX/Andrews County/48003", 
+    "pct": {
+        "dem": 16.97, 
+        "per_point_diff": 62.71, 
+        "gop": 79.68
+    }
+}

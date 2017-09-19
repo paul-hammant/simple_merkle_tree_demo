@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1941, 
+        "dem": 2633, 
+        "tot": 3390, 
+        "gop": 692
+    }, 
+    "for": "TX/Zavala County/48507", 
+    "pct": {
+        "dem": 77.67, 
+        "per_point_diff": 57.26, 
+        "gop": 20.41
+    }
+}

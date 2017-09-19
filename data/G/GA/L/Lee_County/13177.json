@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7475, 
+        "dem": 3166, 
+        "tot": 14106, 
+        "gop": 10641
+    }, 
+    "for": "GA/Lee County/13177", 
+    "pct": {
+        "dem": 22.44, 
+        "per_point_diff": 52.99, 
+        "gop": 75.44
+    }
+}

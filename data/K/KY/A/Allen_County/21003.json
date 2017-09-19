@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5117, 
+        "dem": 1349, 
+        "tot": 8085, 
+        "gop": 6466
+    }, 
+    "for": "KY/Allen County/21003", 
+    "pct": {
+        "dem": 16.69, 
+        "per_point_diff": 63.29, 
+        "gop": 79.98
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1371, 
+        "dem": 426, 
+        "tot": 2299, 
+        "gop": 1797
+    }, 
+    "for": "TX/Yoakum County/48501", 
+    "pct": {
+        "dem": 18.53, 
+        "per_point_diff": 59.63, 
+        "gop": 78.16
+    }
+}

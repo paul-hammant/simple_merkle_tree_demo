@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9033, 
+        "dem": 7874, 
+        "tot": 26556, 
+        "gop": 16907
+    }, 
+    "for": "MI/Montcalm County/26117", 
+    "pct": {
+        "dem": 29.65, 
+        "per_point_diff": 34.01, 
+        "gop": 63.67
+    }
+}

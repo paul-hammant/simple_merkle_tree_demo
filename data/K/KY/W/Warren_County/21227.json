@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11707, 
+        "dem": 16966, 
+        "tot": 48416, 
+        "gop": 28673
+    }, 
+    "for": "KY/Warren County/21227", 
+    "pct": {
+        "dem": 35.04, 
+        "per_point_diff": 24.18, 
+        "gop": 59.22
+    }
+}

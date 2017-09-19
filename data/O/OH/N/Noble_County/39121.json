@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3240, 
+        "dem": 1201, 
+        "tot": 5875, 
+        "gop": 4441
+    }, 
+    "for": "OH/Noble County/39121", 
+    "pct": {
+        "dem": 20.44, 
+        "per_point_diff": 55.15, 
+        "gop": 75.59
+    }
+}

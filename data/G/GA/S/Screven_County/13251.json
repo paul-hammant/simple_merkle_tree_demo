@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1005, 
+        "dem": 2300, 
+        "tot": 5699, 
+        "gop": 3305
+    }, 
+    "for": "GA/Screven County/13251", 
+    "pct": {
+        "dem": 40.36, 
+        "per_point_diff": 17.63, 
+        "gop": 57.99
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 26642, 
+        "dem": 18004, 
+        "tot": 64601, 
+        "gop": 44646
+    }, 
+    "for": "GA/Paulding County/13223", 
+    "pct": {
+        "dem": 27.87, 
+        "per_point_diff": 41.24, 
+        "gop": 69.11
+    }
+}

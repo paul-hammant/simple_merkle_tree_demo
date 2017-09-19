@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2016, 
+        "dem": 707, 
+        "tot": 3773, 
+        "gop": 2723
+    }, 
+    "for": "NV/White Pine County/32033", 
+    "pct": {
+        "dem": 18.74, 
+        "per_point_diff": 53.43, 
+        "gop": 72.17
+    }
+}

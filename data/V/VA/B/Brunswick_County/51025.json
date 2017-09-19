@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1428, 
+        "dem": 4473, 
+        "tot": 7645, 
+        "gop": 3045
+    }, 
+    "for": "VA/Brunswick County/51025", 
+    "pct": {
+        "dem": 58.51, 
+        "per_point_diff": 18.68, 
+        "gop": 39.83
+    }
+}

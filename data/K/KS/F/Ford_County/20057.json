@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2962, 
+        "dem": 2032, 
+        "tot": 7425, 
+        "gop": 4994
+    }, 
+    "for": "KS/Ford County/20057", 
+    "pct": {
+        "dem": 27.37, 
+        "per_point_diff": 39.89, 
+        "gop": 67.26
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 722, 
+        "dem": 1028, 
+        "tot": 2835, 
+        "gop": 1750
+    }, 
+    "for": "AR/Lafayette County/5073", 
+    "pct": {
+        "dem": 36.26, 
+        "per_point_diff": 25.47, 
+        "gop": 61.73
+    }
+}

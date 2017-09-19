@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1849, 
+        "dem": 4292, 
+        "tot": 6894, 
+        "gop": 2443
+    }, 
+    "for": "AR/Phillips County/5107", 
+    "pct": {
+        "dem": 62.26, 
+        "per_point_diff": 26.82, 
+        "gop": 35.44
+    }
+}

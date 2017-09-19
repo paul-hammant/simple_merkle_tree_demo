@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 424, 
+        "dem": 42404, 
+        "tot": 87363, 
+        "gop": 42828
+    }, 
+    "for": "TX/Jefferson County/48245", 
+    "pct": {
+        "dem": 48.54, 
+        "per_point_diff": 0.49, 
+        "gop": 49.02
+    }
+}

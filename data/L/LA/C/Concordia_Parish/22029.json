@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2202, 
+        "dem": 3272, 
+        "tot": 8869, 
+        "gop": 5474
+    }, 
+    "for": "LA/Concordia Parish/22029", 
+    "pct": {
+        "dem": 36.89, 
+        "per_point_diff": 24.83, 
+        "gop": 61.72
+    }
+}

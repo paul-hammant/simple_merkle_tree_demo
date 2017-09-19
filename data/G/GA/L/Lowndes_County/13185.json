@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6694, 
+        "dem": 14614, 
+        "tot": 36813, 
+        "gop": 21308
+    }, 
+    "for": "GA/Lowndes County/13185", 
+    "pct": {
+        "dem": 39.7, 
+        "per_point_diff": 18.18, 
+        "gop": 57.88
+    }
+}

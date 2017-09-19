@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 739, 
+        "dem": 1531, 
+        "tot": 2367, 
+        "gop": 792
+    }, 
+    "for": "VA/Emporia city/51595", 
+    "pct": {
+        "dem": 64.68, 
+        "per_point_diff": 31.22, 
+        "gop": 33.46
+    }
+}

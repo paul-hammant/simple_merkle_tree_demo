@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 32427, 
+        "dem": 13741, 
+        "tot": 61356, 
+        "gop": 46168
+    }, 
+    "for": "MS/Rankin County/28121", 
+    "pct": {
+        "dem": 22.4, 
+        "per_point_diff": 52.85, 
+        "gop": 75.25
+    }
+}

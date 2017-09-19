@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 49, 
+        "dem": 4187, 
+        "tot": 8422, 
+        "gop": 4138
+    }, 
+    "for": "GA/Washington County/13303", 
+    "pct": {
+        "dem": 49.72, 
+        "per_point_diff": 0.58, 
+        "gop": 49.13
+    }
+}

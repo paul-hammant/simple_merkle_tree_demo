@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 31952, 
+        "dem": 18153, 
+        "tot": 71080, 
+        "gop": 50105
+    }, 
+    "for": "TN/Sumner County/47165", 
+    "pct": {
+        "dem": 25.54, 
+        "per_point_diff": 44.95, 
+        "gop": 70.49
+    }
+}

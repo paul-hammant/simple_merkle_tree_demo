@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17769, 
+        "dem": 8930, 
+        "tot": 44212, 
+        "gop": 26699
+    }, 
+    "for": "ID/Bonneville County/16019", 
+    "pct": {
+        "dem": 20.2, 
+        "per_point_diff": 40.19, 
+        "gop": 60.39
+    }
+}

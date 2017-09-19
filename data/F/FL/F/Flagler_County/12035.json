@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11819, 
+        "dem": 21985, 
+        "tot": 57413, 
+        "gop": 33804
+    }, 
+    "for": "FL/Flagler County/12035", 
+    "pct": {
+        "dem": 38.29, 
+        "per_point_diff": 20.59, 
+        "gop": 58.88
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7695, 
+        "dem": 3080, 
+        "tot": 14277, 
+        "gop": 10775
+    }, 
+    "for": "LA/Jefferson Davis Parish/22053", 
+    "pct": {
+        "dem": 21.57, 
+        "per_point_diff": 53.9, 
+        "gop": 75.47
+    }
+}

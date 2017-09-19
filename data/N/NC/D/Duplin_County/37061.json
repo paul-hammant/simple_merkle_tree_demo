@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3955, 
+        "dem": 8196, 
+        "tot": 20601, 
+        "gop": 12151
+    }, 
+    "for": "NC/Duplin County/37061", 
+    "pct": {
+        "dem": 39.78, 
+        "per_point_diff": 19.2, 
+        "gop": 58.98
+    }
+}

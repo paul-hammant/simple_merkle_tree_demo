@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5064, 
+        "dem": 2673, 
+        "tot": 10909, 
+        "gop": 7737
+    }, 
+    "for": "IL/Jersey County/17083", 
+    "pct": {
+        "dem": 24.5, 
+        "per_point_diff": 46.42, 
+        "gop": 70.92
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8311, 
+        "dem": 1722, 
+        "tot": 12529, 
+        "gop": 10033
+    }, 
+    "for": "ND/Williams County/38105", 
+    "pct": {
+        "dem": 13.74, 
+        "per_point_diff": 66.33, 
+        "gop": 80.08
+    }
+}

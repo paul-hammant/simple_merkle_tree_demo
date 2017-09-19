@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5915, 
+        "dem": 1627, 
+        "tot": 9353, 
+        "gop": 7542
+    }, 
+    "for": "VA/Lee County/51105", 
+    "pct": {
+        "dem": 17.4, 
+        "per_point_diff": 63.24, 
+        "gop": 80.64
+    }
+}

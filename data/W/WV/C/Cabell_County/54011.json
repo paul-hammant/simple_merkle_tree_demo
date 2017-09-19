@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8342, 
+        "dem": 11306, 
+        "tot": 32701, 
+        "gop": 19648
+    }, 
+    "for": "WV/Cabell County/54011", 
+    "pct": {
+        "dem": 34.57, 
+        "per_point_diff": 25.51, 
+        "gop": 60.08
+    }
+}

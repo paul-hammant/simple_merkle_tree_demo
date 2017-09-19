@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1930, 
+        "dem": 2960, 
+        "tot": 4311, 
+        "gop": 1030
+    }, 
+    "for": "CO/San Miguel County/8113", 
+    "pct": {
+        "dem": 68.66, 
+        "per_point_diff": 44.77, 
+        "gop": 23.89
+    }
+}

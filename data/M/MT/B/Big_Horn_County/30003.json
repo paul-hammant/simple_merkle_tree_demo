@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 228, 
+        "dem": 2061, 
+        "tot": 4148, 
+        "gop": 1833
+    }, 
+    "for": "MT/Big Horn County/30003", 
+    "pct": {
+        "dem": 49.69, 
+        "per_point_diff": 5.5, 
+        "gop": 44.19
+    }
+}

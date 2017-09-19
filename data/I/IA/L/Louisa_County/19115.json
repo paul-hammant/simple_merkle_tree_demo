@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1417, 
+        "dem": 1643, 
+        "tot": 4943, 
+        "gop": 3060
+    }, 
+    "for": "IA/Louisa County/19115", 
+    "pct": {
+        "dem": 33.24, 
+        "per_point_diff": 28.67, 
+        "gop": 61.91
+    }
+}

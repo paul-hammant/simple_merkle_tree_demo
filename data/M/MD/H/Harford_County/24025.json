@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 30458, 
+        "dem": 43803, 
+        "tot": 124224, 
+        "gop": 74261
+    }, 
+    "for": "MD/Harford County/24025", 
+    "pct": {
+        "dem": 35.26, 
+        "per_point_diff": 24.52, 
+        "gop": 59.78
+    }
+}

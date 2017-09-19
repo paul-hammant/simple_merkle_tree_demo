@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3158, 
+        "dem": 4739, 
+        "tot": 6391, 
+        "gop": 1581
+    }, 
+    "for": "AL/Sumter County/1119", 
+    "pct": {
+        "dem": 74.15, 
+        "per_point_diff": 49.41, 
+        "gop": 24.74
+    }
+}

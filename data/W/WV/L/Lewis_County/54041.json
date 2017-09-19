@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3909, 
+        "dem": 1336, 
+        "tot": 6885, 
+        "gop": 5245
+    }, 
+    "for": "WV/Lewis County/54041", 
+    "pct": {
+        "dem": 19.4, 
+        "per_point_diff": 56.78, 
+        "gop": 76.18
+    }
+}

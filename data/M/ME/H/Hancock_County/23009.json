@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2425, 
+        "dem": 16107, 
+        "tot": 31983, 
+        "gop": 13682
+    }, 
+    "for": "ME/Hancock County/23009", 
+    "pct": {
+        "dem": 50.36, 
+        "per_point_diff": 7.58, 
+        "gop": 42.78
+    }
+}

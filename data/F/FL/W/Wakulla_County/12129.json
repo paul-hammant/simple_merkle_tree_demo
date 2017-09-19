@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6159, 
+        "dem": 4348, 
+        "tot": 15344, 
+        "gop": 10507
+    }, 
+    "for": "FL/Wakulla County/12129", 
+    "pct": {
+        "dem": 28.34, 
+        "per_point_diff": 40.14, 
+        "gop": 68.48
+    }
+}

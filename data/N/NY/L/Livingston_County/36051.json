@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8733, 
+        "dem": 10478, 
+        "tot": 31363, 
+        "gop": 19211
+    }, 
+    "for": "NY/Livingston County/36051", 
+    "pct": {
+        "dem": 33.41, 
+        "per_point_diff": 27.84, 
+        "gop": 61.25
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 688, 
+        "dem": 271, 
+        "tot": 1410, 
+        "gop": 959
+    }, 
+    "for": "UT/Wayne County/49055", 
+    "pct": {
+        "dem": 19.22, 
+        "per_point_diff": 48.79, 
+        "gop": 68.01
+    }
+}

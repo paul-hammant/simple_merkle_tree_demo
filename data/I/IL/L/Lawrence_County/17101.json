@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3229, 
+        "dem": 1288, 
+        "tot": 6039, 
+        "gop": 4517
+    }, 
+    "for": "IL/Lawrence County/17101", 
+    "pct": {
+        "dem": 21.33, 
+        "per_point_diff": 53.47, 
+        "gop": 74.8
+    }
+}

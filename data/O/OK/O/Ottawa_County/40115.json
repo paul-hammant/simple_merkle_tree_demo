@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5043, 
+        "dem": 2584, 
+        "tot": 10686, 
+        "gop": 7627
+    }, 
+    "for": "OK/Ottawa County/40115", 
+    "pct": {
+        "dem": 24.18, 
+        "per_point_diff": 47.19, 
+        "gop": 71.37
+    }
+}

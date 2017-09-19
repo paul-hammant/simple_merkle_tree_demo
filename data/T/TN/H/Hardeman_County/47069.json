@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 738, 
+        "dem": 4174, 
+        "tot": 9242, 
+        "gop": 4912
+    }, 
+    "for": "TN/Hardeman County/47069", 
+    "pct": {
+        "dem": 45.16, 
+        "per_point_diff": 7.99, 
+        "gop": 53.15
+    }
+}

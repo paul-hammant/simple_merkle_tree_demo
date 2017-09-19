@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 999, 
+        "dem": 224, 
+        "tot": 1475, 
+        "gop": 1223
+    }, 
+    "for": "TX/Garza County/48169", 
+    "pct": {
+        "dem": 15.19, 
+        "per_point_diff": 67.73, 
+        "gop": 82.92
+    }
+}

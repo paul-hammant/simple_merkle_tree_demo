@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1175, 
+        "dem": 2504, 
+        "tot": 6268, 
+        "gop": 3679
+    }, 
+    "for": "GA/Brooks County/13027", 
+    "pct": {
+        "dem": 39.95, 
+        "per_point_diff": 18.75, 
+        "gop": 58.69
+    }
+}

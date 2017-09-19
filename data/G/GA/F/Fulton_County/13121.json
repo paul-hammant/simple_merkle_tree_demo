@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 171503, 
+        "dem": 281875, 
+        "tot": 407173, 
+        "gop": 110372
+    }, 
+    "for": "GA/Fulton County/13121", 
+    "pct": {
+        "dem": 69.23, 
+        "per_point_diff": 42.12, 
+        "gop": 27.11
+    }
+}

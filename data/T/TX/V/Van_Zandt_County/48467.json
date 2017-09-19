@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15644, 
+        "dem": 2792, 
+        "tot": 21689, 
+        "gop": 18436
+    }, 
+    "for": "TX/Van Zandt County/48467", 
+    "pct": {
+        "dem": 12.87, 
+        "per_point_diff": 72.13, 
+        "gop": 85.0
+    }
+}

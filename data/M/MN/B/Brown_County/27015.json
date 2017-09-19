@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4945, 
+        "dem": 3763, 
+        "tot": 13663, 
+        "gop": 8708
+    }, 
+    "for": "MN/Brown County/27015", 
+    "pct": {
+        "dem": 27.54, 
+        "per_point_diff": 36.19, 
+        "gop": 63.73
+    }
+}

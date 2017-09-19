@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 71724, 
+        "dem": 91879, 
+        "tot": 119344, 
+        "gop": 20155
+    }, 
+    "for": "VA/Arlington County/51013", 
+    "pct": {
+        "dem": 76.99, 
+        "per_point_diff": 60.1, 
+        "gop": 16.89
+    }
+}

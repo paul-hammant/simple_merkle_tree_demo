@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 19930, 
+        "dem": 70523, 
+        "tot": 124402, 
+        "gop": 50593
+    }, 
+    "for": "NC/Cumberland County/37051", 
+    "pct": {
+        "dem": 56.69, 
+        "per_point_diff": 16.02, 
+        "gop": 40.67
+    }
+}

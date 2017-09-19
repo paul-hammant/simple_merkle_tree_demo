@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8573, 
+        "dem": 4873, 
+        "tot": 19243, 
+        "gop": 13446
+    }, 
+    "for": "MI/Sanilac County/26151", 
+    "pct": {
+        "dem": 25.32, 
+        "per_point_diff": 44.55, 
+        "gop": 69.87
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 71, 
+        "dem": 7300, 
+        "tot": 14854, 
+        "gop": 7371
+    }, 
+    "for": "MS/Panola County/28107", 
+    "pct": {
+        "dem": 49.15, 
+        "per_point_diff": 0.48, 
+        "gop": 49.62
+    }
+}

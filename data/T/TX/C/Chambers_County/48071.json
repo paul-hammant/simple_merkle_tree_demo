@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10339, 
+        "dem": 2939, 
+        "tot": 16661, 
+        "gop": 13278
+    }, 
+    "for": "TX/Chambers County/48071", 
+    "pct": {
+        "dem": 17.64, 
+        "per_point_diff": 62.06, 
+        "gop": 79.7
+    }
+}

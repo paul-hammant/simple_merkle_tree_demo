@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5961, 
+        "dem": 27879, 
+        "tot": 65350, 
+        "gop": 33840
+    }, 
+    "for": "VA/Stafford County/51179", 
+    "pct": {
+        "dem": 42.66, 
+        "per_point_diff": 9.12, 
+        "gop": 51.78
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 800, 
+        "dem": 1092, 
+        "tot": 3243, 
+        "gop": 1892
+    }, 
+    "for": "AZ/Greenlee County/4011", 
+    "pct": {
+        "dem": 33.67, 
+        "per_point_diff": 24.67, 
+        "gop": 58.34
+    }
+}

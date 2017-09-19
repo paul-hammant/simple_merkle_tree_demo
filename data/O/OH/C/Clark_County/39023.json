@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11645, 
+        "dem": 22666, 
+        "tot": 59620, 
+        "gop": 34311
+    }, 
+    "for": "OH/Clark County/39023", 
+    "pct": {
+        "dem": 38.02, 
+        "per_point_diff": 19.53, 
+        "gop": 57.55
+    }
+}

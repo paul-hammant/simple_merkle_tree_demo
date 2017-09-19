@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10967, 
+        "dem": 3579, 
+        "tot": 18537, 
+        "gop": 14546
+    }, 
+    "for": "TX/Lamar County/48277", 
+    "pct": {
+        "dem": 19.31, 
+        "per_point_diff": 59.16, 
+        "gop": 78.47
+    }
+}

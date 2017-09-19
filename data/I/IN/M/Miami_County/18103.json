@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7209, 
+        "dem": 2766, 
+        "tot": 13440, 
+        "gop": 9975
+    }, 
+    "for": "IN/Miami County/18103", 
+    "pct": {
+        "dem": 20.58, 
+        "per_point_diff": 53.64, 
+        "gop": 74.22
+    }
+}

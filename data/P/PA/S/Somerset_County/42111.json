@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 19980, 
+        "dem": 7367, 
+        "tot": 35730, 
+        "gop": 27347
+    }, 
+    "for": "PA/Somerset County/42111", 
+    "pct": {
+        "dem": 20.62, 
+        "per_point_diff": 55.92, 
+        "gop": 76.54
+    }
+}

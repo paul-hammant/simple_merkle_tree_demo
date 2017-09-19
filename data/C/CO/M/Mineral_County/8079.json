@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 107, 
+        "dem": 237, 
+        "tot": 652, 
+        "gop": 344
+    }, 
+    "for": "CO/Mineral County/8079", 
+    "pct": {
+        "dem": 36.35, 
+        "per_point_diff": 16.41, 
+        "gop": 52.76
+    }
+}

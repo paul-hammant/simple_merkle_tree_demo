@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1565, 
+        "dem": 116074, 
+        "tot": 242939, 
+        "gop": 114509
+    }, 
+    "for": "MD/Anne Arundel County/24003", 
+    "pct": {
+        "dem": 47.78, 
+        "per_point_diff": 0.64, 
+        "gop": 47.13
+    }
+}

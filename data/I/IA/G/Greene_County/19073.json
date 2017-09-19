@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1131, 
+        "dem": 1688, 
+        "tot": 4762, 
+        "gop": 2819
+    }, 
+    "for": "IA/Greene County/19073", 
+    "pct": {
+        "dem": 35.45, 
+        "per_point_diff": 23.75, 
+        "gop": 59.2
+    }
+}

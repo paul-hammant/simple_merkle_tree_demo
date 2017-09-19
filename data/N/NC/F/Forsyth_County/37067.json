@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17695, 
+        "dem": 92488, 
+        "tot": 172509, 
+        "gop": 74793
+    }, 
+    "for": "NC/Forsyth County/37067", 
+    "pct": {
+        "dem": 53.61, 
+        "per_point_diff": 10.26, 
+        "gop": 43.36
+    }
+}

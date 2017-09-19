@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8815, 
+        "dem": 7748, 
+        "tot": 25648, 
+        "gop": 16563
+    }, 
+    "for": "OH/Marion County/39101", 
+    "pct": {
+        "dem": 30.21, 
+        "per_point_diff": 34.37, 
+        "gop": 64.58
+    }
+}

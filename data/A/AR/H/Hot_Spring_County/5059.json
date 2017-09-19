@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5016, 
+        "dem": 3137, 
+        "tot": 11815, 
+        "gop": 8153
+    }, 
+    "for": "AR/Hot Spring County/5059", 
+    "pct": {
+        "dem": 26.55, 
+        "per_point_diff": 42.45, 
+        "gop": 69.01
+    }
+}

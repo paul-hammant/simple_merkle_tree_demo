@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2464, 
+        "dem": 2948, 
+        "tot": 8719, 
+        "gop": 5412
+    }, 
+    "for": "WI/Burnett County/55013", 
+    "pct": {
+        "dem": 33.81, 
+        "per_point_diff": 28.26, 
+        "gop": 62.07
+    }
+}

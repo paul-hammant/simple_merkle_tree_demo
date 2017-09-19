@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5466, 
+        "dem": 1061, 
+        "tot": 7809, 
+        "gop": 6527
+    }, 
+    "for": "WV/Wyoming County/54109", 
+    "pct": {
+        "dem": 13.59, 
+        "per_point_diff": 70.0, 
+        "gop": 83.58
+    }
+}

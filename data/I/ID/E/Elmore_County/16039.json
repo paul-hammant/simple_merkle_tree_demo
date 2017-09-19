@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4002, 
+        "dem": 1814, 
+        "tot": 8519, 
+        "gop": 5816
+    }, 
+    "for": "ID/Elmore County/16039", 
+    "pct": {
+        "dem": 21.29, 
+        "per_point_diff": 46.98, 
+        "gop": 68.27
+    }
+}

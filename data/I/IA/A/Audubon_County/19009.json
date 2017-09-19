@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1056, 
+        "dem": 1079, 
+        "tot": 3379, 
+        "gop": 2135
+    }, 
+    "for": "IA/Audubon County/19009", 
+    "pct": {
+        "dem": 31.93, 
+        "per_point_diff": 31.25, 
+        "gop": 63.18
+    }
+}

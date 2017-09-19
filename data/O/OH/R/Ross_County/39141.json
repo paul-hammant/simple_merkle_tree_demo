@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7928, 
+        "dem": 9905, 
+        "tot": 28955, 
+        "gop": 17833
+    }, 
+    "for": "OH/Ross County/39141", 
+    "pct": {
+        "dem": 34.21, 
+        "per_point_diff": 27.38, 
+        "gop": 61.59
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5871, 
+        "dem": 4828, 
+        "tot": 17195, 
+        "gop": 10699
+    }, 
+    "for": "ID/Nez Perce County/16069", 
+    "pct": {
+        "dem": 28.08, 
+        "per_point_diff": 34.14, 
+        "gop": 62.22
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6624, 
+        "dem": 852, 
+        "tot": 8506, 
+        "gop": 7476
+    }, 
+    "for": "FL/Holmes County/12059", 
+    "pct": {
+        "dem": 10.02, 
+        "per_point_diff": 77.87, 
+        "gop": 87.89
+    }
+}

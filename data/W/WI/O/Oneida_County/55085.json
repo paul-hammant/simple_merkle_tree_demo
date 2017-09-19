@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3574, 
+        "dem": 8103, 
+        "tot": 20837, 
+        "gop": 11677
+    }, 
+    "for": "WI/Oneida County/55085", 
+    "pct": {
+        "dem": 38.89, 
+        "per_point_diff": 17.15, 
+        "gop": 56.04
+    }
+}

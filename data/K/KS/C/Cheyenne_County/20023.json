@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 984, 
+        "dem": 188, 
+        "tot": 1409, 
+        "gop": 1172
+    }, 
+    "for": "KS/Cheyenne County/20023", 
+    "pct": {
+        "dem": 13.34, 
+        "per_point_diff": 69.84, 
+        "gop": 83.18
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 20034, 
+        "dem": 33479, 
+        "tot": 51942, 
+        "gop": 13445
+    }, 
+    "for": "HI/Maui County/15009", 
+    "pct": {
+        "dem": 64.45, 
+        "per_point_diff": 38.57, 
+        "gop": 25.88
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 283979, 
+        "dem": 318403, 
+        "tot": 358857, 
+        "gop": 34424
+    }, 
+    "for": "NY/Bronx County/36005", 
+    "pct": {
+        "dem": 88.73, 
+        "per_point_diff": 79.13, 
+        "gop": 9.59
+    }
+}

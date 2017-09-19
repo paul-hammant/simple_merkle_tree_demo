@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6772, 
+        "dem": 2423, 
+        "tot": 11945, 
+        "gop": 9195
+    }, 
+    "for": "GA/Madison County/13195", 
+    "pct": {
+        "dem": 20.28, 
+        "per_point_diff": 56.69, 
+        "gop": 76.98
+    }
+}

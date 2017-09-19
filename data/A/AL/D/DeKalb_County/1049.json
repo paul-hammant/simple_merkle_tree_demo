@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18097, 
+        "dem": 3682, 
+        "tot": 26086, 
+        "gop": 21779
+    }, 
+    "for": "AL/DeKalb County/1049", 
+    "pct": {
+        "dem": 14.11, 
+        "per_point_diff": 69.37, 
+        "gop": 83.49
+    }
+}

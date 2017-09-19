@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1602, 
+        "dem": 11752, 
+        "tot": 25500, 
+        "gop": 13354
+    }, 
+    "for": "NC/Lenoir County/37107", 
+    "pct": {
+        "dem": 46.09, 
+        "per_point_diff": 6.28, 
+        "gop": 52.37
+    }
+}

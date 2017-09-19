@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 118, 
+        "dem": 23024, 
+        "tot": 46903, 
+        "gop": 23142
+    }, 
+    "for": "NC/Nash County/37127", 
+    "pct": {
+        "dem": 49.09, 
+        "per_point_diff": 0.25, 
+        "gop": 49.34
+    }
+}

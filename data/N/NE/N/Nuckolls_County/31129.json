@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1361, 
+        "dem": 348, 
+        "tot": 2153, 
+        "gop": 1709
+    }, 
+    "for": "NE/Nuckolls County/31129", 
+    "pct": {
+        "dem": 16.16, 
+        "per_point_diff": 63.21, 
+        "gop": 79.38
+    }
+}

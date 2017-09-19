@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9076, 
+        "dem": 6089, 
+        "tot": 21754, 
+        "gop": 15165
+    }, 
+    "for": "SC/Cherokee County/45021", 
+    "pct": {
+        "dem": 27.99, 
+        "per_point_diff": 41.72, 
+        "gop": 69.71
+    }
+}

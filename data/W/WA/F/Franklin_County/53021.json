@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3519, 
+        "dem": 7839, 
+        "tot": 20584, 
+        "gop": 11358
+    }, 
+    "for": "WA/Franklin County/53021", 
+    "pct": {
+        "dem": 38.08, 
+        "per_point_diff": 17.1, 
+        "gop": 55.18
+    }
+}

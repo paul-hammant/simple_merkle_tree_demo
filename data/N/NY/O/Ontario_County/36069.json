@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4110, 
+        "dem": 20233, 
+        "tot": 47664, 
+        "gop": 24343
+    }, 
+    "for": "NY/Ontario County/36069", 
+    "pct": {
+        "dem": 42.45, 
+        "per_point_diff": 8.62, 
+        "gop": 51.07
+    }
+}

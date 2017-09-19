@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2670, 
+        "dem": 382, 
+        "tot": 3580, 
+        "gop": 3052
+    }, 
+    "for": "NE/Pierce County/31139", 
+    "pct": {
+        "dem": 10.67, 
+        "per_point_diff": 74.58, 
+        "gop": 85.25
+    }
+}

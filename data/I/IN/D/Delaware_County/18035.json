@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6117, 
+        "dem": 18100, 
+        "tot": 44699, 
+        "gop": 24217
+    }, 
+    "for": "IN/Delaware County/18035", 
+    "pct": {
+        "dem": 40.49, 
+        "per_point_diff": 13.68, 
+        "gop": 54.18
+    }
+}

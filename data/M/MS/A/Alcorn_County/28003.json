@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9133, 
+        "dem": 2684, 
+        "tot": 14781, 
+        "gop": 11817
+    }, 
+    "for": "MS/Alcorn County/28003", 
+    "pct": {
+        "dem": 18.16, 
+        "per_point_diff": 61.79, 
+        "gop": 79.95
+    }
+}

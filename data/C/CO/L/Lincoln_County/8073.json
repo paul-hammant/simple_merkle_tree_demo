@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1474, 
+        "dem": 399, 
+        "tot": 2402, 
+        "gop": 1873
+    }, 
+    "for": "CO/Lincoln County/8073", 
+    "pct": {
+        "dem": 16.61, 
+        "per_point_diff": 61.37, 
+        "gop": 77.98
+    }
+}

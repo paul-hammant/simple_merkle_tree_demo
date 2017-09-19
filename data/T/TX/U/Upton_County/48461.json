@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 677, 
+        "dem": 284, 
+        "tot": 1296, 
+        "gop": 961
+    }, 
+    "for": "TX/Upton County/48461", 
+    "pct": {
+        "dem": 21.91, 
+        "per_point_diff": 52.24, 
+        "gop": 74.15
+    }
+}

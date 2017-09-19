@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 983, 
+        "dem": 420, 
+        "tot": 1873, 
+        "gop": 1403
+    }, 
+    "for": "TX/Winkler County/48495", 
+    "pct": {
+        "dem": 22.42, 
+        "per_point_diff": 52.48, 
+        "gop": 74.91
+    }
+}

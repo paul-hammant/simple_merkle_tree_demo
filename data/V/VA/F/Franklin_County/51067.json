@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11306, 
+        "dem": 7254, 
+        "tot": 26805, 
+        "gop": 18560
+    }, 
+    "for": "VA/Franklin County/51067", 
+    "pct": {
+        "dem": 27.06, 
+        "per_point_diff": 42.18, 
+        "gop": 69.24
+    }
+}

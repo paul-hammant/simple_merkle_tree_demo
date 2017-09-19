@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2043, 
+        "dem": 2008, 
+        "tot": 6433, 
+        "gop": 4051
+    }, 
+    "for": "IL/Mason County/17125", 
+    "pct": {
+        "dem": 31.21, 
+        "per_point_diff": 31.76, 
+        "gop": 62.97
+    }
+}

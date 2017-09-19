@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 283, 
+        "dem": 3195, 
+        "tot": 7245, 
+        "gop": 3478
+    }, 
+    "for": "NM/Luna County/35029", 
+    "pct": {
+        "dem": 44.1, 
+        "per_point_diff": 3.91, 
+        "gop": 48.01
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3771, 
+        "dem": 2745, 
+        "tot": 9431, 
+        "gop": 6516
+    }, 
+    "for": "GA/Putnam County/13237", 
+    "pct": {
+        "dem": 29.11, 
+        "per_point_diff": 39.99, 
+        "gop": 69.09
+    }
+}

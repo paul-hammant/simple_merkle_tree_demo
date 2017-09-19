@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2, 
+        "dem": 1932, 
+        "tot": 4456, 
+        "gop": 1934
+    }, 
+    "for": "UT/Grand County/49019", 
+    "pct": {
+        "dem": 43.36, 
+        "per_point_diff": 0.04, 
+        "gop": 43.4
+    }
+}

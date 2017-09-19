@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 22814, 
+        "dem": 8279, 
+        "tot": 40425, 
+        "gop": 31093
+    }, 
+    "for": "GA/Walton County/13297", 
+    "pct": {
+        "dem": 20.48, 
+        "per_point_diff": 56.44, 
+        "gop": 76.92
+    }
+}

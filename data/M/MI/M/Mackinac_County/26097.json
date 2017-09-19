@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1655, 
+        "dem": 2085, 
+        "tot": 6088, 
+        "gop": 3740
+    }, 
+    "for": "MI/Mackinac County/26097", 
+    "pct": {
+        "dem": 34.25, 
+        "per_point_diff": 27.18, 
+        "gop": 61.43
+    }
+}

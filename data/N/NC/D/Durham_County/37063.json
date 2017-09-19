@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 90904, 
+        "dem": 118783, 
+        "tot": 150543, 
+        "gop": 27879
+    }, 
+    "for": "NC/Durham County/37063", 
+    "pct": {
+        "dem": 78.9, 
+        "per_point_diff": 60.38, 
+        "gop": 18.52
+    }
+}

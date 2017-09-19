@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 896, 
+        "dem": 318, 
+        "tot": 1688, 
+        "gop": 1214
+    }, 
+    "for": "NM/Union County/35059", 
+    "pct": {
+        "dem": 18.84, 
+        "per_point_diff": 53.08, 
+        "gop": 71.92
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 195, 
+        "dem": 5832, 
+        "tot": 11696, 
+        "gop": 5637
+    }, 
+    "for": "SC/Dillon County/45033", 
+    "pct": {
+        "dem": 49.86, 
+        "per_point_diff": 1.67, 
+        "gop": 48.2
+    }
+}

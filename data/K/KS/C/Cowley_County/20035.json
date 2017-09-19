@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4580, 
+        "dem": 3436, 
+        "tot": 12171, 
+        "gop": 8016
+    }, 
+    "for": "KS/Cowley County/20035", 
+    "pct": {
+        "dem": 28.23, 
+        "per_point_diff": 37.63, 
+        "gop": 65.86
+    }
+}

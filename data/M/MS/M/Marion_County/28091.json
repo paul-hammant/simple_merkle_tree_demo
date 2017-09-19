@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4125, 
+        "dem": 3572, 
+        "tot": 11443, 
+        "gop": 7697
+    }, 
+    "for": "MS/Marion County/28091", 
+    "pct": {
+        "dem": 31.22, 
+        "per_point_diff": 36.05, 
+        "gop": 67.26
+    }
+}

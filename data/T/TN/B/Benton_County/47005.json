@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3241, 
+        "dem": 1474, 
+        "tot": 6322, 
+        "gop": 4715
+    }, 
+    "for": "TN/Benton County/47005", 
+    "pct": {
+        "dem": 23.32, 
+        "per_point_diff": 51.27, 
+        "gop": 74.58
+    }
+}

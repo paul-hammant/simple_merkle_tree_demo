@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1680, 
+        "dem": 5163, 
+        "tot": 8794, 
+        "gop": 3483
+    }, 
+    "for": "SC/Hampton County/45049", 
+    "pct": {
+        "dem": 58.71, 
+        "per_point_diff": 19.1, 
+        "gop": 39.61
+    }
+}

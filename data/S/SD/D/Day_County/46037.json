@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 653, 
+        "dem": 974, 
+        "tot": 2747, 
+        "gop": 1627
+    }, 
+    "for": "SD/Day County/46037", 
+    "pct": {
+        "dem": 35.46, 
+        "per_point_diff": 23.77, 
+        "gop": 59.23
+    }
+}

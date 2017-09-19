@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1758, 
+        "dem": 378, 
+        "tot": 2677, 
+        "gop": 2136
+    }, 
+    "for": "KS/Washington County/20201", 
+    "pct": {
+        "dem": 14.12, 
+        "per_point_diff": 65.67, 
+        "gop": 79.79
+    }
+}

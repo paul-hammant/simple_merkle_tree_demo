@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2915, 
+        "dem": 1220, 
+        "tot": 5432, 
+        "gop": 4135
+    }, 
+    "for": "MS/Perry County/28111", 
+    "pct": {
+        "dem": 22.46, 
+        "per_point_diff": 53.66, 
+        "gop": 76.12
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3491, 
+        "dem": 51593, 
+        "tot": 102740, 
+        "gop": 48102
+    }, 
+    "for": "PA/Lackawanna County/42069", 
+    "pct": {
+        "dem": 50.22, 
+        "per_point_diff": 3.4, 
+        "gop": 46.82
+    }
+}

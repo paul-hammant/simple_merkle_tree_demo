@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1242, 
+        "dem": 969, 
+        "tot": 3357, 
+        "gop": 2211
+    }, 
+    "for": "MT/Rosebud County/30087", 
+    "pct": {
+        "dem": 28.87, 
+        "per_point_diff": 37.0, 
+        "gop": 65.86
+    }
+}

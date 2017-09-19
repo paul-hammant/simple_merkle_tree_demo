@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1690, 
+        "dem": 1323, 
+        "tot": 4591, 
+        "gop": 3013
+    }, 
+    "for": "IN/Crawford County/18025", 
+    "pct": {
+        "dem": 28.82, 
+        "per_point_diff": 36.81, 
+        "gop": 65.63
+    }
+}

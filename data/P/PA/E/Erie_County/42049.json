@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2348, 
+        "dem": 54820, 
+        "tot": 117240, 
+        "gop": 57168
+    }, 
+    "for": "PA/Erie County/42049", 
+    "pct": {
+        "dem": 46.76, 
+        "per_point_diff": 2.0, 
+        "gop": 48.76
+    }
+}

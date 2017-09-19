@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2691, 
+        "dem": 1649, 
+        "tot": 6270, 
+        "gop": 4340
+    }, 
+    "for": "IA/Shelby County/19165", 
+    "pct": {
+        "dem": 26.3, 
+        "per_point_diff": 42.92, 
+        "gop": 69.22
+    }
+}

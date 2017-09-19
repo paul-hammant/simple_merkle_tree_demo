@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6448, 
+        "dem": 20964, 
+        "tot": 51460, 
+        "gop": 27412
+    }, 
+    "for": "MI/Grand Traverse County/26055", 
+    "pct": {
+        "dem": 40.74, 
+        "per_point_diff": 12.53, 
+        "gop": 53.27
+    }
+}

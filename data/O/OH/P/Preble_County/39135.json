@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11053, 
+        "dem": 4323, 
+        "tot": 20475, 
+        "gop": 15376
+    }, 
+    "for": "OH/Preble County/39135", 
+    "pct": {
+        "dem": 21.11, 
+        "per_point_diff": 53.98, 
+        "gop": 75.1
+    }
+}

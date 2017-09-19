@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17152, 
+        "dem": 3440, 
+        "tot": 24811, 
+        "gop": 20592
+    }, 
+    "for": "KY/Laurel County/21125", 
+    "pct": {
+        "dem": 13.86, 
+        "per_point_diff": 69.13, 
+        "gop": 83.0
+    }
+}

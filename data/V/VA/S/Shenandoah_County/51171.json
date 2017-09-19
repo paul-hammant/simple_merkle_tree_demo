@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8809, 
+        "dem": 5269, 
+        "tot": 20335, 
+        "gop": 14078
+    }, 
+    "for": "VA/Shenandoah County/51171", 
+    "pct": {
+        "dem": 25.91, 
+        "per_point_diff": 43.32, 
+        "gop": 69.23
+    }
+}

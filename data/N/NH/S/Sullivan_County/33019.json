@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 586, 
+        "dem": 10210, 
+        "tot": 22101, 
+        "gop": 10796
+    }, 
+    "for": "NH/Sullivan County/33019", 
+    "pct": {
+        "dem": 46.2, 
+        "per_point_diff": 2.65, 
+        "gop": 48.85
+    }
+}

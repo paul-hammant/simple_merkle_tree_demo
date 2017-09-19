@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2666, 
+        "dem": 540, 
+        "tot": 3876, 
+        "gop": 3206
+    }, 
+    "for": "TX/Somervell County/48425", 
+    "pct": {
+        "dem": 13.93, 
+        "per_point_diff": 68.78, 
+        "gop": 82.71
+    }
+}

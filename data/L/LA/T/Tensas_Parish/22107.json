@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 149, 
+        "dem": 1329, 
+        "tot": 2543, 
+        "gop": 1180
+    }, 
+    "for": "LA/Tensas Parish/22107", 
+    "pct": {
+        "dem": 52.26, 
+        "per_point_diff": 5.86, 
+        "gop": 46.4
+    }
+}

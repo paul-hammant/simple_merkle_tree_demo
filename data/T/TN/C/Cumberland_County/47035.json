@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15208, 
+        "dem": 5202, 
+        "tot": 26298, 
+        "gop": 20410
+    }, 
+    "for": "TN/Cumberland County/47035", 
+    "pct": {
+        "dem": 19.78, 
+        "per_point_diff": 57.83, 
+        "gop": 77.61
+    }
+}

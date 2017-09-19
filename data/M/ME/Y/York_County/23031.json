@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5440, 
+        "dem": 55828, 
+        "tot": 113962, 
+        "gop": 50388
+    }, 
+    "for": "ME/York County/23031", 
+    "pct": {
+        "dem": 48.99, 
+        "per_point_diff": 4.77, 
+        "gop": 44.21
+    }
+}

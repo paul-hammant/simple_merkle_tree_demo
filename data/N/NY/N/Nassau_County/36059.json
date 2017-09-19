@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 31847, 
+        "dem": 307326, 
+        "tot": 599649, 
+        "gop": 275479
+    }, 
+    "for": "NY/Nassau County/36059", 
+    "pct": {
+        "dem": 51.25, 
+        "per_point_diff": 5.31, 
+        "gop": 45.94
+    }
+}

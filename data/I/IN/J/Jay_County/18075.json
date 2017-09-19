@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3808, 
+        "dem": 1889, 
+        "tot": 7962, 
+        "gop": 5697
+    }, 
+    "for": "IN/Jay County/18075", 
+    "pct": {
+        "dem": 23.73, 
+        "per_point_diff": 47.83, 
+        "gop": 71.55
+    }
+}

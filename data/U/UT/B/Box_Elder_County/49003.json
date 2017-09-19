@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8510, 
+        "dem": 1814, 
+        "tot": 16548, 
+        "gop": 10324
+    }, 
+    "for": "UT/Box Elder County/49003", 
+    "pct": {
+        "dem": 10.96, 
+        "per_point_diff": 51.43, 
+        "gop": 62.39
+    }
+}

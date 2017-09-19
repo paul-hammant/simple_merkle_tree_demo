@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 510, 
+        "dem": 4773, 
+        "tot": 10999, 
+        "gop": 5283
+    }, 
+    "for": "CO/Chaffee County/8015", 
+    "pct": {
+        "dem": 43.39, 
+        "per_point_diff": 4.64, 
+        "gop": 48.03
+    }
+}

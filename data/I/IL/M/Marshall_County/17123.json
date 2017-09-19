@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1992, 
+        "dem": 1784, 
+        "tot": 5903, 
+        "gop": 3776
+    }, 
+    "for": "IL/Marshall County/17123", 
+    "pct": {
+        "dem": 30.22, 
+        "per_point_diff": 33.75, 
+        "gop": 63.97
+    }
+}

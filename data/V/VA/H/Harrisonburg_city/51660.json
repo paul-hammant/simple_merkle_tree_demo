@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3868, 
+        "dem": 10100, 
+        "tot": 17693, 
+        "gop": 6232
+    }, 
+    "for": "VA/Harrisonburg city/51660", 
+    "pct": {
+        "dem": 57.08, 
+        "per_point_diff": 21.86, 
+        "gop": 35.22
+    }
+}

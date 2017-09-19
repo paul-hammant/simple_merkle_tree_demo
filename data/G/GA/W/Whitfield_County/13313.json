@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13589, 
+        "dem": 7925, 
+        "tot": 30362, 
+        "gop": 21514
+    }, 
+    "for": "GA/Whitfield County/13313", 
+    "pct": {
+        "dem": 26.1, 
+        "per_point_diff": 44.76, 
+        "gop": 70.86
+    }
+}

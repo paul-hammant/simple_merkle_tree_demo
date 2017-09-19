@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6231, 
+        "dem": 2770, 
+        "tot": 12127, 
+        "gop": 9001
+    }, 
+    "for": "TN/Weakley County/47183", 
+    "pct": {
+        "dem": 22.84, 
+        "per_point_diff": 51.38, 
+        "gop": 74.22
+    }
+}

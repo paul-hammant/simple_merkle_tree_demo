@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2457, 
+        "dem": 2774, 
+        "tot": 8423, 
+        "gop": 5231
+    }, 
+    "for": "IA/Hardin County/19083", 
+    "pct": {
+        "dem": 32.93, 
+        "per_point_diff": 29.17, 
+        "gop": 62.1
+    }
+}

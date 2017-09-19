@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 51510, 
+        "dem": 167943, 
+        "tot": 309496, 
+        "gop": 116433
+    }, 
+    "for": "WA/Snohomish County/53061", 
+    "pct": {
+        "dem": 54.26, 
+        "per_point_diff": 16.64, 
+        "gop": 37.62
+    }
+}

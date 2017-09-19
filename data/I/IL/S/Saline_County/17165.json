@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5697, 
+        "dem": 2551, 
+        "tot": 11234, 
+        "gop": 8248
+    }, 
+    "for": "IL/Saline County/17165", 
+    "pct": {
+        "dem": 22.71, 
+        "per_point_diff": 50.71, 
+        "gop": 73.42
+    }
+}

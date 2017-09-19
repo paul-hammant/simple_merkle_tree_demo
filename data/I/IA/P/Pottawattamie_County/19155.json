@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9100, 
+        "dem": 15341, 
+        "tot": 42226, 
+        "gop": 24441
+    }, 
+    "for": "IA/Pottawattamie County/19155", 
+    "pct": {
+        "dem": 36.33, 
+        "per_point_diff": 21.55, 
+        "gop": 57.88
+    }
+}

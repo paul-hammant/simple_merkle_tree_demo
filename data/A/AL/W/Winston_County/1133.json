@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8354, 
+        "dem": 871, 
+        "tot": 10255, 
+        "gop": 9225
+    }, 
+    "for": "AL/Winston County/1133", 
+    "pct": {
+        "dem": 8.49, 
+        "per_point_diff": 81.46, 
+        "gop": 89.96
+    }
+}

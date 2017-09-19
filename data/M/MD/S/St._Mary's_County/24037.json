@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11103, 
+        "dem": 15786, 
+        "tot": 45169, 
+        "gop": 26889
+    }, 
+    "for": "MD/St. Mary's County/24037", 
+    "pct": {
+        "dem": 34.95, 
+        "per_point_diff": 24.58, 
+        "gop": 59.53
+    }
+}

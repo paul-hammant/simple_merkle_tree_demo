@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13697, 
+        "dem": 10215, 
+        "tot": 35563, 
+        "gop": 23912
+    }, 
+    "for": "PA/Crawford County/42039", 
+    "pct": {
+        "dem": 28.72, 
+        "per_point_diff": 38.51, 
+        "gop": 67.24
+    }
+}

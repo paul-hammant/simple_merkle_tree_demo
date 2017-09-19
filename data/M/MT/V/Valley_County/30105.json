@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1811, 
+        "dem": 886, 
+        "tot": 3860, 
+        "gop": 2697
+    }, 
+    "for": "MT/Valley County/30105", 
+    "pct": {
+        "dem": 22.95, 
+        "per_point_diff": 46.92, 
+        "gop": 69.87
+    }
+}

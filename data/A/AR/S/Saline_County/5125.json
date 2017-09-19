@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 22605, 
+        "dem": 13247, 
+        "tot": 51971, 
+        "gop": 35852
+    }, 
+    "for": "AR/Saline County/5125", 
+    "pct": {
+        "dem": 25.49, 
+        "per_point_diff": 43.5, 
+        "gop": 68.98
+    }
+}

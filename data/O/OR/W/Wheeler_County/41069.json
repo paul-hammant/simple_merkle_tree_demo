@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 430, 
+        "dem": 153, 
+        "tot": 792, 
+        "gop": 583
+    }, 
+    "for": "OR/Wheeler County/41069", 
+    "pct": {
+        "dem": 19.32, 
+        "per_point_diff": 54.29, 
+        "gop": 73.61
+    }
+}

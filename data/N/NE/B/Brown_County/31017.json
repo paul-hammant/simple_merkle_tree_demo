@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1227, 
+        "dem": 153, 
+        "tot": 1579, 
+        "gop": 1380
+    }, 
+    "for": "NE/Brown County/31017", 
+    "pct": {
+        "dem": 9.69, 
+        "per_point_diff": 77.71, 
+        "gop": 87.4
+    }
+}

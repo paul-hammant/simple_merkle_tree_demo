@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3691, 
+        "dem": 2023, 
+        "tot": 7954, 
+        "gop": 5714
+    }, 
+    "for": "VA/Appomattox County/51011", 
+    "pct": {
+        "dem": 25.43, 
+        "per_point_diff": 46.4, 
+        "gop": 71.84
+    }
+}

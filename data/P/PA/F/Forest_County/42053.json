@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1054, 
+        "dem": 626, 
+        "tot": 2398, 
+        "gop": 1680
+    }, 
+    "for": "PA/Forest County/42053", 
+    "pct": {
+        "dem": 26.11, 
+        "per_point_diff": 43.95, 
+        "gop": 70.06
+    }
+}

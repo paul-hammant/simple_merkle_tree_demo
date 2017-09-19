@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16335, 
+        "dem": 32888, 
+        "tot": 86000, 
+        "gop": 49223
+    }, 
+    "for": "NY/Niagara County/36063", 
+    "pct": {
+        "dem": 38.24, 
+        "per_point_diff": 18.99, 
+        "gop": 57.24
+    }
+}

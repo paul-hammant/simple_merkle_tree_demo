@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1879, 
+        "dem": 3295, 
+        "tot": 8829, 
+        "gop": 5174
+    }, 
+    "for": "KY/Rowan County/21205", 
+    "pct": {
+        "dem": 37.32, 
+        "per_point_diff": 21.28, 
+        "gop": 58.6
+    }
+}

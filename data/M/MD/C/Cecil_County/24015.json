@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14928, 
+        "dem": 12651, 
+        "tot": 42309, 
+        "gop": 27579
+    }, 
+    "for": "MD/Cecil County/24015", 
+    "pct": {
+        "dem": 29.9, 
+        "per_point_diff": 35.28, 
+        "gop": 65.18
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6930, 
+        "dem": 4047, 
+        "tot": 15815, 
+        "gop": 10977
+    }, 
+    "for": "MO/Lafayette County/29107", 
+    "pct": {
+        "dem": 25.59, 
+        "per_point_diff": 43.82, 
+        "gop": 69.41
+    }
+}

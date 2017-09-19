@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4534, 
+        "dem": 1461, 
+        "tot": 7608, 
+        "gop": 5995
+    }, 
+    "for": "TX/Freestone County/48161", 
+    "pct": {
+        "dem": 19.2, 
+        "per_point_diff": 59.6, 
+        "gop": 78.8
+    }
+}

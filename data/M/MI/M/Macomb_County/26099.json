@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 48351, 
+        "dem": 176238, 
+        "tot": 418773, 
+        "gop": 224589
+    }, 
+    "for": "MI/Macomb County/26099", 
+    "pct": {
+        "dem": 42.08, 
+        "per_point_diff": 11.55, 
+        "gop": 53.63
+    }
+}

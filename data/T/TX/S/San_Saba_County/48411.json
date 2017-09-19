@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1732, 
+        "dem": 293, 
+        "tot": 2354, 
+        "gop": 2025
+    }, 
+    "for": "TX/San Saba County/48411", 
+    "pct": {
+        "dem": 12.45, 
+        "per_point_diff": 73.58, 
+        "gop": 86.02
+    }
+}

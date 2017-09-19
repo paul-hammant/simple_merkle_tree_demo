@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 580, 
+        "dem": 104, 
+        "tot": 831, 
+        "gop": 684
+    }, 
+    "for": "KS/Lane County/20101", 
+    "pct": {
+        "dem": 12.52, 
+        "per_point_diff": 69.8, 
+        "gop": 82.31
+    }
+}

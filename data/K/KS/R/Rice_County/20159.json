@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1984, 
+        "dem": 668, 
+        "tot": 3567, 
+        "gop": 2652
+    }, 
+    "for": "KS/Rice County/20159", 
+    "pct": {
+        "dem": 18.73, 
+        "per_point_diff": 55.62, 
+        "gop": 74.35
+    }
+}

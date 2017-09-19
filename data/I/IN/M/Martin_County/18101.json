@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2814, 
+        "dem": 881, 
+        "tot": 4807, 
+        "gop": 3695
+    }, 
+    "for": "IN/Martin County/18101", 
+    "pct": {
+        "dem": 18.33, 
+        "per_point_diff": 58.54, 
+        "gop": 76.87
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4618, 
+        "dem": 5961, 
+        "tot": 17438, 
+        "gop": 10579
+    }, 
+    "for": "NY/Montgomery County/36057", 
+    "pct": {
+        "dem": 34.18, 
+        "per_point_diff": 26.48, 
+        "gop": 60.67
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10492, 
+        "dem": 4163, 
+        "tot": 19572, 
+        "gop": 14655
+    }, 
+    "for": "AR/Baxter County/5005", 
+    "pct": {
+        "dem": 21.27, 
+        "per_point_diff": 53.61, 
+        "gop": 74.88
+    }
+}

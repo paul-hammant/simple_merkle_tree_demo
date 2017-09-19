@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 718, 
+        "dem": 6425, 
+        "tot": 14189, 
+        "gop": 7143
+    }, 
+    "for": "VA/Caroline County/51033", 
+    "pct": {
+        "dem": 45.28, 
+        "per_point_diff": 5.06, 
+        "gop": 50.34
+    }
+}

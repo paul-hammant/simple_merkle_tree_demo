@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13834, 
+        "dem": 53358, 
+        "tot": 127497, 
+        "gop": 67192
+    }, 
+    "for": "WI/Brown County/55009", 
+    "pct": {
+        "dem": 41.85, 
+        "per_point_diff": 10.85, 
+        "gop": 52.7
+    }
+}

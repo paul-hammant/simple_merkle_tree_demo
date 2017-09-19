@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 199, 
+        "dem": 27945, 
+        "tot": 60112, 
+        "gop": 27746
+    }, 
+    "for": "CO/Pueblo County/8101", 
+    "pct": {
+        "dem": 46.49, 
+        "per_point_diff": 0.33, 
+        "gop": 46.16
+    }
+}

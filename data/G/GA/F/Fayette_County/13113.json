@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11779, 
+        "dem": 23255, 
+        "tot": 60387, 
+        "gop": 35034
+    }, 
+    "for": "GA/Fayette County/13113", 
+    "pct": {
+        "dem": 38.51, 
+        "per_point_diff": 19.51, 
+        "gop": 58.02
+    }
+}

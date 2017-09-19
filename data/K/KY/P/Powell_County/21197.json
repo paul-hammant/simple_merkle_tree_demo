@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2241, 
+        "dem": 1272, 
+        "tot": 4952, 
+        "gop": 3513
+    }, 
+    "for": "KY/Powell County/21197", 
+    "pct": {
+        "dem": 25.69, 
+        "per_point_diff": 45.25, 
+        "gop": 70.94
+    }
+}

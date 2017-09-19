@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7702, 
+        "dem": 1920, 
+        "tot": 11764, 
+        "gop": 9622
+    }, 
+    "for": "GA/Fannin County/13111", 
+    "pct": {
+        "dem": 16.32, 
+        "per_point_diff": 65.47, 
+        "gop": 81.79
+    }
+}

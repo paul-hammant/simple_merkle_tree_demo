@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 598, 
+        "dem": 36266, 
+        "tot": 79277, 
+        "gop": 35668
+    }, 
+    "for": "MN/Olmsted County/27109", 
+    "pct": {
+        "dem": 45.75, 
+        "per_point_diff": 0.75, 
+        "gop": 44.99
+    }
+}

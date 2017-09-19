@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4402, 
+        "dem": 10371, 
+        "tot": 26916, 
+        "gop": 14773
+    }, 
+    "for": "IA/Warren County/19181", 
+    "pct": {
+        "dem": 38.53, 
+        "per_point_diff": 16.35, 
+        "gop": 54.89
+    }
+}

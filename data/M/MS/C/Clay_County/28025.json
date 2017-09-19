@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1559, 
+        "dem": 5695, 
+        "tot": 9960, 
+        "gop": 4136
+    }, 
+    "for": "MS/Clay County/28025", 
+    "pct": {
+        "dem": 57.18, 
+        "per_point_diff": 15.65, 
+        "gop": 41.53
+    }
+}

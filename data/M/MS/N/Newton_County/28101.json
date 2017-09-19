@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3380, 
+        "dem": 2549, 
+        "tot": 8594, 
+        "gop": 5929
+    }, 
+    "for": "MS/Newton County/28101", 
+    "pct": {
+        "dem": 29.66, 
+        "per_point_diff": 39.33, 
+        "gop": 68.99
+    }
+}

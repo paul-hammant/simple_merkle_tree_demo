@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 435, 
+        "dem": 914, 
+        "tot": 2369, 
+        "gop": 1349
+    }, 
+    "for": "VA/Covington city/51580", 
+    "pct": {
+        "dem": 38.58, 
+        "per_point_diff": 18.36, 
+        "gop": 56.94
+    }
+}

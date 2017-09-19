@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6521, 
+        "dem": 2127, 
+        "tot": 11029, 
+        "gop": 8648
+    }, 
+    "for": "TX/Fayette County/48149", 
+    "pct": {
+        "dem": 19.29, 
+        "per_point_diff": 59.13, 
+        "gop": 78.41
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7878, 
+        "dem": 17363, 
+        "tot": 44186, 
+        "gop": 25241
+    }, 
+    "for": "NY/Putnam County/36079", 
+    "pct": {
+        "dem": 39.3, 
+        "per_point_diff": 17.83, 
+        "gop": 57.12
+    }
+}

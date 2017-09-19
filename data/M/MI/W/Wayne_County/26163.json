@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 288934, 
+        "dem": 517842, 
+        "tot": 775450, 
+        "gop": 228908
+    }, 
+    "for": "MI/Wayne County/26163", 
+    "pct": {
+        "dem": 66.78, 
+        "per_point_diff": 37.26, 
+        "gop": 29.52
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3292, 
+        "dem": 12440, 
+        "tot": 23021, 
+        "gop": 9148
+    }, 
+    "for": "ME/Knox County/23013", 
+    "pct": {
+        "dem": 54.04, 
+        "per_point_diff": 14.3, 
+        "gop": 39.74
+    }
+}

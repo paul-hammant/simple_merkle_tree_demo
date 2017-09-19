@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 19777, 
+        "dem": 84252, 
+        "tot": 200524, 
+        "gop": 104029
+    }, 
+    "for": "TX/Williamson County/48491", 
+    "pct": {
+        "dem": 42.02, 
+        "per_point_diff": 9.86, 
+        "gop": 51.88
+    }
+}

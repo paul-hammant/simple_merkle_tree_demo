@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15234, 
+        "dem": 9184, 
+        "tot": 34971, 
+        "gop": 24418
+    }, 
+    "for": "PA/Northumberland County/42097", 
+    "pct": {
+        "dem": 26.26, 
+        "per_point_diff": 43.56, 
+        "gop": 69.82
+    }
+}

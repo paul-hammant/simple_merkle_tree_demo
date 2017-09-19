@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 255, 
+        "dem": 1125, 
+        "tot": 2049, 
+        "gop": 870
+    }, 
+    "for": "TX/La Salle County/48283", 
+    "pct": {
+        "dem": 54.9, 
+        "per_point_diff": 12.45, 
+        "gop": 42.46
+    }
+}

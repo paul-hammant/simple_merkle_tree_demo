@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 35035, 
+        "dem": 85287, 
+        "tot": 139981, 
+        "gop": 50252
+    }, 
+    "for": "FL/Osceola County/12097", 
+    "pct": {
+        "dem": 60.93, 
+        "per_point_diff": 25.03, 
+        "gop": 35.9
+    }
+}

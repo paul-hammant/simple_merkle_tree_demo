@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1027, 
+        "dem": 4320, 
+        "tot": 9881, 
+        "gop": 5347
+    }, 
+    "for": "AR/Ouachita County/5103", 
+    "pct": {
+        "dem": 43.72, 
+        "per_point_diff": 10.39, 
+        "gop": 54.11
+    }
+}

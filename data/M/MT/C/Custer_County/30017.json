@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2466, 
+        "dem": 1172, 
+        "tot": 5145, 
+        "gop": 3638
+    }, 
+    "for": "MT/Custer County/30017", 
+    "pct": {
+        "dem": 22.78, 
+        "per_point_diff": 47.93, 
+        "gop": 70.71
+    }
+}

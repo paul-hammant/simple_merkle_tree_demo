@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2423, 
+        "dem": 1752, 
+        "tot": 6038, 
+        "gop": 4175
+    }, 
+    "for": "GA/Cook County/13075", 
+    "pct": {
+        "dem": 29.02, 
+        "per_point_diff": 40.13, 
+        "gop": 69.15
+    }
+}

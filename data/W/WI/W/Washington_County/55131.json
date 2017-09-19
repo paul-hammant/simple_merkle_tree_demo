@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 30875, 
+        "dem": 20854, 
+        "tot": 76246, 
+        "gop": 51729
+    }, 
+    "for": "WI/Washington County/55131", 
+    "pct": {
+        "dem": 27.35, 
+        "per_point_diff": 40.49, 
+        "gop": 67.84
+    }
+}

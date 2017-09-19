@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18570, 
+        "dem": 102744, 
+        "tot": 196135, 
+        "gop": 84174
+    }, 
+    "for": "MI/Genesee County/26049", 
+    "pct": {
+        "dem": 52.38, 
+        "per_point_diff": 9.47, 
+        "gop": 42.92
+    }
+}

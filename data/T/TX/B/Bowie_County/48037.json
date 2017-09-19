@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16082, 
+        "dem": 8831, 
+        "tot": 34470, 
+        "gop": 24913
+    }, 
+    "for": "TX/Bowie County/48037", 
+    "pct": {
+        "dem": 25.62, 
+        "per_point_diff": 46.66, 
+        "gop": 72.27
+    }
+}

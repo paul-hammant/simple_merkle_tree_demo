@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 102, 
+        "dem": 1298, 
+        "tot": 2766, 
+        "gop": 1400
+    }, 
+    "for": "AR/Monroe County/5095", 
+    "pct": {
+        "dem": 46.93, 
+        "per_point_diff": 3.69, 
+        "gop": 50.61
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 954, 
+        "dem": 214, 
+        "tot": 1448, 
+        "gop": 1168
+    }, 
+    "for": "KS/Lincoln County/20105", 
+    "pct": {
+        "dem": 14.78, 
+        "per_point_diff": 65.88, 
+        "gop": 80.66
+    }
+}

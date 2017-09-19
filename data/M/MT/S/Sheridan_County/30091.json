@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 761, 
+        "dem": 476, 
+        "tot": 1825, 
+        "gop": 1237
+    }, 
+    "for": "MT/Sheridan County/30091", 
+    "pct": {
+        "dem": 26.08, 
+        "per_point_diff": 41.7, 
+        "gop": 67.78
+    }
+}

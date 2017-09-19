@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15842, 
+        "dem": 3613, 
+        "tot": 23504, 
+        "gop": 19455
+    }, 
+    "for": "PA/Bedford County/42009", 
+    "pct": {
+        "dem": 15.37, 
+        "per_point_diff": 67.4, 
+        "gop": 82.77
+    }
+}

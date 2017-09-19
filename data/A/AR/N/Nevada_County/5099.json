@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 845, 
+        "dem": 1156, 
+        "tot": 3233, 
+        "gop": 2001
+    }, 
+    "for": "AR/Nevada County/5099", 
+    "pct": {
+        "dem": 35.76, 
+        "per_point_diff": 26.14, 
+        "gop": 61.89
+    }
+}

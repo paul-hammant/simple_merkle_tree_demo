@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10604, 
+        "dem": 7959, 
+        "tot": 27768, 
+        "gop": 18563
+    }, 
+    "for": "OH/Knox County/39083", 
+    "pct": {
+        "dem": 28.66, 
+        "per_point_diff": 38.19, 
+        "gop": 66.85
+    }
+}

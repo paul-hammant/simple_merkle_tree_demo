@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 19155, 
+        "dem": 59402, 
+        "tot": 108223, 
+        "gop": 40247
+    }, 
+    "for": "WA/Whatcom County/53073", 
+    "pct": {
+        "dem": 54.89, 
+        "per_point_diff": 17.7, 
+        "gop": 37.19
+    }
+}

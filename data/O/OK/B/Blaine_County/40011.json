@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2173, 
+        "dem": 711, 
+        "tot": 3793, 
+        "gop": 2884
+    }, 
+    "for": "OK/Blaine County/40011", 
+    "pct": {
+        "dem": 18.75, 
+        "per_point_diff": 57.29, 
+        "gop": 76.03
+    }
+}

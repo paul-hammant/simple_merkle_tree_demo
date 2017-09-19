@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 319, 
+        "dem": 42, 
+        "tot": 427, 
+        "gop": 361
+    }, 
+    "for": "ND/Slope County/38087", 
+    "pct": {
+        "dem": 9.84, 
+        "per_point_diff": 74.71, 
+        "gop": 84.54
+    }
+}

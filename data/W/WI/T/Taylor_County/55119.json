@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4191, 
+        "dem": 2398, 
+        "tot": 9417, 
+        "gop": 6589
+    }, 
+    "for": "WI/Taylor County/55119", 
+    "pct": {
+        "dem": 25.46, 
+        "per_point_diff": 44.5, 
+        "gop": 69.97
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3054, 
+        "dem": 701, 
+        "tot": 4664, 
+        "gop": 3755
+    }, 
+    "for": "CO/Yuma County/8125", 
+    "pct": {
+        "dem": 15.03, 
+        "per_point_diff": 65.48, 
+        "gop": 80.51
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 342, 
+        "dem": 1165, 
+        "tot": 2741, 
+        "gop": 1507
+    }, 
+    "for": "AR/Dallas County/5039", 
+    "pct": {
+        "dem": 42.5, 
+        "per_point_diff": 12.48, 
+        "gop": 54.98
+    }
+}

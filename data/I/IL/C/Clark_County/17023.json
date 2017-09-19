@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3747, 
+        "dem": 1873, 
+        "tot": 7819, 
+        "gop": 5620
+    }, 
+    "for": "IL/Clark County/17023", 
+    "pct": {
+        "dem": 23.95, 
+        "per_point_diff": 47.92, 
+        "gop": 71.88
+    }
+}

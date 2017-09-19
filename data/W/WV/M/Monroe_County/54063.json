@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3248, 
+        "dem": 1089, 
+        "tot": 5670, 
+        "gop": 4337
+    }, 
+    "for": "WV/Monroe County/54063", 
+    "pct": {
+        "dem": 19.21, 
+        "per_point_diff": 57.28, 
+        "gop": 76.49
+    }
+}

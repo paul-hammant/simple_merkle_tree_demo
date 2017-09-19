@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5285, 
+        "dem": 4451, 
+        "tot": 14959, 
+        "gop": 9736
+    }, 
+    "for": "NE/Dodge County/31053", 
+    "pct": {
+        "dem": 29.75, 
+        "per_point_diff": 35.33, 
+        "gop": 65.08
+    }
+}

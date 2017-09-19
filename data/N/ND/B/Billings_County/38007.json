@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 434, 
+        "dem": 58, 
+        "tot": 592, 
+        "gop": 492
+    }, 
+    "for": "ND/Billings County/38007", 
+    "pct": {
+        "dem": 9.8, 
+        "per_point_diff": 73.31, 
+        "gop": 83.11
+    }
+}

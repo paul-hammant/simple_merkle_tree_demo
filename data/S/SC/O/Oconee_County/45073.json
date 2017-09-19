@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16117, 
+        "dem": 7979, 
+        "tot": 33530, 
+        "gop": 24096
+    }, 
+    "for": "SC/Oconee County/45073", 
+    "pct": {
+        "dem": 23.8, 
+        "per_point_diff": 48.07, 
+        "gop": 71.86
+    }
+}

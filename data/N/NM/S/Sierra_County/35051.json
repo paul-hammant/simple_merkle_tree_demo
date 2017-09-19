@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1398, 
+        "dem": 1600, 
+        "tot": 5129, 
+        "gop": 2998
+    }, 
+    "for": "NM/Sierra County/35051", 
+    "pct": {
+        "dem": 31.2, 
+        "per_point_diff": 27.26, 
+        "gop": 58.45
+    }
+}

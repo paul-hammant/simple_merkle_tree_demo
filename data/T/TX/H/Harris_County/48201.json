@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 161511, 
+        "dem": 706471, 
+        "tot": 1302887, 
+        "gop": 544960
+    }, 
+    "for": "TX/Harris County/48201", 
+    "pct": {
+        "dem": 54.22, 
+        "per_point_diff": 12.4, 
+        "gop": 41.83
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1024, 
+        "dem": 180, 
+        "tot": 1483, 
+        "gop": 1204
+    }, 
+    "for": "KS/Jewell County/20089", 
+    "pct": {
+        "dem": 12.14, 
+        "per_point_diff": 69.05, 
+        "gop": 81.19
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5564, 
+        "dem": 4436, 
+        "tot": 15279, 
+        "gop": 10000
+    }, 
+    "for": "MI/Wexford County/26165", 
+    "pct": {
+        "dem": 29.03, 
+        "per_point_diff": 36.42, 
+        "gop": 65.45
+    }
+}

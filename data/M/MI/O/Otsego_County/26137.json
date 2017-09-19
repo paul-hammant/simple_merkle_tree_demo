@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4710, 
+        "dem": 3556, 
+        "tot": 12529, 
+        "gop": 8266
+    }, 
+    "for": "MI/Otsego County/26137", 
+    "pct": {
+        "dem": 28.38, 
+        "per_point_diff": 37.59, 
+        "gop": 65.97
+    }
+}

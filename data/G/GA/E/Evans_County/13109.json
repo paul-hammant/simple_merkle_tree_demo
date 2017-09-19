@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1274, 
+        "dem": 1130, 
+        "tot": 3602, 
+        "gop": 2404
+    }, 
+    "for": "GA/Evans County/13109", 
+    "pct": {
+        "dem": 31.37, 
+        "per_point_diff": 35.37, 
+        "gop": 66.74
+    }
+}

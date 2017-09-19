@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1347, 
+        "dem": 184, 
+        "tot": 2068, 
+        "gop": 1531
+    }, 
+    "for": "ID/Oneida County/16071", 
+    "pct": {
+        "dem": 8.9, 
+        "per_point_diff": 65.14, 
+        "gop": 74.03
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 371, 
+        "dem": 962, 
+        "tot": 1809, 
+        "gop": 591
+    }, 
+    "for": "NM/Guadalupe County/35019", 
+    "pct": {
+        "dem": 53.18, 
+        "per_point_diff": 20.51, 
+        "gop": 32.67
+    }
+}

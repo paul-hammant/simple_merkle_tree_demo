@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 84622, 
+        "dem": 220027, 
+        "tot": 376140, 
+        "gop": 135405
+    }, 
+    "for": "MA/Essex County/25009", 
+    "pct": {
+        "dem": 58.5, 
+        "per_point_diff": 22.5, 
+        "gop": 36.0
+    }
+}

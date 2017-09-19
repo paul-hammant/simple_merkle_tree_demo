@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2430, 
+        "dem": 2081, 
+        "tot": 6913, 
+        "gop": 4511
+    }, 
+    "for": "IN/Vermillion County/18165", 
+    "pct": {
+        "dem": 30.1, 
+        "per_point_diff": 35.15, 
+        "gop": 65.25
+    }
+}

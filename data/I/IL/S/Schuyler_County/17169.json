@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1449, 
+        "dem": 1074, 
+        "tot": 3792, 
+        "gop": 2523
+    }, 
+    "for": "IL/Schuyler County/17169", 
+    "pct": {
+        "dem": 28.32, 
+        "per_point_diff": 38.21, 
+        "gop": 66.53
+    }
+}

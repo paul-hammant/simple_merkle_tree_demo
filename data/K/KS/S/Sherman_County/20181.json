@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1703, 
+        "dem": 340, 
+        "tot": 2537, 
+        "gop": 2043
+    }, 
+    "for": "KS/Sherman County/20181", 
+    "pct": {
+        "dem": 13.4, 
+        "per_point_diff": 67.13, 
+        "gop": 80.53
+    }
+}

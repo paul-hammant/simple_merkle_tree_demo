@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1035, 
+        "dem": 190, 
+        "tot": 1460, 
+        "gop": 1225
+    }, 
+    "for": "TX/Donley County/48129", 
+    "pct": {
+        "dem": 13.01, 
+        "per_point_diff": 70.89, 
+        "gop": 83.9
+    }
+}

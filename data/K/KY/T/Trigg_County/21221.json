@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3341, 
+        "dem": 1587, 
+        "tot": 6740, 
+        "gop": 4928
+    }, 
+    "for": "KY/Trigg County/21221", 
+    "pct": {
+        "dem": 23.55, 
+        "per_point_diff": 49.57, 
+        "gop": 73.12
+    }
+}

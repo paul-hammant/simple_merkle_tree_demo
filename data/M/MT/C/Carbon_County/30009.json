@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1905, 
+        "dem": 1824, 
+        "tot": 5923, 
+        "gop": 3729
+    }, 
+    "for": "MT/Carbon County/30009", 
+    "pct": {
+        "dem": 30.8, 
+        "per_point_diff": 32.16, 
+        "gop": 62.96
+    }
+}

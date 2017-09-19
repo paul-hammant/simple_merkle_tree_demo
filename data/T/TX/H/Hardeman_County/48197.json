@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 958, 
+        "dem": 249, 
+        "tot": 1511, 
+        "gop": 1207
+    }, 
+    "for": "TX/Hardeman County/48197", 
+    "pct": {
+        "dem": 16.48, 
+        "per_point_diff": 63.4, 
+        "gop": 79.88
+    }
+}

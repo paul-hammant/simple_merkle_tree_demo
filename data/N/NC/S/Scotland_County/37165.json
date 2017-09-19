@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1067, 
+        "dem": 7279, 
+        "tot": 13743, 
+        "gop": 6212
+    }, 
+    "for": "NC/Scotland County/37165", 
+    "pct": {
+        "dem": 52.97, 
+        "per_point_diff": 7.76, 
+        "gop": 45.2
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1102, 
+        "dem": 10717, 
+        "tot": 23840, 
+        "gop": 11819
+    }, 
+    "for": "KY/Franklin County/21073", 
+    "pct": {
+        "dem": 44.95, 
+        "per_point_diff": 4.62, 
+        "gop": 49.58
+    }
+}

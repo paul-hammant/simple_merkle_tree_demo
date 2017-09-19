@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3088, 
+        "dem": 4100, 
+        "tot": 11736, 
+        "gop": 7188
+    }, 
+    "for": "WI/Juneau County/55057", 
+    "pct": {
+        "dem": 34.94, 
+        "per_point_diff": 26.31, 
+        "gop": 61.25
+    }
+}

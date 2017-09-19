@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3391, 
+        "dem": 2389, 
+        "tot": 8514, 
+        "gop": 5780
+    }, 
+    "for": "IL/Union County/17181", 
+    "pct": {
+        "dem": 28.06, 
+        "per_point_diff": 39.83, 
+        "gop": 67.89
+    }
+}

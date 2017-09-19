@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1416, 
+        "dem": 3800, 
+        "tot": 9181, 
+        "gop": 5216
+    }, 
+    "for": "GA/Meriwether County/13199", 
+    "pct": {
+        "dem": 41.39, 
+        "per_point_diff": 15.42, 
+        "gop": 56.81
+    }
+}

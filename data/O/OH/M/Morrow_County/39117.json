@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8011, 
+        "dem": 3711, 
+        "tot": 16186, 
+        "gop": 11722
+    }, 
+    "for": "OH/Morrow County/39117", 
+    "pct": {
+        "dem": 22.93, 
+        "per_point_diff": 49.49, 
+        "gop": 72.42
+    }
+}

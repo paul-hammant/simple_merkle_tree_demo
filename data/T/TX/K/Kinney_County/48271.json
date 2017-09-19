@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 479, 
+        "dem": 457, 
+        "tot": 1424, 
+        "gop": 936
+    }, 
+    "for": "TX/Kinney County/48271", 
+    "pct": {
+        "dem": 32.09, 
+        "per_point_diff": 33.64, 
+        "gop": 65.73
+    }
+}

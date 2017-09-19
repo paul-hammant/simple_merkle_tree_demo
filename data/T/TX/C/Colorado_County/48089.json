@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4346, 
+        "dem": 1977, 
+        "tot": 8480, 
+        "gop": 6323
+    }, 
+    "for": "TX/Colorado County/48089", 
+    "pct": {
+        "dem": 23.31, 
+        "per_point_diff": 51.25, 
+        "gop": 74.56
+    }
+}

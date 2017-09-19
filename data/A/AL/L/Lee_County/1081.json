@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13334, 
+        "dem": 20987, 
+        "tot": 57668, 
+        "gop": 34321
+    }, 
+    "for": "AL/Lee County/1081", 
+    "pct": {
+        "dem": 36.39, 
+        "per_point_diff": 23.12, 
+        "gop": 59.51
+    }
+}

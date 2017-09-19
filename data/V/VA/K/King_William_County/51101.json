@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3211, 
+        "dem": 2752, 
+        "tot": 9088, 
+        "gop": 5963
+    }, 
+    "for": "VA/King William County/51101", 
+    "pct": {
+        "dem": 30.28, 
+        "per_point_diff": 35.33, 
+        "gop": 65.61
+    }
+}

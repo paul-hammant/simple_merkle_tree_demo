@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2836, 
+        "dem": 3899, 
+        "tot": 10966, 
+        "gop": 6735
+    }, 
+    "for": "NC/Madison County/37115", 
+    "pct": {
+        "dem": 35.56, 
+        "per_point_diff": 25.86, 
+        "gop": 61.42
+    }
+}

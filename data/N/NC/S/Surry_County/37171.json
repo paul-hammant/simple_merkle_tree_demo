@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16057, 
+        "dem": 7438, 
+        "tot": 31663, 
+        "gop": 23495
+    }, 
+    "for": "NC/Surry County/37171", 
+    "pct": {
+        "dem": 23.49, 
+        "per_point_diff": 50.71, 
+        "gop": 74.2
+    }
+}

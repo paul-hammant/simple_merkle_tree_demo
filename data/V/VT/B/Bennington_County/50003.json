@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3614, 
+        "dem": 9539, 
+        "tot": 16345, 
+        "gop": 5925
+    }, 
+    "for": "VT/Bennington County/50003", 
+    "pct": {
+        "dem": 58.36, 
+        "per_point_diff": 22.11, 
+        "gop": 36.25
+    }
+}

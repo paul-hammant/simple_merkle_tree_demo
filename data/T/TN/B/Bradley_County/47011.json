@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 22691, 
+        "dem": 7070, 
+        "tot": 38392, 
+        "gop": 29761
+    }, 
+    "for": "TN/Bradley County/47011", 
+    "pct": {
+        "dem": 18.42, 
+        "per_point_diff": 59.1, 
+        "gop": 77.52
+    }
+}

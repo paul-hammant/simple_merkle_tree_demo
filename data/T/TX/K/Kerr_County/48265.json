@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12993, 
+        "dem": 4665, 
+        "tot": 23090, 
+        "gop": 17658
+    }, 
+    "for": "TX/Kerr County/48265", 
+    "pct": {
+        "dem": 20.2, 
+        "per_point_diff": 56.27, 
+        "gop": 76.47
+    }
+}

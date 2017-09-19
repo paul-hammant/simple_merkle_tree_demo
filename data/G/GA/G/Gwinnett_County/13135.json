@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18600, 
+        "dem": 165063, 
+        "tot": 323931, 
+        "gop": 146463
+    }, 
+    "for": "GA/Gwinnett County/13135", 
+    "pct": {
+        "dem": 50.96, 
+        "per_point_diff": 5.74, 
+        "gop": 45.21
+    }
+}

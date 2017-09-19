@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7323, 
+        "dem": 10064, 
+        "tot": 29676, 
+        "gop": 17387
+    }, 
+    "for": "KS/Leavenworth County/20103", 
+    "pct": {
+        "dem": 33.91, 
+        "per_point_diff": 24.68, 
+        "gop": 58.59
+    }
+}

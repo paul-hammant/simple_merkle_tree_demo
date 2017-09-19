@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12701, 
+        "dem": 39602, 
+        "tot": 68320, 
+        "gop": 26901
+    }, 
+    "for": "GA/Muscogee County/13215", 
+    "pct": {
+        "dem": 57.97, 
+        "per_point_diff": 18.59, 
+        "gop": 39.38
+    }
+}

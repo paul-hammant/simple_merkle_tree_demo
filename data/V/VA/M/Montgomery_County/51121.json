@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 560, 
+        "dem": 20015, 
+        "tot": 42695, 
+        "gop": 19455
+    }, 
+    "for": "VA/Montgomery County/51121", 
+    "pct": {
+        "dem": 46.88, 
+        "per_point_diff": 1.31, 
+        "gop": 45.57
+    }
+}

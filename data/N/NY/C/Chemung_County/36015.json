@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6631, 
+        "dem": 12394, 
+        "tot": 33195, 
+        "gop": 19025
+    }, 
+    "for": "NY/Chemung County/36015", 
+    "pct": {
+        "dem": 37.34, 
+        "per_point_diff": 19.98, 
+        "gop": 57.31
+    }
+}

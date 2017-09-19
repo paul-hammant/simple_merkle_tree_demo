@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 617, 
+        "dem": 243, 
+        "tot": 1187, 
+        "gop": 860
+    }, 
+    "for": "ND/Divide County/38023", 
+    "pct": {
+        "dem": 20.47, 
+        "per_point_diff": 51.98, 
+        "gop": 72.45
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5396, 
+        "dem": 8021, 
+        "tot": 22891, 
+        "gop": 13417
+    }, 
+    "for": "IL/Grundy County/17063", 
+    "pct": {
+        "dem": 35.04, 
+        "per_point_diff": 23.57, 
+        "gop": 58.61
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3677, 
+        "dem": 601, 
+        "tot": 4991, 
+        "gop": 4278
+    }, 
+    "for": "KY/Monroe County/21171", 
+    "pct": {
+        "dem": 12.04, 
+        "per_point_diff": 73.67, 
+        "gop": 85.71
+    }
+}

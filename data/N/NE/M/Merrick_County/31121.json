@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2313, 
+        "dem": 601, 
+        "tot": 3707, 
+        "gop": 2914
+    }, 
+    "for": "NE/Merrick County/31121", 
+    "pct": {
+        "dem": 16.21, 
+        "per_point_diff": 62.4, 
+        "gop": 78.61
+    }
+}

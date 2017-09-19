@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1289, 
+        "dem": 56874, 
+        "tot": 120199, 
+        "gop": 58163
+    }, 
+    "for": "NY/Dutchess County/36027", 
+    "pct": {
+        "dem": 47.32, 
+        "per_point_diff": 1.07, 
+        "gop": 48.39
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6018, 
+        "dem": 32402, 
+        "tot": 62785, 
+        "gop": 26384
+    }, 
+    "for": "WI/La Crosse County/55063", 
+    "pct": {
+        "dem": 51.61, 
+        "per_point_diff": 9.59, 
+        "gop": 42.02
+    }
+}

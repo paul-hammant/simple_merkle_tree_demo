@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1854, 
+        "dem": 2695, 
+        "tot": 3572, 
+        "gop": 841
+    }, 
+    "for": "GA/Hancock County/13141", 
+    "pct": {
+        "dem": 75.45, 
+        "per_point_diff": 51.9, 
+        "gop": 23.54
+    }
+}

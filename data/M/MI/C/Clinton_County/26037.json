@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5145, 
+        "dem": 16490, 
+        "tot": 40564, 
+        "gop": 21635
+    }, 
+    "for": "MI/Clinton County/26037", 
+    "pct": {
+        "dem": 40.65, 
+        "per_point_diff": 12.68, 
+        "gop": 53.34
+    }
+}

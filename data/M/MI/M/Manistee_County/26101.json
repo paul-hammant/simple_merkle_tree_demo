@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1936, 
+        "dem": 4979, 
+        "tot": 12598, 
+        "gop": 6915
+    }, 
+    "for": "MI/Manistee County/26101", 
+    "pct": {
+        "dem": 39.52, 
+        "per_point_diff": 15.37, 
+        "gop": 54.89
+    }
+}

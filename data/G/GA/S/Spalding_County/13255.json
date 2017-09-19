@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6289, 
+        "dem": 9347, 
+        "tot": 25940, 
+        "gop": 15636
+    }, 
+    "for": "GA/Spalding County/13255", 
+    "pct": {
+        "dem": 36.03, 
+        "per_point_diff": 24.24, 
+        "gop": 60.28
+    }
+}

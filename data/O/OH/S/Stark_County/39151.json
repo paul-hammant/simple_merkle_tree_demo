@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 29764, 
+        "dem": 66581, 
+        "tot": 170868, 
+        "gop": 96345
+    }, 
+    "for": "OH/Stark County/39151", 
+    "pct": {
+        "dem": 38.97, 
+        "per_point_diff": 17.42, 
+        "gop": 56.39
+    }
+}

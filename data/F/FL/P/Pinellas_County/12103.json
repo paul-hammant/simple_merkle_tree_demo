@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5419, 
+        "dem": 233327, 
+        "tot": 491520, 
+        "gop": 238746
+    }, 
+    "for": "FL/Pinellas County/12103", 
+    "pct": {
+        "dem": 47.47, 
+        "per_point_diff": 1.1, 
+        "gop": 48.57
+    }
+}

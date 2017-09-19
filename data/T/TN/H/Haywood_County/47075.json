@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 694, 
+        "dem": 3704, 
+        "tot": 6824, 
+        "gop": 3010
+    }, 
+    "for": "TN/Haywood County/47075", 
+    "pct": {
+        "dem": 54.28, 
+        "per_point_diff": 10.17, 
+        "gop": 44.11
+    }
+}

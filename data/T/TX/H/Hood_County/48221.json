@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17366, 
+        "dem": 4001, 
+        "tot": 26120, 
+        "gop": 21367
+    }, 
+    "for": "TX/Hood County/48221", 
+    "pct": {
+        "dem": 15.32, 
+        "per_point_diff": 66.49, 
+        "gop": 81.8
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1743, 
+        "dem": 9840, 
+        "tot": 22633, 
+        "gop": 11583
+    }, 
+    "for": "IA/Cerro Gordo County/19033", 
+    "pct": {
+        "dem": 43.48, 
+        "per_point_diff": 7.7, 
+        "gop": 51.18
+    }
+}

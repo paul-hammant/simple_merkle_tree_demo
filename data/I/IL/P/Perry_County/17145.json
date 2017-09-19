@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4383, 
+        "dem": 2433, 
+        "tot": 9706, 
+        "gop": 6816
+    }, 
+    "for": "IL/Perry County/17145", 
+    "pct": {
+        "dem": 25.07, 
+        "per_point_diff": 45.16, 
+        "gop": 70.22
+    }
+}

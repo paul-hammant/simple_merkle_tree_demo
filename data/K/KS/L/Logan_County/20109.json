@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 975, 
+        "dem": 149, 
+        "tot": 1348, 
+        "gop": 1124
+    }, 
+    "for": "KS/Logan County/20109", 
+    "pct": {
+        "dem": 11.05, 
+        "per_point_diff": 72.33, 
+        "gop": 83.38
+    }
+}

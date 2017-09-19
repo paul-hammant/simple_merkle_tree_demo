@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2025, 
+        "dem": 4764, 
+        "tot": 11761, 
+        "gop": 6789
+    }, 
+    "for": "LA/Pointe Coupee Parish/22077", 
+    "pct": {
+        "dem": 40.51, 
+        "per_point_diff": 17.22, 
+        "gop": 57.72
+    }
+}

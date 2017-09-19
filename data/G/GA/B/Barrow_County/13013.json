@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14525, 
+        "dem": 6580, 
+        "tot": 28828, 
+        "gop": 21105
+    }, 
+    "for": "GA/Barrow County/13013", 
+    "pct": {
+        "dem": 22.83, 
+        "per_point_diff": 50.39, 
+        "gop": 73.21
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16585, 
+        "dem": 12184, 
+        "tot": 43557, 
+        "gop": 28769
+    }, 
+    "for": "AR/Sebastian County/5131", 
+    "pct": {
+        "dem": 27.97, 
+        "per_point_diff": 38.08, 
+        "gop": 66.05
+    }
+}

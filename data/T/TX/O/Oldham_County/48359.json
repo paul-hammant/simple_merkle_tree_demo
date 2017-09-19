@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 772, 
+        "dem": 78, 
+        "tot": 945, 
+        "gop": 850
+    }, 
+    "for": "TX/Oldham County/48359", 
+    "pct": {
+        "dem": 8.25, 
+        "per_point_diff": 81.69, 
+        "gop": 89.95
+    }
+}

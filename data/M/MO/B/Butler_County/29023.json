@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10611, 
+        "dem": 3036, 
+        "tot": 17232, 
+        "gop": 13647
+    }, 
+    "for": "MO/Butler County/29023", 
+    "pct": {
+        "dem": 17.62, 
+        "per_point_diff": 61.58, 
+        "gop": 79.2
+    }
+}

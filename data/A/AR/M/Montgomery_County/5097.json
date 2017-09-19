@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1838, 
+        "dem": 735, 
+        "tot": 3445, 
+        "gop": 2573
+    }, 
+    "for": "AR/Montgomery County/5097", 
+    "pct": {
+        "dem": 21.34, 
+        "per_point_diff": 53.35, 
+        "gop": 74.69
+    }
+}

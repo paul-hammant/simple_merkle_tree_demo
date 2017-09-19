@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12402, 
+        "dem": 16991, 
+        "tot": 48442, 
+        "gop": 29393
+    }, 
+    "for": "NJ/Warren County/34041", 
+    "pct": {
+        "dem": 35.07, 
+        "per_point_diff": 25.6, 
+        "gop": 60.68
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 33261, 
+        "dem": 107363, 
+        "tot": 191684, 
+        "gop": 74102
+    }, 
+    "for": "OH/Lucas County/39095", 
+    "pct": {
+        "dem": 56.01, 
+        "per_point_diff": 17.35, 
+        "gop": 38.66
+    }
+}

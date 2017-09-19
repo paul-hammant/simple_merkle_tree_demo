@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 862, 
+        "dem": 403, 
+        "tot": 1722, 
+        "gop": 1265
+    }, 
+    "for": "TX/Fisher County/48151", 
+    "pct": {
+        "dem": 23.4, 
+        "per_point_diff": 50.06, 
+        "gop": 73.46
+    }
+}

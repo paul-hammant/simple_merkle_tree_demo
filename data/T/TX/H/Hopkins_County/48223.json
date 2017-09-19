@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8196, 
+        "dem": 2508, 
+        "tot": 13476, 
+        "gop": 10704
+    }, 
+    "for": "TX/Hopkins County/48223", 
+    "pct": {
+        "dem": 18.61, 
+        "per_point_diff": 60.82, 
+        "gop": 79.43
+    }
+}

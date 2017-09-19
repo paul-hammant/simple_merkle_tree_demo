@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 504, 
+        "dem": 20, 
+        "tot": 550, 
+        "gop": 524
+    }, 
+    "for": "TX/Roberts County/48393", 
+    "pct": {
+        "dem": 3.64, 
+        "per_point_diff": 91.64, 
+        "gop": 95.27
+    }
+}

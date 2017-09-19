@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4177, 
+        "dem": 1969, 
+        "tot": 8507, 
+        "gop": 6146
+    }, 
+    "for": "IL/Crawford County/17033", 
+    "pct": {
+        "dem": 23.15, 
+        "per_point_diff": 49.1, 
+        "gop": 72.25
+    }
+}

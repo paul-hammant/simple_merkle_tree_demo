@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5571, 
+        "dem": 1721, 
+        "tot": 9220, 
+        "gop": 7292
+    }, 
+    "for": "VA/Buchanan County/51027", 
+    "pct": {
+        "dem": 18.67, 
+        "per_point_diff": 60.42, 
+        "gop": 79.09
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6060, 
+        "dem": 18915, 
+        "tot": 46641, 
+        "gop": 24975
+    }, 
+    "for": "MO/Platte County/29165", 
+    "pct": {
+        "dem": 40.55, 
+        "per_point_diff": 12.99, 
+        "gop": 53.55
+    }
+}

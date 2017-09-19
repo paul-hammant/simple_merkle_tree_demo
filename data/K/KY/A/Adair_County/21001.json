@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5314, 
+        "dem": 1323, 
+        "tot": 8228, 
+        "gop": 6637
+    }, 
+    "for": "KY/Adair County/21001", 
+    "pct": {
+        "dem": 16.08, 
+        "per_point_diff": 64.58, 
+        "gop": 80.66
+    }
+}

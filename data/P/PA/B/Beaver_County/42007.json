@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15856, 
+        "dem": 30225, 
+        "tot": 79036, 
+        "gop": 46081
+    }, 
+    "for": "PA/Beaver County/42007", 
+    "pct": {
+        "dem": 38.24, 
+        "per_point_diff": 20.06, 
+        "gop": 58.3
+    }
+}

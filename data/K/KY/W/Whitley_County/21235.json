@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9245, 
+        "dem": 2067, 
+        "tot": 13765, 
+        "gop": 11312
+    }, 
+    "for": "KY/Whitley County/21235", 
+    "pct": {
+        "dem": 15.02, 
+        "per_point_diff": 67.16, 
+        "gop": 82.18
+    }
+}

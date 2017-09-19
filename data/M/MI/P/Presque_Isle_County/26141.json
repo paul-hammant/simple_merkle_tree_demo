@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2086, 
+        "dem": 2400, 
+        "tot": 7215, 
+        "gop": 4486
+    }, 
+    "for": "MI/Presque Isle County/26141", 
+    "pct": {
+        "dem": 33.26, 
+        "per_point_diff": 28.91, 
+        "gop": 62.18
+    }
+}

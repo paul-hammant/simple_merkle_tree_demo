@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 41425, 
+        "dem": 549040, 
+        "tot": 1201934, 
+        "gop": 590465
+    }, 
+    "for": "AZ/Maricopa County/4013", 
+    "pct": {
+        "dem": 45.68, 
+        "per_point_diff": 3.45, 
+        "gop": 49.13
+    }
+}

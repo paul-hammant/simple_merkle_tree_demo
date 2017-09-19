@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2020, 
+        "dem": 2371, 
+        "tot": 6984, 
+        "gop": 4391
+    }, 
+    "for": "AR/Hempstead County/5057", 
+    "pct": {
+        "dem": 33.95, 
+        "per_point_diff": 28.92, 
+        "gop": 62.87
+    }
+}

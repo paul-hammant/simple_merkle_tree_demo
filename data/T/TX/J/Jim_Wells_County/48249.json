@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1277, 
+        "dem": 6688, 
+        "tot": 12346, 
+        "gop": 5411
+    }, 
+    "for": "TX/Jim Wells County/48249", 
+    "pct": {
+        "dem": 54.17, 
+        "per_point_diff": 10.34, 
+        "gop": 43.83
+    }
+}

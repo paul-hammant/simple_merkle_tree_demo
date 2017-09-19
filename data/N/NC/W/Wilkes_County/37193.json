@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17017, 
+        "dem": 6596, 
+        "tot": 30844, 
+        "gop": 23613
+    }, 
+    "for": "NC/Wilkes County/37193", 
+    "pct": {
+        "dem": 21.39, 
+        "per_point_diff": 55.17, 
+        "gop": 76.56
+    }
+}

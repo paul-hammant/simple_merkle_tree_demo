@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7357, 
+        "dem": 7529, 
+        "tot": 23765, 
+        "gop": 14886
+    }, 
+    "for": "MI/St. Joseph County/26149", 
+    "pct": {
+        "dem": 31.68, 
+        "per_point_diff": 30.96, 
+        "gop": 62.64
+    }
+}

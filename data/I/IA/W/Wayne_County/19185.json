@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1350, 
+        "dem": 719, 
+        "tot": 2921, 
+        "gop": 2069
+    }, 
+    "for": "IA/Wayne County/19185", 
+    "pct": {
+        "dem": 24.61, 
+        "per_point_diff": 46.22, 
+        "gop": 70.83
+    }
+}

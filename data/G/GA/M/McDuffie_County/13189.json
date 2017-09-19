@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1733, 
+        "dem": 3699, 
+        "tot": 9268, 
+        "gop": 5432
+    }, 
+    "for": "GA/McDuffie County/13189", 
+    "pct": {
+        "dem": 39.91, 
+        "per_point_diff": 18.7, 
+        "gop": 58.61
+    }
+}

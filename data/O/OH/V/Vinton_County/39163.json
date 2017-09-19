@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2467, 
+        "dem": 1332, 
+        "tot": 5393, 
+        "gop": 3799
+    }, 
+    "for": "OH/Vinton County/39163", 
+    "pct": {
+        "dem": 24.7, 
+        "per_point_diff": 45.74, 
+        "gop": 70.44
+    }
+}

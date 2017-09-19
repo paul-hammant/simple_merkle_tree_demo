@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3254, 
+        "dem": 6010, 
+        "tot": 16303, 
+        "gop": 9264
+    }, 
+    "for": "IL/Bureau County/17011", 
+    "pct": {
+        "dem": 36.86, 
+        "per_point_diff": 19.96, 
+        "gop": 56.82
+    }
+}

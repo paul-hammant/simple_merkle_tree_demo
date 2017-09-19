@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1825, 
+        "dem": 1100, 
+        "tot": 4225, 
+        "gop": 2925
+    }, 
+    "for": "MN/Clearwater County/27029", 
+    "pct": {
+        "dem": 26.04, 
+        "per_point_diff": 43.2, 
+        "gop": 69.23
+    }
+}

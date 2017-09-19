@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10983, 
+        "dem": 4630, 
+        "tot": 21153, 
+        "gop": 15613
+    }, 
+    "for": "PA/Perry County/42099", 
+    "pct": {
+        "dem": 21.89, 
+        "per_point_diff": 51.92, 
+        "gop": 73.81
+    }
+}

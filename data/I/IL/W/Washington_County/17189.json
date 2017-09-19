@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4120, 
+        "dem": 1446, 
+        "tot": 7376, 
+        "gop": 5566
+    }, 
+    "for": "IL/Washington County/17189", 
+    "pct": {
+        "dem": 19.6, 
+        "per_point_diff": 55.86, 
+        "gop": 75.46
+    }
+}

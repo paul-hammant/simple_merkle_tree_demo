@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10601, 
+        "dem": 18594, 
+        "tot": 28654, 
+        "gop": 7993
+    }, 
+    "for": "VT/Washington County/50023", 
+    "pct": {
+        "dem": 64.89, 
+        "per_point_diff": 37.0, 
+        "gop": 27.89
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 47079, 
+        "dem": 90066, 
+        "tot": 239151, 
+        "gop": 137145
+    }, 
+    "for": "PA/Lancaster County/42071", 
+    "pct": {
+        "dem": 37.66, 
+        "per_point_diff": 19.69, 
+        "gop": 57.35
+    }
+}

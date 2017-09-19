@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 979, 
+        "dem": 73939, 
+        "tot": 156141, 
+        "gop": 72960
+    }, 
+    "for": "CA/Stanislaus County/6099", 
+    "pct": {
+        "dem": 47.35, 
+        "per_point_diff": 0.63, 
+        "gop": 46.73
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4867, 
+        "dem": 1768, 
+        "tot": 8692, 
+        "gop": 6635
+    }, 
+    "for": "TX/Howard County/48227", 
+    "pct": {
+        "dem": 20.34, 
+        "per_point_diff": 55.99, 
+        "gop": 76.33
+    }
+}

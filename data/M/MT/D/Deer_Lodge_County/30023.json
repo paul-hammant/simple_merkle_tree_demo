@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 282, 
+        "dem": 2018, 
+        "tot": 4099, 
+        "gop": 1736
+    }, 
+    "for": "MT/Deer Lodge County/30023", 
+    "pct": {
+        "dem": 49.23, 
+        "per_point_diff": 6.88, 
+        "gop": 42.35
+    }
+}

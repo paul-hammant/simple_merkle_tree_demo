@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6473, 
+        "dem": 3908, 
+        "tot": 14961, 
+        "gop": 10381
+    }, 
+    "for": "OH/Coshocton County/39031", 
+    "pct": {
+        "dem": 26.12, 
+        "per_point_diff": 43.27, 
+        "gop": 69.39
+    }
+}

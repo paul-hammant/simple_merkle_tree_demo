@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5310, 
+        "dem": 2514, 
+        "tot": 10663, 
+        "gop": 7824
+    }, 
+    "for": "VA/Page County/51139", 
+    "pct": {
+        "dem": 23.58, 
+        "per_point_diff": 49.8, 
+        "gop": 73.38
+    }
+}

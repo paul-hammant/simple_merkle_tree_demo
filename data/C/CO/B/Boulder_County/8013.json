@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 85949, 
+        "dem": 124715, 
+        "tot": 176735, 
+        "gop": 38766
+    }, 
+    "for": "CO/Boulder County/8013", 
+    "pct": {
+        "dem": 70.57, 
+        "per_point_diff": 48.63, 
+        "gop": 21.93
+    }
+}

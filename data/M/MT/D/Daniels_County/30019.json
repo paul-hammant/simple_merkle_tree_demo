@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 562, 
+        "dem": 167, 
+        "tot": 952, 
+        "gop": 729
+    }, 
+    "for": "MT/Daniels County/30019", 
+    "pct": {
+        "dem": 17.54, 
+        "per_point_diff": 59.03, 
+        "gop": 76.58
+    }
+}

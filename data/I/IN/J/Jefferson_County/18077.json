@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4213, 
+        "dem": 4325, 
+        "tot": 13461, 
+        "gop": 8538
+    }, 
+    "for": "IN/Jefferson County/18077", 
+    "pct": {
+        "dem": 32.13, 
+        "per_point_diff": 31.3, 
+        "gop": 63.43
+    }
+}

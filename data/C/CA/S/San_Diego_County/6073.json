@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 180436, 
+        "dem": 567243, 
+        "tot": 1011651, 
+        "gop": 386807
+    }, 
+    "for": "CA/San Diego County/6073", 
+    "pct": {
+        "dem": 56.07, 
+        "per_point_diff": 17.84, 
+        "gop": 38.24
+    }
+}

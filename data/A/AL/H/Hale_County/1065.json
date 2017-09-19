@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1600, 
+        "dem": 4772, 
+        "tot": 8010, 
+        "gop": 3172
+    }, 
+    "for": "AL/Hale County/1065", 
+    "pct": {
+        "dem": 59.58, 
+        "per_point_diff": 19.98, 
+        "gop": 39.6
+    }
+}

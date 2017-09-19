@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 28610, 
+        "dem": 16197, 
+        "tot": 63064, 
+        "gop": 44807
+    }, 
+    "for": "TX/Ellis County/48139", 
+    "pct": {
+        "dem": 25.68, 
+        "per_point_diff": 45.37, 
+        "gop": 71.05
+    }
+}

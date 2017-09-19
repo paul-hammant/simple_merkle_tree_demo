@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1088369, 
+        "dem": 1528582, 
+        "tot": 2055215, 
+        "gop": 440213
+    }, 
+    "for": "IL/Cook County/17031", 
+    "pct": {
+        "dem": 74.38, 
+        "per_point_diff": 52.96, 
+        "gop": 21.42
+    }
+}

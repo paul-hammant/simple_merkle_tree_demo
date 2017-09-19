@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1544, 
+        "dem": 1244, 
+        "tot": 4292, 
+        "gop": 2788
+    }, 
+    "for": "KY/Hancock County/21091", 
+    "pct": {
+        "dem": 28.98, 
+        "per_point_diff": 35.97, 
+        "gop": 64.96
+    }
+}

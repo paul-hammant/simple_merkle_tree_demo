@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4798, 
+        "dem": 2606, 
+        "tot": 10494, 
+        "gop": 7404
+    }, 
+    "for": "IA/Mahaska County/19123", 
+    "pct": {
+        "dem": 24.83, 
+        "per_point_diff": 45.72, 
+        "gop": 70.55
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 451, 
+        "dem": 2118, 
+        "tot": 5271, 
+        "gop": 2569
+    }, 
+    "for": "NM/Colfax County/35007", 
+    "pct": {
+        "dem": 40.18, 
+        "per_point_diff": 8.56, 
+        "gop": 48.74
+    }
+}

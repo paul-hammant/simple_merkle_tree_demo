@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1934, 
+        "dem": 2722, 
+        "tot": 3578, 
+        "gop": 788
+    }, 
+    "for": "SC/Allendale County/45005", 
+    "pct": {
+        "dem": 76.08, 
+        "per_point_diff": 54.05, 
+        "gop": 22.02
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2325, 
+        "dem": 3980, 
+        "tot": 10893, 
+        "gop": 6305
+    }, 
+    "for": "WA/Okanogan County/53047", 
+    "pct": {
+        "dem": 36.54, 
+        "per_point_diff": 21.34, 
+        "gop": 57.88
+    }
+}

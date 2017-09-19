@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 24948, 
+        "dem": 14356, 
+        "tot": 56286, 
+        "gop": 39304
+    }, 
+    "for": "TN/Wilson County/47189", 
+    "pct": {
+        "dem": 25.51, 
+        "per_point_diff": 44.32, 
+        "gop": 69.83
+    }
+}

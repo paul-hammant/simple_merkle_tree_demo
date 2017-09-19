@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 542, 
+        "dem": 3721, 
+        "tot": 7975, 
+        "gop": 3179
+    }, 
+    "for": "NM/Cibola County/35006", 
+    "pct": {
+        "dem": 46.66, 
+        "per_point_diff": 6.8, 
+        "gop": 39.86
+    }
+}

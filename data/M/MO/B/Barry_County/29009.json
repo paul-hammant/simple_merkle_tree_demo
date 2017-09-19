@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8717, 
+        "dem": 2710, 
+        "tot": 14604, 
+        "gop": 11427
+    }, 
+    "for": "MO/Barry County/29009", 
+    "pct": {
+        "dem": 18.56, 
+        "per_point_diff": 59.69, 
+        "gop": 78.25
+    }
+}

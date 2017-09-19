@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7996, 
+        "dem": 2582, 
+        "tot": 13351, 
+        "gop": 10578
+    }, 
+    "for": "TX/Jasper County/48241", 
+    "pct": {
+        "dem": 19.34, 
+        "per_point_diff": 59.89, 
+        "gop": 79.23
+    }
+}

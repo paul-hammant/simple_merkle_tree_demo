@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14780, 
+        "dem": 7008, 
+        "tot": 29451, 
+        "gop": 21788
+    }, 
+    "for": "NC/Stanly County/37167", 
+    "pct": {
+        "dem": 23.8, 
+        "per_point_diff": 50.19, 
+        "gop": 73.98
+    }
+}

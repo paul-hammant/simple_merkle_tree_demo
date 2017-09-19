@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5176, 
+        "dem": 6370, 
+        "tot": 18869, 
+        "gop": 11546
+    }, 
+    "for": "NY/Greene County/36039", 
+    "pct": {
+        "dem": 33.76, 
+        "per_point_diff": 27.43, 
+        "gop": 61.19
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 488, 
+        "dem": 6240, 
+        "tot": 13045, 
+        "gop": 5752
+    }, 
+    "for": "CA/Lake County/6033", 
+    "pct": {
+        "dem": 47.83, 
+        "per_point_diff": 3.74, 
+        "gop": 44.09
+    }
+}

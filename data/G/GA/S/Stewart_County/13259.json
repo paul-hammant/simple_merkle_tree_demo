@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 415, 
+        "dem": 1220, 
+        "tot": 2053, 
+        "gop": 805
+    }, 
+    "for": "GA/Stewart County/13259", 
+    "pct": {
+        "dem": 59.43, 
+        "per_point_diff": 20.21, 
+        "gop": 39.21
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5938, 
+        "dem": 13283, 
+        "tot": 34263, 
+        "gop": 19221
+    }, 
+    "for": "CA/Madera County/6039", 
+    "pct": {
+        "dem": 38.77, 
+        "per_point_diff": 17.33, 
+        "gop": 56.1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2659, 
+        "dem": 314, 
+        "tot": 3339, 
+        "gop": 2973
+    }, 
+    "for": "TX/Jack County/48237", 
+    "pct": {
+        "dem": 9.4, 
+        "per_point_diff": 79.63, 
+        "gop": 89.04
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 288435, 
+        "dem": 546956, 
+        "tot": 822837, 
+        "gop": 258521
+    }, 
+    "for": "FL/Broward County/12011", 
+    "pct": {
+        "dem": 66.47, 
+        "per_point_diff": 35.05, 
+        "gop": 31.42
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3445, 
+        "dem": 40222, 
+        "tot": 90584, 
+        "gop": 43667
+    }, 
+    "for": "OR/Deschutes County/41017", 
+    "pct": {
+        "dem": 44.4, 
+        "per_point_diff": 3.8, 
+        "gop": 48.21
+    }
+}

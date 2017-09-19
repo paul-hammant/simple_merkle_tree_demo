@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1745, 
+        "dem": 2489, 
+        "tot": 7290, 
+        "gop": 4234
+    }, 
+    "for": "CO/Archuleta County/8007", 
+    "pct": {
+        "dem": 34.14, 
+        "per_point_diff": 23.94, 
+        "gop": 58.08
+    }
+}

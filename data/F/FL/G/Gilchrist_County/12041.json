@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5283, 
+        "dem": 1457, 
+        "tot": 8418, 
+        "gop": 6740
+    }, 
+    "for": "FL/Gilchrist County/12041", 
+    "pct": {
+        "dem": 17.31, 
+        "per_point_diff": 62.76, 
+        "gop": 80.07
+    }
+}

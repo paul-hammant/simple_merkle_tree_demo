@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7340, 
+        "dem": 2926, 
+        "tot": 14187, 
+        "gop": 10266
+    }, 
+    "for": "WY/Sheridan County/56033", 
+    "pct": {
+        "dem": 20.62, 
+        "per_point_diff": 51.74, 
+        "gop": 72.36
+    }
+}

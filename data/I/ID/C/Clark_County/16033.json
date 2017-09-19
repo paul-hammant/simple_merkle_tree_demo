@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 159, 
+        "dem": 44, 
+        "tot": 283, 
+        "gop": 203
+    }, 
+    "for": "ID/Clark County/16033", 
+    "pct": {
+        "dem": 15.55, 
+        "per_point_diff": 56.18, 
+        "gop": 71.73
+    }
+}

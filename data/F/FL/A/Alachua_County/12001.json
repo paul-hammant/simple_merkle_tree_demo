@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 28786, 
+        "dem": 75370, 
+        "tot": 127827, 
+        "gop": 46584
+    }, 
+    "for": "FL/Alachua County/12001", 
+    "pct": {
+        "dem": 58.96, 
+        "per_point_diff": 22.52, 
+        "gop": 36.44
+    }
+}

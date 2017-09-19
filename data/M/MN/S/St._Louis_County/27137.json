@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13138, 
+        "dem": 57769, 
+        "tot": 111260, 
+        "gop": 44631
+    }, 
+    "for": "MN/St. Louis County/27137", 
+    "pct": {
+        "dem": 51.92, 
+        "per_point_diff": 11.81, 
+        "gop": 40.11
+    }
+}

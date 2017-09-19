@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1622, 
+        "dem": 1118, 
+        "tot": 4081, 
+        "gop": 2740
+    }, 
+    "for": "WA/Adams County/53001", 
+    "pct": {
+        "dem": 27.4, 
+        "per_point_diff": 39.75, 
+        "gop": 67.14
+    }
+}

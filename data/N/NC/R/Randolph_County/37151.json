@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 36082, 
+        "dem": 13074, 
+        "tot": 63615, 
+        "gop": 49156
+    }, 
+    "for": "NC/Randolph County/37151", 
+    "pct": {
+        "dem": 20.55, 
+        "per_point_diff": 56.72, 
+        "gop": 77.27
+    }
+}

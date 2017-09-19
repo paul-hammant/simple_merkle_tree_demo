@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5702, 
+        "dem": 2783, 
+        "tot": 11944, 
+        "gop": 8485
+    }, 
+    "for": "MN/Todd County/27153", 
+    "pct": {
+        "dem": 23.3, 
+        "per_point_diff": 47.74, 
+        "gop": 71.04
+    }
+}

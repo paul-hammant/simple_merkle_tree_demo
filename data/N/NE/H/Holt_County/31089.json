@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3753, 
+        "dem": 522, 
+        "tot": 4979, 
+        "gop": 4275
+    }, 
+    "for": "NE/Holt County/31089", 
+    "pct": {
+        "dem": 10.48, 
+        "per_point_diff": 75.38, 
+        "gop": 85.86
+    }
+}

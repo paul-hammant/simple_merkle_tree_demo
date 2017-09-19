@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 837, 
+        "dem": 4722, 
+        "tot": 8968, 
+        "gop": 3885
+    }, 
+    "for": "VA/Hopewell city/51670", 
+    "pct": {
+        "dem": 52.65, 
+        "per_point_diff": 9.33, 
+        "gop": 43.32
+    }
+}

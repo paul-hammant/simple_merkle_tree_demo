@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1540, 
+        "dem": 365, 
+        "tot": 2345, 
+        "gop": 1905
+    }, 
+    "for": "OK/Jefferson County/40067", 
+    "pct": {
+        "dem": 15.57, 
+        "per_point_diff": 65.67, 
+        "gop": 81.24
+    }
+}

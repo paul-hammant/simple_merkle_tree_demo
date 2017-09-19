@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4862, 
+        "dem": 2484, 
+        "tot": 10396, 
+        "gop": 7346
+    }, 
+    "for": "OH/Wyandot County/39175", 
+    "pct": {
+        "dem": 23.89, 
+        "per_point_diff": 46.77, 
+        "gop": 70.66
+    }
+}

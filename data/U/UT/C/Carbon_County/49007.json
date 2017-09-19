@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3486, 
+        "dem": 1696, 
+        "tot": 7818, 
+        "gop": 5182
+    }, 
+    "for": "UT/Carbon County/49007", 
+    "pct": {
+        "dem": 21.69, 
+        "per_point_diff": 44.59, 
+        "gop": 66.28
+    }
+}

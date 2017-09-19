@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2623, 
+        "dem": 1094, 
+        "tot": 4934, 
+        "gop": 3717
+    }, 
+    "for": "GA/Bleckley County/13023", 
+    "pct": {
+        "dem": 22.17, 
+        "per_point_diff": 53.16, 
+        "gop": 75.33
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4129, 
+        "dem": 2015, 
+        "tot": 8266, 
+        "gop": 6144
+    }, 
+    "for": "GA/Worth County/13321", 
+    "pct": {
+        "dem": 24.38, 
+        "per_point_diff": 49.95, 
+        "gop": 74.33
+    }
+}

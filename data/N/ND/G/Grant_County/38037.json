@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 911, 
+        "dem": 187, 
+        "tot": 1361, 
+        "gop": 1098
+    }, 
+    "for": "ND/Grant County/38037", 
+    "pct": {
+        "dem": 13.74, 
+        "per_point_diff": 66.94, 
+        "gop": 80.68
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1304, 
+        "dem": 374, 
+        "tot": 2132, 
+        "gop": 1678
+    }, 
+    "for": "IL/Pope County/17151", 
+    "pct": {
+        "dem": 17.54, 
+        "per_point_diff": 61.16, 
+        "gop": 78.71
+    }
+}

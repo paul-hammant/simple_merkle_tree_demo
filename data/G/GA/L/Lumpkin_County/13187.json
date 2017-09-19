@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7397, 
+        "dem": 2216, 
+        "tot": 12324, 
+        "gop": 9613
+    }, 
+    "for": "GA/Lumpkin County/13187", 
+    "pct": {
+        "dem": 17.98, 
+        "per_point_diff": 60.02, 
+        "gop": 78.0
+    }
+}

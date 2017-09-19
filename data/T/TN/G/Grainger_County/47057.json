@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5464, 
+        "dem": 1154, 
+        "tot": 7985, 
+        "gop": 6618
+    }, 
+    "for": "TN/Grainger County/47057", 
+    "pct": {
+        "dem": 14.45, 
+        "per_point_diff": 68.43, 
+        "gop": 82.88
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9987, 
+        "dem": 4270, 
+        "tot": 19139, 
+        "gop": 14257
+    }, 
+    "for": "OH/Brown County/39015", 
+    "pct": {
+        "dem": 22.31, 
+        "per_point_diff": 52.18, 
+        "gop": 74.49
+    }
+}

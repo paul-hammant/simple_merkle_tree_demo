@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12159, 
+        "dem": 2909, 
+        "tot": 18255, 
+        "gop": 15068
+    }, 
+    "for": "AL/Chilton County/1021", 
+    "pct": {
+        "dem": 15.94, 
+        "per_point_diff": 66.61, 
+        "gop": 82.54
+    }
+}

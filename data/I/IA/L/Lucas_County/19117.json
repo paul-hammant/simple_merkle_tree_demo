@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1637, 
+        "dem": 1236, 
+        "tot": 4297, 
+        "gop": 2873
+    }, 
+    "for": "IA/Lucas County/19117", 
+    "pct": {
+        "dem": 28.76, 
+        "per_point_diff": 38.1, 
+        "gop": 66.86
+    }
+}

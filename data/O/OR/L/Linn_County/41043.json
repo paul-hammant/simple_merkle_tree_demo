@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15227, 
+        "dem": 17456, 
+        "tot": 54724, 
+        "gop": 32683
+    }, 
+    "for": "OR/Linn County/41043", 
+    "pct": {
+        "dem": 31.9, 
+        "per_point_diff": 27.83, 
+        "gop": 59.72
+    }
+}

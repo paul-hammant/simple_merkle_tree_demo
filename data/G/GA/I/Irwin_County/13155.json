@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1821, 
+        "dem": 890, 
+        "tot": 3659, 
+        "gop": 2711
+    }, 
+    "for": "GA/Irwin County/13155", 
+    "pct": {
+        "dem": 24.32, 
+        "per_point_diff": 49.77, 
+        "gop": 74.09
+    }
+}

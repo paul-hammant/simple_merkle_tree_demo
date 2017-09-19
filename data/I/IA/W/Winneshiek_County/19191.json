@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 94, 
+        "dem": 5238, 
+        "tot": 11217, 
+        "gop": 5332
+    }, 
+    "for": "IA/Winneshiek County/19191", 
+    "pct": {
+        "dem": 46.7, 
+        "per_point_diff": 0.84, 
+        "gop": 47.53
+    }
+}

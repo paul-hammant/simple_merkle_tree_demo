@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10326, 
+        "dem": 3955, 
+        "tot": 18675, 
+        "gop": 14281
+    }, 
+    "for": "FL/Suwannee County/12121", 
+    "pct": {
+        "dem": 21.18, 
+        "per_point_diff": 55.29, 
+        "gop": 76.47
+    }
+}

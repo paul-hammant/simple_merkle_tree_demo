@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 850, 
+        "dem": 156, 
+        "tot": 1175, 
+        "gop": 1006
+    }, 
+    "for": "GA/Echols County/13101", 
+    "pct": {
+        "dem": 13.28, 
+        "per_point_diff": 72.34, 
+        "gop": 85.62
+    }
+}

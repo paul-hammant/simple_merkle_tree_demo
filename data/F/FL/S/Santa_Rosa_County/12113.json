@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 46728, 
+        "dem": 18398, 
+        "tot": 87432, 
+        "gop": 65126
+    }, 
+    "for": "FL/Santa Rosa County/12113", 
+    "pct": {
+        "dem": 21.04, 
+        "per_point_diff": 53.44, 
+        "gop": 74.49
+    }
+}

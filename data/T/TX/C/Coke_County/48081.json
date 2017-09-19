@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1125, 
+        "dem": 140, 
+        "tot": 1423, 
+        "gop": 1265
+    }, 
+    "for": "TX/Coke County/48081", 
+    "pct": {
+        "dem": 9.84, 
+        "per_point_diff": 79.06, 
+        "gop": 88.9
+    }
+}

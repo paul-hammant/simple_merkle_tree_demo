@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4772, 
+        "dem": 904, 
+        "tot": 6743, 
+        "gop": 5676
+    }, 
+    "for": "PA/Fulton County/42057", 
+    "pct": {
+        "dem": 13.41, 
+        "per_point_diff": 70.77, 
+        "gop": 84.18
+    }
+}

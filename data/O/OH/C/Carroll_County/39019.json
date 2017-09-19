@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5943, 
+        "dem": 3124, 
+        "tot": 12807, 
+        "gop": 9067
+    }, 
+    "for": "OH/Carroll County/39019", 
+    "pct": {
+        "dem": 24.39, 
+        "per_point_diff": 46.4, 
+        "gop": 70.8
+    }
+}

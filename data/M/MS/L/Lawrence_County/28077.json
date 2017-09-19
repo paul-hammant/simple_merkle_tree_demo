@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1891, 
+        "dem": 2181, 
+        "tot": 6329, 
+        "gop": 4072
+    }, 
+    "for": "MS/Lawrence County/28077", 
+    "pct": {
+        "dem": 34.46, 
+        "per_point_diff": 29.88, 
+        "gop": 64.34
+    }
+}

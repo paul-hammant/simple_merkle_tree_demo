@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 643, 
+        "dem": 6351, 
+        "tot": 14193, 
+        "gop": 6994
+    }, 
+    "for": "WI/Vernon County/55123", 
+    "pct": {
+        "dem": 44.75, 
+        "per_point_diff": 4.53, 
+        "gop": 49.28
+    }
+}

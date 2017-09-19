@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16256, 
+        "dem": 6711, 
+        "tot": 31246, 
+        "gop": 22967
+    }, 
+    "for": "OK/Wagoner County/40145", 
+    "pct": {
+        "dem": 21.48, 
+        "per_point_diff": 52.03, 
+        "gop": 73.5
+    }
+}

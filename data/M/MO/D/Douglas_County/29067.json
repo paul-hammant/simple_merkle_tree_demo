@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4502, 
+        "dem": 984, 
+        "tot": 6664, 
+        "gop": 5486
+    }, 
+    "for": "MO/Douglas County/29067", 
+    "pct": {
+        "dem": 14.77, 
+        "per_point_diff": 67.56, 
+        "gop": 82.32
+    }
+}

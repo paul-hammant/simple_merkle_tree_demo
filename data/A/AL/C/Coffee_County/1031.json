@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11631, 
+        "dem": 4194, 
+        "tot": 20513, 
+        "gop": 15825
+    }, 
+    "for": "AL/Coffee County/1031", 
+    "pct": {
+        "dem": 20.45, 
+        "per_point_diff": 56.7, 
+        "gop": 77.15
+    }
+}

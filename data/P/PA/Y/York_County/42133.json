@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 59505, 
+        "dem": 67428, 
+        "tot": 203153, 
+        "gop": 126933
+    }, 
+    "for": "PA/York County/42133", 
+    "pct": {
+        "dem": 33.19, 
+        "per_point_diff": 29.29, 
+        "gop": 62.48
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1565, 
+        "dem": 1198, 
+        "tot": 4020, 
+        "gop": 2763
+    }, 
+    "for": "MS/Choctaw County/28019", 
+    "pct": {
+        "dem": 29.8, 
+        "per_point_diff": 38.93, 
+        "gop": 68.73
+    }
+}

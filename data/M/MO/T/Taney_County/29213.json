@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13873, 
+        "dem": 4367, 
+        "tot": 23399, 
+        "gop": 18240
+    }, 
+    "for": "MO/Taney County/29213", 
+    "pct": {
+        "dem": 18.66, 
+        "per_point_diff": 59.29, 
+        "gop": 77.95
+    }
+}

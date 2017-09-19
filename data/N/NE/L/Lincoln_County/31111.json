@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9114, 
+        "dem": 2878, 
+        "tot": 15674, 
+        "gop": 11992
+    }, 
+    "for": "NE/Lincoln County/31111", 
+    "pct": {
+        "dem": 18.36, 
+        "per_point_diff": 58.15, 
+        "gop": 76.51
+    }
+}

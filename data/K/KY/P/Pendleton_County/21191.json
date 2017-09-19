@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3440, 
+        "dem": 1164, 
+        "tot": 6006, 
+        "gop": 4604
+    }, 
+    "for": "KY/Pendleton County/21191", 
+    "pct": {
+        "dem": 19.38, 
+        "per_point_diff": 57.28, 
+        "gop": 76.66
+    }
+}

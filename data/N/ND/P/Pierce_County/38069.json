@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1002, 
+        "dem": 431, 
+        "tot": 2020, 
+        "gop": 1433
+    }, 
+    "for": "ND/Pierce County/38069", 
+    "pct": {
+        "dem": 21.34, 
+        "per_point_diff": 49.6, 
+        "gop": 70.94
+    }
+}

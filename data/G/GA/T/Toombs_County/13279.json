@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4274, 
+        "dem": 2338, 
+        "tot": 9108, 
+        "gop": 6612
+    }, 
+    "for": "GA/Toombs County/13279", 
+    "pct": {
+        "dem": 25.67, 
+        "per_point_diff": 46.93, 
+        "gop": 72.6
+    }
+}

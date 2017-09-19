@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6433, 
+        "dem": 1726, 
+        "tot": 10213, 
+        "gop": 8159
+    }, 
+    "for": "TX/Bandera County/48019", 
+    "pct": {
+        "dem": 16.9, 
+        "per_point_diff": 62.99, 
+        "gop": 79.89
+    }
+}

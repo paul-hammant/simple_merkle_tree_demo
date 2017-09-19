@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2040, 
+        "dem": 5763, 
+        "tot": 13778, 
+        "gop": 7803
+    }, 
+    "for": "AL/Chambers County/1017", 
+    "pct": {
+        "dem": 41.83, 
+        "per_point_diff": 14.81, 
+        "gop": 56.63
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 104746, 
+        "dem": 298353, 
+        "tot": 510940, 
+        "gop": 193607
+    }, 
+    "for": "NC/Wake County/37183", 
+    "pct": {
+        "dem": 58.39, 
+        "per_point_diff": 20.5, 
+        "gop": 37.89
+    }
+}

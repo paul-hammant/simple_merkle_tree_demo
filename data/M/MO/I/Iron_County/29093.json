@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2240, 
+        "dem": 933, 
+        "tot": 4260, 
+        "gop": 3173
+    }, 
+    "for": "MO/Iron County/29093", 
+    "pct": {
+        "dem": 21.9, 
+        "per_point_diff": 52.58, 
+        "gop": 74.48
+    }
+}

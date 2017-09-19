@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8510, 
+        "dem": 1955, 
+        "tot": 12713, 
+        "gop": 10465
+    }, 
+    "for": "GA/Gilmer County/13123", 
+    "pct": {
+        "dem": 15.38, 
+        "per_point_diff": 66.94, 
+        "gop": 82.32
+    }
+}

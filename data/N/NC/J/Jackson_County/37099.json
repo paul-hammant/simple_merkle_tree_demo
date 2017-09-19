@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2142, 
+        "dem": 7564, 
+        "tot": 18004, 
+        "gop": 9706
+    }, 
+    "for": "NC/Jackson County/37099", 
+    "pct": {
+        "dem": 42.01, 
+        "per_point_diff": 11.9, 
+        "gop": 53.91
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2004, 
+        "dem": 271, 
+        "tot": 3035, 
+        "gop": 2275
+    }, 
+    "for": "ID/Caribou County/16029", 
+    "pct": {
+        "dem": 8.93, 
+        "per_point_diff": 66.03, 
+        "gop": 74.96
+    }
+}

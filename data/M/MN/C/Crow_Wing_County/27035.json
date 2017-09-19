@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11305, 
+        "dem": 10982, 
+        "tot": 35568, 
+        "gop": 22287
+    }, 
+    "for": "MN/Crow Wing County/27035", 
+    "pct": {
+        "dem": 30.88, 
+        "per_point_diff": 31.78, 
+        "gop": 62.66
+    }
+}

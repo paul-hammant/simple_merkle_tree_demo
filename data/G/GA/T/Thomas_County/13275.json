@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4087, 
+        "dem": 7138, 
+        "tot": 18730, 
+        "gop": 11225
+    }, 
+    "for": "GA/Thomas County/13275", 
+    "pct": {
+        "dem": 38.11, 
+        "per_point_diff": 21.82, 
+        "gop": 59.93
+    }
+}

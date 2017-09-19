@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18187, 
+        "dem": 18308, 
+        "tot": 57220, 
+        "gop": 36495
+    }, 
+    "for": "TX/Guadalupe County/48187", 
+    "pct": {
+        "dem": 32.0, 
+        "per_point_diff": 31.78, 
+        "gop": 63.78
+    }
+}

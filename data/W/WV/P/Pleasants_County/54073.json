@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1722, 
+        "dem": 620, 
+        "tot": 3130, 
+        "gop": 2342
+    }, 
+    "for": "WV/Pleasants County/54073", 
+    "pct": {
+        "dem": 19.81, 
+        "per_point_diff": 55.02, 
+        "gop": 74.82
+    }
+}

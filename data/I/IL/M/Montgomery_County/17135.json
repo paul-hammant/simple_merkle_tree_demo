@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5126, 
+        "dem": 3490, 
+        "tot": 12829, 
+        "gop": 8616
+    }, 
+    "for": "IL/Montgomery County/17135", 
+    "pct": {
+        "dem": 27.2, 
+        "per_point_diff": 39.96, 
+        "gop": 67.16
+    }
+}

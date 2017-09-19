@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 35758, 
+        "dem": 49956, 
+        "tot": 70082, 
+        "gop": 14198
+    }, 
+    "for": "NM/Santa Fe County/35049", 
+    "pct": {
+        "dem": 71.28, 
+        "per_point_diff": 51.02, 
+        "gop": 20.26
+    }
+}

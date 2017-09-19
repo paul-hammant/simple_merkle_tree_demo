@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2468, 
+        "dem": 881, 
+        "tot": 4283, 
+        "gop": 3349
+    }, 
+    "for": "TX/Madison County/48313", 
+    "pct": {
+        "dem": 20.57, 
+        "per_point_diff": 57.62, 
+        "gop": 78.19
+    }
+}

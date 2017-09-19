@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15349, 
+        "dem": 58998, 
+        "tot": 106013, 
+        "gop": 43649
+    }, 
+    "for": "GA/Chatham County/13051", 
+    "pct": {
+        "dem": 55.65, 
+        "per_point_diff": 14.48, 
+        "gop": 41.17
+    }
+}

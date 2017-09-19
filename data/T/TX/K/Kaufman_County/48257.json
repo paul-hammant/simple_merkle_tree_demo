@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 19272, 
+        "dem": 10265, 
+        "tot": 40979, 
+        "gop": 29537
+    }, 
+    "for": "TX/Kaufman County/48257", 
+    "pct": {
+        "dem": 25.05, 
+        "per_point_diff": 47.03, 
+        "gop": 72.08
+    }
+}

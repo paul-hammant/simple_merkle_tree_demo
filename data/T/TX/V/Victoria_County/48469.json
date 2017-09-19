@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12410, 
+        "dem": 8843, 
+        "tot": 31032, 
+        "gop": 21253
+    }, 
+    "for": "TX/Victoria County/48469", 
+    "pct": {
+        "dem": 28.5, 
+        "per_point_diff": 39.99, 
+        "gop": 68.49
+    }
+}

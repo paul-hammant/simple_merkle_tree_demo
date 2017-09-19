@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3186, 
+        "dem": 3181, 
+        "tot": 9808, 
+        "gop": 6367
+    }, 
+    "for": "NC/Yancey County/37199", 
+    "pct": {
+        "dem": 32.43, 
+        "per_point_diff": 32.48, 
+        "gop": 64.92
+    }
+}

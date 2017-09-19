@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 64, 
+        "dem": 1970, 
+        "tot": 4053, 
+        "gop": 2034
+    }, 
+    "for": "GA/Twiggs County/13289", 
+    "pct": {
+        "dem": 48.61, 
+        "per_point_diff": 1.58, 
+        "gop": 50.19
+    }
+}

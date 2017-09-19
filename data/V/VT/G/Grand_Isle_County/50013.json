@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 607, 
+        "dem": 2094, 
+        "tot": 3778, 
+        "gop": 1487
+    }, 
+    "for": "VT/Grand Isle County/50013", 
+    "pct": {
+        "dem": 55.43, 
+        "per_point_diff": 16.07, 
+        "gop": 39.36
+    }
+}

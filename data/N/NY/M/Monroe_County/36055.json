@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 45192, 
+        "dem": 174063, 
+        "tot": 320164, 
+        "gop": 128871
+    }, 
+    "for": "NY/Monroe County/36055", 
+    "pct": {
+        "dem": 54.37, 
+        "per_point_diff": 14.12, 
+        "gop": 40.25
+    }
+}

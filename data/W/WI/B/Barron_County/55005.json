@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5714, 
+        "dem": 7881, 
+        "tot": 22514, 
+        "gop": 13595
+    }, 
+    "for": "WI/Barron County/55005", 
+    "pct": {
+        "dem": 35.0, 
+        "per_point_diff": 25.38, 
+        "gop": 60.38
+    }
+}

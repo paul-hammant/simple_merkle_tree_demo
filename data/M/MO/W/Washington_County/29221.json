@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5121, 
+        "dem": 1926, 
+        "tot": 9279, 
+        "gop": 7047
+    }, 
+    "for": "MO/Washington County/29221", 
+    "pct": {
+        "dem": 20.76, 
+        "per_point_diff": 55.19, 
+        "gop": 75.95
+    }
+}

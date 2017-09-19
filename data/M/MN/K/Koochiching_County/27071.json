@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1263, 
+        "dem": 2306, 
+        "tot": 6313, 
+        "gop": 3569
+    }, 
+    "for": "MN/Koochiching County/27071", 
+    "pct": {
+        "dem": 36.53, 
+        "per_point_diff": 20.01, 
+        "gop": 56.53
+    }
+}

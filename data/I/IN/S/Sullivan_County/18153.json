@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4025, 
+        "dem": 2113, 
+        "tot": 8559, 
+        "gop": 6138
+    }, 
+    "for": "IN/Sullivan County/18153", 
+    "pct": {
+        "dem": 24.69, 
+        "per_point_diff": 47.03, 
+        "gop": 71.71
+    }
+}

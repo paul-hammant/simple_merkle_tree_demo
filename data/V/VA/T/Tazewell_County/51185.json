@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12265, 
+        "dem": 2895, 
+        "tot": 18495, 
+        "gop": 15160
+    }, 
+    "for": "VA/Tazewell County/51185", 
+    "pct": {
+        "dem": 15.65, 
+        "per_point_diff": 66.32, 
+        "gop": 81.97
+    }
+}

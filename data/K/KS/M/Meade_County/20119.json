@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1184, 
+        "dem": 206, 
+        "tot": 1675, 
+        "gop": 1390
+    }, 
+    "for": "KS/Meade County/20119", 
+    "pct": {
+        "dem": 12.3, 
+        "per_point_diff": 70.69, 
+        "gop": 82.99
+    }
+}

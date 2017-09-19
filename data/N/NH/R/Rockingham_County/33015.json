@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10453, 
+        "dem": 79994, 
+        "tot": 179005, 
+        "gop": 90447
+    }, 
+    "for": "NH/Rockingham County/33015", 
+    "pct": {
+        "dem": 44.69, 
+        "per_point_diff": 5.84, 
+        "gop": 50.53
+    }
+}

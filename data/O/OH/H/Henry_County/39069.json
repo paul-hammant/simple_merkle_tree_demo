@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5446, 
+        "dem": 3690, 
+        "tot": 13671, 
+        "gop": 9136
+    }, 
+    "for": "OH/Henry County/39069", 
+    "pct": {
+        "dem": 26.99, 
+        "per_point_diff": 39.84, 
+        "gop": 66.83
+    }
+}

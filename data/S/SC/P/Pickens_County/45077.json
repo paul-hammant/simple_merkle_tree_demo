@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 25769, 
+        "dem": 10327, 
+        "tot": 48871, 
+        "gop": 36096
+    }, 
+    "for": "SC/Pickens County/45077", 
+    "pct": {
+        "dem": 21.13, 
+        "per_point_diff": 52.73, 
+        "gop": 73.86
+    }
+}

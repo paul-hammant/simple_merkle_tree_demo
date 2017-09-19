@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8116, 
+        "dem": 5008, 
+        "tot": 19523, 
+        "gop": 13124
+    }, 
+    "for": "NM/Eddy County/35015", 
+    "pct": {
+        "dem": 25.65, 
+        "per_point_diff": 41.57, 
+        "gop": 67.22
+    }
+}

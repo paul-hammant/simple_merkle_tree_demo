@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 45596, 
+        "dem": 43037, 
+        "tot": 136392, 
+        "gop": 88633
+    }, 
+    "for": "FL/St. Johns County/12109", 
+    "pct": {
+        "dem": 31.55, 
+        "per_point_diff": 33.43, 
+        "gop": 64.98
+    }
+}

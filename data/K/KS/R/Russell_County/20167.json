@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2090, 
+        "dem": 454, 
+        "tot": 3148, 
+        "gop": 2544
+    }, 
+    "for": "KS/Russell County/20167", 
+    "pct": {
+        "dem": 14.42, 
+        "per_point_diff": 66.39, 
+        "gop": 80.81
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1719, 
+        "dem": 860, 
+        "tot": 3654, 
+        "gop": 2579
+    }, 
+    "for": "IN/Benton County/18007", 
+    "pct": {
+        "dem": 23.54, 
+        "per_point_diff": 47.04, 
+        "gop": 70.58
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2461, 
+        "dem": 8395, 
+        "tot": 15210, 
+        "gop": 5934
+    }, 
+    "for": "VA/Manassas city/51683", 
+    "pct": {
+        "dem": 55.19, 
+        "per_point_diff": 16.18, 
+        "gop": 39.01
+    }
+}

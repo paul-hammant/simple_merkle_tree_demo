@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4581, 
+        "dem": 51891, 
+        "tot": 114962, 
+        "gop": 56472
+    }, 
+    "for": "MD/Frederick County/24021", 
+    "pct": {
+        "dem": 45.14, 
+        "per_point_diff": 3.98, 
+        "gop": 49.12
+    }
+}

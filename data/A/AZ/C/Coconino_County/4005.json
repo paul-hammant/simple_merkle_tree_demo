@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8735, 
+        "dem": 25308, 
+        "tot": 44929, 
+        "gop": 16573
+    }, 
+    "for": "AZ/Coconino County/4005", 
+    "pct": {
+        "dem": 56.33, 
+        "per_point_diff": 19.44, 
+        "gop": 36.89
+    }
+}

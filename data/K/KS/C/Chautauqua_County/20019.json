@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1316, 
+        "dem": 236, 
+        "tot": 1845, 
+        "gop": 1552
+    }, 
+    "for": "KS/Chautauqua County/20019", 
+    "pct": {
+        "dem": 12.79, 
+        "per_point_diff": 71.33, 
+        "gop": 84.12
+    }
+}

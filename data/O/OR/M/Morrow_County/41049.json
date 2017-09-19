@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1694, 
+        "dem": 1004, 
+        "tot": 3989, 
+        "gop": 2698
+    }, 
+    "for": "OR/Morrow County/41049", 
+    "pct": {
+        "dem": 25.17, 
+        "per_point_diff": 42.47, 
+        "gop": 67.64
+    }
+}

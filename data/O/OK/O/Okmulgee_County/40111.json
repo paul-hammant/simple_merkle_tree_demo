@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4547, 
+        "dem": 4379, 
+        "tot": 13924, 
+        "gop": 8926
+    }, 
+    "for": "OK/Okmulgee County/40111", 
+    "pct": {
+        "dem": 31.45, 
+        "per_point_diff": 32.66, 
+        "gop": 64.11
+    }
+}

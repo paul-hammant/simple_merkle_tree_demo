@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 42911, 
+        "dem": 33036, 
+        "tot": 114254, 
+        "gop": 75947
+    }, 
+    "for": "OH/Warren County/39165", 
+    "pct": {
+        "dem": 28.91, 
+        "per_point_diff": 37.56, 
+        "gop": 66.47
+    }
+}

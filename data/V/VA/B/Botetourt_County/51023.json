@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8877, 
+        "dem": 4492, 
+        "tot": 18641, 
+        "gop": 13369
+    }, 
+    "for": "VA/Botetourt County/51023", 
+    "pct": {
+        "dem": 24.1, 
+        "per_point_diff": 47.62, 
+        "gop": 71.72
+    }
+}

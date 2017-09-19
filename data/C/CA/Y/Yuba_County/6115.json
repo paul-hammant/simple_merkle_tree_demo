@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5079, 
+        "dem": 7234, 
+        "tot": 21058, 
+        "gop": 12313
+    }, 
+    "for": "CA/Yuba County/6115", 
+    "pct": {
+        "dem": 34.35, 
+        "per_point_diff": 24.12, 
+        "gop": 58.47
+    }
+}

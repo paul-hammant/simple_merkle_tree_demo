@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 23, 
+        "dem": 5181, 
+        "tot": 10988, 
+        "gop": 5158
+    }, 
+    "for": "VT/Orleans County/50019", 
+    "pct": {
+        "dem": 47.15, 
+        "per_point_diff": 0.21, 
+        "gop": 46.94
+    }
+}

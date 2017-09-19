@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3034, 
+        "dem": 788, 
+        "tot": 4692, 
+        "gop": 3822
+    }, 
+    "for": "LA/Caldwell Parish/22021", 
+    "pct": {
+        "dem": 16.79, 
+        "per_point_diff": 64.66, 
+        "gop": 81.46
+    }
+}

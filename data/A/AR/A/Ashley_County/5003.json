@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2930, 
+        "dem": 2408, 
+        "tot": 8027, 
+        "gop": 5338
+    }, 
+    "for": "AR/Ashley County/5003", 
+    "pct": {
+        "dem": 30.0, 
+        "per_point_diff": 36.5, 
+        "gop": 66.5
+    }
+}

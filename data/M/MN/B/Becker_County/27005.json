@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5672, 
+        "dem": 5208, 
+        "tot": 17090, 
+        "gop": 10880
+    }, 
+    "for": "MN/Becker County/27005", 
+    "pct": {
+        "dem": 30.47, 
+        "per_point_diff": 33.19, 
+        "gop": 63.66
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1427, 
+        "dem": 353, 
+        "tot": 2190, 
+        "gop": 1780
+    }, 
+    "for": "TX/Mitchell County/48335", 
+    "pct": {
+        "dem": 16.12, 
+        "per_point_diff": 65.16, 
+        "gop": 81.28
+    }
+}

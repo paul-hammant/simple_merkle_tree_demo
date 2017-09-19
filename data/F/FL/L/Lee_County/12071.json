@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 66416, 
+        "dem": 124725, 
+        "tot": 325797, 
+        "gop": 191141
+    }, 
+    "for": "FL/Lee County/12071", 
+    "pct": {
+        "dem": 38.28, 
+        "per_point_diff": 20.39, 
+        "gop": 58.67
+    }
+}

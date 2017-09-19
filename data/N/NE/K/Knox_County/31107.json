@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2466, 
+        "dem": 715, 
+        "tot": 4061, 
+        "gop": 3181
+    }, 
+    "for": "NE/Knox County/31107", 
+    "pct": {
+        "dem": 17.61, 
+        "per_point_diff": 60.72, 
+        "gop": 78.33
+    }
+}

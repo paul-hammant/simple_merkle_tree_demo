@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 760, 
+        "dem": 23392, 
+        "tot": 50815, 
+        "gop": 24152
+    }, 
+    "for": "IL/Kendall County/17093", 
+    "pct": {
+        "dem": 46.03, 
+        "per_point_diff": 1.5, 
+        "gop": 47.53
+    }
+}

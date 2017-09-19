@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1615, 
+        "dem": 798, 
+        "tot": 3359, 
+        "gop": 2413
+    }, 
+    "for": "CA/Modoc County/6049", 
+    "pct": {
+        "dem": 23.76, 
+        "per_point_diff": 48.08, 
+        "gop": 71.84
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11433, 
+        "dem": 30610, 
+        "tot": 78263, 
+        "gop": 42043
+    }, 
+    "for": "SD/Minnehaha County/46099", 
+    "pct": {
+        "dem": 39.11, 
+        "per_point_diff": 14.61, 
+        "gop": 53.72
+    }
+}

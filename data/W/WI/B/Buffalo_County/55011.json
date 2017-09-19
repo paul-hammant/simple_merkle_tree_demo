@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1518, 
+        "dem": 2531, 
+        "tot": 6921, 
+        "gop": 4049
+    }, 
+    "for": "WI/Buffalo County/55011", 
+    "pct": {
+        "dem": 36.57, 
+        "per_point_diff": 21.93, 
+        "gop": 58.5
+    }
+}

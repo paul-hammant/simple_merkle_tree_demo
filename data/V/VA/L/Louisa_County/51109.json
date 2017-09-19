@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4299, 
+        "dem": 6208, 
+        "tot": 17507, 
+        "gop": 10507
+    }, 
+    "for": "VA/Louisa County/51109", 
+    "pct": {
+        "dem": 35.46, 
+        "per_point_diff": 24.56, 
+        "gop": 60.02
+    }
+}

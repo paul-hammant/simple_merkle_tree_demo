@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1913, 
+        "dem": 1384, 
+        "tot": 5120, 
+        "gop": 3297
+    }, 
+    "for": "ID/Shoshone County/16079", 
+    "pct": {
+        "dem": 27.03, 
+        "per_point_diff": 37.36, 
+        "gop": 64.39
+    }
+}

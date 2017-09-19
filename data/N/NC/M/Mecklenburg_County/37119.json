@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 137955, 
+        "dem": 292258, 
+        "tot": 461834, 
+        "gop": 154303
+    }, 
+    "for": "NC/Mecklenburg County/37119", 
+    "pct": {
+        "dem": 63.28, 
+        "per_point_diff": 29.87, 
+        "gop": 33.41
+    }
+}

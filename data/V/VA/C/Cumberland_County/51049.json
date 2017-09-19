@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 661, 
+        "dem": 2032, 
+        "tot": 4875, 
+        "gop": 2693
+    }, 
+    "for": "VA/Cumberland County/51049", 
+    "pct": {
+        "dem": 41.68, 
+        "per_point_diff": 13.56, 
+        "gop": 55.24
+    }
+}

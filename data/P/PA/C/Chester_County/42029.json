@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 24606, 
+        "dem": 140188, 
+        "tot": 266637, 
+        "gop": 115582
+    }, 
+    "for": "PA/Chester County/42029", 
+    "pct": {
+        "dem": 52.58, 
+        "per_point_diff": 9.23, 
+        "gop": 43.35
+    }
+}

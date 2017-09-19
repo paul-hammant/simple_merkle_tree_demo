@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5188, 
+        "dem": 33531, 
+        "tot": 76492, 
+        "gop": 38719
+    }, 
+    "for": "IN/Porter County/18127", 
+    "pct": {
+        "dem": 43.84, 
+        "per_point_diff": 6.78, 
+        "gop": 50.62
+    }
+}

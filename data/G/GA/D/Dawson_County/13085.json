@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8436, 
+        "dem": 1444, 
+        "tot": 11680, 
+        "gop": 9880
+    }, 
+    "for": "GA/Dawson County/13085", 
+    "pct": {
+        "dem": 12.36, 
+        "per_point_diff": 72.23, 
+        "gop": 84.59
+    }
+}

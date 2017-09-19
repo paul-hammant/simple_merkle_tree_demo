@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7028, 
+        "dem": 9246, 
+        "tot": 11691, 
+        "gop": 2218
+    }, 
+    "for": "TX/Starr County/48427", 
+    "pct": {
+        "dem": 79.09, 
+        "per_point_diff": 60.11, 
+        "gop": 18.97
+    }
+}

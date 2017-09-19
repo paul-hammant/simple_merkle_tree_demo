@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7285, 
+        "dem": 1524, 
+        "tot": 10503, 
+        "gop": 8809
+    }, 
+    "for": "AL/Cherokee County/1019", 
+    "pct": {
+        "dem": 14.51, 
+        "per_point_diff": 69.36, 
+        "gop": 83.87
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10177, 
+        "dem": 3184, 
+        "tot": 17050, 
+        "gop": 13361
+    }, 
+    "for": "TN/Monroe County/47123", 
+    "pct": {
+        "dem": 18.67, 
+        "per_point_diff": 59.69, 
+        "gop": 78.36
+    }
+}

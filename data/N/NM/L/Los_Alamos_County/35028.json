@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2114, 
+        "dem": 5443, 
+        "tot": 10430, 
+        "gop": 3329
+    }, 
+    "for": "NM/Los Alamos County/35028", 
+    "pct": {
+        "dem": 52.19, 
+        "per_point_diff": 20.27, 
+        "gop": 31.92
+    }
+}

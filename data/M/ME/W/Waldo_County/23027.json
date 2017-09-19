@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 64, 
+        "dem": 10442, 
+        "tot": 22630, 
+        "gop": 10378
+    }, 
+    "for": "ME/Waldo County/23027", 
+    "pct": {
+        "dem": 46.14, 
+        "per_point_diff": 0.28, 
+        "gop": 45.86
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1952, 
+        "dem": 1563, 
+        "tot": 5292, 
+        "gop": 3515
+    }, 
+    "for": "VA/Mathews County/51115", 
+    "pct": {
+        "dem": 29.54, 
+        "per_point_diff": 36.89, 
+        "gop": 66.42
+    }
+}

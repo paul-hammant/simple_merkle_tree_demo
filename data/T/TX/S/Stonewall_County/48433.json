@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 420, 
+        "dem": 135, 
+        "tot": 701, 
+        "gop": 555
+    }, 
+    "for": "TX/Stonewall County/48433", 
+    "pct": {
+        "dem": 19.26, 
+        "per_point_diff": 59.91, 
+        "gop": 79.17
+    }
+}

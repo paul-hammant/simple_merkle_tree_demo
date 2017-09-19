@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11390, 
+        "dem": 13933, 
+        "tot": 40555, 
+        "gop": 25323
+    }, 
+    "for": "PA/Lawrence County/42073", 
+    "pct": {
+        "dem": 34.36, 
+        "per_point_diff": 28.09, 
+        "gop": 62.44
+    }
+}

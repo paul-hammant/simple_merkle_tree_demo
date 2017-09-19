@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5069, 
+        "dem": 2446, 
+        "tot": 10456, 
+        "gop": 7515
+    }, 
+    "for": "IN/Randolph County/18135", 
+    "pct": {
+        "dem": 23.39, 
+        "per_point_diff": 48.48, 
+        "gop": 71.87
+    }
+}

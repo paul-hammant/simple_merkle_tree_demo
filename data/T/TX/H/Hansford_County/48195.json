@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1559, 
+        "dem": 171, 
+        "tot": 1947, 
+        "gop": 1730
+    }, 
+    "for": "TX/Hansford County/48195", 
+    "pct": {
+        "dem": 8.78, 
+        "per_point_diff": 80.07, 
+        "gop": 88.85
+    }
+}

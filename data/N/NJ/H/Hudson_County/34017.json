@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 104365, 
+        "dem": 149980, 
+        "tot": 201425, 
+        "gop": 45615
+    }, 
+    "for": "NJ/Hudson County/34017", 
+    "pct": {
+        "dem": 74.46, 
+        "per_point_diff": 51.81, 
+        "gop": 22.65
+    }
+}

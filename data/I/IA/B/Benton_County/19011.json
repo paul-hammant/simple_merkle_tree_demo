@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3554, 
+        "dem": 4672, 
+        "tot": 13690, 
+        "gop": 8226
+    }, 
+    "for": "IA/Benton County/19011", 
+    "pct": {
+        "dem": 34.13, 
+        "per_point_diff": 25.96, 
+        "gop": 60.09
+    }
+}

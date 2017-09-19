@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3995, 
+        "dem": 1014, 
+        "tot": 6278, 
+        "gop": 5009
+    }, 
+    "for": "IL/Clay County/17025", 
+    "pct": {
+        "dem": 16.15, 
+        "per_point_diff": 63.63, 
+        "gop": 79.79
+    }
+}

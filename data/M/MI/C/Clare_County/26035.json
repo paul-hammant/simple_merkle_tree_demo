@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4257, 
+        "dem": 4250, 
+        "tot": 13385, 
+        "gop": 8507
+    }, 
+    "for": "MI/Clare County/26035", 
+    "pct": {
+        "dem": 31.75, 
+        "per_point_diff": 31.8, 
+        "gop": 63.56
+    }
+}

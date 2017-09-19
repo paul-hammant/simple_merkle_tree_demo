@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3289, 
+        "dem": 1555, 
+        "tot": 6633, 
+        "gop": 4844
+    }, 
+    "for": "IL/Massac County/17127", 
+    "pct": {
+        "dem": 23.44, 
+        "per_point_diff": 49.59, 
+        "gop": 73.03
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 221, 
+        "dem": 16, 
+        "tot": 263, 
+        "gop": 237
+    }, 
+    "for": "NE/Arthur County/31005", 
+    "pct": {
+        "dem": 6.08, 
+        "per_point_diff": 84.03, 
+        "gop": 90.11
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5811, 
+        "dem": 1243, 
+        "tot": 8474, 
+        "gop": 7054
+    }, 
+    "for": "GA/Franklin County/13119", 
+    "pct": {
+        "dem": 14.67, 
+        "per_point_diff": 68.57, 
+        "gop": 83.24
+    }
+}

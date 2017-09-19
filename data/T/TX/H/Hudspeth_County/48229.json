@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 179, 
+        "dem": 324, 
+        "tot": 871, 
+        "gop": 503
+    }, 
+    "for": "TX/Hudspeth County/48229", 
+    "pct": {
+        "dem": 37.2, 
+        "per_point_diff": 20.55, 
+        "gop": 57.75
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3379, 
+        "dem": 1374, 
+        "tot": 6468, 
+        "gop": 4753
+    }, 
+    "for": "OK/Adair County/40001", 
+    "pct": {
+        "dem": 21.24, 
+        "per_point_diff": 52.24, 
+        "gop": 73.48
+    }
+}

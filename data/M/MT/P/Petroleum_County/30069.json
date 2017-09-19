@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 246, 
+        "dem": 30, 
+        "tot": 319, 
+        "gop": 276
+    }, 
+    "for": "MT/Petroleum County/30069", 
+    "pct": {
+        "dem": 9.4, 
+        "per_point_diff": 77.12, 
+        "gop": 86.52
+    }
+}

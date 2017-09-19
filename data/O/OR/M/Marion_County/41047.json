@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5533, 
+        "dem": 48803, 
+        "tot": 110804, 
+        "gop": 54336
+    }, 
+    "for": "OR/Marion County/41047", 
+    "pct": {
+        "dem": 44.04, 
+        "per_point_diff": 4.99, 
+        "gop": 49.04
+    }
+}

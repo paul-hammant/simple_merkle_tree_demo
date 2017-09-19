@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1329, 
+        "dem": 1127, 
+        "tot": 3759, 
+        "gop": 2456
+    }, 
+    "for": "IA/Adair County/19001", 
+    "pct": {
+        "dem": 29.98, 
+        "per_point_diff": 35.36, 
+        "gop": 65.34
+    }
+}

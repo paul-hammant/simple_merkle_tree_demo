@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16260, 
+        "dem": 22187, 
+        "tot": 81451, 
+        "gop": 38447
+    }, 
+    "for": "UT/Weber County/49057", 
+    "pct": {
+        "dem": 27.24, 
+        "per_point_diff": 19.96, 
+        "gop": 47.2
+    }
+}

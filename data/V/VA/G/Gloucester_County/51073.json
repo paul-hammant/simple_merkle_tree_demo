@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7688, 
+        "dem": 5399, 
+        "tot": 19524, 
+        "gop": 13087
+    }, 
+    "for": "VA/Gloucester County/51073", 
+    "pct": {
+        "dem": 27.65, 
+        "per_point_diff": 39.38, 
+        "gop": 67.03
+    }
+}

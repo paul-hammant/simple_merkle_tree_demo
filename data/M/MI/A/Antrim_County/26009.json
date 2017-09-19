@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4021, 
+        "dem": 4448, 
+        "tot": 13572, 
+        "gop": 8469
+    }, 
+    "for": "MI/Antrim County/26009", 
+    "pct": {
+        "dem": 32.77, 
+        "per_point_diff": 29.63, 
+        "gop": 62.4
+    }
+}

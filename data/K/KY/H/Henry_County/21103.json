@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3116, 
+        "dem": 1828, 
+        "tot": 7142, 
+        "gop": 4944
+    }, 
+    "for": "KY/Henry County/21103", 
+    "pct": {
+        "dem": 25.6, 
+        "per_point_diff": 43.63, 
+        "gop": 69.22
+    }
+}

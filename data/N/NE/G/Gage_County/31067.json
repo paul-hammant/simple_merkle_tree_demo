@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3403, 
+        "dem": 2930, 
+        "tot": 9854, 
+        "gop": 6333
+    }, 
+    "for": "NE/Gage County/31067", 
+    "pct": {
+        "dem": 29.73, 
+        "per_point_diff": 34.53, 
+        "gop": 64.27
+    }
+}

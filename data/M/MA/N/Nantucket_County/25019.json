@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2252, 
+        "dem": 4144, 
+        "tot": 6404, 
+        "gop": 1892
+    }, 
+    "for": "MA/Nantucket County/25019", 
+    "pct": {
+        "dem": 64.71, 
+        "per_point_diff": 35.17, 
+        "gop": 29.54
+    }
+}

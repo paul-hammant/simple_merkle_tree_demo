@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2079, 
+        "dem": 33270, 
+        "tot": 73648, 
+        "gop": 35349
+    }, 
+    "for": "KS/Shawnee County/20177", 
+    "pct": {
+        "dem": 45.17, 
+        "per_point_diff": 2.82, 
+        "gop": 48.0
+    }
+}

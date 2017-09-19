@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6050, 
+        "dem": 4579, 
+        "tot": 15848, 
+        "gop": 10629
+    }, 
+    "for": "MI/Huron County/26063", 
+    "pct": {
+        "dem": 28.89, 
+        "per_point_diff": 38.18, 
+        "gop": 67.07
+    }
+}

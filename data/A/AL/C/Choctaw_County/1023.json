@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 993, 
+        "dem": 3109, 
+        "tot": 7268, 
+        "gop": 4102
+    }, 
+    "for": "AL/Choctaw County/1023", 
+    "pct": {
+        "dem": 42.78, 
+        "per_point_diff": 13.66, 
+        "gop": 56.44
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 587, 
+        "dem": 371, 
+        "tot": 1391, 
+        "gop": 958
+    }, 
+    "for": "VA/Highland County/51091", 
+    "pct": {
+        "dem": 26.67, 
+        "per_point_diff": 42.2, 
+        "gop": 68.87
+    }
+}

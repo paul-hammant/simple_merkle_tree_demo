@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4367, 
+        "dem": 1041, 
+        "tot": 6563, 
+        "gop": 5408
+    }, 
+    "for": "GA/Berrien County/13019", 
+    "pct": {
+        "dem": 15.86, 
+        "per_point_diff": 66.54, 
+        "gop": 82.4
+    }
+}

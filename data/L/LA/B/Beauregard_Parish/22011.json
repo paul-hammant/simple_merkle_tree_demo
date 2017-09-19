@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9845, 
+        "dem": 2393, 
+        "tot": 15078, 
+        "gop": 12238
+    }, 
+    "for": "LA/Beauregard Parish/22011", 
+    "pct": {
+        "dem": 15.87, 
+        "per_point_diff": 65.29, 
+        "gop": 81.16
+    }
+}

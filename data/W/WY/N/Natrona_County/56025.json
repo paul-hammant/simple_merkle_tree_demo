@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16950, 
+        "dem": 6573, 
+        "tot": 32493, 
+        "gop": 23523
+    }, 
+    "for": "WY/Natrona County/56025", 
+    "pct": {
+        "dem": 20.23, 
+        "per_point_diff": 52.17, 
+        "gop": 72.39
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 36165, 
+        "dem": 54463, 
+        "tot": 77263, 
+        "gop": 18298
+    }, 
+    "for": "VT/Chittenden County/50007", 
+    "pct": {
+        "dem": 70.49, 
+        "per_point_diff": 46.81, 
+        "gop": 23.68
+    }
+}

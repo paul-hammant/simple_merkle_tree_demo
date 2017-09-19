@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 19464, 
+        "dem": 7123, 
+        "tot": 34444, 
+        "gop": 26587
+    }, 
+    "for": "TX/Polk County/48373", 
+    "pct": {
+        "dem": 20.68, 
+        "per_point_diff": 56.51, 
+        "gop": 77.19
+    }
+}

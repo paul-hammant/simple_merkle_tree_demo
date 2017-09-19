@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1087, 
+        "dem": 1091, 
+        "tot": 3560, 
+        "gop": 2178
+    }, 
+    "for": "WA/Ferry County/53019", 
+    "pct": {
+        "dem": 30.65, 
+        "per_point_diff": 30.53, 
+        "gop": 61.18
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 399, 
+        "dem": 323, 
+        "tot": 1095, 
+        "gop": 722
+    }, 
+    "for": "SD/Jackson County/46071", 
+    "pct": {
+        "dem": 29.5, 
+        "per_point_diff": 36.44, 
+        "gop": 65.94
+    }
+}

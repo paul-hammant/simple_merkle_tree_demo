@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3933, 
+        "dem": 1472, 
+        "tot": 7190, 
+        "gop": 5405
+    }, 
+    "for": "AR/Sharp County/5135", 
+    "pct": {
+        "dem": 20.47, 
+        "per_point_diff": 54.7, 
+        "gop": 75.17
+    }
+}

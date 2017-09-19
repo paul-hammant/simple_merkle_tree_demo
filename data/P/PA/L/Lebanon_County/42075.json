@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 20944, 
+        "dem": 17860, 
+        "tot": 58906, 
+        "gop": 38804
+    }, 
+    "for": "PA/Lebanon County/42075", 
+    "pct": {
+        "dem": 30.32, 
+        "per_point_diff": 35.55, 
+        "gop": 65.87
+    }
+}

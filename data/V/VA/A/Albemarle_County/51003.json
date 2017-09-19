@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14065, 
+        "dem": 33297, 
+        "tot": 56134, 
+        "gop": 19232
+    }, 
+    "for": "VA/Albemarle County/51003", 
+    "pct": {
+        "dem": 59.32, 
+        "per_point_diff": 25.06, 
+        "gop": 34.26
+    }
+}

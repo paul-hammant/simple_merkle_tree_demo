@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6004, 
+        "dem": 4706, 
+        "tot": 16193, 
+        "gop": 10710
+    }, 
+    "for": "KY/Clark County/21049", 
+    "pct": {
+        "dem": 29.06, 
+        "per_point_diff": 37.08, 
+        "gop": 66.14
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5396, 
+        "dem": 1210, 
+        "tot": 8121, 
+        "gop": 6606
+    }, 
+    "for": "AR/Polk County/5113", 
+    "pct": {
+        "dem": 14.9, 
+        "per_point_diff": 66.45, 
+        "gop": 81.34
+    }
+}

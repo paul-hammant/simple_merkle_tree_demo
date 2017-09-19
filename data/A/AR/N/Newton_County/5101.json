@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2176, 
+        "dem": 699, 
+        "tot": 3731, 
+        "gop": 2875
+    }, 
+    "for": "AR/Newton County/5101", 
+    "pct": {
+        "dem": 18.73, 
+        "per_point_diff": 58.32, 
+        "gop": 77.06
+    }
+}

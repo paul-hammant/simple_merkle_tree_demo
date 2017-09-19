@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13452, 
+        "dem": 11468, 
+        "tot": 37728, 
+        "gop": 24920
+    }, 
+    "for": "PA/Indiana County/42063", 
+    "pct": {
+        "dem": 30.4, 
+        "per_point_diff": 35.66, 
+        "gop": 66.05
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4761, 
+        "dem": 2106, 
+        "tot": 9245, 
+        "gop": 6867
+    }, 
+    "for": "LA/Allen Parish/22003", 
+    "pct": {
+        "dem": 22.78, 
+        "per_point_diff": 51.5, 
+        "gop": 74.28
+    }
+}

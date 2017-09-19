@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5711, 
+        "dem": 9634, 
+        "tot": 26429, 
+        "gop": 15345
+    }, 
+    "for": "WI/Calumet County/55015", 
+    "pct": {
+        "dem": 36.45, 
+        "per_point_diff": 21.61, 
+        "gop": 58.06
+    }
+}

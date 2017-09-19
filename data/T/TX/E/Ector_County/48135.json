@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14751, 
+        "dem": 10225, 
+        "tot": 36373, 
+        "gop": 24976
+    }, 
+    "for": "TX/Ector County/48135", 
+    "pct": {
+        "dem": 28.11, 
+        "per_point_diff": 40.55, 
+        "gop": 68.67
+    }
+}

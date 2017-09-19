@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16823, 
+        "dem": 29514, 
+        "tot": 44221, 
+        "gop": 12691
+    }, 
+    "for": "GA/Clarke County/13059", 
+    "pct": {
+        "dem": 66.74, 
+        "per_point_diff": 38.04, 
+        "gop": 28.7
+    }
+}

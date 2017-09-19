@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5618, 
+        "dem": 2210, 
+        "tot": 10936, 
+        "gop": 7828
+    }, 
+    "for": "NV/Churchill County/32001", 
+    "pct": {
+        "dem": 20.21, 
+        "per_point_diff": 51.37, 
+        "gop": 71.58
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2306, 
+        "dem": 853, 
+        "tot": 4147, 
+        "gop": 3159
+    }, 
+    "for": "MO/Monroe County/29137", 
+    "pct": {
+        "dem": 20.57, 
+        "per_point_diff": 55.61, 
+        "gop": 76.18
+    }
+}

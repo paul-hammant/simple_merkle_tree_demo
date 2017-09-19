@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8967, 
+        "dem": 29268, 
+        "tot": 69264, 
+        "gop": 38235
+    }, 
+    "for": "NC/Alamance County/37001", 
+    "pct": {
+        "dem": 42.26, 
+        "per_point_diff": 12.95, 
+        "gop": 55.2
+    }
+}

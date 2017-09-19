@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 838, 
+        "dem": 145, 
+        "tot": 1154, 
+        "gop": 983
+    }, 
+    "for": "TX/Collingsworth County/48087", 
+    "pct": {
+        "dem": 12.56, 
+        "per_point_diff": 72.62, 
+        "gop": 85.18
+    }
+}

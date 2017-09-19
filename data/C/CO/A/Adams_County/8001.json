@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12664, 
+        "dem": 86471, 
+        "tot": 175125, 
+        "gop": 73807
+    }, 
+    "for": "CO/Adams County/8001", 
+    "pct": {
+        "dem": 49.38, 
+        "per_point_diff": 7.23, 
+        "gop": 42.15
+    }
+}

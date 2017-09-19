@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4383, 
+        "dem": 1617, 
+        "tot": 8021, 
+        "gop": 6000
+    }, 
+    "for": "MO/Bates County/29013", 
+    "pct": {
+        "dem": 20.16, 
+        "per_point_diff": 54.64, 
+        "gop": 74.8
+    }
+}

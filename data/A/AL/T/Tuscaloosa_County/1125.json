@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15955, 
+        "dem": 31746, 
+        "tot": 81708, 
+        "gop": 47701
+    }, 
+    "for": "AL/Tuscaloosa County/1125", 
+    "pct": {
+        "dem": 38.85, 
+        "per_point_diff": 19.53, 
+        "gop": 58.38
+    }
+}

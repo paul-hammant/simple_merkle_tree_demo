@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1601, 
+        "dem": 1920, 
+        "tot": 5768, 
+        "gop": 3521
+    }, 
+    "for": "IA/Union County/19175", 
+    "pct": {
+        "dem": 33.29, 
+        "per_point_diff": 27.76, 
+        "gop": 61.04
+    }
+}

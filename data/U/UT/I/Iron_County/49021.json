@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7921, 
+        "dem": 2104, 
+        "tot": 15354, 
+        "gop": 10025
+    }, 
+    "for": "UT/Iron County/49021", 
+    "pct": {
+        "dem": 13.7, 
+        "per_point_diff": 51.59, 
+        "gop": 65.29
+    }
+}

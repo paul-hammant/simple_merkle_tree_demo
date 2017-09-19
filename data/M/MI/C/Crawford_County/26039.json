@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2244, 
+        "dem": 2110, 
+        "tot": 6833, 
+        "gop": 4354
+    }, 
+    "for": "MI/Crawford County/26039", 
+    "pct": {
+        "dem": 30.88, 
+        "per_point_diff": 32.84, 
+        "gop": 63.72
+    }
+}

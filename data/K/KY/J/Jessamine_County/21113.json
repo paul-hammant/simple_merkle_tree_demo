@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9330, 
+        "dem": 6144, 
+        "tot": 23292, 
+        "gop": 15474
+    }, 
+    "for": "KY/Jessamine County/21113", 
+    "pct": {
+        "dem": 26.38, 
+        "per_point_diff": 40.06, 
+        "gop": 66.43
+    }
+}

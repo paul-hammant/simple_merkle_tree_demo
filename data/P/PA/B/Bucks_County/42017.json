@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1988, 
+        "dem": 165861, 
+        "tot": 342572, 
+        "gop": 163873
+    }, 
+    "for": "PA/Bucks County/42017", 
+    "pct": {
+        "dem": 48.42, 
+        "per_point_diff": 0.58, 
+        "gop": 47.84
+    }
+}

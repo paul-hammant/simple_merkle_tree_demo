@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1353, 
+        "dem": 755, 
+        "tot": 3003, 
+        "gop": 2108
+    }, 
+    "for": "IA/Taylor County/19173", 
+    "pct": {
+        "dem": 25.14, 
+        "per_point_diff": 45.05, 
+        "gop": 70.2
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 349, 
+        "dem": 1178, 
+        "tot": 2023, 
+        "gop": 829
+    }, 
+    "for": "GA/Calhoun County/13037", 
+    "pct": {
+        "dem": 58.23, 
+        "per_point_diff": 17.25, 
+        "gop": 40.98
+    }
+}

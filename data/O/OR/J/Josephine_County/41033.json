@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13359, 
+        "dem": 13223, 
+        "tot": 42613, 
+        "gop": 26582
+    }, 
+    "for": "OR/Josephine County/41033", 
+    "pct": {
+        "dem": 31.03, 
+        "per_point_diff": 31.35, 
+        "gop": 62.38
+    }
+}

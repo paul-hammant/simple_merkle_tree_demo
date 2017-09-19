@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3516, 
+        "dem": 385, 
+        "tot": 5499, 
+        "gop": 3901
+    }, 
+    "for": "ID/Franklin County/16041", 
+    "pct": {
+        "dem": 7.0, 
+        "per_point_diff": 63.94, 
+        "gop": 70.94
+    }
+}

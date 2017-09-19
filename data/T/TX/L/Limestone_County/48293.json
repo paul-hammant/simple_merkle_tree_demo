@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3999, 
+        "dem": 1748, 
+        "tot": 7648, 
+        "gop": 5747
+    }, 
+    "for": "TX/Limestone County/48293", 
+    "pct": {
+        "dem": 22.86, 
+        "per_point_diff": 52.29, 
+        "gop": 75.14
+    }
+}

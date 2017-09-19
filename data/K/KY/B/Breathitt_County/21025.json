@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2454, 
+        "dem": 1537, 
+        "tot": 5728, 
+        "gop": 3991
+    }, 
+    "for": "KY/Breathitt County/21025", 
+    "pct": {
+        "dem": 26.83, 
+        "per_point_diff": 42.84, 
+        "gop": 69.68
+    }
+}

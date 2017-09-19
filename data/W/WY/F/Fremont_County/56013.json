@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6967, 
+        "dem": 4200, 
+        "tot": 16543, 
+        "gop": 11167
+    }, 
+    "for": "WY/Fremont County/56013", 
+    "pct": {
+        "dem": 25.39, 
+        "per_point_diff": 42.11, 
+        "gop": 67.5
+    }
+}

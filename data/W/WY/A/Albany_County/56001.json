@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 713, 
+        "dem": 6888, 
+        "tot": 16420, 
+        "gop": 7601
+    }, 
+    "for": "WY/Albany County/56001", 
+    "pct": {
+        "dem": 41.95, 
+        "per_point_diff": 4.34, 
+        "gop": 46.29
+    }
+}

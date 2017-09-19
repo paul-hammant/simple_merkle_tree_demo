@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3076, 
+        "dem": 6416, 
+        "tot": 10723, 
+        "gop": 3340
+    }, 
+    "for": "ID/Blaine County/16013", 
+    "pct": {
+        "dem": 59.83, 
+        "per_point_diff": 28.69, 
+        "gop": 31.15
+    }
+}

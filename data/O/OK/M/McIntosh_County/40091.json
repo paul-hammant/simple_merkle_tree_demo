@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3379, 
+        "dem": 2122, 
+        "tot": 7958, 
+        "gop": 5501
+    }, 
+    "for": "OK/McIntosh County/40091", 
+    "pct": {
+        "dem": 26.66, 
+        "per_point_diff": 42.46, 
+        "gop": 69.13
+    }
+}

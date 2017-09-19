@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10939, 
+        "dem": 114437, 
+        "tot": 248848, 
+        "gop": 125376
+    }, 
+    "for": "NJ/Morris County/34027", 
+    "pct": {
+        "dem": 45.99, 
+        "per_point_diff": 4.4, 
+        "gop": 50.38
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2656, 
+        "dem": 721, 
+        "tot": 4279, 
+        "gop": 3377
+    }, 
+    "for": "KS/Linn County/20107", 
+    "pct": {
+        "dem": 16.85, 
+        "per_point_diff": 62.07, 
+        "gop": 78.92
+    }
+}

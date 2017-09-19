@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 29028, 
+        "dem": 83093, 
+        "tot": 144854, 
+        "gop": 54065
+    }, 
+    "for": "VA/Prince William County/51153", 
+    "pct": {
+        "dem": 57.36, 
+        "per_point_diff": 20.04, 
+        "gop": 37.32
+    }
+}

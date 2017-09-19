@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 36503, 
+        "dem": 22128, 
+        "tot": 83161, 
+        "gop": 58631
+    }, 
+    "for": "TX/Smith County/48423", 
+    "pct": {
+        "dem": 26.61, 
+        "per_point_diff": 43.89, 
+        "gop": 70.5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5272, 
+        "dem": 2458, 
+        "tot": 10467, 
+        "gop": 7730
+    }, 
+    "for": "TX/Aransas County/48007", 
+    "pct": {
+        "dem": 23.48, 
+        "per_point_diff": 50.37, 
+        "gop": 73.85
+    }
+}

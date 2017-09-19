@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12891, 
+        "dem": 22460, 
+        "tot": 59559, 
+        "gop": 35351
+    }, 
+    "for": "GA/Houston County/13153", 
+    "pct": {
+        "dem": 37.71, 
+        "per_point_diff": 21.64, 
+        "gop": 59.35
+    }
+}

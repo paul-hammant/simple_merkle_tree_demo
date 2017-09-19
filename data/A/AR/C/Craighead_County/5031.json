@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12324, 
+        "dem": 10474, 
+        "tot": 34968, 
+        "gop": 22798
+    }, 
+    "for": "AR/Craighead County/5031", 
+    "pct": {
+        "dem": 29.95, 
+        "per_point_diff": 35.24, 
+        "gop": 65.2
+    }
+}

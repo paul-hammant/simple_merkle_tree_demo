@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2399, 
+        "dem": 1489, 
+        "tot": 5727, 
+        "gop": 3888
+    }, 
+    "for": "KS/Jackson County/20085", 
+    "pct": {
+        "dem": 26.0, 
+        "per_point_diff": 41.89, 
+        "gop": 67.89
+    }
+}

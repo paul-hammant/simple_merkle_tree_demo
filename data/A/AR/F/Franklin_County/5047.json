@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3658, 
+        "dem": 1376, 
+        "tot": 6698, 
+        "gop": 5034
+    }, 
+    "for": "AR/Franklin County/5047", 
+    "pct": {
+        "dem": 20.54, 
+        "per_point_diff": 54.61, 
+        "gop": 75.16
+    }
+}

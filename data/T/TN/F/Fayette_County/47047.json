@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7181, 
+        "dem": 5865, 
+        "tot": 19306, 
+        "gop": 13046
+    }, 
+    "for": "TN/Fayette County/47047", 
+    "pct": {
+        "dem": 30.38, 
+        "per_point_diff": 37.2, 
+        "gop": 67.57
+    }
+}

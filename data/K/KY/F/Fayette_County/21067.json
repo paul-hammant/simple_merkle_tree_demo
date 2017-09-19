@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12886, 
+        "dem": 69776, 
+        "tot": 136112, 
+        "gop": 56890
+    }, 
+    "for": "KY/Fayette County/21067", 
+    "pct": {
+        "dem": 51.26, 
+        "per_point_diff": 9.47, 
+        "gop": 41.8
+    }
+}

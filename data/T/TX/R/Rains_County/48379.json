@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3300, 
+        "dem": 619, 
+        "tot": 4630, 
+        "gop": 3919
+    }, 
+    "for": "TX/Rains County/48379", 
+    "pct": {
+        "dem": 13.37, 
+        "per_point_diff": 71.27, 
+        "gop": 84.64
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2489, 
+        "dem": 1300, 
+        "tot": 5214, 
+        "gop": 3789
+    }, 
+    "for": "NC/Alleghany County/37005", 
+    "pct": {
+        "dem": 24.93, 
+        "per_point_diff": 47.74, 
+        "gop": 72.67
+    }
+}

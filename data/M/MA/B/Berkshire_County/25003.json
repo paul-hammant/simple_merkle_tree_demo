@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 26741, 
+        "dem": 43540, 
+        "tot": 64507, 
+        "gop": 16799
+    }, 
+    "for": "MA/Berkshire County/25003", 
+    "pct": {
+        "dem": 67.5, 
+        "per_point_diff": 41.45, 
+        "gop": 26.04
+    }
+}

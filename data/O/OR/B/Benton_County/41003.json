@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15401, 
+        "dem": 28431, 
+        "tot": 45577, 
+        "gop": 13030
+    }, 
+    "for": "OR/Benton County/41003", 
+    "pct": {
+        "dem": 62.38, 
+        "per_point_diff": 33.79, 
+        "gop": 28.59
+    }
+}

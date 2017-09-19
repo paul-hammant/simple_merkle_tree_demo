@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 38171, 
+        "dem": 16485, 
+        "tot": 74189, 
+        "gop": 54656
+    }, 
+    "for": "AZ/Mohave County/4015", 
+    "pct": {
+        "dem": 22.22, 
+        "per_point_diff": 51.45, 
+        "gop": 73.67
+    }
+}

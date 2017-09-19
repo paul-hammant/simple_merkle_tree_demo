@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 506, 
+        "dem": 31, 
+        "tot": 617, 
+        "gop": 537
+    }, 
+    "for": "UT/Piute County/49031", 
+    "pct": {
+        "dem": 5.02, 
+        "per_point_diff": 82.01, 
+        "gop": 87.03
+    }
+}

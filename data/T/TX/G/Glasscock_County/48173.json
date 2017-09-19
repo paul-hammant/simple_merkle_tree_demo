@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 519, 
+        "dem": 34, 
+        "tot": 602, 
+        "gop": 553
+    }, 
+    "for": "TX/Glasscock County/48173", 
+    "pct": {
+        "dem": 5.65, 
+        "per_point_diff": 86.21, 
+        "gop": 91.86
+    }
+}

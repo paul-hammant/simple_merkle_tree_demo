@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 980, 
+        "dem": 2226, 
+        "tot": 5577, 
+        "gop": 3206
+    }, 
+    "for": "VA/Lunenburg County/51111", 
+    "pct": {
+        "dem": 39.91, 
+        "per_point_diff": 17.57, 
+        "gop": 57.49
+    }
+}

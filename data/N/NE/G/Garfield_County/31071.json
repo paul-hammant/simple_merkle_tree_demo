@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 698, 
+        "dem": 121, 
+        "tot": 968, 
+        "gop": 819
+    }, 
+    "for": "NE/Garfield County/31071", 
+    "pct": {
+        "dem": 12.5, 
+        "per_point_diff": 72.11, 
+        "gop": 84.61
+    }
+}

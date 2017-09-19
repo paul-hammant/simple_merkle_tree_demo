@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2765, 
+        "dem": 644, 
+        "tot": 4297, 
+        "gop": 3409
+    }, 
+    "for": "WY/Sublette County/56035", 
+    "pct": {
+        "dem": 14.99, 
+        "per_point_diff": 64.35, 
+        "gop": 79.33
+    }
+}

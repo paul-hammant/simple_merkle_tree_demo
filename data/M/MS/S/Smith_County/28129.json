@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4279, 
+        "dem": 1598, 
+        "tot": 7556, 
+        "gop": 5877
+    }, 
+    "for": "MS/Smith County/28129", 
+    "pct": {
+        "dem": 21.15, 
+        "per_point_diff": 56.63, 
+        "gop": 77.78
+    }
+}

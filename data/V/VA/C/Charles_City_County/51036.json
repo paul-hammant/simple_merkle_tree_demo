@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 863, 
+        "dem": 2244, 
+        "tot": 3745, 
+        "gop": 1381
+    }, 
+    "for": "VA/Charles City County/51036", 
+    "pct": {
+        "dem": 59.92, 
+        "per_point_diff": 23.04, 
+        "gop": 36.88
+    }
+}

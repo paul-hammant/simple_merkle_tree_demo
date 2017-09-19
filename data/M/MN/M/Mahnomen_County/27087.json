@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 61, 
+        "dem": 930, 
+        "tot": 2074, 
+        "gop": 991
+    }, 
+    "for": "MN/Mahnomen County/27087", 
+    "pct": {
+        "dem": 44.84, 
+        "per_point_diff": 2.94, 
+        "gop": 47.78
+    }
+}

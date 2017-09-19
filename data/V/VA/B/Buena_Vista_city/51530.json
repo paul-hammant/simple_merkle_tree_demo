@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 739, 
+        "dem": 693, 
+        "tot": 2395, 
+        "gop": 1432
+    }, 
+    "for": "VA/Buena Vista city/51530", 
+    "pct": {
+        "dem": 28.94, 
+        "per_point_diff": 30.86, 
+        "gop": 59.79
+    }
+}

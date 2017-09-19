@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 46031, 
+        "dem": 209251, 
+        "tot": 383965, 
+        "gop": 163220
+    }, 
+    "for": "NJ/Bergen County/34003", 
+    "pct": {
+        "dem": 54.5, 
+        "per_point_diff": 11.99, 
+        "gop": 42.51
+    }
+}

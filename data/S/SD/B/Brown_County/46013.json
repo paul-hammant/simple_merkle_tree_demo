@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4161, 
+        "dem": 5452, 
+        "tot": 16113, 
+        "gop": 9613
+    }, 
+    "for": "SD/Brown County/46013", 
+    "pct": {
+        "dem": 33.84, 
+        "per_point_diff": 25.82, 
+        "gop": 59.66
+    }
+}

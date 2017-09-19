@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3039, 
+        "dem": 1196, 
+        "tot": 5782, 
+        "gop": 4235
+    }, 
+    "for": "MT/Fergus County/30027", 
+    "pct": {
+        "dem": 20.68, 
+        "per_point_diff": 52.56, 
+        "gop": 73.24
+    }
+}

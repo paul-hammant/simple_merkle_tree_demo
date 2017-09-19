@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3074, 
+        "dem": 24534, 
+        "tot": 55686, 
+        "gop": 27608
+    }, 
+    "for": "MI/Eaton County/26045", 
+    "pct": {
+        "dem": 44.06, 
+        "per_point_diff": 5.52, 
+        "gop": 49.58
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 272, 
+        "dem": 422, 
+        "tot": 1175, 
+        "gop": 694
+    }, 
+    "for": "TX/Jeff Davis County/48243", 
+    "pct": {
+        "dem": 35.91, 
+        "per_point_diff": 23.15, 
+        "gop": 59.06
+    }
+}

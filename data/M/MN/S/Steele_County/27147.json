@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4959, 
+        "dem": 6239, 
+        "tot": 19040, 
+        "gop": 11198
+    }, 
+    "for": "MN/Steele County/27147", 
+    "pct": {
+        "dem": 32.77, 
+        "per_point_diff": 26.05, 
+        "gop": 58.81
+    }
+}

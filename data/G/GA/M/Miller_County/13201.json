@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1266, 
+        "dem": 622, 
+        "tot": 2540, 
+        "gop": 1888
+    }, 
+    "for": "GA/Miller County/13201", 
+    "pct": {
+        "dem": 24.49, 
+        "per_point_diff": 49.84, 
+        "gop": 74.33
+    }
+}

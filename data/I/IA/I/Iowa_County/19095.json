@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2123, 
+        "dem": 3070, 
+        "tot": 8789, 
+        "gop": 5193
+    }, 
+    "for": "IA/Iowa County/19095", 
+    "pct": {
+        "dem": 34.93, 
+        "per_point_diff": 24.16, 
+        "gop": 59.09
+    }
+}

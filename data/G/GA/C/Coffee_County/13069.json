@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5485, 
+        "dem": 4090, 
+        "tot": 13896, 
+        "gop": 9575
+    }, 
+    "for": "GA/Coffee County/13069", 
+    "pct": {
+        "dem": 29.43, 
+        "per_point_diff": 39.47, 
+        "gop": 68.9
+    }
+}

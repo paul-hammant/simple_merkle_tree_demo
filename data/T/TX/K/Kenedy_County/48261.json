@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15, 
+        "dem": 99, 
+        "tot": 186, 
+        "gop": 84
+    }, 
+    "for": "TX/Kenedy County/48261", 
+    "pct": {
+        "dem": 53.23, 
+        "per_point_diff": 8.06, 
+        "gop": 45.16
+    }
+}

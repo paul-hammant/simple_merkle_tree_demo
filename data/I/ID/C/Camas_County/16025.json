@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 300, 
+        "dem": 110, 
+        "tot": 599, 
+        "gop": 410
+    }, 
+    "for": "ID/Camas County/16025", 
+    "pct": {
+        "dem": 18.36, 
+        "per_point_diff": 50.08, 
+        "gop": 68.45
+    }
+}

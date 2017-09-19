@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3595, 
+        "dem": 1856, 
+        "tot": 7767, 
+        "gop": 5451
+    }, 
+    "for": "MN/Roseau County/27135", 
+    "pct": {
+        "dem": 23.9, 
+        "per_point_diff": 46.29, 
+        "gop": 70.18
+    }
+}

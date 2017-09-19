@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1925, 
+        "dem": 1770, 
+        "tot": 6250, 
+        "gop": 3695
+    }, 
+    "for": "NM/Torrance County/35057", 
+    "pct": {
+        "dem": 28.32, 
+        "per_point_diff": 30.8, 
+        "gop": 59.12
+    }
+}

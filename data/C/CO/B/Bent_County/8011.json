@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 585, 
+        "dem": 581, 
+        "tot": 1892, 
+        "gop": 1166
+    }, 
+    "for": "CO/Bent County/8011", 
+    "pct": {
+        "dem": 30.71, 
+        "per_point_diff": 30.92, 
+        "gop": 61.63
+    }
+}

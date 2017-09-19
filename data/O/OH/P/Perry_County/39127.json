@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5906, 
+        "dem": 4072, 
+        "tot": 14647, 
+        "gop": 9978
+    }, 
+    "for": "OH/Perry County/39127", 
+    "pct": {
+        "dem": 27.8, 
+        "per_point_diff": 40.32, 
+        "gop": 68.12
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14264, 
+        "dem": 5638, 
+        "tot": 26766, 
+        "gop": 19902
+    }, 
+    "for": "AR/Lonoke County/5085", 
+    "pct": {
+        "dem": 21.06, 
+        "per_point_diff": 53.29, 
+        "gop": 74.36
+    }
+}

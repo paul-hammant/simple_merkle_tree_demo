@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 682, 
+        "dem": 104, 
+        "tot": 1096, 
+        "gop": 786
+    }, 
+    "for": "UT/Rich County/49033", 
+    "pct": {
+        "dem": 9.49, 
+        "per_point_diff": 62.23, 
+        "gop": 71.72
+    }
+}

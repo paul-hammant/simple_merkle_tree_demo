@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 683, 
+        "dem": 3275, 
+        "tot": 6756, 
+        "gop": 2592
+    }, 
+    "for": "NM/Socorro County/35053", 
+    "pct": {
+        "dem": 48.48, 
+        "per_point_diff": 10.11, 
+        "gop": 38.37
+    }
+}

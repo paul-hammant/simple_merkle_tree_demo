@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3878, 
+        "dem": 2489, 
+        "tot": 9226, 
+        "gop": 6367
+    }, 
+    "for": "IN/Starke County/18149", 
+    "pct": {
+        "dem": 26.98, 
+        "per_point_diff": 42.03, 
+        "gop": 69.01
+    }
+}

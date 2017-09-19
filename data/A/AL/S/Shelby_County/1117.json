@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 49919, 
+        "dem": 22927, 
+        "tot": 99208, 
+        "gop": 72846
+    }, 
+    "for": "AL/Shelby County/1117", 
+    "pct": {
+        "dem": 23.11, 
+        "per_point_diff": 50.32, 
+        "gop": 73.43
+    }
+}

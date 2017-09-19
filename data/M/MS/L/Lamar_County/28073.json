@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13449, 
+        "dem": 5044, 
+        "tot": 24179, 
+        "gop": 18493
+    }, 
+    "for": "MS/Lamar County/28073", 
+    "pct": {
+        "dem": 20.86, 
+        "per_point_diff": 55.62, 
+        "gop": 76.48
+    }
+}

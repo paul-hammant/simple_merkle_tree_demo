@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1854, 
+        "dem": 2146, 
+        "tot": 6671, 
+        "gop": 4000
+    }, 
+    "for": "MN/Pennington County/27113", 
+    "pct": {
+        "dem": 32.17, 
+        "per_point_diff": 27.79, 
+        "gop": 59.96
+    }
+}

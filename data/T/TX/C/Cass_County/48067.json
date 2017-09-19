@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6932, 
+        "dem": 2250, 
+        "tot": 11606, 
+        "gop": 9182
+    }, 
+    "for": "TX/Cass County/48067", 
+    "pct": {
+        "dem": 19.39, 
+        "per_point_diff": 59.73, 
+        "gop": 79.11
+    }
+}

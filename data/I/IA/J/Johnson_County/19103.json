@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 28949, 
+        "dem": 49942, 
+        "tot": 75637, 
+        "gop": 20993
+    }, 
+    "for": "IA/Johnson County/19103", 
+    "pct": {
+        "dem": 66.03, 
+        "per_point_diff": 38.27, 
+        "gop": 27.75
+    }
+}

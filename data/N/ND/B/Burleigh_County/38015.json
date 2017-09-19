@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 21634, 
+        "dem": 10865, 
+        "tot": 46874, 
+        "gop": 32499
+    }, 
+    "for": "ND/Burleigh County/38015", 
+    "pct": {
+        "dem": 23.18, 
+        "per_point_diff": 46.15, 
+        "gop": 69.33
+    }
+}

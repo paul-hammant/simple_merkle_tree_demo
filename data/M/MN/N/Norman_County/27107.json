@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 435, 
+        "dem": 1264, 
+        "tot": 3232, 
+        "gop": 1699
+    }, 
+    "for": "MN/Norman County/27107", 
+    "pct": {
+        "dem": 39.11, 
+        "per_point_diff": 13.46, 
+        "gop": 52.57
+    }
+}

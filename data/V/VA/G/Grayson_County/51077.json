@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4186, 
+        "dem": 1407, 
+        "tot": 7258, 
+        "gop": 5593
+    }, 
+    "for": "VA/Grayson County/51077", 
+    "pct": {
+        "dem": 19.39, 
+        "per_point_diff": 57.67, 
+        "gop": 77.06
+    }
+}

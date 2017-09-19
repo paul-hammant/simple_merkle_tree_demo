@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6571, 
+        "dem": 3421, 
+        "tot": 14032, 
+        "gop": 9992
+    }, 
+    "for": "IL/Randolph County/17157", 
+    "pct": {
+        "dem": 24.38, 
+        "per_point_diff": 46.83, 
+        "gop": 71.21
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 23024, 
+        "dem": 30158, 
+        "tot": 85741, 
+        "gop": 53182
+    }, 
+    "for": "FL/Martin County/12085", 
+    "pct": {
+        "dem": 35.17, 
+        "per_point_diff": 26.85, 
+        "gop": 62.03
+    }
+}

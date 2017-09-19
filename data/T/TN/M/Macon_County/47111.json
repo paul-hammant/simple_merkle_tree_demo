@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5189, 
+        "dem": 1071, 
+        "tot": 7490, 
+        "gop": 6260
+    }, 
+    "for": "TN/Macon County/47111", 
+    "pct": {
+        "dem": 14.3, 
+        "per_point_diff": 69.28, 
+        "gop": 83.58
+    }
+}

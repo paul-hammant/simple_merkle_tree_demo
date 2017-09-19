@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8182, 
+        "dem": 2112, 
+        "tot": 12634, 
+        "gop": 10294
+    }, 
+    "for": "FL/Baker County/12003", 
+    "pct": {
+        "dem": 16.72, 
+        "per_point_diff": 64.76, 
+        "gop": 81.48
+    }
+}

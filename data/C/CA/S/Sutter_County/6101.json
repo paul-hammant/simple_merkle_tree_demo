@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4949, 
+        "dem": 11831, 
+        "tot": 30429, 
+        "gop": 16780
+    }, 
+    "for": "CA/Sutter County/6101", 
+    "pct": {
+        "dem": 38.88, 
+        "per_point_diff": 16.26, 
+        "gop": 55.14
+    }
+}

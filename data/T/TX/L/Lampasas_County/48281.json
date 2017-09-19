@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4892, 
+        "dem": 1479, 
+        "tot": 8149, 
+        "gop": 6371
+    }, 
+    "for": "TX/Lampasas County/48281", 
+    "pct": {
+        "dem": 18.15, 
+        "per_point_diff": 60.03, 
+        "gop": 78.18
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2749, 
+        "dem": 607, 
+        "tot": 4010, 
+        "gop": 3356
+    }, 
+    "for": "GA/Bacon County/13005", 
+    "pct": {
+        "dem": 15.14, 
+        "per_point_diff": 68.55, 
+        "gop": 83.69
+    }
+}

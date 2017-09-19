@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 531, 
+        "dem": 40, 
+        "tot": 620, 
+        "gop": 571
+    }, 
+    "for": "TX/Motley County/48345", 
+    "pct": {
+        "dem": 6.45, 
+        "per_point_diff": 85.65, 
+        "gop": 92.1
+    }
+}

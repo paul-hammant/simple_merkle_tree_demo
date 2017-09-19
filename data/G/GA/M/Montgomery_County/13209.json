@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1821, 
+        "dem": 847, 
+        "tot": 3560, 
+        "gop": 2668
+    }, 
+    "for": "GA/Montgomery County/13209", 
+    "pct": {
+        "dem": 23.79, 
+        "per_point_diff": 51.15, 
+        "gop": 74.94
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4213, 
+        "dem": 5665, 
+        "tot": 16442, 
+        "gop": 9878
+    }, 
+    "for": "MI/Gratiot County/26057", 
+    "pct": {
+        "dem": 34.45, 
+        "per_point_diff": 25.62, 
+        "gop": 60.08
+    }
+}

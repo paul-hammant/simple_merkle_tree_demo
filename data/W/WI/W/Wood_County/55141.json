@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7270, 
+        "dem": 14232, 
+        "tot": 37712, 
+        "gop": 21502
+    }, 
+    "for": "WI/Wood County/55141", 
+    "pct": {
+        "dem": 37.74, 
+        "per_point_diff": 19.28, 
+        "gop": 57.02
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1034, 
+        "dem": 379, 
+        "tot": 1867, 
+        "gop": 1413
+    }, 
+    "for": "MO/Knox County/29103", 
+    "pct": {
+        "dem": 20.3, 
+        "per_point_diff": 55.38, 
+        "gop": 75.68
+    }
+}

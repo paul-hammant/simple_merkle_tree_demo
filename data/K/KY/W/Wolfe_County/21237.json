@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1051, 
+        "dem": 753, 
+        "tot": 2634, 
+        "gop": 1804
+    }, 
+    "for": "KY/Wolfe County/21237", 
+    "pct": {
+        "dem": 28.59, 
+        "per_point_diff": 39.9, 
+        "gop": 68.49
+    }
+}

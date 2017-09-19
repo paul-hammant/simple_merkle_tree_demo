@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6237, 
+        "dem": 4157, 
+        "tot": 14955, 
+        "gop": 10394
+    }, 
+    "for": "PA/Greene County/42059", 
+    "pct": {
+        "dem": 27.8, 
+        "per_point_diff": 41.71, 
+        "gop": 69.5
+    }
+}

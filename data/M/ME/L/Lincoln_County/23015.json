@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 514, 
+        "dem": 10241, 
+        "tot": 21432, 
+        "gop": 9727
+    }, 
+    "for": "ME/Lincoln County/23015", 
+    "pct": {
+        "dem": 47.78, 
+        "per_point_diff": 2.4, 
+        "gop": 45.39
+    }
+}

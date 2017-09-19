@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3837, 
+        "dem": 3432, 
+        "tot": 11423, 
+        "gop": 7269
+    }, 
+    "for": "MN/Hubbard County/27057", 
+    "pct": {
+        "dem": 30.04, 
+        "per_point_diff": 33.59, 
+        "gop": 63.63
+    }
+}

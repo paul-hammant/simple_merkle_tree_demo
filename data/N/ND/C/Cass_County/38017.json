@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8447, 
+        "dem": 31291, 
+        "tot": 78807, 
+        "gop": 39738
+    }, 
+    "for": "ND/Cass County/38017", 
+    "pct": {
+        "dem": 39.71, 
+        "per_point_diff": 10.72, 
+        "gop": 50.42
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9296, 
+        "dem": 2687, 
+        "tot": 14991, 
+        "gop": 11983
+    }, 
+    "for": "VA/Wise County/51195", 
+    "pct": {
+        "dem": 17.92, 
+        "per_point_diff": 62.01, 
+        "gop": 79.93
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1393, 
+        "dem": 6558, 
+        "tot": 15255, 
+        "gop": 7951
+    }, 
+    "for": "NH/Coos County/33007", 
+    "pct": {
+        "dem": 42.99, 
+        "per_point_diff": 9.13, 
+        "gop": 52.12
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4335, 
+        "dem": 5904, 
+        "tot": 17186, 
+        "gop": 10239
+    }, 
+    "for": "CA/Amador County/6005", 
+    "pct": {
+        "dem": 34.35, 
+        "per_point_diff": 25.22, 
+        "gop": 59.58
+    }
+}

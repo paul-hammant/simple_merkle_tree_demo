@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8377, 
+        "dem": 62951, 
+        "tot": 124527, 
+        "gop": 54574
+    }, 
+    "for": "CT/New London County/9011", 
+    "pct": {
+        "dem": 50.55, 
+        "per_point_diff": 6.73, 
+        "gop": 43.83
+    }
+}

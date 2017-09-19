@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2520, 
+        "dem": 2118, 
+        "tot": 6957, 
+        "gop": 4638
+    }, 
+    "for": "TX/Calhoun County/48057", 
+    "pct": {
+        "dem": 30.44, 
+        "per_point_diff": 36.22, 
+        "gop": 66.67
+    }
+}

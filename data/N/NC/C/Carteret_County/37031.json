@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16422, 
+        "dem": 9806, 
+        "tot": 36919, 
+        "gop": 26228
+    }, 
+    "for": "NC/Carteret County/37031", 
+    "pct": {
+        "dem": 26.56, 
+        "per_point_diff": 44.48, 
+        "gop": 71.04
+    }
+}

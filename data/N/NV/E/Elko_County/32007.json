@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10142, 
+        "dem": 3400, 
+        "tot": 18545, 
+        "gop": 13542
+    }, 
+    "for": "NV/Elko County/32007", 
+    "pct": {
+        "dem": 18.33, 
+        "per_point_diff": 54.69, 
+        "gop": 73.02
+    }
+}

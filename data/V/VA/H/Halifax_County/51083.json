@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2808, 
+        "dem": 6890, 
+        "tot": 16946, 
+        "gop": 9698
+    }, 
+    "for": "VA/Halifax County/51083", 
+    "pct": {
+        "dem": 40.66, 
+        "per_point_diff": 16.57, 
+        "gop": 57.23
+    }
+}

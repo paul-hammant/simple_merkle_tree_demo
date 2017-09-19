@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18471, 
+        "dem": 8468, 
+        "tot": 36875, 
+        "gop": 26939
+    }, 
+    "for": "MO/Cape Girardeau County/29031", 
+    "pct": {
+        "dem": 22.96, 
+        "per_point_diff": 50.09, 
+        "gop": 73.05
+    }
+}

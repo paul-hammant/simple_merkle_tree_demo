@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5275, 
+        "dem": 1921, 
+        "tot": 9509, 
+        "gop": 7196
+    }, 
+    "for": "KY/Spencer County/21215", 
+    "pct": {
+        "dem": 20.2, 
+        "per_point_diff": 55.47, 
+        "gop": 75.68
+    }
+}

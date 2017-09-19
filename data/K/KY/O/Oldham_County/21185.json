@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10201, 
+        "dem": 10268, 
+        "tot": 32838, 
+        "gop": 20469
+    }, 
+    "for": "KY/Oldham County/21185", 
+    "pct": {
+        "dem": 31.27, 
+        "per_point_diff": 31.06, 
+        "gop": 62.33
+    }
+}

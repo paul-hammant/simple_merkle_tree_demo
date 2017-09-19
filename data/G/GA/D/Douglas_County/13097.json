@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6168, 
+        "dem": 30971, 
+        "tot": 57365, 
+        "gop": 24803
+    }, 
+    "for": "GA/Douglas County/13097", 
+    "pct": {
+        "dem": 53.99, 
+        "per_point_diff": 10.75, 
+        "gop": 43.24
+    }
+}

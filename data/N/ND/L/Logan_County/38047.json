@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 755, 
+        "dem": 112, 
+        "tot": 1030, 
+        "gop": 867
+    }, 
+    "for": "ND/Logan County/38047", 
+    "pct": {
+        "dem": 10.87, 
+        "per_point_diff": 73.3, 
+        "gop": 84.17
+    }
+}

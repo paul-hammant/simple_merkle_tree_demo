@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7997, 
+        "dem": 6142, 
+        "tot": 21331, 
+        "gop": 14139
+    }, 
+    "for": "NE/Hall County/31079", 
+    "pct": {
+        "dem": 28.79, 
+        "per_point_diff": 37.49, 
+        "gop": 66.28
+    }
+}

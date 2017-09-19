@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4556, 
+        "dem": 5955, 
+        "tot": 17157, 
+        "gop": 10511
+    }, 
+    "for": "VA/Orange County/51137", 
+    "pct": {
+        "dem": 34.71, 
+        "per_point_diff": 26.55, 
+        "gop": 61.26
+    }
+}

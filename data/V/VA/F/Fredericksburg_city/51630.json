@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2959, 
+        "dem": 6690, 
+        "tot": 11135, 
+        "gop": 3731
+    }, 
+    "for": "VA/Fredericksburg city/51630", 
+    "pct": {
+        "dem": 60.08, 
+        "per_point_diff": 26.57, 
+        "gop": 33.51
+    }
+}

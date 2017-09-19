@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4788, 
+        "dem": 3892, 
+        "tot": 12796, 
+        "gop": 8680
+    }, 
+    "for": "GA/Tift County/13277", 
+    "pct": {
+        "dem": 30.42, 
+        "per_point_diff": 37.42, 
+        "gop": 67.83
+    }
+}

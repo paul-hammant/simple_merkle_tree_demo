@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 41120, 
+        "dem": 112608, 
+        "tot": 189099, 
+        "gop": 71488
+    }, 
+    "for": "NJ/Passaic County/34031", 
+    "pct": {
+        "dem": 59.55, 
+        "per_point_diff": 21.75, 
+        "gop": 37.8
+    }
+}

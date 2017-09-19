@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4271, 
+        "dem": 917, 
+        "tot": 6336, 
+        "gop": 5188
+    }, 
+    "for": "IA/Lyon County/19119", 
+    "pct": {
+        "dem": 14.47, 
+        "per_point_diff": 67.41, 
+        "gop": 81.88
+    }
+}

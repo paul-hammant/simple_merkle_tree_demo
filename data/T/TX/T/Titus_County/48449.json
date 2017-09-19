@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3867, 
+        "dem": 2538, 
+        "tot": 9176, 
+        "gop": 6405
+    }, 
+    "for": "TX/Titus County/48449", 
+    "pct": {
+        "dem": 27.66, 
+        "per_point_diff": 42.14, 
+        "gop": 69.8
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 26054, 
+        "dem": 51454, 
+        "tot": 132731, 
+        "gop": 77508
+    }, 
+    "for": "PA/Luzerne County/42079", 
+    "pct": {
+        "dem": 38.77, 
+        "per_point_diff": 19.63, 
+        "gop": 58.39
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 245, 
+        "dem": 5520, 
+        "tot": 10973, 
+        "gop": 5275
+    }, 
+    "for": "GA/Sumter County/13261", 
+    "pct": {
+        "dem": 50.31, 
+        "per_point_diff": 2.23, 
+        "gop": 48.07
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3981, 
+        "dem": 1949, 
+        "tot": 8196, 
+        "gop": 5930
+    }, 
+    "for": "VA/Giles County/51071", 
+    "pct": {
+        "dem": 23.78, 
+        "per_point_diff": 48.57, 
+        "gop": 72.35
+    }
+}

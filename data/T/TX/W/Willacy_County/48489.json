@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1875, 
+        "dem": 3416, 
+        "tot": 5082, 
+        "gop": 1541
+    }, 
+    "for": "TX/Willacy County/48489", 
+    "pct": {
+        "dem": 67.22, 
+        "per_point_diff": 36.89, 
+        "gop": 30.32
+    }
+}

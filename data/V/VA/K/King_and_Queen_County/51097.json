@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 608, 
+        "dem": 1451, 
+        "tot": 3615, 
+        "gop": 2059
+    }, 
+    "for": "VA/King and Queen County/51097", 
+    "pct": {
+        "dem": 40.14, 
+        "per_point_diff": 16.82, 
+        "gop": 56.96
+    }
+}

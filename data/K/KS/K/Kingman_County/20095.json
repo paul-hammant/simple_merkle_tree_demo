@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1913, 
+        "dem": 594, 
+        "tot": 3281, 
+        "gop": 2507
+    }, 
+    "for": "KS/Kingman County/20095", 
+    "pct": {
+        "dem": 18.1, 
+        "per_point_diff": 58.31, 
+        "gop": 76.41
+    }
+}

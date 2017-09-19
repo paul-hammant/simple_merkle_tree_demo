@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3749, 
+        "dem": 1946, 
+        "tot": 8089, 
+        "gop": 5695
+    }, 
+    "for": "IL/Douglas County/17041", 
+    "pct": {
+        "dem": 24.06, 
+        "per_point_diff": 46.35, 
+        "gop": 70.4
+    }
+}

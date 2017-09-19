@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1209, 
+        "dem": 462, 
+        "tot": 2190, 
+        "gop": 1671
+    }, 
+    "for": "TX/Swisher County/48437", 
+    "pct": {
+        "dem": 21.1, 
+        "per_point_diff": 55.21, 
+        "gop": 76.3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 53, 
+        "dem": 4, 
+        "tot": 64, 
+        "gop": 57
+    }, 
+    "for": "TX/Loving County/48301", 
+    "pct": {
+        "dem": 6.25, 
+        "per_point_diff": 82.81, 
+        "gop": 89.06
+    }
+}

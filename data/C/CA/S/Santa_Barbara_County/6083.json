@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 46380, 
+        "dem": 100120, 
+        "tot": 164224, 
+        "gop": 53740
+    }, 
+    "for": "CA/Santa Barbara County/6083", 
+    "pct": {
+        "dem": 60.97, 
+        "per_point_diff": 28.24, 
+        "gop": 32.72
+    }
+}

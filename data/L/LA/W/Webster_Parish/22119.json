@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5279, 
+        "dem": 6259, 
+        "tot": 18140, 
+        "gop": 11538
+    }, 
+    "for": "LA/Webster Parish/22119", 
+    "pct": {
+        "dem": 34.5, 
+        "per_point_diff": 29.1, 
+        "gop": 63.61
+    }
+}

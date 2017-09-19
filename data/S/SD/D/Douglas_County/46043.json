@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1124, 
+        "dem": 214, 
+        "tot": 1605, 
+        "gop": 1338
+    }, 
+    "for": "SD/Douglas County/46043", 
+    "pct": {
+        "dem": 13.33, 
+        "per_point_diff": 70.03, 
+        "gop": 83.36
+    }
+}

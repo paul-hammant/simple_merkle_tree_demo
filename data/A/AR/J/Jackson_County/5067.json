@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1679, 
+        "dem": 1583, 
+        "tot": 5093, 
+        "gop": 3262
+    }, 
+    "for": "AR/Jackson County/5067", 
+    "pct": {
+        "dem": 31.08, 
+        "per_point_diff": 32.97, 
+        "gop": 64.05
+    }
+}

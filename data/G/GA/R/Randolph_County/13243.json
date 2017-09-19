@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 327, 
+        "dem": 1597, 
+        "tot": 2895, 
+        "gop": 1270
+    }, 
+    "for": "GA/Randolph County/13243", 
+    "pct": {
+        "dem": 55.16, 
+        "per_point_diff": 11.3, 
+        "gop": 43.87
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4851, 
+        "dem": 2829, 
+        "tot": 10832, 
+        "gop": 7680
+    }, 
+    "for": "TN/Marion County/47115", 
+    "pct": {
+        "dem": 26.12, 
+        "per_point_diff": 44.78, 
+        "gop": 70.9
+    }
+}

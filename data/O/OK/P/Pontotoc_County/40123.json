@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6787, 
+        "dem": 3633, 
+        "tot": 14814, 
+        "gop": 10420
+    }, 
+    "for": "OK/Pontotoc County/40123", 
+    "pct": {
+        "dem": 24.52, 
+        "per_point_diff": 45.81, 
+        "gop": 70.34
+    }
+}

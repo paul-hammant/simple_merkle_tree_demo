@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6458, 
+        "dem": 1825, 
+        "tot": 10377, 
+        "gop": 8283
+    }, 
+    "for": "TX/Llano County/48299", 
+    "pct": {
+        "dem": 17.59, 
+        "per_point_diff": 62.23, 
+        "gop": 79.82
+    }
+}

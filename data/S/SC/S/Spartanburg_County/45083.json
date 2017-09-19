@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 36213, 
+        "dem": 39888, 
+        "tot": 120793, 
+        "gop": 76101
+    }, 
+    "for": "SC/Spartanburg County/45083", 
+    "pct": {
+        "dem": 33.02, 
+        "per_point_diff": 29.98, 
+        "gop": 63.0
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6788, 
+        "dem": 9247, 
+        "tot": 26066, 
+        "gop": 16035
+    }, 
+    "for": "PA/Pike County/42103", 
+    "pct": {
+        "dem": 35.48, 
+        "per_point_diff": 26.04, 
+        "gop": 61.52
+    }
+}

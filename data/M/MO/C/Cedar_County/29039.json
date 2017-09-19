@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4009, 
+        "dem": 1010, 
+        "tot": 6278, 
+        "gop": 5019
+    }, 
+    "for": "MO/Cedar County/29039", 
+    "pct": {
+        "dem": 16.09, 
+        "per_point_diff": 63.86, 
+        "gop": 79.95
+    }
+}

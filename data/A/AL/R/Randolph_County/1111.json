@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5407, 
+        "dem": 2290, 
+        "tot": 10130, 
+        "gop": 7697
+    }, 
+    "for": "AL/Randolph County/1111", 
+    "pct": {
+        "dem": 22.61, 
+        "per_point_diff": 53.38, 
+        "gop": 75.98
+    }
+}

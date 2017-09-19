@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14219, 
+        "dem": 6844, 
+        "tot": 31893, 
+        "gop": 21063
+    }, 
+    "for": "ID/Twin Falls County/16083", 
+    "pct": {
+        "dem": 21.46, 
+        "per_point_diff": 44.58, 
+        "gop": 66.04
+    }
+}

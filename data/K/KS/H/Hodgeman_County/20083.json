@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 721, 
+        "dem": 124, 
+        "tot": 1006, 
+        "gop": 845
+    }, 
+    "for": "KS/Hodgeman County/20083", 
+    "pct": {
+        "dem": 12.33, 
+        "per_point_diff": 71.67, 
+        "gop": 84.0
+    }
+}

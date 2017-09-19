@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 30548, 
+        "dem": 74775, 
+        "tot": 125644, 
+        "gop": 44227
+    }, 
+    "for": "NY/Albany County/36001", 
+    "pct": {
+        "dem": 59.51, 
+        "per_point_diff": 24.31, 
+        "gop": 35.2
+    }
+}

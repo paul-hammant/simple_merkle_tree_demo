@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7318, 
+        "dem": 2319, 
+        "tot": 12255, 
+        "gop": 9637
+    }, 
+    "for": "TX/Austin County/48015", 
+    "pct": {
+        "dem": 18.92, 
+        "per_point_diff": 59.71, 
+        "gop": 78.64
+    }
+}

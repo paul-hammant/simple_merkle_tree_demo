@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3439, 
+        "dem": 3334, 
+        "tot": 10656, 
+        "gop": 6773
+    }, 
+    "for": "AR/Carroll County/5015", 
+    "pct": {
+        "dem": 31.29, 
+        "per_point_diff": 32.27, 
+        "gop": 63.56
+    }
+}

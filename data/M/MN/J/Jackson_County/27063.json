@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2117, 
+        "dem": 1492, 
+        "tot": 5453, 
+        "gop": 3609
+    }, 
+    "for": "MN/Jackson County/27063", 
+    "pct": {
+        "dem": 27.36, 
+        "per_point_diff": 38.82, 
+        "gop": 66.18
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3854, 
+        "dem": 4287, 
+        "tot": 13036, 
+        "gop": 8141
+    }, 
+    "for": "MI/Roscommon County/26143", 
+    "pct": {
+        "dem": 32.89, 
+        "per_point_diff": 29.56, 
+        "gop": 62.45
+    }
+}

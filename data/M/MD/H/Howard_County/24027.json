@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 49016, 
+        "dem": 93808, 
+        "tot": 146401, 
+        "gop": 44792
+    }, 
+    "for": "MD/Howard County/24027", 
+    "pct": {
+        "dem": 64.08, 
+        "per_point_diff": 33.48, 
+        "gop": 30.6
+    }
+}

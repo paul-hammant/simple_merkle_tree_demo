@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 20845, 
+        "dem": 9733, 
+        "tot": 42186, 
+        "gop": 30578
+    }, 
+    "for": "VA/Bedford County/51019", 
+    "pct": {
+        "dem": 23.07, 
+        "per_point_diff": 49.41, 
+        "gop": 72.48
+    }
+}

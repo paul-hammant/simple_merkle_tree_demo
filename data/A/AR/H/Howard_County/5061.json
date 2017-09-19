@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1805, 
+        "dem": 1350, 
+        "tot": 4634, 
+        "gop": 3155
+    }, 
+    "for": "AR/Howard County/5061", 
+    "pct": {
+        "dem": 29.13, 
+        "per_point_diff": 38.95, 
+        "gop": 68.08
+    }
+}

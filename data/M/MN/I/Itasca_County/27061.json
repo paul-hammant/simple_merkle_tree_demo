@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3905, 
+        "dem": 9015, 
+        "tot": 23650, 
+        "gop": 12920
+    }, 
+    "for": "MN/Itasca County/27061", 
+    "pct": {
+        "dem": 38.12, 
+        "per_point_diff": 16.51, 
+        "gop": 54.63
+    }
+}

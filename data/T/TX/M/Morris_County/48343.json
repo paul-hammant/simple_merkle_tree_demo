@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2018, 
+        "dem": 1425, 
+        "tot": 4964, 
+        "gop": 3443
+    }, 
+    "for": "TX/Morris County/48343", 
+    "pct": {
+        "dem": 28.71, 
+        "per_point_diff": 40.65, 
+        "gop": 69.36
+    }
+}

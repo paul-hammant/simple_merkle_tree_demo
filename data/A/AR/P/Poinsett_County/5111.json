@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1271, 
+        "dem": 1878, 
+        "tot": 5283, 
+        "gop": 3149
+    }, 
+    "for": "AR/Poinsett County/5111", 
+    "pct": {
+        "dem": 35.55, 
+        "per_point_diff": 24.06, 
+        "gop": 59.61
+    }
+}

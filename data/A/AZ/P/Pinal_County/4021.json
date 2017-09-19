@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18120, 
+        "dem": 35737, 
+        "tot": 93805, 
+        "gop": 53857
+    }, 
+    "for": "AZ/Pinal County/4021", 
+    "pct": {
+        "dem": 38.1, 
+        "per_point_diff": 19.32, 
+        "gop": 57.41
+    }
+}

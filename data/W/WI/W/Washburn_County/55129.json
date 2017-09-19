@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2121, 
+        "dem": 3283, 
+        "tot": 9059, 
+        "gop": 5404
+    }, 
+    "for": "WI/Washburn County/55129", 
+    "pct": {
+        "dem": 36.24, 
+        "per_point_diff": 23.41, 
+        "gop": 59.65
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 922, 
+        "dem": 1663, 
+        "tot": 4513, 
+        "gop": 2585
+    }, 
+    "for": "MI/Alger County/26003", 
+    "pct": {
+        "dem": 36.85, 
+        "per_point_diff": 20.43, 
+        "gop": 57.28
+    }
+}

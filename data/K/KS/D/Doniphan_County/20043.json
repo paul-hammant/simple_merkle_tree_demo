@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2017, 
+        "dem": 584, 
+        "tot": 3366, 
+        "gop": 2601
+    }, 
+    "for": "KS/Doniphan County/20043", 
+    "pct": {
+        "dem": 17.35, 
+        "per_point_diff": 59.92, 
+        "gop": 77.27
+    }
+}

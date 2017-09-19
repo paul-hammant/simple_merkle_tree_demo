@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4329, 
+        "dem": 2733, 
+        "tot": 10469, 
+        "gop": 7062
+    }, 
+    "for": "MN/Martin County/27091", 
+    "pct": {
+        "dem": 26.11, 
+        "per_point_diff": 41.35, 
+        "gop": 67.46
+    }
+}

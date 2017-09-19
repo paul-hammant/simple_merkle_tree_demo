@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8127, 
+        "dem": 3423, 
+        "tot": 15712, 
+        "gop": 11550
+    }, 
+    "for": "OK/Mayes County/40097", 
+    "pct": {
+        "dem": 21.79, 
+        "per_point_diff": 51.72, 
+        "gop": 73.51
+    }
+}

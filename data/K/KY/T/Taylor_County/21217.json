@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5767, 
+        "dem": 2553, 
+        "tot": 11301, 
+        "gop": 8320
+    }, 
+    "for": "KY/Taylor County/21217", 
+    "pct": {
+        "dem": 22.59, 
+        "per_point_diff": 51.03, 
+        "gop": 73.62
+    }
+}

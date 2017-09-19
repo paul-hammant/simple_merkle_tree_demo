@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9162, 
+        "dem": 9279, 
+        "tot": 30009, 
+        "gop": 18441
+    }, 
+    "for": "MN/Chisago County/27025", 
+    "pct": {
+        "dem": 30.92, 
+        "per_point_diff": 30.53, 
+        "gop": 61.45
+    }
+}

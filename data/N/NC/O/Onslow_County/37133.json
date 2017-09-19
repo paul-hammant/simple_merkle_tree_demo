@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 19186, 
+        "dem": 17156, 
+        "tot": 55364, 
+        "gop": 36342
+    }, 
+    "for": "NC/Onslow County/37133", 
+    "pct": {
+        "dem": 30.99, 
+        "per_point_diff": 34.65, 
+        "gop": 65.64
+    }
+}

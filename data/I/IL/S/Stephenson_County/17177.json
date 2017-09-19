@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3314, 
+        "dem": 7531, 
+        "tot": 19525, 
+        "gop": 10845
+    }, 
+    "for": "IL/Stephenson County/17177", 
+    "pct": {
+        "dem": 38.57, 
+        "per_point_diff": 16.97, 
+        "gop": 55.54
+    }
+}

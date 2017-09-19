@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 825, 
+        "dem": 145, 
+        "tot": 1160, 
+        "gop": 970
+    }, 
+    "for": "KS/Morton County/20129", 
+    "pct": {
+        "dem": 12.5, 
+        "per_point_diff": 71.12, 
+        "gop": 83.62
+    }
+}

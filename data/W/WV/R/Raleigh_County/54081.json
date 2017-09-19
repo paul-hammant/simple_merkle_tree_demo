@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15473, 
+        "dem": 6362, 
+        "tot": 29311, 
+        "gop": 21835
+    }, 
+    "for": "WV/Raleigh County/54081", 
+    "pct": {
+        "dem": 21.71, 
+        "per_point_diff": 52.79, 
+        "gop": 74.49
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 275, 
+        "dem": 48, 
+        "tot": 382, 
+        "gop": 323
+    }, 
+    "for": "NE/Loup County/31115", 
+    "pct": {
+        "dem": 12.57, 
+        "per_point_diff": 71.99, 
+        "gop": 84.55
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1941, 
+        "dem": 1260, 
+        "tot": 4542, 
+        "gop": 3201
+    }, 
+    "for": "TX/Camp County/48063", 
+    "pct": {
+        "dem": 27.74, 
+        "per_point_diff": 42.73, 
+        "gop": 70.48
+    }
+}

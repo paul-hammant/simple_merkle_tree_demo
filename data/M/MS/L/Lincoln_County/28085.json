@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6092, 
+        "dem": 4458, 
+        "tot": 15193, 
+        "gop": 10550
+    }, 
+    "for": "MS/Lincoln County/28085", 
+    "pct": {
+        "dem": 29.34, 
+        "per_point_diff": 40.1, 
+        "gop": 69.44
+    }
+}

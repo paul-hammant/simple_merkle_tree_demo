@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 33394, 
+        "dem": 10976, 
+        "tot": 57270, 
+        "gop": 44370
+    }, 
+    "for": "TX/Johnson County/48251", 
+    "pct": {
+        "dem": 19.17, 
+        "per_point_diff": 58.31, 
+        "gop": 77.48
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 32683, 
+        "dem": 86481, 
+        "tot": 217725, 
+        "gop": 119164
+    }, 
+    "for": "CA/Kern County/6029", 
+    "pct": {
+        "dem": 39.72, 
+        "per_point_diff": 15.01, 
+        "gop": 54.73
+    }
+}

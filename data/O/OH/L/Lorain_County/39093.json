@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 388, 
+        "dem": 64958, 
+        "tot": 136654, 
+        "gop": 65346
+    }, 
+    "for": "OH/Lorain County/39093", 
+    "pct": {
+        "dem": 47.53, 
+        "per_point_diff": 0.28, 
+        "gop": 47.82
+    }
+}

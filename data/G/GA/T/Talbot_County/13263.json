@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 805, 
+        "dem": 2001, 
+        "tot": 3243, 
+        "gop": 1196
+    }, 
+    "for": "GA/Talbot County/13263", 
+    "pct": {
+        "dem": 61.7, 
+        "per_point_diff": 24.82, 
+        "gop": 36.88
+    }
+}

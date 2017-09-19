@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5782, 
+        "dem": 673, 
+        "tot": 8308, 
+        "gop": 6455
+    }, 
+    "for": "UT/Sevier County/49041", 
+    "pct": {
+        "dem": 8.1, 
+        "per_point_diff": 69.6, 
+        "gop": 77.7
+    }
+}

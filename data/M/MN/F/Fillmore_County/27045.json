@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2399, 
+        "dem": 3872, 
+        "tot": 10976, 
+        "gop": 6271
+    }, 
+    "for": "MN/Fillmore County/27045", 
+    "pct": {
+        "dem": 35.28, 
+        "per_point_diff": 21.86, 
+        "gop": 57.13
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3112, 
+        "dem": 1245, 
+        "tot": 5756, 
+        "gop": 4357
+    }, 
+    "for": "KY/Knott County/21119", 
+    "pct": {
+        "dem": 21.63, 
+        "per_point_diff": 54.07, 
+        "gop": 75.69
+    }
+}

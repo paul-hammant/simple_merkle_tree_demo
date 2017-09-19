@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1744, 
+        "dem": 1045, 
+        "tot": 3959, 
+        "gop": 2789
+    }, 
+    "for": "KY/Lyon County/21143", 
+    "pct": {
+        "dem": 26.4, 
+        "per_point_diff": 44.05, 
+        "gop": 70.45
+    }
+}

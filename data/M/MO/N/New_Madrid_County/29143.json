@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3337, 
+        "dem": 1933, 
+        "tot": 7352, 
+        "gop": 5270
+    }, 
+    "for": "MO/New Madrid County/29143", 
+    "pct": {
+        "dem": 26.29, 
+        "per_point_diff": 45.39, 
+        "gop": 71.68
+    }
+}

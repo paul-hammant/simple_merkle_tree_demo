@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 47066, 
+        "dem": 190824, 
+        "tot": 352778, 
+        "gop": 143758
+    }, 
+    "for": "KY/Jefferson County/21111", 
+    "pct": {
+        "dem": 54.09, 
+        "per_point_diff": 13.34, 
+        "gop": 40.75
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1718, 
+        "dem": 1373, 
+        "tot": 4807, 
+        "gop": 3091
+    }, 
+    "for": "MN/Rock County/27133", 
+    "pct": {
+        "dem": 28.56, 
+        "per_point_diff": 35.74, 
+        "gop": 64.3
+    }
+}

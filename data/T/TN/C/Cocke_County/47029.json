@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7811, 
+        "dem": 1980, 
+        "tot": 12108, 
+        "gop": 9791
+    }, 
+    "for": "TN/Cocke County/47029", 
+    "pct": {
+        "dem": 16.35, 
+        "per_point_diff": 64.51, 
+        "gop": 80.86
+    }
+}

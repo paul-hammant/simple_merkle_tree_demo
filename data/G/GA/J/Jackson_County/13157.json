@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17285, 
+        "dem": 4469, 
+        "tot": 27057, 
+        "gop": 21754
+    }, 
+    "for": "GA/Jackson County/13157", 
+    "pct": {
+        "dem": 16.52, 
+        "per_point_diff": 63.88, 
+        "gop": 80.4
+    }
+}

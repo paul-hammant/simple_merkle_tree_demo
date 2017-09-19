@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1886, 
+        "dem": 1939, 
+        "tot": 6167, 
+        "gop": 3825
+    }, 
+    "for": "AR/Arkansas County/5001", 
+    "pct": {
+        "dem": 31.44, 
+        "per_point_diff": 30.58, 
+        "gop": 62.02
+    }
+}

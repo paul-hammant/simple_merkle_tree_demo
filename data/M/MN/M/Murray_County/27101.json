@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1679, 
+        "dem": 1295, 
+        "tot": 4642, 
+        "gop": 2974
+    }, 
+    "for": "MN/Murray County/27101", 
+    "pct": {
+        "dem": 27.9, 
+        "per_point_diff": 36.17, 
+        "gop": 64.07
+    }
+}

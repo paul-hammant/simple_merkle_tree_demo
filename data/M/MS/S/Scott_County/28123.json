@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1743, 
+        "dem": 3999, 
+        "tot": 9867, 
+        "gop": 5742
+    }, 
+    "for": "MS/Scott County/28123", 
+    "pct": {
+        "dem": 40.53, 
+        "per_point_diff": 17.66, 
+        "gop": 58.19
+    }
+}

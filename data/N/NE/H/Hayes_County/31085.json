@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 441, 
+        "dem": 30, 
+        "tot": 510, 
+        "gop": 471
+    }, 
+    "for": "NE/Hayes County/31085", 
+    "pct": {
+        "dem": 5.88, 
+        "per_point_diff": 86.47, 
+        "gop": 92.35
+    }
+}

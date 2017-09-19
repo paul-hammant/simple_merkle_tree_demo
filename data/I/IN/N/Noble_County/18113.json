@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8294, 
+        "dem": 3904, 
+        "tot": 16890, 
+        "gop": 12198
+    }, 
+    "for": "IN/Noble County/18113", 
+    "pct": {
+        "dem": 23.11, 
+        "per_point_diff": 49.11, 
+        "gop": 72.22
+    }
+}

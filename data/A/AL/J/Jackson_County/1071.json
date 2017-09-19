@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12980, 
+        "dem": 3663, 
+        "tot": 20785, 
+        "gop": 16643
+    }, 
+    "for": "AL/Jackson County/1071", 
+    "pct": {
+        "dem": 17.62, 
+        "per_point_diff": 62.45, 
+        "gop": 80.07
+    }
+}

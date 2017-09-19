@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11391, 
+        "dem": 6849, 
+        "tot": 25949, 
+        "gop": 18240
+    }, 
+    "for": "OH/Lawrence County/39087", 
+    "pct": {
+        "dem": 26.39, 
+        "per_point_diff": 43.9, 
+        "gop": 70.29
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1774, 
+        "dem": 785, 
+        "tot": 3578, 
+        "gop": 2559
+    }, 
+    "for": "NE/Dawes County/31045", 
+    "pct": {
+        "dem": 21.94, 
+        "per_point_diff": 49.58, 
+        "gop": 71.52
+    }
+}

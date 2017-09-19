@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11166, 
+        "dem": 3507, 
+        "tot": 18694, 
+        "gop": 14673
+    }, 
+    "for": "TN/McMinn County/47107", 
+    "pct": {
+        "dem": 18.76, 
+        "per_point_diff": 59.73, 
+        "gop": 78.49
+    }
+}

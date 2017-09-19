@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2857, 
+        "dem": 1238, 
+        "tot": 5692, 
+        "gop": 4095
+    }, 
+    "for": "WA/Lincoln County/53043", 
+    "pct": {
+        "dem": 21.75, 
+        "per_point_diff": 50.19, 
+        "gop": 71.94
+    }
+}

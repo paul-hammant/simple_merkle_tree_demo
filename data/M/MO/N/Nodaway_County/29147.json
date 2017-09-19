@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3850, 
+        "dem": 2529, 
+        "tot": 9439, 
+        "gop": 6379
+    }, 
+    "for": "MO/Nodaway County/29147", 
+    "pct": {
+        "dem": 26.79, 
+        "per_point_diff": 40.79, 
+        "gop": 67.58
+    }
+}

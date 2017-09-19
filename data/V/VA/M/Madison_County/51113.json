@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2216, 
+        "dem": 2202, 
+        "tot": 6934, 
+        "gop": 4418
+    }, 
+    "for": "VA/Madison County/51113", 
+    "pct": {
+        "dem": 31.76, 
+        "per_point_diff": 31.96, 
+        "gop": 63.72
+    }
+}

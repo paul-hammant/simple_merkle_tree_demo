@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1039, 
+        "dem": 685, 
+        "tot": 2443, 
+        "gop": 1724
+    }, 
+    "for": "GA/Clinch County/13065", 
+    "pct": {
+        "dem": 28.04, 
+        "per_point_diff": 42.53, 
+        "gop": 70.57
+    }
+}

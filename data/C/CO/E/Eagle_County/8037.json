@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4499, 
+        "dem": 12652, 
+        "tot": 22611, 
+        "gop": 8153
+    }, 
+    "for": "CO/Eagle County/8037", 
+    "pct": {
+        "dem": 55.96, 
+        "per_point_diff": 19.9, 
+        "gop": 36.06
+    }
+}

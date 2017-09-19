@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13876, 
+        "dem": 11215, 
+        "tot": 38373, 
+        "gop": 25091
+    }, 
+    "for": "NY/Steuben County/36101", 
+    "pct": {
+        "dem": 29.23, 
+        "per_point_diff": 36.16, 
+        "gop": 65.39
+    }
+}

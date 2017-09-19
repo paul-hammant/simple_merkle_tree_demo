@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4379, 
+        "dem": 1781, 
+        "tot": 8479, 
+        "gop": 6160
+    }, 
+    "for": "OR/Baker County/41001", 
+    "pct": {
+        "dem": 21.0, 
+        "per_point_diff": 51.65, 
+        "gop": 72.65
+    }
+}

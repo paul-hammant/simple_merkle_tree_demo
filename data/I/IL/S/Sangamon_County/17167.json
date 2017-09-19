@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9092, 
+        "dem": 40731, 
+        "tot": 96472, 
+        "gop": 49823
+    }, 
+    "for": "IL/Sangamon County/17167", 
+    "pct": {
+        "dem": 42.22, 
+        "per_point_diff": 9.42, 
+        "gop": 51.65
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4926, 
+        "dem": 41072, 
+        "tot": 83312, 
+        "gop": 36146
+    }, 
+    "for": "MO/Boone County/29019", 
+    "pct": {
+        "dem": 49.3, 
+        "per_point_diff": 5.91, 
+        "gop": 43.39
+    }
+}

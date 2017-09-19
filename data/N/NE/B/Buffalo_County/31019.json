@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9734, 
+        "dem": 4690, 
+        "tot": 20477, 
+        "gop": 14424
+    }, 
+    "for": "NE/Buffalo County/31019", 
+    "pct": {
+        "dem": 22.9, 
+        "per_point_diff": 47.54, 
+        "gop": 70.44
+    }
+}

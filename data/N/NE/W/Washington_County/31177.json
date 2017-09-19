@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4768, 
+        "dem": 2606, 
+        "tot": 10584, 
+        "gop": 7374
+    }, 
+    "for": "NE/Washington County/31177", 
+    "pct": {
+        "dem": 24.62, 
+        "per_point_diff": 45.05, 
+        "gop": 69.67
+    }
+}

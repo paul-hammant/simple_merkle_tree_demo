@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 25941, 
+        "dem": 16572, 
+        "tot": 61315, 
+        "gop": 42513
+    }, 
+    "for": "GA/Coweta County/13077", 
+    "pct": {
+        "dem": 27.03, 
+        "per_point_diff": 42.31, 
+        "gop": 69.34
+    }
+}

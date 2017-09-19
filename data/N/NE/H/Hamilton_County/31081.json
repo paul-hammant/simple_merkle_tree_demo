@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2890, 
+        "dem": 873, 
+        "tot": 4902, 
+        "gop": 3763
+    }, 
+    "for": "NE/Hamilton County/31081", 
+    "pct": {
+        "dem": 17.81, 
+        "per_point_diff": 58.96, 
+        "gop": 76.76
+    }
+}

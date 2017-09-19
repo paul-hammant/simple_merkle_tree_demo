@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 57682, 
+        "dem": 288001, 
+        "tot": 662832, 
+        "gop": 345683
+    }, 
+    "for": "TX/Tarrant County/48439", 
+    "pct": {
+        "dem": 43.45, 
+        "per_point_diff": 8.7, 
+        "gop": 52.15
+    }
+}

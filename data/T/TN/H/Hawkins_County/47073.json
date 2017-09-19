@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13109, 
+        "dem": 3502, 
+        "tot": 20694, 
+        "gop": 16611
+    }, 
+    "for": "TN/Hawkins County/47073", 
+    "pct": {
+        "dem": 16.92, 
+        "per_point_diff": 63.35, 
+        "gop": 80.27
+    }
+}

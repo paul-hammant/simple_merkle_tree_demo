@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 439, 
+        "dem": 302, 
+        "tot": 1065, 
+        "gop": 741
+    }, 
+    "for": "TX/Edwards County/48137", 
+    "pct": {
+        "dem": 28.36, 
+        "per_point_diff": 41.22, 
+        "gop": 69.58
+    }
+}

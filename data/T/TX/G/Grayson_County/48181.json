@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 24998, 
+        "dem": 10276, 
+        "tot": 47068, 
+        "gop": 35274
+    }, 
+    "for": "TX/Grayson County/48181", 
+    "pct": {
+        "dem": 21.83, 
+        "per_point_diff": 53.11, 
+        "gop": 74.94
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3581, 
+        "dem": 3804, 
+        "tot": 11389, 
+        "gop": 7385
+    }, 
+    "for": "MS/Tate County/28137", 
+    "pct": {
+        "dem": 33.4, 
+        "per_point_diff": 31.44, 
+        "gop": 64.84
+    }
+}

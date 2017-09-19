@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1004, 
+        "dem": 8324, 
+        "tot": 16043, 
+        "gop": 7320
+    }, 
+    "for": "LA/Iberville Parish/22047", 
+    "pct": {
+        "dem": 51.89, 
+        "per_point_diff": 6.26, 
+        "gop": 45.63
+    }
+}

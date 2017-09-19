@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3247, 
+        "dem": 1260, 
+        "tot": 5972, 
+        "gop": 4507
+    }, 
+    "for": "KY/Caldwell County/21033", 
+    "pct": {
+        "dem": 21.1, 
+        "per_point_diff": 54.37, 
+        "gop": 75.47
+    }
+}

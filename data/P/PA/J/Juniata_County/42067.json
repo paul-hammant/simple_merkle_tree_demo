@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6424, 
+        "dem": 1810, 
+        "tot": 10402, 
+        "gop": 8234
+    }, 
+    "for": "PA/Juniata County/42067", 
+    "pct": {
+        "dem": 17.4, 
+        "per_point_diff": 61.76, 
+        "gop": 79.16
+    }
+}

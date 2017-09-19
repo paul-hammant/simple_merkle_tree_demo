@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4058, 
+        "dem": 1959, 
+        "tot": 8386, 
+        "gop": 6017
+    }, 
+    "for": "KS/Cherokee County/20021", 
+    "pct": {
+        "dem": 23.36, 
+        "per_point_diff": 48.39, 
+        "gop": 71.75
+    }
+}

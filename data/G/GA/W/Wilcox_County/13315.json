@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1244, 
+        "dem": 852, 
+        "tot": 2973, 
+        "gop": 2096
+    }, 
+    "for": "GA/Wilcox County/13315", 
+    "pct": {
+        "dem": 28.66, 
+        "per_point_diff": 41.84, 
+        "gop": 70.5
+    }
+}

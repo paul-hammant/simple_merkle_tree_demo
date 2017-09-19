@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2552, 
+        "dem": 1220, 
+        "tot": 5234, 
+        "gop": 3772
+    }, 
+    "for": "WV/Roane County/54087", 
+    "pct": {
+        "dem": 23.31, 
+        "per_point_diff": 48.76, 
+        "gop": 72.07
+    }
+}

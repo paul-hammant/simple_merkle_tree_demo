@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2803, 
+        "dem": 865, 
+        "tot": 4664, 
+        "gop": 3668
+    }, 
+    "for": "MO/Oregon County/29149", 
+    "pct": {
+        "dem": 18.55, 
+        "per_point_diff": 60.1, 
+        "gop": 78.64
+    }
+}

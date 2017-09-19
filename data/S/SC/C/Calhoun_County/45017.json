@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 216, 
+        "dem": 3569, 
+        "tot": 7553, 
+        "gop": 3785
+    }, 
+    "for": "SC/Calhoun County/45017", 
+    "pct": {
+        "dem": 47.25, 
+        "per_point_diff": 2.86, 
+        "gop": 50.11
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 39291, 
+        "dem": 62597, 
+        "tot": 169898, 
+        "gop": 101888
+    }, 
+    "for": "FL/Lake County/12069", 
+    "pct": {
+        "dem": 36.84, 
+        "per_point_diff": 23.13, 
+        "gop": 59.97
+    }
+}

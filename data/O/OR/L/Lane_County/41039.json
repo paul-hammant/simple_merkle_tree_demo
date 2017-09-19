@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 34279, 
+        "dem": 100497, 
+        "tot": 181072, 
+        "gop": 66218
+    }, 
+    "for": "OR/Lane County/41039", 
+    "pct": {
+        "dem": 55.5, 
+        "per_point_diff": 18.93, 
+        "gop": 36.57
+    }
+}

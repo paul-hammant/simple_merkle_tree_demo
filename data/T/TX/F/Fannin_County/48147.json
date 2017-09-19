@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7413, 
+        "dem": 2123, 
+        "tot": 11972, 
+        "gop": 9536
+    }, 
+    "for": "TX/Fannin County/48147", 
+    "pct": {
+        "dem": 17.73, 
+        "per_point_diff": 61.92, 
+        "gop": 79.65
+    }
+}

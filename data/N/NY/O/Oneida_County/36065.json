@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17741, 
+        "dem": 30749, 
+        "tot": 83876, 
+        "gop": 48490
+    }, 
+    "for": "NY/Oneida County/36065", 
+    "pct": {
+        "dem": 36.66, 
+        "per_point_diff": 21.15, 
+        "gop": 57.81
+    }
+}

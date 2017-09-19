@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 851, 
+        "dem": 1243, 
+        "tot": 3390, 
+        "gop": 2094
+    }, 
+    "for": "GA/Turner County/13287", 
+    "pct": {
+        "dem": 36.67, 
+        "per_point_diff": 25.1, 
+        "gop": 61.77
+    }
+}

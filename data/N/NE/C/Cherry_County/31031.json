@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2306, 
+        "dem": 317, 
+        "tot": 3082, 
+        "gop": 2623
+    }, 
+    "for": "NE/Cherry County/31031", 
+    "pct": {
+        "dem": 10.29, 
+        "per_point_diff": 74.82, 
+        "gop": 85.11
+    }
+}

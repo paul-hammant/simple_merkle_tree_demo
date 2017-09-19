@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2925, 
+        "dem": 902, 
+        "tot": 4850, 
+        "gop": 3827
+    }, 
+    "for": "TN/Chester County/47023", 
+    "pct": {
+        "dem": 18.6, 
+        "per_point_diff": 60.31, 
+        "gop": 78.91
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 712, 
+        "dem": 468, 
+        "tot": 1712, 
+        "gop": 1180
+    }, 
+    "for": "TX/Crosby County/48107", 
+    "pct": {
+        "dem": 27.34, 
+        "per_point_diff": 41.59, 
+        "gop": 68.93
+    }
+}

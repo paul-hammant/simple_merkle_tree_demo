@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3134, 
+        "dem": 1647, 
+        "tot": 6686, 
+        "gop": 4781
+    }, 
+    "for": "OH/Monroe County/39111", 
+    "pct": {
+        "dem": 24.63, 
+        "per_point_diff": 46.87, 
+        "gop": 71.51
+    }
+}

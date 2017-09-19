@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 146236, 
+        "dem": 217506, 
+        "tot": 304729, 
+        "gop": 71270
+    }, 
+    "for": "WI/Dane County/55025", 
+    "pct": {
+        "dem": 71.38, 
+        "per_point_diff": 47.99, 
+        "gop": 23.39
+    }
+}

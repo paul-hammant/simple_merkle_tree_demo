@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 31256, 
+        "dem": 57114, 
+        "tot": 151609, 
+        "gop": 88370
+    }, 
+    "for": "FL/Escambia County/12033", 
+    "pct": {
+        "dem": 37.67, 
+        "per_point_diff": 20.62, 
+        "gop": 58.29
+    }
+}

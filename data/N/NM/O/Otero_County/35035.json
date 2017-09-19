@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5723, 
+        "dem": 6033, 
+        "tot": 19636, 
+        "gop": 11756
+    }, 
+    "for": "NM/Otero County/35035", 
+    "pct": {
+        "dem": 30.72, 
+        "per_point_diff": 29.15, 
+        "gop": 59.87
+    }
+}

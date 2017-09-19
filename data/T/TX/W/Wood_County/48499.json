@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13057, 
+        "dem": 2624, 
+        "tot": 18646, 
+        "gop": 15681
+    }, 
+    "for": "TX/Wood County/48499", 
+    "pct": {
+        "dem": 14.07, 
+        "per_point_diff": 70.03, 
+        "gop": 84.1
+    }
+}

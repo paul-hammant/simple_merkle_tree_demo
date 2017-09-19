@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3756, 
+        "dem": 6293, 
+        "tot": 17239, 
+        "gop": 10049
+    }, 
+    "for": "IA/Webster County/19187", 
+    "pct": {
+        "dem": 36.5, 
+        "per_point_diff": 21.79, 
+        "gop": 58.29
+    }
+}

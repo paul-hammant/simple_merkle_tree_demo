@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 784, 
+        "dem": 1108, 
+        "tot": 3034, 
+        "gop": 1892
+    }, 
+    "for": "GA/Jenkins County/13165", 
+    "pct": {
+        "dem": 36.52, 
+        "per_point_diff": 25.84, 
+        "gop": 62.36
+    }
+}

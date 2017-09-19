@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 312, 
+        "dem": 2227, 
+        "tot": 4226, 
+        "gop": 1915
+    }, 
+    "for": "AR/Desha County/5041", 
+    "pct": {
+        "dem": 52.7, 
+        "per_point_diff": 7.38, 
+        "gop": 45.31
+    }
+}

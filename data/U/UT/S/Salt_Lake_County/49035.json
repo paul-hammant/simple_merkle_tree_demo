@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 36930, 
+        "dem": 154831, 
+        "tot": 361347, 
+        "gop": 117901
+    }, 
+    "for": "UT/Salt Lake County/49035", 
+    "pct": {
+        "dem": 42.85, 
+        "per_point_diff": 10.22, 
+        "gop": 32.63
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 200, 
+        "dem": 5329, 
+        "tot": 11144, 
+        "gop": 5129
+    }, 
+    "for": "VA/Staunton city/51790", 
+    "pct": {
+        "dem": 47.82, 
+        "per_point_diff": 1.79, 
+        "gop": 46.02
+    }
+}

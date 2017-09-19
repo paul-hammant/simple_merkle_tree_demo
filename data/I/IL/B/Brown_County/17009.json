@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1301, 
+        "dem": 475, 
+        "tot": 2336, 
+        "gop": 1776
+    }, 
+    "for": "IL/Brown County/17009", 
+    "pct": {
+        "dem": 20.33, 
+        "per_point_diff": 55.69, 
+        "gop": 76.03
+    }
+}

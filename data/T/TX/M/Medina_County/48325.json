@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7430, 
+        "dem": 4624, 
+        "tot": 17187, 
+        "gop": 12054
+    }, 
+    "for": "TX/Medina County/48325", 
+    "pct": {
+        "dem": 26.9, 
+        "per_point_diff": 43.23, 
+        "gop": 70.13
+    }
+}

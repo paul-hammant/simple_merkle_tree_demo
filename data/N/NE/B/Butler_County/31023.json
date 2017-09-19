@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2378, 
+        "dem": 690, 
+        "tot": 3914, 
+        "gop": 3068
+    }, 
+    "for": "NE/Butler County/31023", 
+    "pct": {
+        "dem": 17.63, 
+        "per_point_diff": 60.76, 
+        "gop": 78.39
+    }
+}

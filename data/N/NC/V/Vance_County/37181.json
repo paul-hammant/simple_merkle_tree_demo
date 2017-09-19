@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4864, 
+        "dem": 12168, 
+        "tot": 19762, 
+        "gop": 7304
+    }, 
+    "for": "NC/Vance County/37181", 
+    "pct": {
+        "dem": 61.57, 
+        "per_point_diff": 24.61, 
+        "gop": 36.96
+    }
+}

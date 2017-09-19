@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1411, 
+        "dem": 970, 
+        "tot": 3562, 
+        "gop": 2381
+    }, 
+    "for": "SD/Grant County/46051", 
+    "pct": {
+        "dem": 27.23, 
+        "per_point_diff": 39.61, 
+        "gop": 66.84
+    }
+}

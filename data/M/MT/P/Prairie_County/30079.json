@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 455, 
+        "dem": 100, 
+        "tot": 686, 
+        "gop": 555
+    }, 
+    "for": "MT/Prairie County/30079", 
+    "pct": {
+        "dem": 14.58, 
+        "per_point_diff": 66.33, 
+        "gop": 80.9
+    }
+}

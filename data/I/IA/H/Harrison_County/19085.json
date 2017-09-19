@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2769, 
+        "dem": 2123, 
+        "tot": 7378, 
+        "gop": 4892
+    }, 
+    "for": "IA/Harrison County/19085", 
+    "pct": {
+        "dem": 28.77, 
+        "per_point_diff": 37.53, 
+        "gop": 66.31
+    }
+}

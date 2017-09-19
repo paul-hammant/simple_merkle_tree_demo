@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1891, 
+        "dem": 651, 
+        "tot": 3295, 
+        "gop": 2542
+    }, 
+    "for": "FL/Liberty County/12077", 
+    "pct": {
+        "dem": 19.76, 
+        "per_point_diff": 57.39, 
+        "gop": 77.15
+    }
+}

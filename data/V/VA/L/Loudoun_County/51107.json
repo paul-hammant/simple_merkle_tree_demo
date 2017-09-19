@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 30276, 
+        "dem": 99909, 
+        "tot": 180265, 
+        "gop": 69633
+    }, 
+    "for": "VA/Loudoun County/51107", 
+    "pct": {
+        "dem": 55.42, 
+        "per_point_diff": 16.8, 
+        "gop": 38.63
+    }
+}

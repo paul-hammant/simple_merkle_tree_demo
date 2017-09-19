@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5939, 
+        "dem": 3758, 
+        "tot": 14135, 
+        "gop": 9697
+    }, 
+    "for": "IN/Cass County/18017", 
+    "pct": {
+        "dem": 26.59, 
+        "per_point_diff": 42.02, 
+        "gop": 68.6
+    }
+}

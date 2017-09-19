@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1728, 
+        "dem": 2652, 
+        "tot": 3599, 
+        "gop": 924
+    }, 
+    "for": "MS/Humphreys County/28053", 
+    "pct": {
+        "dem": 73.69, 
+        "per_point_diff": 48.01, 
+        "gop": 25.67
+    }
+}

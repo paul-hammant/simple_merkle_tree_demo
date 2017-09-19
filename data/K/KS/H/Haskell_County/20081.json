@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 783, 
+        "dem": 228, 
+        "tot": 1300, 
+        "gop": 1011
+    }, 
+    "for": "KS/Haskell County/20081", 
+    "pct": {
+        "dem": 17.54, 
+        "per_point_diff": 60.23, 
+        "gop": 77.77
+    }
+}

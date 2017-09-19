@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2554, 
+        "dem": 2150, 
+        "tot": 7035, 
+        "gop": 4704
+    }, 
+    "for": "VA/Amelia County/51007", 
+    "pct": {
+        "dem": 30.56, 
+        "per_point_diff": 36.3, 
+        "gop": 66.87
+    }
+}

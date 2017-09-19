@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18817, 
+        "dem": 9836, 
+        "tot": 39449, 
+        "gop": 28653
+    }, 
+    "for": "NC/Lincoln County/37109", 
+    "pct": {
+        "dem": 24.93, 
+        "per_point_diff": 47.7, 
+        "gop": 72.63
+    }
+}

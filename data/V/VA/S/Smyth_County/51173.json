@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7086, 
+        "dem": 2661, 
+        "tot": 12825, 
+        "gop": 9747
+    }, 
+    "for": "VA/Smyth County/51173", 
+    "pct": {
+        "dem": 20.75, 
+        "per_point_diff": 55.25, 
+        "gop": 76.0
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1780, 
+        "dem": 1999, 
+        "tot": 5978, 
+        "gop": 3779
+    }, 
+    "for": "AR/Clay County/5021", 
+    "pct": {
+        "dem": 33.44, 
+        "per_point_diff": 29.78, 
+        "gop": 63.22
+    }
+}

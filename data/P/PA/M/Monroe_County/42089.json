@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 224, 
+        "dem": 31930, 
+        "tot": 65944, 
+        "gop": 31706
+    }, 
+    "for": "PA/Monroe County/42089", 
+    "pct": {
+        "dem": 48.42, 
+        "per_point_diff": 0.34, 
+        "gop": 48.08
+    }
+}

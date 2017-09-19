@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8480, 
+        "dem": 3056, 
+        "tot": 15689, 
+        "gop": 11536
+    }, 
+    "for": "CO/Elbert County/8039", 
+    "pct": {
+        "dem": 19.48, 
+        "per_point_diff": 54.05, 
+        "gop": 73.53
+    }
+}

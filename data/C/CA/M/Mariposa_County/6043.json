@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2063, 
+        "dem": 3122, 
+        "tot": 8877, 
+        "gop": 5185
+    }, 
+    "for": "CA/Mariposa County/6043", 
+    "pct": {
+        "dem": 35.17, 
+        "per_point_diff": 23.24, 
+        "gop": 58.41
+    }
+}

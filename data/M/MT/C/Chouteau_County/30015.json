@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 947, 
+        "dem": 729, 
+        "tot": 2571, 
+        "gop": 1676
+    }, 
+    "for": "MT/Chouteau County/30015", 
+    "pct": {
+        "dem": 28.35, 
+        "per_point_diff": 36.83, 
+        "gop": 65.19
+    }
+}

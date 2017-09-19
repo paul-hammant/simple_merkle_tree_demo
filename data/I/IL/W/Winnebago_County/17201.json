@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1327, 
+        "dem": 52595, 
+        "tot": 113027, 
+        "gop": 53922
+    }, 
+    "for": "IL/Winnebago County/17201", 
+    "pct": {
+        "dem": 46.53, 
+        "per_point_diff": 1.17, 
+        "gop": 47.71
+    }
+}

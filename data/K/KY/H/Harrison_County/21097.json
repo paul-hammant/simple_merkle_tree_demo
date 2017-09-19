@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3404, 
+        "dem": 2031, 
+        "tot": 7774, 
+        "gop": 5435
+    }, 
+    "for": "KY/Harrison County/21097", 
+    "pct": {
+        "dem": 26.13, 
+        "per_point_diff": 43.79, 
+        "gop": 69.91
+    }
+}

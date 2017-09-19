@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5549, 
+        "dem": 1814, 
+        "tot": 9515, 
+        "gop": 7363
+    }, 
+    "for": "IL/Fayette County/17051", 
+    "pct": {
+        "dem": 19.06, 
+        "per_point_diff": 58.32, 
+        "gop": 77.38
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 83875, 
+        "dem": 556544, 
+        "tot": 1092116, 
+        "gop": 472669
+    }, 
+    "for": "CA/Orange County/6059", 
+    "pct": {
+        "dem": 50.96, 
+        "per_point_diff": 7.68, 
+        "gop": 43.28
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 894, 
+        "dem": 1175, 
+        "tot": 3420, 
+        "gop": 2069
+    }, 
+    "for": "MI/Ontonagon County/26131", 
+    "pct": {
+        "dem": 34.36, 
+        "per_point_diff": 26.14, 
+        "gop": 60.5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7344, 
+        "dem": 10355, 
+        "tot": 30181, 
+        "gop": 17699
+    }, 
+    "for": "OR/Coos County/41011", 
+    "pct": {
+        "dem": 34.31, 
+        "per_point_diff": 24.33, 
+        "gop": 58.64
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2962, 
+        "dem": 4108, 
+        "tot": 11449, 
+        "gop": 7070
+    }, 
+    "for": "NC/Montgomery County/37123", 
+    "pct": {
+        "dem": 35.88, 
+        "per_point_diff": 25.87, 
+        "gop": 61.75
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8541, 
+        "dem": 1799, 
+        "tot": 12422, 
+        "gop": 10340
+    }, 
+    "for": "GA/Murray County/13213", 
+    "pct": {
+        "dem": 14.48, 
+        "per_point_diff": 68.76, 
+        "gop": 83.24
+    }
+}

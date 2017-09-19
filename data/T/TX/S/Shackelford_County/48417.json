@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1275, 
+        "dem": 103, 
+        "tot": 1502, 
+        "gop": 1378
+    }, 
+    "for": "TX/Shackelford County/48417", 
+    "pct": {
+        "dem": 6.86, 
+        "per_point_diff": 84.89, 
+        "gop": 91.74
+    }
+}

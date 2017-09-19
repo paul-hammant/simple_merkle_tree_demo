@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1559, 
+        "dem": 1597, 
+        "tot": 5253, 
+        "gop": 3156
+    }, 
+    "for": "ND/Barnes County/38003", 
+    "pct": {
+        "dem": 30.4, 
+        "per_point_diff": 29.68, 
+        "gop": 60.08
+    }
+}

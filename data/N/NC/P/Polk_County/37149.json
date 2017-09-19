@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3023, 
+        "dem": 3715, 
+        "tot": 10723, 
+        "gop": 6738
+    }, 
+    "for": "NC/Polk County/37149", 
+    "pct": {
+        "dem": 34.65, 
+        "per_point_diff": 28.19, 
+        "gop": 62.84
+    }
+}

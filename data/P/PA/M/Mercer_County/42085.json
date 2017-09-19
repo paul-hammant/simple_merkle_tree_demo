@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12403, 
+        "dem": 17631, 
+        "tot": 49594, 
+        "gop": 30034
+    }, 
+    "for": "PA/Mercer County/42085", 
+    "pct": {
+        "dem": 35.55, 
+        "per_point_diff": 25.01, 
+        "gop": 60.56
+    }
+}

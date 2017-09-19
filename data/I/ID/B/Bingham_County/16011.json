@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7983, 
+        "dem": 2924, 
+        "tot": 16625, 
+        "gop": 10907
+    }, 
+    "for": "ID/Bingham County/16011", 
+    "pct": {
+        "dem": 17.59, 
+        "per_point_diff": 48.02, 
+        "gop": 65.61
+    }
+}

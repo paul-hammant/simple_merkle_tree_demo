@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8507, 
+        "dem": 6166, 
+        "tot": 22063, 
+        "gop": 14673
+    }, 
+    "for": "MT/Ravalli County/30081", 
+    "pct": {
+        "dem": 27.95, 
+        "per_point_diff": 38.56, 
+        "gop": 66.51
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3611, 
+        "dem": 4580, 
+        "tot": 13729, 
+        "gop": 8191
+    }, 
+    "for": "MN/Pine County/27115", 
+    "pct": {
+        "dem": 33.36, 
+        "per_point_diff": 26.3, 
+        "gop": 59.66
+    }
+}

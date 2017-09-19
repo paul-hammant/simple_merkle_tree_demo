@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 59, 
+        "dem": 5521, 
+        "tot": 12128, 
+        "gop": 5462
+    }, 
+    "for": "WA/Whitman County/53075", 
+    "pct": {
+        "dem": 45.52, 
+        "per_point_diff": 0.49, 
+        "gop": 45.04
+    }
+}

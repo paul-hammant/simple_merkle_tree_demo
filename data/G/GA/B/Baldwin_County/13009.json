@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 274, 
+        "dem": 7965, 
+        "tot": 16075, 
+        "gop": 7691
+    }, 
+    "for": "GA/Baldwin County/13009", 
+    "pct": {
+        "dem": 49.55, 
+        "per_point_diff": 1.7, 
+        "gop": 47.84
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 411, 
+        "dem": 221, 
+        "tot": 937, 
+        "gop": 632
+    }, 
+    "for": "OR/Gilliam County/41021", 
+    "pct": {
+        "dem": 23.59, 
+        "per_point_diff": 43.86, 
+        "gop": 67.45
+    }
+}

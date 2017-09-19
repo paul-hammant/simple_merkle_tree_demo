@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1279, 
+        "dem": 181, 
+        "tot": 1687, 
+        "gop": 1460
+    }, 
+    "for": "TX/Hemphill County/48211", 
+    "pct": {
+        "dem": 10.73, 
+        "per_point_diff": 75.82, 
+        "gop": 86.54
+    }
+}

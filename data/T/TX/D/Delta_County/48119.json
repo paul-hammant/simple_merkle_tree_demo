@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1436, 
+        "dem": 400, 
+        "tot": 2279, 
+        "gop": 1836
+    }, 
+    "for": "TX/Delta County/48119", 
+    "pct": {
+        "dem": 17.55, 
+        "per_point_diff": 63.01, 
+        "gop": 80.56
+    }
+}

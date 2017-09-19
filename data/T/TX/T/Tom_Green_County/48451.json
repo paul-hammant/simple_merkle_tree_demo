@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18259, 
+        "dem": 9117, 
+        "tot": 38104, 
+        "gop": 27376
+    }, 
+    "for": "TX/Tom Green County/48451", 
+    "pct": {
+        "dem": 23.93, 
+        "per_point_diff": 47.92, 
+        "gop": 71.85
+    }
+}

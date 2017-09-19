@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4947, 
+        "dem": 1300, 
+        "tot": 7777, 
+        "gop": 6247
+    }, 
+    "for": "PA/Potter County/42105", 
+    "pct": {
+        "dem": 16.72, 
+        "per_point_diff": 63.61, 
+        "gop": 80.33
+    }
+}

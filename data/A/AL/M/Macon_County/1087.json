@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5843, 
+        "dem": 7237, 
+        "tot": 8748, 
+        "gop": 1394
+    }, 
+    "for": "AL/Macon County/1087", 
+    "pct": {
+        "dem": 82.73, 
+        "per_point_diff": 66.79, 
+        "gop": 15.94
+    }
+}

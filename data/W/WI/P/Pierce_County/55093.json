@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2880, 
+        "dem": 8380, 
+        "tot": 21089, 
+        "gop": 11260
+    }, 
+    "for": "WI/Pierce County/55093", 
+    "pct": {
+        "dem": 39.74, 
+        "per_point_diff": 13.66, 
+        "gop": 53.39
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1815, 
+        "dem": 1144, 
+        "tot": 4185, 
+        "gop": 2959
+    }, 
+    "for": "TX/Karnes County/48255", 
+    "pct": {
+        "dem": 27.34, 
+        "per_point_diff": 43.37, 
+        "gop": 70.7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9473, 
+        "dem": 10181, 
+        "tot": 32061, 
+        "gop": 19654
+    }, 
+    "for": "IN/Boone County/18011", 
+    "pct": {
+        "dem": 31.76, 
+        "per_point_diff": 29.55, 
+        "gop": 61.3
+    }
+}

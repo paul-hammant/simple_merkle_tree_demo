@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 583, 
+        "dem": 4848, 
+        "tot": 10390, 
+        "gop": 5431
+    }, 
+    "for": "AL/Barbour County/1005", 
+    "pct": {
+        "dem": 46.66, 
+        "per_point_diff": 5.61, 
+        "gop": 52.27
+    }
+}

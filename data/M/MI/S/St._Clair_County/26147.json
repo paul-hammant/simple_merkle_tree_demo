@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 24514, 
+        "dem": 24553, 
+        "tot": 77994, 
+        "gop": 49067
+    }, 
+    "for": "MI/St. Clair County/26147", 
+    "pct": {
+        "dem": 31.48, 
+        "per_point_diff": 31.43, 
+        "gop": 62.91
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17064, 
+        "dem": 16869, 
+        "tot": 52381, 
+        "gop": 33933
+    }, 
+    "for": "LA/Tangipahoa Parish/22105", 
+    "pct": {
+        "dem": 32.2, 
+        "per_point_diff": 32.58, 
+        "gop": 64.78
+    }
+}

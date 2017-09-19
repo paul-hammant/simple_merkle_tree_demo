@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7632, 
+        "dem": 5253, 
+        "tot": 19030, 
+        "gop": 12885
+    }, 
+    "for": "GA/Oconee County/13219", 
+    "pct": {
+        "dem": 27.6, 
+        "per_point_diff": 40.11, 
+        "gop": 67.71
+    }
+}

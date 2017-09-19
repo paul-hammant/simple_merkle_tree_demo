@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6303, 
+        "dem": 8050, 
+        "tot": 22871, 
+        "gop": 14353
+    }, 
+    "for": "LA/St. Mary Parish/22101", 
+    "pct": {
+        "dem": 35.2, 
+        "per_point_diff": 27.56, 
+        "gop": 62.76
+    }
+}

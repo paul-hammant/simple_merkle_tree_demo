@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 38159, 
+        "dem": 91936, 
+        "tot": 151925, 
+        "gop": 53777
+    }, 
+    "for": "FL/Leon County/12073", 
+    "pct": {
+        "dem": 60.51, 
+        "per_point_diff": 25.12, 
+        "gop": 35.4
+    }
+}

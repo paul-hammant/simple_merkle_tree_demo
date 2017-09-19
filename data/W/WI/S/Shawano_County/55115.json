@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6686, 
+        "dem": 6056, 
+        "tot": 19697, 
+        "gop": 12742
+    }, 
+    "for": "WI/Shawano County/55115", 
+    "pct": {
+        "dem": 30.75, 
+        "per_point_diff": 33.94, 
+        "gop": 64.69
+    }
+}

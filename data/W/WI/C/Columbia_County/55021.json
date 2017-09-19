@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 635, 
+        "dem": 13525, 
+        "tot": 29287, 
+        "gop": 14160
+    }, 
+    "for": "WI/Columbia County/55021", 
+    "pct": {
+        "dem": 46.18, 
+        "per_point_diff": 2.17, 
+        "gop": 48.35
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3042, 
+        "dem": 3005, 
+        "tot": 9187, 
+        "gop": 6047
+    }, 
+    "for": "GA/Grady County/13131", 
+    "pct": {
+        "dem": 32.71, 
+        "per_point_diff": 33.11, 
+        "gop": 65.82
+    }
+}

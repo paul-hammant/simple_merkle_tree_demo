@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1096, 
+        "dem": 3778, 
+        "tot": 8771, 
+        "gop": 4874
+    }, 
+    "for": "MS/Winston County/28159", 
+    "pct": {
+        "dem": 43.07, 
+        "per_point_diff": 12.5, 
+        "gop": 55.57
+    }
+}

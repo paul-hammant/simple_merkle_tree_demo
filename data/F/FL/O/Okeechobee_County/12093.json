@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5389, 
+        "dem": 3953, 
+        "tot": 13632, 
+        "gop": 9342
+    }, 
+    "for": "FL/Okeechobee County/12093", 
+    "pct": {
+        "dem": 29.0, 
+        "per_point_diff": 39.53, 
+        "gop": 68.53
+    }
+}

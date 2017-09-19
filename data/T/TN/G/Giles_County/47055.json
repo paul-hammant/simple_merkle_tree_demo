@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5049, 
+        "dem": 2915, 
+        "tot": 11120, 
+        "gop": 7964
+    }, 
+    "for": "TN/Giles County/47055", 
+    "pct": {
+        "dem": 26.21, 
+        "per_point_diff": 45.4, 
+        "gop": 71.62
+    }
+}

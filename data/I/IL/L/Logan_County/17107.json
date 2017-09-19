@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4866, 
+        "dem": 3301, 
+        "tot": 12130, 
+        "gop": 8167
+    }, 
+    "for": "IL/Logan County/17107", 
+    "pct": {
+        "dem": 27.21, 
+        "per_point_diff": 40.12, 
+        "gop": 67.33
+    }
+}

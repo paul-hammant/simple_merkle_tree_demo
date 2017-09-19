@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 22043, 
+        "dem": 25575, 
+        "tot": 78985, 
+        "gop": 47618
+    }, 
+    "for": "MN/Stearns County/27145", 
+    "pct": {
+        "dem": 32.38, 
+        "per_point_diff": 27.91, 
+        "gop": 60.29
+    }
+}

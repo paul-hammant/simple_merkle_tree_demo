@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 40732, 
+        "dem": 59105, 
+        "tot": 79830, 
+        "gop": 18373
+    }, 
+    "for": "NC/Orange County/37135", 
+    "pct": {
+        "dem": 74.04, 
+        "per_point_diff": 51.02, 
+        "gop": 23.02
+    }
+}

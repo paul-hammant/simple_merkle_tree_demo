@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1143, 
+        "dem": 403, 
+        "tot": 1997, 
+        "gop": 1546
+    }, 
+    "for": "TX/Lynn County/48305", 
+    "pct": {
+        "dem": 20.18, 
+        "per_point_diff": 57.24, 
+        "gop": 77.42
+    }
+}

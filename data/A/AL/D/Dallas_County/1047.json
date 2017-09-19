@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7042, 
+        "dem": 12826, 
+        "tot": 18730, 
+        "gop": 5784
+    }, 
+    "for": "AL/Dallas County/1047", 
+    "pct": {
+        "dem": 68.48, 
+        "per_point_diff": 37.6, 
+        "gop": 30.88
+    }
+}

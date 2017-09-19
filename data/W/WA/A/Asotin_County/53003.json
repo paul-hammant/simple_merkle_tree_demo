@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2594, 
+        "dem": 3118, 
+        "tot": 9684, 
+        "gop": 5712
+    }, 
+    "for": "WA/Asotin County/53003", 
+    "pct": {
+        "dem": 32.2, 
+        "per_point_diff": 26.79, 
+        "gop": 58.98
+    }
+}

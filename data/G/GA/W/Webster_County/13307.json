@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 159, 
+        "dem": 471, 
+        "tot": 1114, 
+        "gop": 630
+    }, 
+    "for": "GA/Webster County/13307", 
+    "pct": {
+        "dem": 42.28, 
+        "per_point_diff": 14.27, 
+        "gop": 56.55
+    }
+}

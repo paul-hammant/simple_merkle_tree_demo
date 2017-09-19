@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1747, 
+        "dem": 469, 
+        "tot": 2824, 
+        "gop": 2216
+    }, 
+    "for": "KS/Mitchell County/20123", 
+    "pct": {
+        "dem": 16.61, 
+        "per_point_diff": 61.86, 
+        "gop": 78.47
+    }
+}

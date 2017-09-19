@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9037, 
+        "dem": 7236, 
+        "tot": 24995, 
+        "gop": 16273
+    }, 
+    "for": "WA/Lewis County/53041", 
+    "pct": {
+        "dem": 28.95, 
+        "per_point_diff": 36.16, 
+        "gop": 65.11
+    }
+}

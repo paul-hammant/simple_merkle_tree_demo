@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 805, 
+        "dem": 338, 
+        "tot": 1553, 
+        "gop": 1143
+    }, 
+    "for": "NE/Sherman County/31163", 
+    "pct": {
+        "dem": 21.76, 
+        "per_point_diff": 51.84, 
+        "gop": 73.6
+    }
+}

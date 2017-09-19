@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 658, 
+        "dem": 2862, 
+        "tot": 6599, 
+        "gop": 3520
+    }, 
+    "for": "VA/Lancaster County/51103", 
+    "pct": {
+        "dem": 43.37, 
+        "per_point_diff": 9.97, 
+        "gop": 53.34
+    }
+}

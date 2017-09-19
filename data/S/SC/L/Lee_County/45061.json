@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2381, 
+        "dem": 5170, 
+        "tot": 8110, 
+        "gop": 2789
+    }, 
+    "for": "SC/Lee County/45061", 
+    "pct": {
+        "dem": 63.75, 
+        "per_point_diff": 29.36, 
+        "gop": 34.39
+    }
+}

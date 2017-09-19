@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3153, 
+        "dem": 1684, 
+        "tot": 6894, 
+        "gop": 4837
+    }, 
+    "for": "MN/Wadena County/27159", 
+    "pct": {
+        "dem": 24.43, 
+        "per_point_diff": 45.74, 
+        "gop": 70.16
+    }
+}

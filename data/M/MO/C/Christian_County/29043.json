@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 22436, 
+        "dem": 8505, 
+        "tot": 41394, 
+        "gop": 30941
+    }, 
+    "for": "MO/Christian County/29043", 
+    "pct": {
+        "dem": 20.55, 
+        "per_point_diff": 54.2, 
+        "gop": 74.75
+    }
+}

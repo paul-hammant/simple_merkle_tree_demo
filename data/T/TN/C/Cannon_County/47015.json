@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2880, 
+        "dem": 1126, 
+        "tot": 5299, 
+        "gop": 4006
+    }, 
+    "for": "TN/Cannon County/47015", 
+    "pct": {
+        "dem": 21.25, 
+        "per_point_diff": 54.35, 
+        "gop": 75.6
+    }
+}

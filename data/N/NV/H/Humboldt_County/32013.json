@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3135, 
+        "dem": 1386, 
+        "tot": 6433, 
+        "gop": 4521
+    }, 
+    "for": "NV/Humboldt County/32013", 
+    "pct": {
+        "dem": 21.55, 
+        "per_point_diff": 48.73, 
+        "gop": 70.28
+    }
+}

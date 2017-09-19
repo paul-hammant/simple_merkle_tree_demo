@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2280, 
+        "dem": 515, 
+        "tot": 3375, 
+        "gop": 2795
+    }, 
+    "for": "FL/Lafayette County/12067", 
+    "pct": {
+        "dem": 15.26, 
+        "per_point_diff": 67.56, 
+        "gop": 82.81
+    }
+}

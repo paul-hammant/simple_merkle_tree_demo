@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11671, 
+        "dem": 5784, 
+        "tot": 24443, 
+        "gop": 17455
+    }, 
+    "for": "WV/Putnam County/54079", 
+    "pct": {
+        "dem": 23.66, 
+        "per_point_diff": 47.75, 
+        "gop": 71.41
+    }
+}

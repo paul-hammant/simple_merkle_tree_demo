@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9880, 
+        "dem": 13718, 
+        "tot": 38717, 
+        "gop": 23598
+    }, 
+    "for": "SC/Lancaster County/45057", 
+    "pct": {
+        "dem": 35.43, 
+        "per_point_diff": 25.52, 
+        "gop": 60.95
+    }
+}

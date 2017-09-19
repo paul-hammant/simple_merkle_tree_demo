@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 456546, 
+        "dem": 515481, 
+        "tot": 591368, 
+        "gop": 58935
+    }, 
+    "for": "NY/New York County/36061", 
+    "pct": {
+        "dem": 87.17, 
+        "per_point_diff": 77.2, 
+        "gop": 9.97
+    }
+}

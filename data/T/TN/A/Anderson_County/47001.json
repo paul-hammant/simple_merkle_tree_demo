@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10191, 
+        "dem": 9010, 
+        "tot": 29723, 
+        "gop": 19201
+    }, 
+    "for": "TN/Anderson County/47001", 
+    "pct": {
+        "dem": 30.31, 
+        "per_point_diff": 34.29, 
+        "gop": 64.6
+    }
+}

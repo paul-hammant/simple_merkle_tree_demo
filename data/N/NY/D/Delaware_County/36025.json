@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5187, 
+        "dem": 5825, 
+        "tot": 17778, 
+        "gop": 11012
+    }, 
+    "for": "NY/Delaware County/36025", 
+    "pct": {
+        "dem": 32.77, 
+        "per_point_diff": 29.18, 
+        "gop": 61.94
+    }
+}

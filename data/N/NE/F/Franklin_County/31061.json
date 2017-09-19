@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1095, 
+        "dem": 250, 
+        "tot": 1656, 
+        "gop": 1345
+    }, 
+    "for": "NE/Franklin County/31061", 
+    "pct": {
+        "dem": 15.1, 
+        "per_point_diff": 66.12, 
+        "gop": 81.22
+    }
+}

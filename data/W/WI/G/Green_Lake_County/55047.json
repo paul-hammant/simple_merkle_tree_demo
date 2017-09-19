@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3510, 
+        "dem": 2700, 
+        "tot": 9315, 
+        "gop": 6210
+    }, 
+    "for": "WI/Green Lake County/55047", 
+    "pct": {
+        "dem": 28.99, 
+        "per_point_diff": 37.68, 
+        "gop": 66.67
+    }
+}

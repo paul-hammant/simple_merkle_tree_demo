@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7418, 
+        "dem": 3877, 
+        "tot": 15823, 
+        "gop": 11295
+    }, 
+    "for": "TN/Cheatham County/47021", 
+    "pct": {
+        "dem": 24.5, 
+        "per_point_diff": 46.88, 
+        "gop": 71.38
+    }
+}

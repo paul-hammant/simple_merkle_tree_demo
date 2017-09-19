@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1157, 
+        "dem": 1186, 
+        "tot": 3577, 
+        "gop": 2343
+    }, 
+    "for": "GA/Seminole County/13253", 
+    "pct": {
+        "dem": 33.16, 
+        "per_point_diff": 32.35, 
+        "gop": 65.5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2592, 
+        "dem": 4329, 
+        "tot": 6095, 
+        "gop": 1737
+    }, 
+    "for": "AL/Wilcox County/1131", 
+    "pct": {
+        "dem": 71.03, 
+        "per_point_diff": 42.53, 
+        "gop": 28.5
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 124027, 
+        "dem": 245670, 
+        "tot": 378506, 
+        "gop": 121643
+    }, 
+    "for": "NY/Westchester County/36119", 
+    "pct": {
+        "dem": 64.91, 
+        "per_point_diff": 32.77, 
+        "gop": 32.14
+    }
+}

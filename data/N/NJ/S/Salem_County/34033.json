@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4490, 
+        "dem": 11766, 
+        "tot": 29220, 
+        "gop": 16256
+    }, 
+    "for": "NJ/Salem County/34033", 
+    "pct": {
+        "dem": 40.27, 
+        "per_point_diff": 15.37, 
+        "gop": 55.63
+    }
+}

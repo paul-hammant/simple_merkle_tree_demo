@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3667, 
+        "dem": 64287, 
+        "tot": 130160, 
+        "gop": 60620
+    }, 
+    "for": "PA/Dauphin County/42043", 
+    "pct": {
+        "dem": 49.39, 
+        "per_point_diff": 2.82, 
+        "gop": 46.57
+    }
+}

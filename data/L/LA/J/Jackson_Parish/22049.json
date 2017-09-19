@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3030, 
+        "dem": 2139, 
+        "tot": 7464, 
+        "gop": 5169
+    }, 
+    "for": "LA/Jackson Parish/22049", 
+    "pct": {
+        "dem": 28.66, 
+        "per_point_diff": 40.59, 
+        "gop": 69.25
+    }
+}

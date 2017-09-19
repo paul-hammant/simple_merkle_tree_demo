@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 70131, 
+        "dem": 118739, 
+        "tot": 172990, 
+        "gop": 48608
+    }, 
+    "for": "TX/Hidalgo County/48215", 
+    "pct": {
+        "dem": 68.64, 
+        "per_point_diff": 40.54, 
+        "gop": 28.1
+    }
+}

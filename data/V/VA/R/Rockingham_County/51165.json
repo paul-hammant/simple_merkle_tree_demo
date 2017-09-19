@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15908, 
+        "dem": 9361, 
+        "tot": 36536, 
+        "gop": 25269
+    }, 
+    "for": "VA/Rockingham County/51165", 
+    "pct": {
+        "dem": 25.62, 
+        "per_point_diff": 43.54, 
+        "gop": 69.16
+    }
+}

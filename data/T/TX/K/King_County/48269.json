@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 144, 
+        "dem": 5, 
+        "tot": 159, 
+        "gop": 149
+    }, 
+    "for": "TX/King County/48269", 
+    "pct": {
+        "dem": 3.14, 
+        "per_point_diff": 90.57, 
+        "gop": 93.71
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 35465, 
+        "dem": 32726, 
+        "tot": 105599, 
+        "gop": 68191
+    }, 
+    "for": "LA/Lafayette Parish/22055", 
+    "pct": {
+        "dem": 30.99, 
+        "per_point_diff": 33.58, 
+        "gop": 64.58
+    }
+}

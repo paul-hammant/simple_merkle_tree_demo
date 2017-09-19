@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1540, 
+        "dem": 1899, 
+        "tot": 5451, 
+        "gop": 3439
+    }, 
+    "for": "FL/Hamilton County/12047", 
+    "pct": {
+        "dem": 34.84, 
+        "per_point_diff": 28.25, 
+        "gop": 63.09
+    }
+}

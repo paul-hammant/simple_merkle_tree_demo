@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3190, 
+        "dem": 2787, 
+        "tot": 9245, 
+        "gop": 5977
+    }, 
+    "for": "MO/Saline County/29195", 
+    "pct": {
+        "dem": 30.15, 
+        "per_point_diff": 34.51, 
+        "gop": 64.65
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 21367, 
+        "dem": 44282, 
+        "tot": 115068, 
+        "gop": 65649
+    }, 
+    "for": "PA/Cumberland County/42041", 
+    "pct": {
+        "dem": 38.48, 
+        "per_point_diff": 18.57, 
+        "gop": 57.05
+    }
+}

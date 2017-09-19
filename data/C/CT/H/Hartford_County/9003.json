@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 85877, 
+        "dem": 233789, 
+        "tot": 399219, 
+        "gop": 147912
+    }, 
+    "for": "CT/Hartford County/9003", 
+    "pct": {
+        "dem": 58.56, 
+        "per_point_diff": 21.51, 
+        "gop": 37.05
+    }
+}

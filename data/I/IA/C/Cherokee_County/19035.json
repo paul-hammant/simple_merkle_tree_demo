@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2512, 
+        "dem": 1676, 
+        "tot": 6186, 
+        "gop": 4188
+    }, 
+    "for": "IA/Cherokee County/19035", 
+    "pct": {
+        "dem": 27.09, 
+        "per_point_diff": 40.61, 
+        "gop": 67.7
+    }
+}

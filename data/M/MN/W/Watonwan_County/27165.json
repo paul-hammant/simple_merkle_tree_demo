@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 954, 
+        "dem": 1814, 
+        "tot": 4971, 
+        "gop": 2768
+    }, 
+    "for": "MN/Watonwan County/27165", 
+    "pct": {
+        "dem": 36.49, 
+        "per_point_diff": 19.19, 
+        "gop": 55.68
+    }
+}

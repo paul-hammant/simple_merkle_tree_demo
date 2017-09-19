@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3753, 
+        "dem": 1407, 
+        "tot": 6855, 
+        "gop": 5160
+    }, 
+    "for": "AR/Grant County/5053", 
+    "pct": {
+        "dem": 20.53, 
+        "per_point_diff": 54.75, 
+        "gop": 75.27
+    }
+}

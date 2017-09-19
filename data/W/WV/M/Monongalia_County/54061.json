@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3710, 
+        "dem": 14568, 
+        "tot": 35733, 
+        "gop": 18278
+    }, 
+    "for": "WV/Monongalia County/54061", 
+    "pct": {
+        "dem": 40.77, 
+        "per_point_diff": 10.38, 
+        "gop": 51.15
+    }
+}

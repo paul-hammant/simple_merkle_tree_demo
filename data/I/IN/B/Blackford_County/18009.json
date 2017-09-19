@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2106, 
+        "dem": 1243, 
+        "tot": 4822, 
+        "gop": 3349
+    }, 
+    "for": "IN/Blackford County/18009", 
+    "pct": {
+        "dem": 25.78, 
+        "per_point_diff": 43.67, 
+        "gop": 69.45
+    }
+}

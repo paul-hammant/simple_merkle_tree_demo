@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4267, 
+        "dem": 4712, 
+        "tot": 14698, 
+        "gop": 8979
+    }, 
+    "for": "MN/Polk County/27119", 
+    "pct": {
+        "dem": 32.06, 
+        "per_point_diff": 29.03, 
+        "gop": 61.09
+    }
+}

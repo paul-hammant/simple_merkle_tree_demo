@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2738, 
+        "dem": 6419, 
+        "tot": 16140, 
+        "gop": 9157
+    }, 
+    "for": "VA/Prince George County/51149", 
+    "pct": {
+        "dem": 39.77, 
+        "per_point_diff": 16.96, 
+        "gop": 56.73
+    }
+}

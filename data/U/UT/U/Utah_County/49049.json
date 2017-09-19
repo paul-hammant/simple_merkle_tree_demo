@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 65176, 
+        "dem": 24579, 
+        "tot": 174942, 
+        "gop": 89755
+    }, 
+    "for": "UT/Utah County/49049", 
+    "pct": {
+        "dem": 14.05, 
+        "per_point_diff": 37.26, 
+        "gop": 51.31
+    }
+}

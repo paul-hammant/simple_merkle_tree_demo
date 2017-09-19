@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 686, 
+        "dem": 921, 
+        "tot": 2729, 
+        "gop": 1607
+    }, 
+    "for": "MN/Big Stone County/27011", 
+    "pct": {
+        "dem": 33.75, 
+        "per_point_diff": 25.14, 
+        "gop": 58.89
+    }
+}

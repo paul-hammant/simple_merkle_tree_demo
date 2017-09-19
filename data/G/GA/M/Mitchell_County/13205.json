@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 780, 
+        "dem": 3492, 
+        "tot": 7857, 
+        "gop": 4272
+    }, 
+    "for": "GA/Mitchell County/13205", 
+    "pct": {
+        "dem": 44.44, 
+        "per_point_diff": 9.93, 
+        "gop": 54.37
+    }
+}

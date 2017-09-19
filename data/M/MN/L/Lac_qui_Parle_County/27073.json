@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 993, 
+        "dem": 1301, 
+        "tot": 3835, 
+        "gop": 2294
+    }, 
+    "for": "MN/Lac qui Parle County/27073", 
+    "pct": {
+        "dem": 33.92, 
+        "per_point_diff": 25.89, 
+        "gop": 59.82
+    }
+}

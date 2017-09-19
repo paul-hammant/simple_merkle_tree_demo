@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4702, 
+        "dem": 2583, 
+        "tot": 10077, 
+        "gop": 7285
+    }, 
+    "for": "GA/Hart County/13147", 
+    "pct": {
+        "dem": 25.63, 
+        "per_point_diff": 46.66, 
+        "gop": 72.29
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 28051, 
+        "dem": 67561, 
+        "tot": 167209, 
+        "gop": 95612
+    }, 
+    "for": "NY/Richmond County/36085", 
+    "pct": {
+        "dem": 40.41, 
+        "per_point_diff": 16.78, 
+        "gop": 57.18
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1029, 
+        "dem": 21936, 
+        "tot": 43787, 
+        "gop": 20907
+    }, 
+    "for": "GA/Newton County/13217", 
+    "pct": {
+        "dem": 50.1, 
+        "per_point_diff": 2.35, 
+        "gop": 47.75
+    }
+}

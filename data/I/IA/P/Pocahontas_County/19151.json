@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1730, 
+        "dem": 962, 
+        "tot": 3831, 
+        "gop": 2692
+    }, 
+    "for": "IA/Pocahontas County/19151", 
+    "pct": {
+        "dem": 25.11, 
+        "per_point_diff": 45.16, 
+        "gop": 70.27
+    }
+}

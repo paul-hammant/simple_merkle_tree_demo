@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1745, 
+        "dem": 976, 
+        "tot": 3858, 
+        "gop": 2721
+    }, 
+    "for": "IA/Davis County/19051", 
+    "pct": {
+        "dem": 25.3, 
+        "per_point_diff": 45.23, 
+        "gop": 70.53
+    }
+}

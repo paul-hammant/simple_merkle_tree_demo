@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 255, 
+        "dem": 35770, 
+        "tot": 75825, 
+        "gop": 36025
+    }, 
+    "for": "WI/Kenosha County/55059", 
+    "pct": {
+        "dem": 47.17, 
+        "per_point_diff": 0.34, 
+        "gop": 47.51
+    }
+}

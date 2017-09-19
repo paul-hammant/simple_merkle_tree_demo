@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 631, 
+        "dem": 84, 
+        "tot": 808, 
+        "gop": 715
+    }, 
+    "for": "TX/Throckmorton County/48447", 
+    "pct": {
+        "dem": 10.4, 
+        "per_point_diff": 78.09, 
+        "gop": 88.49
+    }
+}

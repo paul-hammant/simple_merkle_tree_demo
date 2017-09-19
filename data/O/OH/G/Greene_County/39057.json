@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 19483, 
+        "dem": 28023, 
+        "tot": 79633, 
+        "gop": 47506
+    }, 
+    "for": "OH/Greene County/39057", 
+    "pct": {
+        "dem": 35.19, 
+        "per_point_diff": 24.47, 
+        "gop": 59.66
+    }
+}

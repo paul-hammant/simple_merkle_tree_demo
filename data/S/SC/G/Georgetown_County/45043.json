@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4100, 
+        "dem": 13234, 
+        "tot": 31519, 
+        "gop": 17334
+    }, 
+    "for": "SC/Georgetown County/45043", 
+    "pct": {
+        "dem": 41.99, 
+        "per_point_diff": 13.01, 
+        "gop": 55.0
+    }
+}

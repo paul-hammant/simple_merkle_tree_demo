@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 526, 
+        "dem": 823, 
+        "tot": 2363, 
+        "gop": 1349
+    }, 
+    "for": "MN/Kittson County/27069", 
+    "pct": {
+        "dem": 34.83, 
+        "per_point_diff": 22.26, 
+        "gop": 57.09
+    }
+}

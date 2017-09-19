@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8105, 
+        "dem": 1474, 
+        "tot": 11317, 
+        "gop": 9579
+    }, 
+    "for": "GA/Haralson County/13143", 
+    "pct": {
+        "dem": 13.02, 
+        "per_point_diff": 71.62, 
+        "gop": 84.64
+    }
+}

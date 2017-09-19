@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7844, 
+        "dem": 10550, 
+        "tot": 15072, 
+        "gop": 2706
+    }, 
+    "for": "NM/Taos County/35055", 
+    "pct": {
+        "dem": 70.0, 
+        "per_point_diff": 52.04, 
+        "gop": 17.95
+    }
+}

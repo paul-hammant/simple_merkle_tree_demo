@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4911, 
+        "dem": 3192, 
+        "tot": 12198, 
+        "gop": 8103
+    }, 
+    "for": "MN/Meeker County/27093", 
+    "pct": {
+        "dem": 26.17, 
+        "per_point_diff": 40.26, 
+        "gop": 66.43
+    }
+}

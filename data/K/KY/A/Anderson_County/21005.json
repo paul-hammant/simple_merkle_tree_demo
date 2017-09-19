@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5608, 
+        "dem": 2634, 
+        "tot": 11414, 
+        "gop": 8242
+    }, 
+    "for": "KY/Anderson County/21005", 
+    "pct": {
+        "dem": 23.08, 
+        "per_point_diff": 49.13, 
+        "gop": 72.21
+    }
+}

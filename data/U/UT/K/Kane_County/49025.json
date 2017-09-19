@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1509, 
+        "dem": 739, 
+        "tot": 3482, 
+        "gop": 2248
+    }, 
+    "for": "UT/Kane County/49025", 
+    "pct": {
+        "dem": 21.22, 
+        "per_point_diff": 43.34, 
+        "gop": 64.56
+    }
+}

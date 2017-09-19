@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6503, 
+        "dem": 4010, 
+        "tot": 15063, 
+        "gop": 10513
+    }, 
+    "for": "GA/Bryan County/13029", 
+    "pct": {
+        "dem": 26.62, 
+        "per_point_diff": 43.17, 
+        "gop": 69.79
+    }
+}

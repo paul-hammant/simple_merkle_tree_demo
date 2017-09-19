@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8375, 
+        "dem": 7289, 
+        "tot": 24261, 
+        "gop": 15664
+    }, 
+    "for": "NY/Herkimer County/36043", 
+    "pct": {
+        "dem": 30.04, 
+        "per_point_diff": 34.52, 
+        "gop": 64.56
+    }
+}

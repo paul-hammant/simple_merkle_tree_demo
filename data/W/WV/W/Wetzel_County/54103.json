@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3113, 
+        "dem": 1348, 
+        "tot": 6191, 
+        "gop": 4461
+    }, 
+    "for": "WV/Wetzel County/54103", 
+    "pct": {
+        "dem": 21.77, 
+        "per_point_diff": 50.28, 
+        "gop": 72.06
+    }
+}

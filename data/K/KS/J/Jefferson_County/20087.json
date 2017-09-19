@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2629, 
+        "dem": 2483, 
+        "tot": 8151, 
+        "gop": 5112
+    }, 
+    "for": "KS/Jefferson County/20087", 
+    "pct": {
+        "dem": 30.46, 
+        "per_point_diff": 32.25, 
+        "gop": 62.72
+    }
+}

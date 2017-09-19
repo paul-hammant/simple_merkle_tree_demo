@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1502, 
+        "dem": 7623, 
+        "tot": 17700, 
+        "gop": 9125
+    }, 
+    "for": "IA/Marshall County/19127", 
+    "pct": {
+        "dem": 43.07, 
+        "per_point_diff": 8.49, 
+        "gop": 51.55
+    }
+}

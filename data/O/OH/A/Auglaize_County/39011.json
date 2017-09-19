@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14305, 
+        "dem": 3825, 
+        "tot": 22860, 
+        "gop": 18130
+    }, 
+    "for": "OH/Auglaize County/39011", 
+    "pct": {
+        "dem": 16.73, 
+        "per_point_diff": 62.58, 
+        "gop": 79.31
+    }
+}

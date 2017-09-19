@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 28185, 
+        "dem": 16264, 
+        "tot": 66286, 
+        "gop": 44449
+    }, 
+    "for": "ID/Kootenai County/16055", 
+    "pct": {
+        "dem": 24.54, 
+        "per_point_diff": 42.52, 
+        "gop": 67.06
+    }
+}

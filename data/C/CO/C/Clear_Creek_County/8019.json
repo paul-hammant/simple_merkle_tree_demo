@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 159, 
+        "dem": 2585, 
+        "tot": 5532, 
+        "gop": 2426
+    }, 
+    "for": "CO/Clear Creek County/8019", 
+    "pct": {
+        "dem": 46.73, 
+        "per_point_diff": 2.87, 
+        "gop": 43.85
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7887, 
+        "dem": 1962, 
+        "tot": 12039, 
+        "gop": 9849
+    }, 
+    "for": "GA/Union County/13291", 
+    "pct": {
+        "dem": 16.3, 
+        "per_point_diff": 65.51, 
+        "gop": 81.81
+    }
+}

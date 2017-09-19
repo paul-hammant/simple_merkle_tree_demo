@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 389, 
+        "dem": 7635, 
+        "tot": 15156, 
+        "gop": 7246
+    }, 
+    "for": "SC/Clarendon County/45027", 
+    "pct": {
+        "dem": 50.38, 
+        "per_point_diff": 2.57, 
+        "gop": 47.81
+    }
+}

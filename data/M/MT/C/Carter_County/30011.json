@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 607, 
+        "dem": 70, 
+        "tot": 777, 
+        "gop": 677
+    }, 
+    "for": "MT/Carter County/30011", 
+    "pct": {
+        "dem": 9.01, 
+        "per_point_diff": 78.12, 
+        "gop": 87.13
+    }
+}

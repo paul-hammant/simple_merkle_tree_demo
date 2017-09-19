@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 806, 
+        "dem": 1458, 
+        "tot": 2203, 
+        "gop": 652
+    }, 
+    "for": "TX/Presidio County/48377", 
+    "pct": {
+        "dem": 66.18, 
+        "per_point_diff": 36.59, 
+        "gop": 29.6
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1187, 
+        "dem": 266, 
+        "tot": 1755, 
+        "gop": 1453
+    }, 
+    "for": "TX/Martin County/48317", 
+    "pct": {
+        "dem": 15.16, 
+        "per_point_diff": 67.64, 
+        "gop": 82.79
+    }
+}

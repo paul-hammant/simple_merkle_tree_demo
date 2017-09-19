@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8269, 
+        "dem": 13162, 
+        "tot": 20791, 
+        "gop": 4893
+    }, 
+    "for": "NM/McKinley County/35031", 
+    "pct": {
+        "dem": 63.31, 
+        "per_point_diff": 39.77, 
+        "gop": 23.53
+    }
+}

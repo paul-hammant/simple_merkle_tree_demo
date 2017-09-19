@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 527, 
+        "dem": 1713, 
+        "tot": 3996, 
+        "gop": 2240
+    }, 
+    "for": "MS/Benton County/28009", 
+    "pct": {
+        "dem": 42.87, 
+        "per_point_diff": 13.19, 
+        "gop": 56.06
+    }
+}

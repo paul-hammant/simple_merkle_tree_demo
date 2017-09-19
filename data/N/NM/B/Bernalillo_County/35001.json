@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 48086, 
+        "dem": 141960, 
+        "tot": 269861, 
+        "gop": 93874
+    }, 
+    "for": "NM/Bernalillo County/35001", 
+    "pct": {
+        "dem": 52.6, 
+        "per_point_diff": 17.82, 
+        "gop": 34.79
+    }
+}

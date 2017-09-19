@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3128, 
+        "dem": 1108, 
+        "tot": 5538, 
+        "gop": 4236
+    }, 
+    "for": "KY/Estill County/21065", 
+    "pct": {
+        "dem": 20.01, 
+        "per_point_diff": 56.48, 
+        "gop": 76.49
+    }
+}

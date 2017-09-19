@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8940, 
+        "dem": 17544, 
+        "tot": 27832, 
+        "gop": 8604
+    }, 
+    "for": "VT/Windsor County/50027", 
+    "pct": {
+        "dem": 63.04, 
+        "per_point_diff": 32.12, 
+        "gop": 30.91
+    }
+}

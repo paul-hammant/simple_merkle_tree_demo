@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10714, 
+        "dem": 7768, 
+        "tot": 28260, 
+        "gop": 18482
+    }, 
+    "for": "WA/Grant County/53025", 
+    "pct": {
+        "dem": 27.49, 
+        "per_point_diff": 37.91, 
+        "gop": 65.4
+    }
+}

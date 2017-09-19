@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8885, 
+        "dem": 8502, 
+        "tot": 27127, 
+        "gop": 17387
+    }, 
+    "for": "PA/Columbia County/42037", 
+    "pct": {
+        "dem": 31.34, 
+        "per_point_diff": 32.75, 
+        "gop": 64.09
+    }
+}

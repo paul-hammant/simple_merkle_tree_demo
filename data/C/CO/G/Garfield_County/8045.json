@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1866, 
+        "dem": 11205, 
+        "tot": 26328, 
+        "gop": 13071
+    }, 
+    "for": "CO/Garfield County/8045", 
+    "pct": {
+        "dem": 42.56, 
+        "per_point_diff": 7.09, 
+        "gop": 49.65
+    }
+}

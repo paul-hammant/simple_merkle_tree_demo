@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 741, 
+        "dem": 398, 
+        "tot": 1657, 
+        "gop": 1139
+    }, 
+    "for": "SD/Clark County/46025", 
+    "pct": {
+        "dem": 24.02, 
+        "per_point_diff": 44.72, 
+        "gop": 68.74
+    }
+}

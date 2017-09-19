@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1095, 
+        "dem": 1201, 
+        "tot": 3703, 
+        "gop": 2296
+    }, 
+    "for": "IA/Decatur County/19053", 
+    "pct": {
+        "dem": 32.43, 
+        "per_point_diff": 29.57, 
+        "gop": 62.0
+    }
+}

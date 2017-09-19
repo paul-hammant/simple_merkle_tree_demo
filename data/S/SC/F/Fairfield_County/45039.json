@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2912, 
+        "dem": 6936, 
+        "tot": 11252, 
+        "gop": 4024
+    }, 
+    "for": "SC/Fairfield County/45039", 
+    "pct": {
+        "dem": 61.64, 
+        "per_point_diff": 25.88, 
+        "gop": 35.76
+    }
+}

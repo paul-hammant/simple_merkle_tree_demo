@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1228, 
+        "dem": 3656, 
+        "tot": 8678, 
+        "gop": 4884
+    }, 
+    "for": "TN/Lauderdale County/47097", 
+    "pct": {
+        "dem": 42.13, 
+        "per_point_diff": 14.15, 
+        "gop": 56.28
+    }
+}

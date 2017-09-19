@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10157, 
+        "dem": 6325, 
+        "tot": 23814, 
+        "gop": 16482
+    }, 
+    "for": "OH/Pickaway County/39129", 
+    "pct": {
+        "dem": 26.56, 
+        "per_point_diff": 42.65, 
+        "gop": 69.21
+    }
+}

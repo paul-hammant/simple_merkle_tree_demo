@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2334, 
+        "dem": 14331, 
+        "tot": 33697, 
+        "gop": 16665
+    }, 
+    "for": "MT/Lewis and Clark County/30049", 
+    "pct": {
+        "dem": 42.53, 
+        "per_point_diff": 6.93, 
+        "gop": 49.46
+    }
+}

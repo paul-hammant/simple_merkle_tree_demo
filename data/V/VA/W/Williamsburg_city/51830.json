@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3278, 
+        "dem": 5199, 
+        "tot": 7534, 
+        "gop": 1921
+    }, 
+    "for": "VA/Williamsburg city/51830", 
+    "pct": {
+        "dem": 69.01, 
+        "per_point_diff": 43.51, 
+        "gop": 25.5
+    }
+}

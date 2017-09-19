@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1812, 
+        "dem": 1156, 
+        "tot": 4206, 
+        "gop": 2968
+    }, 
+    "for": "TX/Marion County/48315", 
+    "pct": {
+        "dem": 27.48, 
+        "per_point_diff": 43.08, 
+        "gop": 70.57
+    }
+}

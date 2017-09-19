@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15827, 
+        "dem": 6849, 
+        "tot": 30446, 
+        "gop": 22676
+    }, 
+    "for": "PA/Armstrong County/42005", 
+    "pct": {
+        "dem": 22.5, 
+        "per_point_diff": 51.98, 
+        "gop": 74.48
+    }
+}

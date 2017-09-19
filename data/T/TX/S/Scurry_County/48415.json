@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3670, 
+        "dem": 733, 
+        "tot": 5261, 
+        "gop": 4403
+    }, 
+    "for": "TX/Scurry County/48415", 
+    "pct": {
+        "dem": 13.93, 
+        "per_point_diff": 69.76, 
+        "gop": 83.69
+    }
+}

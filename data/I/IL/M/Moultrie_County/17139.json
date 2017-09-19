@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2977, 
+        "dem": 1476, 
+        "tot": 6209, 
+        "gop": 4453
+    }, 
+    "for": "IL/Moultrie County/17139", 
+    "pct": {
+        "dem": 23.77, 
+        "per_point_diff": 47.95, 
+        "gop": 71.72
+    }
+}

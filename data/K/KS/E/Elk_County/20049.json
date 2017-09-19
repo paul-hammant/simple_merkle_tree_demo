@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 888, 
+        "dem": 160, 
+        "tot": 1259, 
+        "gop": 1048
+    }, 
+    "for": "KS/Elk County/20049", 
+    "pct": {
+        "dem": 12.71, 
+        "per_point_diff": 70.53, 
+        "gop": 83.24
+    }
+}

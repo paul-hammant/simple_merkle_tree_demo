@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 81497, 
+        "dem": 401068, 
+        "tot": 765421, 
+        "gop": 319571
+    }, 
+    "for": "NV/Clark County/32003", 
+    "pct": {
+        "dem": 52.4, 
+        "per_point_diff": 10.65, 
+        "gop": 41.75
+    }
+}

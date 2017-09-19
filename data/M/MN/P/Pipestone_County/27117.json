@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2211, 
+        "dem": 1127, 
+        "tot": 4779, 
+        "gop": 3338
+    }, 
+    "for": "MN/Pipestone County/27117", 
+    "pct": {
+        "dem": 23.58, 
+        "per_point_diff": 46.26, 
+        "gop": 69.85
+    }
+}

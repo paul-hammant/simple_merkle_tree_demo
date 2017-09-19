@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2522, 
+        "dem": 1029, 
+        "tot": 4744, 
+        "gop": 3551
+    }, 
+    "for": "TX/Nolan County/48353", 
+    "pct": {
+        "dem": 21.69, 
+        "per_point_diff": 53.16, 
+        "gop": 74.85
+    }
+}

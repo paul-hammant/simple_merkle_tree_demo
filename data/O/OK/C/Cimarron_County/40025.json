@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 892, 
+        "dem": 70, 
+        "tot": 1077, 
+        "gop": 962
+    }, 
+    "for": "OK/Cimarron County/40025", 
+    "pct": {
+        "dem": 6.5, 
+        "per_point_diff": 82.82, 
+        "gop": 89.32
+    }
+}

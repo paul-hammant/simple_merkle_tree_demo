@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7127, 
+        "dem": 8783, 
+        "tot": 25571, 
+        "gop": 15910
+    }, 
+    "for": "MD/Worcester County/24047", 
+    "pct": {
+        "dem": 34.35, 
+        "per_point_diff": 27.87, 
+        "gop": 62.22
+    }
+}

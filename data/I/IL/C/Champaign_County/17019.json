@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16459, 
+        "dem": 49694, 
+        "tot": 89196, 
+        "gop": 33235
+    }, 
+    "for": "IL/Champaign County/17019", 
+    "pct": {
+        "dem": 55.71, 
+        "per_point_diff": 18.45, 
+        "gop": 37.26
+    }
+}

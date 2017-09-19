@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4213, 
+        "dem": 4877, 
+        "tot": 14688, 
+        "gop": 9090
+    }, 
+    "for": "MI/Alpena County/26007", 
+    "pct": {
+        "dem": 33.2, 
+        "per_point_diff": 28.68, 
+        "gop": 61.89
+    }
+}

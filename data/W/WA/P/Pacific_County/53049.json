@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 741, 
+        "dem": 4597, 
+        "tot": 10667, 
+        "gop": 5338
+    }, 
+    "for": "WA/Pacific County/53049", 
+    "pct": {
+        "dem": 43.1, 
+        "per_point_diff": 6.95, 
+        "gop": 50.04
+    }
+}

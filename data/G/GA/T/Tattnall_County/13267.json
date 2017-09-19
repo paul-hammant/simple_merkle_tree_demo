@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3414, 
+        "dem": 1678, 
+        "tot": 6879, 
+        "gop": 5092
+    }, 
+    "for": "GA/Tattnall County/13267", 
+    "pct": {
+        "dem": 24.39, 
+        "per_point_diff": 49.63, 
+        "gop": 74.02
+    }
+}

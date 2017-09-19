@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5756, 
+        "dem": 3743, 
+        "tot": 13984, 
+        "gop": 9499
+    }, 
+    "for": "WV/Greenbrier County/54025", 
+    "pct": {
+        "dem": 26.77, 
+        "per_point_diff": 41.16, 
+        "gop": 67.93
+    }
+}

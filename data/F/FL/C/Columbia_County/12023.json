@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12760, 
+        "dem": 7599, 
+        "tot": 28696, 
+        "gop": 20359
+    }, 
+    "for": "FL/Columbia County/12023", 
+    "pct": {
+        "dem": 26.48, 
+        "per_point_diff": 44.47, 
+        "gop": 70.95
+    }
+}

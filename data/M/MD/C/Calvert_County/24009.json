@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8011, 
+        "dem": 16669, 
+        "tot": 43445, 
+        "gop": 24680
+    }, 
+    "for": "MD/Calvert County/24009", 
+    "pct": {
+        "dem": 38.37, 
+        "per_point_diff": 18.44, 
+        "gop": 56.81
+    }
+}

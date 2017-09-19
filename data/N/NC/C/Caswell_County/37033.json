@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1209, 
+        "dem": 4549, 
+        "tot": 10515, 
+        "gop": 5758
+    }, 
+    "for": "NC/Caswell County/37033", 
+    "pct": {
+        "dem": 43.26, 
+        "per_point_diff": 11.5, 
+        "gop": 54.76
+    }
+}

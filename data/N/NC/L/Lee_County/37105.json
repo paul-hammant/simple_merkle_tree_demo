@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3245, 
+        "dem": 10380, 
+        "tot": 24676, 
+        "gop": 13625
+    }, 
+    "for": "NC/Lee County/37105", 
+    "pct": {
+        "dem": 42.07, 
+        "per_point_diff": 13.15, 
+        "gop": 55.22
+    }
+}

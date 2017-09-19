@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7581, 
+        "dem": 10397, 
+        "tot": 13588, 
+        "gop": 2816
+    }, 
+    "for": "TX/Maverick County/48323", 
+    "pct": {
+        "dem": 76.52, 
+        "per_point_diff": 55.79, 
+        "gop": 20.72
+    }
+}

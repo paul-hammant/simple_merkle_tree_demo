@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7154, 
+        "dem": 4372, 
+        "tot": 16363, 
+        "gop": 11526
+    }, 
+    "for": "TN/Franklin County/47051", 
+    "pct": {
+        "dem": 26.72, 
+        "per_point_diff": 43.72, 
+        "gop": 70.44
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13540, 
+        "dem": 39836, 
+        "tot": 97434, 
+        "gop": 53376
+    }, 
+    "for": "CT/Litchfield County/9005", 
+    "pct": {
+        "dem": 40.89, 
+        "per_point_diff": 13.9, 
+        "gop": 54.78
+    }
+}

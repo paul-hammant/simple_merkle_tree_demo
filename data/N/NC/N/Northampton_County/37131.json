@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2557, 
+        "dem": 6113, 
+        "tot": 9761, 
+        "gop": 3556
+    }, 
+    "for": "NC/Northampton County/37131", 
+    "pct": {
+        "dem": 62.63, 
+        "per_point_diff": 26.2, 
+        "gop": 36.43
+    }
+}

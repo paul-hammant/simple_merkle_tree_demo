@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 21475, 
+        "dem": 89791, 
+        "tot": 166647, 
+        "gop": 68316
+    }, 
+    "for": "CA/San Joaquin County/6077", 
+    "pct": {
+        "dem": 53.88, 
+        "per_point_diff": 12.89, 
+        "gop": 40.99
+    }
+}

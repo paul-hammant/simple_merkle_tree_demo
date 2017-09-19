@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4157, 
+        "dem": 1579, 
+        "tot": 7630, 
+        "gop": 5736
+    }, 
+    "for": "IL/Richland County/17159", 
+    "pct": {
+        "dem": 20.69, 
+        "per_point_diff": 54.48, 
+        "gop": 75.18
+    }
+}

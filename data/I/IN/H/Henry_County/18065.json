@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8771, 
+        "dem": 5124, 
+        "tot": 20075, 
+        "gop": 13895
+    }, 
+    "for": "IN/Henry County/18065", 
+    "pct": {
+        "dem": 25.52, 
+        "per_point_diff": 43.69, 
+        "gop": 69.22
+    }
+}

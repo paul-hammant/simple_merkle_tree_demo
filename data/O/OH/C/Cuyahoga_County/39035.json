@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 204080, 
+        "dem": 383974, 
+        "tot": 583230, 
+        "gop": 179894
+    }, 
+    "for": "OH/Cuyahoga County/39035", 
+    "pct": {
+        "dem": 65.84, 
+        "per_point_diff": 34.99, 
+        "gop": 30.84
+    }
+}

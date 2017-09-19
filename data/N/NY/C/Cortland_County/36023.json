@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1231, 
+        "dem": 7976, 
+        "tot": 18424, 
+        "gop": 9207
+    }, 
+    "for": "NY/Cortland County/36023", 
+    "pct": {
+        "dem": 43.29, 
+        "per_point_diff": 6.68, 
+        "gop": 49.97
+    }
+}

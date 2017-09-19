@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7827, 
+        "dem": 3061, 
+        "tot": 14437, 
+        "gop": 10888
+    }, 
+    "for": "OK/Sequoyah County/40135", 
+    "pct": {
+        "dem": 21.2, 
+        "per_point_diff": 54.21, 
+        "gop": 75.42
+    }
+}

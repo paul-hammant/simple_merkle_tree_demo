@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3008, 
+        "dem": 9959, 
+        "tot": 25077, 
+        "gop": 12967
+    }, 
+    "for": "OR/Columbia County/41009", 
+    "pct": {
+        "dem": 39.71, 
+        "per_point_diff": 12.0, 
+        "gop": 51.71
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3370, 
+        "dem": 1331, 
+        "tot": 6209, 
+        "gop": 4701
+    }, 
+    "for": "KY/Union County/21225", 
+    "pct": {
+        "dem": 21.44, 
+        "per_point_diff": 54.28, 
+        "gop": 75.71
+    }
+}

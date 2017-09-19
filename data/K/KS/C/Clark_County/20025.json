@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 695, 
+        "dem": 118, 
+        "tot": 983, 
+        "gop": 813
+    }, 
+    "for": "KS/Clark County/20025", 
+    "pct": {
+        "dem": 12.0, 
+        "per_point_diff": 70.7, 
+        "gop": 82.71
+    }
+}

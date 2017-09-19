@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4298, 
+        "dem": 2042, 
+        "tot": 8607, 
+        "gop": 6340
+    }, 
+    "for": "TX/Milam County/48331", 
+    "pct": {
+        "dem": 23.72, 
+        "per_point_diff": 49.94, 
+        "gop": 73.66
+    }
+}

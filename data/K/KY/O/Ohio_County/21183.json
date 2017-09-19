@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5862, 
+        "dem": 2080, 
+        "tot": 10398, 
+        "gop": 7942
+    }, 
+    "for": "KY/Ohio County/21183", 
+    "pct": {
+        "dem": 20.0, 
+        "per_point_diff": 56.38, 
+        "gop": 76.38
+    }
+}

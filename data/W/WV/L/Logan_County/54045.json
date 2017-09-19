@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7784, 
+        "dem": 2082, 
+        "tot": 12315, 
+        "gop": 9866
+    }, 
+    "for": "WV/Logan County/54045", 
+    "pct": {
+        "dem": 16.91, 
+        "per_point_diff": 63.21, 
+        "gop": 80.11
+    }
+}

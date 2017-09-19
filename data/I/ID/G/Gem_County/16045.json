@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4751, 
+        "dem": 1229, 
+        "tot": 7952, 
+        "gop": 5980
+    }, 
+    "for": "ID/Gem County/16045", 
+    "pct": {
+        "dem": 15.46, 
+        "per_point_diff": 59.75, 
+        "gop": 75.2
+    }
+}

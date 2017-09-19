@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1243, 
+        "dem": 1463, 
+        "tot": 4405, 
+        "gop": 2706
+    }, 
+    "for": "IA/Clarke County/19039", 
+    "pct": {
+        "dem": 33.21, 
+        "per_point_diff": 28.22, 
+        "gop": 61.43
+    }
+}

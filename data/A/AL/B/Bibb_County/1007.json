@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4859, 
+        "dem": 1874, 
+        "tot": 8748, 
+        "gop": 6733
+    }, 
+    "for": "AL/Bibb County/1007", 
+    "pct": {
+        "dem": 21.42, 
+        "per_point_diff": 55.54, 
+        "gop": 76.97
+    }
+}

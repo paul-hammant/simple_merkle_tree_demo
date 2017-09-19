@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4657, 
+        "dem": 3923, 
+        "tot": 13140, 
+        "gop": 8580
+    }, 
+    "for": "MI/Dickinson County/26043", 
+    "pct": {
+        "dem": 29.86, 
+        "per_point_diff": 35.44, 
+        "gop": 65.3
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8168, 
+        "dem": 8206, 
+        "tot": 26364, 
+        "gop": 16374
+    }, 
+    "for": "MI/Ionia County/26067", 
+    "pct": {
+        "dem": 31.13, 
+        "per_point_diff": 30.98, 
+        "gop": 62.11
+    }
+}

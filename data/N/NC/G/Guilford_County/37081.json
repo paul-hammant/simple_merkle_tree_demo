@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 50488, 
+        "dem": 147949, 
+        "tot": 252087, 
+        "gop": 97461
+    }, 
+    "for": "NC/Guilford County/37081", 
+    "pct": {
+        "dem": 58.69, 
+        "per_point_diff": 20.03, 
+        "gop": 38.66
+    }
+}

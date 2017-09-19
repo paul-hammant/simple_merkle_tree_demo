@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8865, 
+        "dem": 5438, 
+        "tot": 21070, 
+        "gop": 14303
+    }, 
+    "for": "CO/Montrose County/8085", 
+    "pct": {
+        "dem": 25.81, 
+        "per_point_diff": 42.07, 
+        "gop": 67.88
+    }
+}

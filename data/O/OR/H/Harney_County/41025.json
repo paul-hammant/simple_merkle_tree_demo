@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2222, 
+        "dem": 682, 
+        "tot": 3850, 
+        "gop": 2904
+    }, 
+    "for": "OR/Harney County/41025", 
+    "pct": {
+        "dem": 17.71, 
+        "per_point_diff": 57.71, 
+        "gop": 75.43
+    }
+}

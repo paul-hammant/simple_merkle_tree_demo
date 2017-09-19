@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2577, 
+        "dem": 479, 
+        "tot": 3609, 
+        "gop": 3056
+    }, 
+    "for": "TX/Hamilton County/48193", 
+    "pct": {
+        "dem": 13.27, 
+        "per_point_diff": 71.4, 
+        "gop": 84.68
+    }
+}

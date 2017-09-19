@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5989, 
+        "dem": 2924, 
+        "tot": 12098, 
+        "gop": 8913
+    }, 
+    "for": "FL/Bradford County/12007", 
+    "pct": {
+        "dem": 24.17, 
+        "per_point_diff": 49.5, 
+        "gop": 73.67
+    }
+}

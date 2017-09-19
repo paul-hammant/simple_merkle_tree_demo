@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1737, 
+        "dem": 723, 
+        "tot": 3299, 
+        "gop": 2460
+    }, 
+    "for": "AR/Cleveland County/5025", 
+    "pct": {
+        "dem": 21.92, 
+        "per_point_diff": 52.65, 
+        "gop": 74.57
+    }
+}

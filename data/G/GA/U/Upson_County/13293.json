@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3817, 
+        "dem": 3471, 
+        "tot": 10924, 
+        "gop": 7288
+    }, 
+    "for": "GA/Upson County/13293", 
+    "pct": {
+        "dem": 31.77, 
+        "per_point_diff": 34.94, 
+        "gop": 66.72
+    }
+}

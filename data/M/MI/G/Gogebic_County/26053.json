@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1094, 
+        "dem": 2925, 
+        "tot": 7313, 
+        "gop": 4019
+    }, 
+    "for": "MI/Gogebic County/26053", 
+    "pct": {
+        "dem": 40.0, 
+        "per_point_diff": 14.96, 
+        "gop": 54.96
+    }
+}

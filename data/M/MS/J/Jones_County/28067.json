@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12328, 
+        "dem": 7748, 
+        "tot": 28250, 
+        "gop": 20076
+    }, 
+    "for": "MS/Jones County/28067", 
+    "pct": {
+        "dem": 27.43, 
+        "per_point_diff": 43.64, 
+        "gop": 71.07
+    }
+}

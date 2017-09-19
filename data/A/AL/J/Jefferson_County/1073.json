@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 20967, 
+        "dem": 151581, 
+        "tot": 290111, 
+        "gop": 130614
+    }, 
+    "for": "AL/Jefferson County/1073", 
+    "pct": {
+        "dem": 52.25, 
+        "per_point_diff": 7.23, 
+        "gop": 45.02
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9841, 
+        "dem": 1432, 
+        "tot": 12912, 
+        "gop": 11273
+    }, 
+    "for": "AL/Marion County/1093", 
+    "pct": {
+        "dem": 11.09, 
+        "per_point_diff": 76.22, 
+        "gop": 87.31
+    }
+}

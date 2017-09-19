@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 27116, 
+        "dem": 20471, 
+        "tot": 72554, 
+        "gop": 47587
+    }, 
+    "for": "CA/Shasta County/6089", 
+    "pct": {
+        "dem": 28.21, 
+        "per_point_diff": 37.37, 
+        "gop": 65.59
+    }
+}

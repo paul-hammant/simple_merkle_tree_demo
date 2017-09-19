@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 349, 
+        "dem": 4713, 
+        "tot": 9483, 
+        "gop": 4364
+    }, 
+    "for": "TX/Kleberg County/48273", 
+    "pct": {
+        "dem": 49.7, 
+        "per_point_diff": 3.68, 
+        "gop": 46.02
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1254, 
+        "dem": 3720, 
+        "tot": 6237, 
+        "gop": 2466
+    }, 
+    "for": "MS/Jefferson Davis County/28065", 
+    "pct": {
+        "dem": 59.64, 
+        "per_point_diff": 20.11, 
+        "gop": 39.54
+    }
+}

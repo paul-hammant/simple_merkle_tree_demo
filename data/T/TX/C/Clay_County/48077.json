@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3840, 
+        "dem": 536, 
+        "tot": 5011, 
+        "gop": 4376
+    }, 
+    "for": "TX/Clay County/48077", 
+    "pct": {
+        "dem": 10.7, 
+        "per_point_diff": 76.63, 
+        "gop": 87.33
+    }
+}

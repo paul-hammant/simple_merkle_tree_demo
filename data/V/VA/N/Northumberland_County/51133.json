@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2259, 
+        "dem": 2830, 
+        "tot": 8176, 
+        "gop": 5089
+    }, 
+    "for": "VA/Northumberland County/51133", 
+    "pct": {
+        "dem": 34.61, 
+        "per_point_diff": 27.63, 
+        "gop": 62.24
+    }
+}

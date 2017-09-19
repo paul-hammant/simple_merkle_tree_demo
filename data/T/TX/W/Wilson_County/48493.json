@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9201, 
+        "dem": 4790, 
+        "tot": 19255, 
+        "gop": 13991
+    }, 
+    "for": "TX/Wilson County/48493", 
+    "pct": {
+        "dem": 24.88, 
+        "per_point_diff": 47.78, 
+        "gop": 72.66
+    }
+}

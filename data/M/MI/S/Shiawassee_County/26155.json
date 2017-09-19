@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6685, 
+        "dem": 12547, 
+        "tot": 34044, 
+        "gop": 19232
+    }, 
+    "for": "MI/Shiawassee County/26155", 
+    "pct": {
+        "dem": 36.86, 
+        "per_point_diff": 19.64, 
+        "gop": 56.49
+    }
+}

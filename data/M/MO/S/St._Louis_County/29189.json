@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 81785, 
+        "dem": 280866, 
+        "tot": 503493, 
+        "gop": 199081
+    }, 
+    "for": "MO/St. Louis County/29189", 
+    "pct": {
+        "dem": 55.78, 
+        "per_point_diff": 16.24, 
+        "gop": 39.54
+    }
+}

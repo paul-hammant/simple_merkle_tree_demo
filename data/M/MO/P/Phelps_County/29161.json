@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7938, 
+        "dem": 4761, 
+        "tot": 18499, 
+        "gop": 12699
+    }, 
+    "for": "MO/Phelps County/29161", 
+    "pct": {
+        "dem": 25.74, 
+        "per_point_diff": 42.91, 
+        "gop": 68.65
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2679, 
+        "dem": 6358, 
+        "tot": 16559, 
+        "gop": 9037
+    }, 
+    "for": "ME/Washington County/23029", 
+    "pct": {
+        "dem": 38.4, 
+        "per_point_diff": 16.18, 
+        "gop": 54.57
+    }
+}

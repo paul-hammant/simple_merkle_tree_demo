@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12134, 
+        "dem": 6847, 
+        "tot": 26958, 
+        "gop": 18981
+    }, 
+    "for": "TN/Putnam County/47141", 
+    "pct": {
+        "dem": 25.4, 
+        "per_point_diff": 45.01, 
+        "gop": 70.41
+    }
+}

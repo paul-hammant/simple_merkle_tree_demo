@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 932, 
+        "dem": 270, 
+        "tot": 1590, 
+        "gop": 1202
+    }, 
+    "for": "ID/Lewis County/16061", 
+    "pct": {
+        "dem": 16.98, 
+        "per_point_diff": 58.62, 
+        "gop": 75.6
+    }
+}

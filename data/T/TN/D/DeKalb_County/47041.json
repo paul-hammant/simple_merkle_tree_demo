@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3598, 
+        "dem": 1566, 
+        "tot": 6940, 
+        "gop": 5164
+    }, 
+    "for": "TN/DeKalb County/47041", 
+    "pct": {
+        "dem": 22.56, 
+        "per_point_diff": 51.84, 
+        "gop": 74.41
+    }
+}

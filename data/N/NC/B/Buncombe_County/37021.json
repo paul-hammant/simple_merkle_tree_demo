@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 19598, 
+        "dem": 74937, 
+        "tot": 134507, 
+        "gop": 55339
+    }, 
+    "for": "NC/Buncombe County/37021", 
+    "pct": {
+        "dem": 55.71, 
+        "per_point_diff": 14.57, 
+        "gop": 41.14
+    }
+}

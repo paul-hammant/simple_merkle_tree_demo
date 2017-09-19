@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1891, 
+        "dem": 2671, 
+        "tot": 7560, 
+        "gop": 4562
+    }, 
+    "for": "WI/Price County/55099", 
+    "pct": {
+        "dem": 35.33, 
+        "per_point_diff": 25.01, 
+        "gop": 60.34
+    }
+}

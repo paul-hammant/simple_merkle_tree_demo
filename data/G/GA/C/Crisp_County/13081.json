@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1704, 
+        "dem": 2835, 
+        "tot": 7500, 
+        "gop": 4539
+    }, 
+    "for": "GA/Crisp County/13081", 
+    "pct": {
+        "dem": 37.8, 
+        "per_point_diff": 22.72, 
+        "gop": 60.52
+    }
+}

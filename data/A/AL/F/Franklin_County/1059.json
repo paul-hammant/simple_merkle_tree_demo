@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7269, 
+        "dem": 2197, 
+        "tot": 11955, 
+        "gop": 9466
+    }, 
+    "for": "AL/Franklin County/1059", 
+    "pct": {
+        "dem": 18.38, 
+        "per_point_diff": 60.8, 
+        "gop": 79.18
+    }
+}

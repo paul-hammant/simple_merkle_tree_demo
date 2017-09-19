@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 51276, 
+        "dem": 141597, 
+        "tot": 241818, 
+        "gop": 90321
+    }, 
+    "for": "RI/Providence County/44007", 
+    "pct": {
+        "dem": 58.56, 
+        "per_point_diff": 21.2, 
+        "gop": 37.35
+    }
+}

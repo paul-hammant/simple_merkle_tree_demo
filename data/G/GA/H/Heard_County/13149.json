@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2627, 
+        "dem": 743, 
+        "tot": 4206, 
+        "gop": 3370
+    }, 
+    "for": "GA/Heard County/13149", 
+    "pct": {
+        "dem": 17.67, 
+        "per_point_diff": 62.46, 
+        "gop": 80.12
+    }
+}

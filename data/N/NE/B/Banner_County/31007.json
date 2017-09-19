@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 337, 
+        "dem": 18, 
+        "tot": 390, 
+        "gop": 355
+    }, 
+    "for": "NE/Banner County/31007", 
+    "pct": {
+        "dem": 4.62, 
+        "per_point_diff": 86.41, 
+        "gop": 91.03
+    }
+}

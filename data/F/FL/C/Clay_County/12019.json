@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 47130, 
+        "dem": 27768, 
+        "tot": 106363, 
+        "gop": 74898
+    }, 
+    "for": "FL/Clay County/12019", 
+    "pct": {
+        "dem": 26.11, 
+        "per_point_diff": 44.31, 
+        "gop": 70.42
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6926, 
+        "dem": 6746, 
+        "tot": 21398, 
+        "gop": 13672
+    }, 
+    "for": "AZ/Gila County/4007", 
+    "pct": {
+        "dem": 31.53, 
+        "per_point_diff": 32.37, 
+        "gop": 63.89
+    }
+}

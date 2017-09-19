@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16821, 
+        "dem": 2779, 
+        "tot": 22768, 
+        "gop": 19600
+    }, 
+    "for": "TX/Hardin County/48199", 
+    "pct": {
+        "dem": 12.21, 
+        "per_point_diff": 73.88, 
+        "gop": 86.09
+    }
+}

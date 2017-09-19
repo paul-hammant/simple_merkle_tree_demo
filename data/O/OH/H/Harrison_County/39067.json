@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3358, 
+        "dem": 1663, 
+        "tot": 6956, 
+        "gop": 5021
+    }, 
+    "for": "OH/Harrison County/39067", 
+    "pct": {
+        "dem": 23.91, 
+        "per_point_diff": 48.27, 
+        "gop": 72.18
+    }
+}

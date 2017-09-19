@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2057, 
+        "dem": 839, 
+        "tot": 3919, 
+        "gop": 2896
+    }, 
+    "for": "IN/Warren County/18171", 
+    "pct": {
+        "dem": 21.41, 
+        "per_point_diff": 52.49, 
+        "gop": 73.9
+    }
+}

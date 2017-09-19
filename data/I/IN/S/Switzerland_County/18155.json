@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1628, 
+        "dem": 930, 
+        "tot": 3639, 
+        "gop": 2558
+    }, 
+    "for": "IN/Switzerland County/18155", 
+    "pct": {
+        "dem": 25.56, 
+        "per_point_diff": 44.74, 
+        "gop": 70.29
+    }
+}

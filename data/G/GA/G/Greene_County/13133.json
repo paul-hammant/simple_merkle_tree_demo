@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2294, 
+        "dem": 3194, 
+        "tot": 8831, 
+        "gop": 5488
+    }, 
+    "for": "GA/Greene County/13133", 
+    "pct": {
+        "dem": 36.17, 
+        "per_point_diff": 25.98, 
+        "gop": 62.14
+    }
+}

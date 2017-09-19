@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3337, 
+        "dem": 2286, 
+        "tot": 8017, 
+        "gop": 5623
+    }, 
+    "for": "AL/Henry County/1067", 
+    "pct": {
+        "dem": 28.51, 
+        "per_point_diff": 41.62, 
+        "gop": 70.14
+    }
+}

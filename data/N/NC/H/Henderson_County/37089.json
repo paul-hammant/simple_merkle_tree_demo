@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15871, 
+        "dem": 19664, 
+        "tot": 56810, 
+        "gop": 35535
+    }, 
+    "for": "NC/Henderson County/37089", 
+    "pct": {
+        "dem": 34.61, 
+        "per_point_diff": 27.94, 
+        "gop": 62.55
+    }
+}

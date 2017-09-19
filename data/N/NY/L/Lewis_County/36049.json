@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4088, 
+        "dem": 2828, 
+        "tot": 10312, 
+        "gop": 6916
+    }, 
+    "for": "NY/Lewis County/36049", 
+    "pct": {
+        "dem": 27.42, 
+        "per_point_diff": 39.64, 
+        "gop": 67.07
+    }
+}

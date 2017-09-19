@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11096, 
+        "dem": 3437, 
+        "tot": 18551, 
+        "gop": 14533
+    }, 
+    "for": "PA/Jefferson County/42065", 
+    "pct": {
+        "dem": 18.53, 
+        "per_point_diff": 59.81, 
+        "gop": 78.34
+    }
+}

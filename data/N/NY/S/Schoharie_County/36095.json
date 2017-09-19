@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4396, 
+        "dem": 3777, 
+        "tot": 12673, 
+        "gop": 8173
+    }, 
+    "for": "NY/Schoharie County/36095", 
+    "pct": {
+        "dem": 29.8, 
+        "per_point_diff": 34.69, 
+        "gop": 64.49
+    }
+}

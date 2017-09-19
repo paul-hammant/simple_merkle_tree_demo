@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1825, 
+        "dem": 1166, 
+        "tot": 4543, 
+        "gop": 2991
+    }, 
+    "for": "ND/Walsh County/38099", 
+    "pct": {
+        "dem": 25.67, 
+        "per_point_diff": 40.17, 
+        "gop": 65.84
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2189, 
+        "dem": 2655, 
+        "tot": 7837, 
+        "gop": 4844
+    }, 
+    "for": "AR/Conway County/5029", 
+    "pct": {
+        "dem": 33.88, 
+        "per_point_diff": 27.93, 
+        "gop": 61.81
+    }
+}

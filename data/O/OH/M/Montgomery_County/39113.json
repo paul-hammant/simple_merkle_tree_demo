@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3105, 
+        "dem": 117661, 
+        "tot": 249560, 
+        "gop": 120766
+    }, 
+    "for": "OH/Montgomery County/39113", 
+    "pct": {
+        "dem": 47.15, 
+        "per_point_diff": 1.24, 
+        "gop": 48.39
+    }
+}

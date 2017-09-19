@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5350, 
+        "dem": 2224, 
+        "tot": 10422, 
+        "gop": 7574
+    }, 
+    "for": "CA/Lassen County/6035", 
+    "pct": {
+        "dem": 21.34, 
+        "per_point_diff": 51.33, 
+        "gop": 72.67
+    }
+}

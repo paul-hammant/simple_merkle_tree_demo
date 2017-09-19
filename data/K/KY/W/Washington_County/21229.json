@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2593, 
+        "dem": 1420, 
+        "tot": 5621, 
+        "gop": 4013
+    }, 
+    "for": "KY/Washington County/21229", 
+    "pct": {
+        "dem": 25.26, 
+        "per_point_diff": 46.13, 
+        "gop": 71.39
+    }
+}

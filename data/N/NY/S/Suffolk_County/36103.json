@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 51450, 
+        "dem": 276953, 
+        "tot": 625720, 
+        "gop": 328403
+    }, 
+    "for": "NY/Suffolk County/36103", 
+    "pct": {
+        "dem": 44.26, 
+        "per_point_diff": 8.22, 
+        "gop": 52.48
+    }
+}

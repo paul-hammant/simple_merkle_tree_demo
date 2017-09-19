@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5023, 
+        "dem": 2755, 
+        "tot": 10896, 
+        "gop": 7778
+    }, 
+    "for": "KY/Logan County/21141", 
+    "pct": {
+        "dem": 25.28, 
+        "per_point_diff": 46.1, 
+        "gop": 71.38
+    }
+}

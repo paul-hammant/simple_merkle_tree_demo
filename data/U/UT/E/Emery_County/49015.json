@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3023, 
+        "dem": 379, 
+        "tot": 4263, 
+        "gop": 3402
+    }, 
+    "for": "UT/Emery County/49015", 
+    "pct": {
+        "dem": 8.89, 
+        "per_point_diff": 70.91, 
+        "gop": 79.8
+    }
+}

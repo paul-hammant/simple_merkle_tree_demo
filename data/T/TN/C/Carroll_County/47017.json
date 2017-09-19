@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5408, 
+        "dem": 2323, 
+        "tot": 10333, 
+        "gop": 7731
+    }, 
+    "for": "TN/Carroll County/47017", 
+    "pct": {
+        "dem": 22.48, 
+        "per_point_diff": 52.34, 
+        "gop": 74.82
+    }
+}

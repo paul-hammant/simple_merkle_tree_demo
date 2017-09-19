@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 48077, 
+        "dem": 23711, 
+        "tot": 100657, 
+        "gop": 71788
+    }, 
+    "for": "FL/Okaloosa County/12091", 
+    "pct": {
+        "dem": 23.56, 
+        "per_point_diff": 47.76, 
+        "gop": 71.32
+    }
+}

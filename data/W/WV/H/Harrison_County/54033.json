@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11012, 
+        "dem": 7675, 
+        "tot": 27868, 
+        "gop": 18687
+    }, 
+    "for": "WV/Harrison County/54033", 
+    "pct": {
+        "dem": 27.54, 
+        "per_point_diff": 39.51, 
+        "gop": 67.06
+    }
+}

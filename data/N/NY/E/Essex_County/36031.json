@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 515, 
+        "dem": 6760, 
+        "tot": 15079, 
+        "gop": 7275
+    }, 
+    "for": "NY/Essex County/36031", 
+    "pct": {
+        "dem": 44.83, 
+        "per_point_diff": 3.42, 
+        "gop": 48.25
+    }
+}

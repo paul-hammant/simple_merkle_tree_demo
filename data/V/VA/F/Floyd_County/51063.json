@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2989, 
+        "dem": 2300, 
+        "tot": 7972, 
+        "gop": 5289
+    }, 
+    "for": "VA/Floyd County/51063", 
+    "pct": {
+        "dem": 28.85, 
+        "per_point_diff": 37.49, 
+        "gop": 66.34
+    }
+}

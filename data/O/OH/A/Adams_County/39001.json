@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6152, 
+        "dem": 2293, 
+        "tot": 11063, 
+        "gop": 8445
+    }, 
+    "for": "OH/Adams County/39001", 
+    "pct": {
+        "dem": 20.73, 
+        "per_point_diff": 55.61, 
+        "gop": 76.34
+    }
+}

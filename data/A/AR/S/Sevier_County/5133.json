@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2206, 
+        "dem": 1075, 
+        "tot": 4517, 
+        "gop": 3281
+    }, 
+    "for": "AR/Sevier County/5133", 
+    "pct": {
+        "dem": 23.8, 
+        "per_point_diff": 48.84, 
+        "gop": 72.64
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13415, 
+        "dem": 3878, 
+        "tot": 22257, 
+        "gop": 17293
+    }, 
+    "for": "OK/Grady County/40051", 
+    "pct": {
+        "dem": 17.42, 
+        "per_point_diff": 60.27, 
+        "gop": 77.7
+    }
+}

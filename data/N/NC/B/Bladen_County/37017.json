@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1490, 
+        "dem": 7021, 
+        "tot": 15743, 
+        "gop": 8511
+    }, 
+    "for": "NC/Bladen County/37017", 
+    "pct": {
+        "dem": 44.6, 
+        "per_point_diff": 9.46, 
+        "gop": 54.06
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2476, 
+        "dem": 1884, 
+        "tot": 6339, 
+        "gop": 4360
+    }, 
+    "for": "MS/Calhoun County/28013", 
+    "pct": {
+        "dem": 29.72, 
+        "per_point_diff": 39.06, 
+        "gop": 68.78
+    }
+}

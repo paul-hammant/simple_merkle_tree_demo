@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1231, 
+        "dem": 419, 
+        "tot": 2133, 
+        "gop": 1650
+    }, 
+    "for": "IL/Hardin County/17069", 
+    "pct": {
+        "dem": 19.64, 
+        "per_point_diff": 57.71, 
+        "gop": 77.36
+    }
+}

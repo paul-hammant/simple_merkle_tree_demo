@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 455124, 
+        "dem": 560542, 
+        "tot": 680227, 
+        "gop": 105418
+    }, 
+    "for": "PA/Philadelphia County/42101", 
+    "pct": {
+        "dem": 82.41, 
+        "per_point_diff": 66.91, 
+        "gop": 15.5
+    }
+}

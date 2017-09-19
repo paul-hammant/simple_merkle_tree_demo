@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1491, 
+        "dem": 206, 
+        "tot": 1945, 
+        "gop": 1697
+    }, 
+    "for": "TX/Kimble County/48267", 
+    "pct": {
+        "dem": 10.59, 
+        "per_point_diff": 76.66, 
+        "gop": 87.25
+    }
+}

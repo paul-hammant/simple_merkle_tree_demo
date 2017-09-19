@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7540, 
+        "dem": 2535, 
+        "tot": 12906, 
+        "gop": 10075
+    }, 
+    "for": "TX/Hill County/48217", 
+    "pct": {
+        "dem": 19.64, 
+        "per_point_diff": 58.42, 
+        "gop": 78.06
+    }
+}

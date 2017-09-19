@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 578, 
+        "dem": 241, 
+        "tot": 1123, 
+        "gop": 819
+    }, 
+    "for": "SD/Sanborn County/46111", 
+    "pct": {
+        "dem": 21.46, 
+        "per_point_diff": 51.47, 
+        "gop": 72.93
+    }
+}

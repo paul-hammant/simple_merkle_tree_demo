@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5091, 
+        "dem": 2672, 
+        "tot": 10817, 
+        "gop": 7763
+    }, 
+    "for": "OH/Fayette County/39047", 
+    "pct": {
+        "dem": 24.7, 
+        "per_point_diff": 47.06, 
+        "gop": 71.77
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2525, 
+        "dem": 7522, 
+        "tot": 13464, 
+        "gop": 4997
+    }, 
+    "for": "VT/Orange County/50017", 
+    "pct": {
+        "dem": 55.87, 
+        "per_point_diff": 18.75, 
+        "gop": 37.11
+    }
+}

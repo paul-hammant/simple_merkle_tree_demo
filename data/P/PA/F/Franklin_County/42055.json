@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 32232, 
+        "dem": 17322, 
+        "tot": 69345, 
+        "gop": 49554
+    }, 
+    "for": "PA/Franklin County/42055", 
+    "pct": {
+        "dem": 24.98, 
+        "per_point_diff": 46.48, 
+        "gop": 71.46
+    }
+}

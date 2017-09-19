@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1002, 
+        "dem": 1156, 
+        "tot": 3486, 
+        "gop": 2158
+    }, 
+    "for": "MI/Baraga County/26013", 
+    "pct": {
+        "dem": 33.16, 
+        "per_point_diff": 28.74, 
+        "gop": 61.9
+    }
+}

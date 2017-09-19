@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1671, 
+        "dem": 2004, 
+        "tot": 5910, 
+        "gop": 3675
+    }, 
+    "for": "MI/Iron County/26071", 
+    "pct": {
+        "dem": 33.91, 
+        "per_point_diff": 28.27, 
+        "gop": 62.18
+    }
+}

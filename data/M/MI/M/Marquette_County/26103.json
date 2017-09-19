@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1396, 
+        "dem": 16042, 
+        "tot": 32897, 
+        "gop": 14646
+    }, 
+    "for": "MI/Marquette County/26103", 
+    "pct": {
+        "dem": 48.76, 
+        "per_point_diff": 4.24, 
+        "gop": 44.52
+    }
+}

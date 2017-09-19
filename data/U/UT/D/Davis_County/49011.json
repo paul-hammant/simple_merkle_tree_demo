@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 24410, 
+        "dem": 22575, 
+        "tot": 104661, 
+        "gop": 46985
+    }, 
+    "for": "UT/Davis County/49011", 
+    "pct": {
+        "dem": 21.57, 
+        "per_point_diff": 23.32, 
+        "gop": 44.89
+    }
+}

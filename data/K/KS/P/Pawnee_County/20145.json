@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1305, 
+        "dem": 567, 
+        "tot": 2602, 
+        "gop": 1872
+    }, 
+    "for": "KS/Pawnee County/20145", 
+    "pct": {
+        "dem": 21.79, 
+        "per_point_diff": 50.15, 
+        "gop": 71.94
+    }
+}

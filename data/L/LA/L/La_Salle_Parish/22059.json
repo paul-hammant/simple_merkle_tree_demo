@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5230, 
+        "dem": 605, 
+        "tot": 6568, 
+        "gop": 5835
+    }, 
+    "for": "LA/La Salle Parish/22059", 
+    "pct": {
+        "dem": 9.21, 
+        "per_point_diff": 79.63, 
+        "gop": 88.84
+    }
+}

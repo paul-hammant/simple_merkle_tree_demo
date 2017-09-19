@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10298, 
+        "dem": 58481, 
+        "tot": 114664, 
+        "gop": 48183
+    }, 
+    "for": "IA/Linn County/19113", 
+    "pct": {
+        "dem": 51.0, 
+        "per_point_diff": 8.98, 
+        "gop": 42.02
+    }
+}

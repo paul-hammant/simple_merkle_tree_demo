@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 30085, 
+        "dem": 57214, 
+        "tot": 153630, 
+        "gop": 87299
+    }, 
+    "for": "IN/Hamilton County/18057", 
+    "pct": {
+        "dem": 37.24, 
+        "per_point_diff": 19.58, 
+        "gop": 56.82
+    }
+}

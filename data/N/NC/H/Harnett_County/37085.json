@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10826, 
+        "dem": 16452, 
+        "tot": 44955, 
+        "gop": 27278
+    }, 
+    "for": "NC/Harnett County/37085", 
+    "pct": {
+        "dem": 36.6, 
+        "per_point_diff": 24.08, 
+        "gop": 60.68
+    }
+}

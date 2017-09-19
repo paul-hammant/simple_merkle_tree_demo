@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 425, 
+        "dem": 192, 
+        "tot": 903, 
+        "gop": 617
+    }, 
+    "for": "NM/De Baca County/35011", 
+    "pct": {
+        "dem": 21.26, 
+        "per_point_diff": 47.07, 
+        "gop": 68.33
+    }
+}

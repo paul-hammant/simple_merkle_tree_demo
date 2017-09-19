@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3970, 
+        "dem": 27271, 
+        "tot": 54080, 
+        "gop": 23301
+    }, 
+    "for": "WI/Eau Claire County/55035", 
+    "pct": {
+        "dem": 50.43, 
+        "per_point_diff": 7.34, 
+        "gop": 43.09
+    }
+}

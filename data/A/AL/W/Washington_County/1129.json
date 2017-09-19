@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3665, 
+        "dem": 2366, 
+        "tot": 8492, 
+        "gop": 6031
+    }, 
+    "for": "AL/Washington County/1129", 
+    "pct": {
+        "dem": 27.86, 
+        "per_point_diff": 43.16, 
+        "gop": 71.02
+    }
+}

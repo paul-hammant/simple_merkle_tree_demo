@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1273485, 
+        "dem": 1893770, 
+        "tot": 2652072, 
+        "gop": 620285
+    }, 
+    "for": "CA/Los Angeles County/6037", 
+    "pct": {
+        "dem": 71.41, 
+        "per_point_diff": 48.02, 
+        "gop": 23.39
+    }
+}

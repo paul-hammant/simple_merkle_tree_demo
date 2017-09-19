@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1478, 
+        "dem": 3076, 
+        "tot": 4969, 
+        "gop": 1598
+    }, 
+    "for": "MT/Glacier County/30035", 
+    "pct": {
+        "dem": 61.9, 
+        "per_point_diff": 29.74, 
+        "gop": 32.16
+    }
+}

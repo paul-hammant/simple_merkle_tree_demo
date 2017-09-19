@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6752, 
+        "dem": 6243, 
+        "tot": 19979, 
+        "gop": 12995
+    }, 
+    "for": "WI/Marinette County/55075", 
+    "pct": {
+        "dem": 31.25, 
+        "per_point_diff": 33.8, 
+        "gop": 65.04
+    }
+}

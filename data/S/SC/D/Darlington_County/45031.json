@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1107, 
+        "dem": 13866, 
+        "tot": 29636, 
+        "gop": 14973
+    }, 
+    "for": "SC/Darlington County/45031", 
+    "pct": {
+        "dem": 46.79, 
+        "per_point_diff": 3.74, 
+        "gop": 50.52
+    }
+}

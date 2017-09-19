@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 300, 
+        "dem": 8460, 
+        "tot": 18059, 
+        "gop": 8160
+    }, 
+    "for": "MN/Carlton County/27017", 
+    "pct": {
+        "dem": 46.85, 
+        "per_point_diff": 1.66, 
+        "gop": 45.19
+    }
+}

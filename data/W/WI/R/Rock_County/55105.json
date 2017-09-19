@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7853, 
+        "dem": 39336, 
+        "tot": 75043, 
+        "gop": 31483
+    }, 
+    "for": "WI/Rock County/55105", 
+    "pct": {
+        "dem": 52.42, 
+        "per_point_diff": 10.46, 
+        "gop": 41.95
+    }
+}

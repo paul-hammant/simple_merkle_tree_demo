@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3108, 
+        "dem": 2529, 
+        "tot": 8505, 
+        "gop": 5637
+    }, 
+    "for": "IA/Kossuth County/19109", 
+    "pct": {
+        "dem": 29.74, 
+        "per_point_diff": 36.54, 
+        "gop": 66.28
+    }
+}

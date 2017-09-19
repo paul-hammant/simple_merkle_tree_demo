@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 289340, 
+        "dem": 623006, 
+        "tot": 978670, 
+        "gop": 333666
+    }, 
+    "for": "FL/Miami-Dade County/12086", 
+    "pct": {
+        "dem": 63.66, 
+        "per_point_diff": 29.56, 
+        "gop": 34.09
+    }
+}

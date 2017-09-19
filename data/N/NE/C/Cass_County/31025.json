@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4927, 
+        "dem": 3461, 
+        "tot": 12609, 
+        "gop": 8388
+    }, 
+    "for": "NE/Cass County/31025", 
+    "pct": {
+        "dem": 27.45, 
+        "per_point_diff": 39.08, 
+        "gop": 66.52
+    }
+}

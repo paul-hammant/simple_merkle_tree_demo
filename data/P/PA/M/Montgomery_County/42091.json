@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 90260, 
+        "dem": 251063, 
+        "tot": 427489, 
+        "gop": 160803
+    }, 
+    "for": "PA/Montgomery County/42091", 
+    "pct": {
+        "dem": 58.73, 
+        "per_point_diff": 21.11, 
+        "gop": 37.62
+    }
+}

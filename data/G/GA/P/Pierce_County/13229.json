@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5398, 
+        "dem": 903, 
+        "tot": 7297, 
+        "gop": 6301
+    }, 
+    "for": "GA/Pierce County/13229", 
+    "pct": {
+        "dem": 12.37, 
+        "per_point_diff": 73.98, 
+        "gop": 86.35
+    }
+}

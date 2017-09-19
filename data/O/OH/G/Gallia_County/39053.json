@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7003, 
+        "dem": 2564, 
+        "tot": 12588, 
+        "gop": 9567
+    }, 
+    "for": "OH/Gallia County/39053", 
+    "pct": {
+        "dem": 20.37, 
+        "per_point_diff": 55.63, 
+        "gop": 76.0
+    }
+}

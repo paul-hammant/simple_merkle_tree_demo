@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9882, 
+        "dem": 4487, 
+        "tot": 19496, 
+        "gop": 14369
+    }, 
+    "for": "PA/Huntingdon County/42061", 
+    "pct": {
+        "dem": 23.01, 
+        "per_point_diff": 50.69, 
+        "gop": 73.7
+    }
+}

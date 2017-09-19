@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3515, 
+        "dem": 9610, 
+        "tot": 25016, 
+        "gop": 13125
+    }, 
+    "for": "NV/Carson City/32510", 
+    "pct": {
+        "dem": 38.42, 
+        "per_point_diff": 14.05, 
+        "gop": 52.47
+    }
+}

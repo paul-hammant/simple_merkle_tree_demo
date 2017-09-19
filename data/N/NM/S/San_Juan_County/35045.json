@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15053, 
+        "dem": 12826, 
+        "tot": 45476, 
+        "gop": 27879
+    }, 
+    "for": "NM/San Juan County/35045", 
+    "pct": {
+        "dem": 28.2, 
+        "per_point_diff": 33.1, 
+        "gop": 61.3
+    }
+}

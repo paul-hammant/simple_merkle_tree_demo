@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3570, 
+        "dem": 1881, 
+        "tot": 7754, 
+        "gop": 5451
+    }, 
+    "for": "NE/Seward County/31159", 
+    "pct": {
+        "dem": 24.26, 
+        "per_point_diff": 46.04, 
+        "gop": 70.3
+    }
+}

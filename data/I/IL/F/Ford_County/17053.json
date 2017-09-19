@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3064, 
+        "dem": 1410, 
+        "tot": 6289, 
+        "gop": 4474
+    }, 
+    "for": "IL/Ford County/17053", 
+    "pct": {
+        "dem": 22.42, 
+        "per_point_diff": 48.72, 
+        "gop": 71.14
+    }
+}

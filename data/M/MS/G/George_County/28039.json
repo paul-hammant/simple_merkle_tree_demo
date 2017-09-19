@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7639, 
+        "dem": 1013, 
+        "tot": 9831, 
+        "gop": 8652
+    }, 
+    "for": "MS/George County/28039", 
+    "pct": {
+        "dem": 10.3, 
+        "per_point_diff": 77.7, 
+        "gop": 88.01
+    }
+}

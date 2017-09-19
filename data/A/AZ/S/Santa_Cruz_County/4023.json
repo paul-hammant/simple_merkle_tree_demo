@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7034, 
+        "dem": 10684, 
+        "tot": 14926, 
+        "gop": 3650
+    }, 
+    "for": "AZ/Santa Cruz County/4023", 
+    "pct": {
+        "dem": 71.58, 
+        "per_point_diff": 47.13, 
+        "gop": 24.45
+    }
+}

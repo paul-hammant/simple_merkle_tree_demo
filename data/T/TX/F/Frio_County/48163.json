@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 169, 
+        "dem": 1401, 
+        "tot": 2683, 
+        "gop": 1232
+    }, 
+    "for": "TX/Frio County/48163", 
+    "pct": {
+        "dem": 52.22, 
+        "per_point_diff": 6.3, 
+        "gop": 45.92
+    }
+}

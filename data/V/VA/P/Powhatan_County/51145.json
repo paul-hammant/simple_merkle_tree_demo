@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7818, 
+        "dem": 4057, 
+        "tot": 16794, 
+        "gop": 11875
+    }, 
+    "for": "VA/Powhatan County/51145", 
+    "pct": {
+        "dem": 24.16, 
+        "per_point_diff": 46.55, 
+        "gop": 70.71
+    }
+}

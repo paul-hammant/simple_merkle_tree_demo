@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1850, 
+        "dem": 5349, 
+        "tot": 13350, 
+        "gop": 7199
+    }, 
+    "for": "IA/Bremer County/19017", 
+    "pct": {
+        "dem": 40.07, 
+        "per_point_diff": 13.86, 
+        "gop": 53.93
+    }
+}

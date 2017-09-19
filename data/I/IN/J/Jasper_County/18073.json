@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6053, 
+        "dem": 3329, 
+        "tot": 13331, 
+        "gop": 9382
+    }, 
+    "for": "IN/Jasper County/18073", 
+    "pct": {
+        "dem": 24.97, 
+        "per_point_diff": 45.41, 
+        "gop": 70.38
+    }
+}

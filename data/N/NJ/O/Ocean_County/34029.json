@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 88258, 
+        "dem": 81845, 
+        "tot": 259592, 
+        "gop": 170103
+    }, 
+    "for": "NJ/Ocean County/34029", 
+    "pct": {
+        "dem": 31.53, 
+        "per_point_diff": 34.0, 
+        "gop": 65.53
+    }
+}

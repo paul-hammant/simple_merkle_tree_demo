@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13090, 
+        "dem": 7080, 
+        "tot": 29240, 
+        "gop": 20170
+    }, 
+    "for": "OR/Klamath County/41035", 
+    "pct": {
+        "dem": 24.21, 
+        "per_point_diff": 44.77, 
+        "gop": 68.98
+    }
+}

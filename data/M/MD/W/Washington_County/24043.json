@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 19649, 
+        "dem": 19193, 
+        "tot": 60731, 
+        "gop": 38842
+    }, 
+    "for": "MD/Washington County/24043", 
+    "pct": {
+        "dem": 31.6, 
+        "per_point_diff": 32.35, 
+        "gop": 63.96
+    }
+}

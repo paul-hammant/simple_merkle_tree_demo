@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2916, 
+        "dem": 2267, 
+        "tot": 7575, 
+        "gop": 5183
+    }, 
+    "for": "GA/Lamar County/13171", 
+    "pct": {
+        "dem": 29.93, 
+        "per_point_diff": 38.5, 
+        "gop": 68.42
+    }
+}

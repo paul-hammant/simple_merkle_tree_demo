@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1948, 
+        "dem": 255, 
+        "tot": 2928, 
+        "gop": 2203
+    }, 
+    "for": "ID/Bear Lake County/16007", 
+    "pct": {
+        "dem": 8.71, 
+        "per_point_diff": 66.53, 
+        "gop": 75.24
+    }
+}

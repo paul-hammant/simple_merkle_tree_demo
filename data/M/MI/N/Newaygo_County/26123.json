@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8962, 
+        "dem": 6212, 
+        "tot": 22605, 
+        "gop": 15174
+    }, 
+    "for": "MI/Newaygo County/26123", 
+    "pct": {
+        "dem": 27.48, 
+        "per_point_diff": 39.65, 
+        "gop": 67.13
+    }
+}

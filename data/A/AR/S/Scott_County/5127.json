@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1871, 
+        "dem": 507, 
+        "tot": 3017, 
+        "gop": 2378
+    }, 
+    "for": "AR/Scott County/5127", 
+    "pct": {
+        "dem": 16.8, 
+        "per_point_diff": 62.02, 
+        "gop": 78.82
+    }
+}

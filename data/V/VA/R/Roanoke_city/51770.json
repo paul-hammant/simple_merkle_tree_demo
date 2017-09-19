@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7358, 
+        "dem": 23403, 
+        "tot": 41728, 
+        "gop": 16045
+    }, 
+    "for": "VA/Roanoke city/51770", 
+    "pct": {
+        "dem": 56.08, 
+        "per_point_diff": 17.63, 
+        "gop": 38.45
+    }
+}

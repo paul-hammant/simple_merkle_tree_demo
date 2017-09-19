@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3087, 
+        "dem": 1086, 
+        "tot": 5525, 
+        "gop": 4173
+    }, 
+    "for": "OK/Murray County/40099", 
+    "pct": {
+        "dem": 19.66, 
+        "per_point_diff": 55.87, 
+        "gop": 75.53
+    }
+}

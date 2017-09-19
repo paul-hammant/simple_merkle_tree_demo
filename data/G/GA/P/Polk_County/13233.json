@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8143, 
+        "dem": 2863, 
+        "tot": 14158, 
+        "gop": 11006
+    }, 
+    "for": "GA/Polk County/13233", 
+    "pct": {
+        "dem": 20.22, 
+        "per_point_diff": 57.52, 
+        "gop": 77.74
+    }
+}

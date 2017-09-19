@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 594, 
+        "dem": 66355, 
+        "tot": 138388, 
+        "gop": 66949
+    }, 
+    "for": "NJ/Gloucester County/34015", 
+    "pct": {
+        "dem": 47.95, 
+        "per_point_diff": 0.43, 
+        "gop": 48.38
+    }
+}

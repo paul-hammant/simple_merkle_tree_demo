@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6920, 
+        "dem": 6276, 
+        "tot": 20563, 
+        "gop": 13196
+    }, 
+    "for": "KY/Shelby County/21211", 
+    "pct": {
+        "dem": 30.52, 
+        "per_point_diff": 33.65, 
+        "gop": 64.17
+    }
+}

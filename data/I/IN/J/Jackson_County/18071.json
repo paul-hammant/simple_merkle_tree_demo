@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9014, 
+        "dem": 3843, 
+        "tot": 17532, 
+        "gop": 12857
+    }, 
+    "for": "IN/Jackson County/18071", 
+    "pct": {
+        "dem": 21.92, 
+        "per_point_diff": 51.41, 
+        "gop": 73.33
+    }
+}

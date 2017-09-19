@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1663, 
+        "dem": 2409, 
+        "tot": 6837, 
+        "gop": 4072
+    }, 
+    "for": "IA/Allamakee County/19005", 
+    "pct": {
+        "dem": 35.23, 
+        "per_point_diff": 24.32, 
+        "gop": 59.56
+    }
+}

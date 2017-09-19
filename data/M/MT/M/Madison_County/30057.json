@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2105, 
+        "dem": 1175, 
+        "tot": 4708, 
+        "gop": 3280
+    }, 
+    "for": "MT/Madison County/30057", 
+    "pct": {
+        "dem": 24.96, 
+        "per_point_diff": 44.71, 
+        "gop": 69.67
+    }
+}

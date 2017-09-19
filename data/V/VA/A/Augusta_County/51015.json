@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18044, 
+        "dem": 8108, 
+        "tot": 36661, 
+        "gop": 26152
+    }, 
+    "for": "VA/Augusta County/51015", 
+    "pct": {
+        "dem": 22.12, 
+        "per_point_diff": 49.22, 
+        "gop": 71.33
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 780, 
+        "dem": 577, 
+        "tot": 1970, 
+        "gop": 1357
+    }, 
+    "for": "TN/Lake County/47095", 
+    "pct": {
+        "dem": 29.29, 
+        "per_point_diff": 39.59, 
+        "gop": 68.88
+    }
+}

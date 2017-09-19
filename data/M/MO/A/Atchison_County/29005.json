@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1518, 
+        "dem": 541, 
+        "tot": 2723, 
+        "gop": 2059
+    }, 
+    "for": "MO/Atchison County/29005", 
+    "pct": {
+        "dem": 19.87, 
+        "per_point_diff": 55.75, 
+        "gop": 75.62
+    }
+}

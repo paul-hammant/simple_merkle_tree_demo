@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1520, 
+        "dem": 383, 
+        "tot": 2410, 
+        "gop": 1903
+    }, 
+    "for": "WV/Wirt County/54105", 
+    "pct": {
+        "dem": 15.89, 
+        "per_point_diff": 63.07, 
+        "gop": 78.96
+    }
+}

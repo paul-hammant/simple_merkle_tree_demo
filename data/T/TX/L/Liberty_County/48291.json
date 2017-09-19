@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14005, 
+        "dem": 4851, 
+        "tot": 24155, 
+        "gop": 18856
+    }, 
+    "for": "TX/Liberty County/48291", 
+    "pct": {
+        "dem": 20.08, 
+        "per_point_diff": 57.98, 
+        "gop": 78.06
+    }
+}

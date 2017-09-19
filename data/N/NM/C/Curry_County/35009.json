@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4784, 
+        "dem": 2776, 
+        "tot": 11292, 
+        "gop": 7560
+    }, 
+    "for": "NM/Curry County/35009", 
+    "pct": {
+        "dem": 24.58, 
+        "per_point_diff": 42.37, 
+        "gop": 66.95
+    }
+}

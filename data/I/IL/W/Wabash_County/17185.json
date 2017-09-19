@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2893, 
+        "dem": 1146, 
+        "tot": 5402, 
+        "gop": 4039
+    }, 
+    "for": "IL/Wabash County/17185", 
+    "pct": {
+        "dem": 21.21, 
+        "per_point_diff": 53.55, 
+        "gop": 74.77
+    }
+}

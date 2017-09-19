@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9040, 
+        "dem": 6946, 
+        "tot": 24463, 
+        "gop": 15986
+    }, 
+    "for": "NY/Genesee County/36037", 
+    "pct": {
+        "dem": 28.39, 
+        "per_point_diff": 36.95, 
+        "gop": 65.35
+    }
+}

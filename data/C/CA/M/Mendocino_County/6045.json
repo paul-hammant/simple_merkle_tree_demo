@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3334, 
+        "dem": 6905, 
+        "tot": 11435, 
+        "gop": 3571
+    }, 
+    "for": "CA/Mendocino County/6045", 
+    "pct": {
+        "dem": 60.38, 
+        "per_point_diff": 29.16, 
+        "gop": 31.23
+    }
+}

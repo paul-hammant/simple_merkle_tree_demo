@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 110744, 
+        "dem": 273768, 
+        "tot": 467526, 
+        "gop": 163024
+    }, 
+    "for": "CA/Sacramento County/6067", 
+    "pct": {
+        "dem": 58.56, 
+        "per_point_diff": 23.69, 
+        "gop": 34.87
+    }
+}

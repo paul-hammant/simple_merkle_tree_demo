@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2006, 
+        "dem": 705, 
+        "tot": 3522, 
+        "gop": 2711
+    }, 
+    "for": "KY/Bracken County/21023", 
+    "pct": {
+        "dem": 20.02, 
+        "per_point_diff": 56.96, 
+        "gop": 76.97
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2112, 
+        "dem": 744, 
+        "tot": 3831, 
+        "gop": 2856
+    }, 
+    "for": "KS/Cloud County/20029", 
+    "pct": {
+        "dem": 19.42, 
+        "per_point_diff": 55.13, 
+        "gop": 74.55
+    }
+}

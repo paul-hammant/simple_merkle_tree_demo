@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 56322, 
+        "dem": 87663, 
+        "tot": 246557, 
+        "gop": 143985
+    }, 
+    "for": "OK/Tulsa County/40143", 
+    "pct": {
+        "dem": 35.55, 
+        "per_point_diff": 22.84, 
+        "gop": 58.4
+    }
+}

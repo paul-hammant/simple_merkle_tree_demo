@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12137, 
+        "dem": 17281, 
+        "tot": 49381, 
+        "gop": 29418
+    }, 
+    "for": "NY/Chautauqua County/36013", 
+    "pct": {
+        "dem": 35.0, 
+        "per_point_diff": 24.58, 
+        "gop": 59.57
+    }
+}

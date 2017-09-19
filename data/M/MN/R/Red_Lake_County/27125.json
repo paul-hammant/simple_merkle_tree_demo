@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 601, 
+        "dem": 540, 
+        "tot": 1871, 
+        "gop": 1141
+    }, 
+    "for": "MN/Red Lake County/27125", 
+    "pct": {
+        "dem": 28.86, 
+        "per_point_diff": 32.12, 
+        "gop": 60.98
+    }
+}

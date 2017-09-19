@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2323, 
+        "dem": 436, 
+        "tot": 4076, 
+        "gop": 2759
+    }, 
+    "for": "UT/Juab County/49023", 
+    "pct": {
+        "dem": 10.7, 
+        "per_point_diff": 56.99, 
+        "gop": 67.69
+    }
+}

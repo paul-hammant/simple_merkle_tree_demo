@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9711, 
+        "dem": 123660, 
+        "tot": 250264, 
+        "gop": 113949
+    }, 
+    "for": "CA/Fresno County/6019", 
+    "pct": {
+        "dem": 49.41, 
+        "per_point_diff": 3.88, 
+        "gop": 45.53
+    }
+}

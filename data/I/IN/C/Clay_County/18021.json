@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6222, 
+        "dem": 2306, 
+        "tot": 11259, 
+        "gop": 8528
+    }, 
+    "for": "IN/Clay County/18021", 
+    "pct": {
+        "dem": 20.48, 
+        "per_point_diff": 55.26, 
+        "gop": 75.74
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 125, 
+        "dem": 296, 
+        "tot": 490, 
+        "gop": 171
+    }, 
+    "for": "SD/Buffalo County/46017", 
+    "pct": {
+        "dem": 60.41, 
+        "per_point_diff": 25.51, 
+        "gop": 34.9
+    }
+}

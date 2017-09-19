@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2789, 
+        "dem": 452, 
+        "tot": 3765, 
+        "gop": 3241
+    }, 
+    "for": "TX/Runnels County/48399", 
+    "pct": {
+        "dem": 12.01, 
+        "per_point_diff": 74.08, 
+        "gop": 86.08
+    }
+}

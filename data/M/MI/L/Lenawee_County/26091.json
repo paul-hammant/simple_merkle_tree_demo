@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9678, 
+        "dem": 16750, 
+        "tot": 45895, 
+        "gop": 26428
+    }, 
+    "for": "MI/Lenawee County/26091", 
+    "pct": {
+        "dem": 36.5, 
+        "per_point_diff": 21.09, 
+        "gop": 57.58
+    }
+}

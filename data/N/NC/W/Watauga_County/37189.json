@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 432, 
+        "dem": 13953, 
+        "tot": 28769, 
+        "gop": 13521
+    }, 
+    "for": "NC/Watauga County/37189", 
+    "pct": {
+        "dem": 48.5, 
+        "per_point_diff": 1.5, 
+        "gop": 47.0
+    }
+}

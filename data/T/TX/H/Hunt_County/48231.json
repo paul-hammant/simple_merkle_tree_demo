@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17565, 
+        "dem": 6301, 
+        "tot": 31185, 
+        "gop": 23866
+    }, 
+    "for": "TX/Hunt County/48231", 
+    "pct": {
+        "dem": 20.21, 
+        "per_point_diff": 56.33, 
+        "gop": 76.53
+    }
+}

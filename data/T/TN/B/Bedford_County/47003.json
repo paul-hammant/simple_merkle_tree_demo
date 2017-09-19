@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8071, 
+        "dem": 3384, 
+        "tot": 15300, 
+        "gop": 11455
+    }, 
+    "for": "TN/Bedford County/47003", 
+    "pct": {
+        "dem": 22.12, 
+        "per_point_diff": 52.75, 
+        "gop": 74.87
+    }
+}

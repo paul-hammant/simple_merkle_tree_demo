@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5974, 
+        "dem": 25085, 
+        "tot": 48910, 
+        "gop": 19111
+    }, 
+    "for": "IA/Story County/19169", 
+    "pct": {
+        "dem": 51.29, 
+        "per_point_diff": 12.21, 
+        "gop": 39.07
+    }
+}

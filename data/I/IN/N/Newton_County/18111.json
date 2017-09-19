@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2671, 
+        "dem": 1403, 
+        "tot": 5791, 
+        "gop": 4074
+    }, 
+    "for": "IN/Newton County/18111", 
+    "pct": {
+        "dem": 24.23, 
+        "per_point_diff": 46.12, 
+        "gop": 70.35
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 27889, 
+        "dem": 26293, 
+        "tot": 83773, 
+        "gop": 54182
+    }, 
+    "for": "LA/Calcasieu Parish/22019", 
+    "pct": {
+        "dem": 31.39, 
+        "per_point_diff": 33.29, 
+        "gop": 64.68
+    }
+}

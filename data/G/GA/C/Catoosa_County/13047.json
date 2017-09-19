@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16091, 
+        "dem": 4769, 
+        "tot": 26510, 
+        "gop": 20860
+    }, 
+    "for": "GA/Catoosa County/13047", 
+    "pct": {
+        "dem": 17.99, 
+        "per_point_diff": 60.7, 
+        "gop": 78.69
+    }
+}

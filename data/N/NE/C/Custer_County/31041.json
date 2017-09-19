@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3981, 
+        "dem": 635, 
+        "tot": 5489, 
+        "gop": 4616
+    }, 
+    "for": "NE/Custer County/31041", 
+    "pct": {
+        "dem": 11.57, 
+        "per_point_diff": 72.53, 
+        "gop": 84.1
+    }
+}

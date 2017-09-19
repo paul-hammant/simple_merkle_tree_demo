@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1562, 
+        "dem": 388, 
+        "tot": 2513, 
+        "gop": 1950
+    }, 
+    "for": "KS/Harper County/20077", 
+    "pct": {
+        "dem": 15.44, 
+        "per_point_diff": 62.16, 
+        "gop": 77.6
+    }
+}

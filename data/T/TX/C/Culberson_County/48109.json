@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 174, 
+        "dem": 454, 
+        "tot": 762, 
+        "gop": 280
+    }, 
+    "for": "TX/Culberson County/48109", 
+    "pct": {
+        "dem": 59.58, 
+        "per_point_diff": 22.83, 
+        "gop": 36.75
+    }
+}

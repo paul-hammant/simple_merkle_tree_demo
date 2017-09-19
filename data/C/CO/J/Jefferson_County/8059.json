@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 21652, 
+        "dem": 151885, 
+        "tot": 309529, 
+        "gop": 130233
+    }, 
+    "for": "CO/Jefferson County/8059", 
+    "pct": {
+        "dem": 49.07, 
+        "per_point_diff": 7.0, 
+        "gop": 42.07
+    }
+}

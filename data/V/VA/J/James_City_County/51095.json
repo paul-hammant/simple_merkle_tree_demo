@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2193, 
+        "dem": 19091, 
+        "tot": 42737, 
+        "gop": 21284
+    }, 
+    "for": "VA/James City County/51095", 
+    "pct": {
+        "dem": 44.67, 
+        "per_point_diff": 5.13, 
+        "gop": 49.8
+    }
+}

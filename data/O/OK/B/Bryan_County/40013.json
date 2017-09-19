@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7656, 
+        "dem": 2793, 
+        "tot": 13775, 
+        "gop": 10449
+    }, 
+    "for": "OK/Bryan County/40013", 
+    "pct": {
+        "dem": 20.28, 
+        "per_point_diff": 55.58, 
+        "gop": 75.85
+    }
+}

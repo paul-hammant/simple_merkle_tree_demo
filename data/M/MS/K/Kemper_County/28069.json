@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1049, 
+        "dem": 2827, 
+        "tot": 4639, 
+        "gop": 1778
+    }, 
+    "for": "MS/Kemper County/28069", 
+    "pct": {
+        "dem": 60.94, 
+        "per_point_diff": 22.61, 
+        "gop": 38.33
+    }
+}

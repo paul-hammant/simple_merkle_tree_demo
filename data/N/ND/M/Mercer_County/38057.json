@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3099, 
+        "dem": 616, 
+        "tot": 4564, 
+        "gop": 3715
+    }, 
+    "for": "ND/Mercer County/38057", 
+    "pct": {
+        "dem": 13.5, 
+        "per_point_diff": 67.9, 
+        "gop": 81.4
+    }
+}

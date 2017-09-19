@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2457, 
+        "dem": 6018, 
+        "tot": 15623, 
+        "gop": 8475
+    }, 
+    "for": "MI/Houghton County/26061", 
+    "pct": {
+        "dem": 38.52, 
+        "per_point_diff": 15.73, 
+        "gop": 54.25
+    }
+}

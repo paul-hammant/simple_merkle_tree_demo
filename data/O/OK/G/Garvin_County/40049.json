@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6391, 
+        "dem": 1852, 
+        "tot": 10531, 
+        "gop": 8243
+    }, 
+    "for": "OK/Garvin County/40049", 
+    "pct": {
+        "dem": 17.59, 
+        "per_point_diff": 60.69, 
+        "gop": 78.27
+    }
+}

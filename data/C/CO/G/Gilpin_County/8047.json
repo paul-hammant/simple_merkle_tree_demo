@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 70, 
+        "dem": 1634, 
+        "tot": 3574, 
+        "gop": 1564
+    }, 
+    "for": "CO/Gilpin County/8047", 
+    "pct": {
+        "dem": 45.72, 
+        "per_point_diff": 1.96, 
+        "gop": 43.76
+    }
+}

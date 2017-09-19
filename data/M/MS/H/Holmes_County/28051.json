@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4669, 
+        "dem": 5820, 
+        "tot": 7045, 
+        "gop": 1151
+    }, 
+    "for": "MS/Holmes County/28051", 
+    "pct": {
+        "dem": 82.61, 
+        "per_point_diff": 66.27, 
+        "gop": 16.34
+    }
+}

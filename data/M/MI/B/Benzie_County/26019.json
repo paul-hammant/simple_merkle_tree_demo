@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1431, 
+        "dem": 4108, 
+        "tot": 10221, 
+        "gop": 5539
+    }, 
+    "for": "MI/Benzie County/26019", 
+    "pct": {
+        "dem": 40.19, 
+        "per_point_diff": 14.0, 
+        "gop": 54.19
+    }
+}

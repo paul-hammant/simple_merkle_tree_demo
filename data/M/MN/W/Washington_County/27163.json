@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2657, 
+        "dem": 67086, 
+        "tot": 142843, 
+        "gop": 64429
+    }, 
+    "for": "MN/Washington County/27163", 
+    "pct": {
+        "dem": 46.96, 
+        "per_point_diff": 1.86, 
+        "gop": 45.1
+    }
+}

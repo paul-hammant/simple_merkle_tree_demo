@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10806, 
+        "dem": 2665, 
+        "tot": 16633, 
+        "gop": 13471
+    }, 
+    "for": "LA/Vernon Parish/22115", 
+    "pct": {
+        "dem": 16.02, 
+        "per_point_diff": 64.97, 
+        "gop": 80.99
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1903, 
+        "dem": 470, 
+        "tot": 2973, 
+        "gop": 2373
+    }, 
+    "for": "NE/Clay County/31035", 
+    "pct": {
+        "dem": 15.81, 
+        "per_point_diff": 64.01, 
+        "gop": 79.82
+    }
+}

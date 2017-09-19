@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2390, 
+        "dem": 1582, 
+        "tot": 5815, 
+        "gop": 3972
+    }, 
+    "for": "IA/Hancock County/19081", 
+    "pct": {
+        "dem": 27.21, 
+        "per_point_diff": 41.1, 
+        "gop": 68.31
+    }
+}

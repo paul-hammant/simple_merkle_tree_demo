@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5623, 
+        "dem": 3247, 
+        "tot": 12642, 
+        "gop": 8870
+    }, 
+    "for": "WV/Hancock County/54029", 
+    "pct": {
+        "dem": 25.68, 
+        "per_point_diff": 44.48, 
+        "gop": 70.16
+    }
+}

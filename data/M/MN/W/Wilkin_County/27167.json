@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1236, 
+        "dem": 893, 
+        "tot": 3279, 
+        "gop": 2129
+    }, 
+    "for": "MN/Wilkin County/27167", 
+    "pct": {
+        "dem": 27.23, 
+        "per_point_diff": 37.69, 
+        "gop": 64.93
+    }
+}

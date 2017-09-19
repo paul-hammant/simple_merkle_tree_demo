@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6367, 
+        "dem": 2121, 
+        "tot": 11095, 
+        "gop": 8488
+    }, 
+    "for": "IN/Decatur County/18031", 
+    "pct": {
+        "dem": 19.12, 
+        "per_point_diff": 57.39, 
+        "gop": 76.5
+    }
+}

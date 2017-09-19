@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14149, 
+        "dem": 11920, 
+        "tot": 40133, 
+        "gop": 26069
+    }, 
+    "for": "VA/Frederick County/51069", 
+    "pct": {
+        "dem": 29.7, 
+        "per_point_diff": 35.26, 
+        "gop": 64.96
+    }
+}

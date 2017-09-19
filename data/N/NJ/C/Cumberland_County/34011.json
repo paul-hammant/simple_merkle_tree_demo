@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2832, 
+        "dem": 27045, 
+        "tot": 53018, 
+        "gop": 24213
+    }, 
+    "for": "NJ/Cumberland County/34011", 
+    "pct": {
+        "dem": 51.01, 
+        "per_point_diff": 5.34, 
+        "gop": 45.67
+    }
+}

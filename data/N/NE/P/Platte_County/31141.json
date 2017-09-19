@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8252, 
+        "dem": 2612, 
+        "tot": 14047, 
+        "gop": 10864
+    }, 
+    "for": "NE/Platte County/31141", 
+    "pct": {
+        "dem": 18.59, 
+        "per_point_diff": 58.75, 
+        "gop": 77.34
+    }
+}

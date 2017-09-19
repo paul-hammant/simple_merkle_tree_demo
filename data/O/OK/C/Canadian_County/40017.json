@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 28303, 
+        "dem": 11666, 
+        "tot": 55250, 
+        "gop": 39969
+    }, 
+    "for": "OK/Canadian County/40017", 
+    "pct": {
+        "dem": 21.11, 
+        "per_point_diff": 51.23, 
+        "gop": 72.34
+    }
+}

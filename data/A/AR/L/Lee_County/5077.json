@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 506, 
+        "dem": 1735, 
+        "tot": 3004, 
+        "gop": 1229
+    }, 
+    "for": "AR/Lee County/5077", 
+    "pct": {
+        "dem": 57.76, 
+        "per_point_diff": 16.84, 
+        "gop": 40.91
+    }
+}

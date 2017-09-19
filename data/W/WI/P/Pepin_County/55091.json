@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 883, 
+        "dem": 1345, 
+        "tot": 3746, 
+        "gop": 2228
+    }, 
+    "for": "WI/Pepin County/55091", 
+    "pct": {
+        "dem": 35.9, 
+        "per_point_diff": 23.57, 
+        "gop": 59.48
+    }
+}

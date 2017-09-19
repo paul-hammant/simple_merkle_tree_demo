@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2809, 
+        "dem": 1544, 
+        "tot": 6016, 
+        "gop": 4353
+    }, 
+    "for": "GA/Jasper County/13159", 
+    "pct": {
+        "dem": 25.66, 
+        "per_point_diff": 46.69, 
+        "gop": 72.36
+    }
+}

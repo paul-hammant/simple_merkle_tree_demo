@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6000, 
+        "dem": 3535, 
+        "tot": 13565, 
+        "gop": 9535
+    }, 
+    "for": "TN/Warren County/47177", 
+    "pct": {
+        "dem": 26.06, 
+        "per_point_diff": 44.23, 
+        "gop": 70.29
+    }
+}

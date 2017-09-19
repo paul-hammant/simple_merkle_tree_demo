@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3792, 
+        "dem": 6560, 
+        "tot": 9406, 
+        "gop": 2768
+    }, 
+    "for": "MS/Sunflower County/28133", 
+    "pct": {
+        "dem": 69.74, 
+        "per_point_diff": 40.31, 
+        "gop": 29.43
+    }
+}

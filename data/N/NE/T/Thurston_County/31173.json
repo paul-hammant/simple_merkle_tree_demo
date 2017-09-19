@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 102, 
+        "dem": 911, 
+        "tot": 2029, 
+        "gop": 1013
+    }, 
+    "for": "NE/Thurston County/31173", 
+    "pct": {
+        "dem": 44.9, 
+        "per_point_diff": 5.03, 
+        "gop": 49.93
+    }
+}

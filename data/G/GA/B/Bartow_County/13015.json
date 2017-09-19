@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 21675, 
+        "dem": 8204, 
+        "tot": 39263, 
+        "gop": 29879
+    }, 
+    "for": "GA/Bartow County/13015", 
+    "pct": {
+        "dem": 20.89, 
+        "per_point_diff": 55.2, 
+        "gop": 76.1
+    }
+}

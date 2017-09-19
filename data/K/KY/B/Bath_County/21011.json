@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1721, 
+        "dem": 1361, 
+        "tot": 4577, 
+        "gop": 3082
+    }, 
+    "for": "KY/Bath County/21011", 
+    "pct": {
+        "dem": 29.74, 
+        "per_point_diff": 37.6, 
+        "gop": 67.34
+    }
+}

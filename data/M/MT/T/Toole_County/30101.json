@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1096, 
+        "dem": 399, 
+        "tot": 2018, 
+        "gop": 1495
+    }, 
+    "for": "MT/Toole County/30101", 
+    "pct": {
+        "dem": 19.77, 
+        "per_point_diff": 54.31, 
+        "gop": 74.08
+    }
+}

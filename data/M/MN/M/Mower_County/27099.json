@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1382, 
+        "dem": 7444, 
+        "tot": 17587, 
+        "gop": 8826
+    }, 
+    "for": "MN/Mower County/27099", 
+    "pct": {
+        "dem": 42.33, 
+        "per_point_diff": 7.86, 
+        "gop": 50.18
+    }
+}

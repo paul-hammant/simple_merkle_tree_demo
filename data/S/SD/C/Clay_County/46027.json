@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 499, 
+        "dem": 2608, 
+        "tot": 5069, 
+        "gop": 2109
+    }, 
+    "for": "SD/Clay County/46027", 
+    "pct": {
+        "dem": 51.45, 
+        "per_point_diff": 9.84, 
+        "gop": 41.61
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18096, 
+        "dem": 8403, 
+        "tot": 35747, 
+        "gop": 26499
+    }, 
+    "for": "NC/Caldwell County/37027", 
+    "pct": {
+        "dem": 23.51, 
+        "per_point_diff": 50.62, 
+        "gop": 74.13
+    }
+}

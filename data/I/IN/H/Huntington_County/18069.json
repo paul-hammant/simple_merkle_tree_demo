@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8143, 
+        "dem": 3506, 
+        "tot": 15974, 
+        "gop": 11649
+    }, 
+    "for": "IN/Huntington County/18069", 
+    "pct": {
+        "dem": 21.95, 
+        "per_point_diff": 50.98, 
+        "gop": 72.92
+    }
+}

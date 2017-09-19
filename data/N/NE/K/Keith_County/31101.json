@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2643, 
+        "dem": 560, 
+        "tot": 3945, 
+        "gop": 3203
+    }, 
+    "for": "NE/Keith County/31101", 
+    "pct": {
+        "dem": 14.2, 
+        "per_point_diff": 67.0, 
+        "gop": 81.19
+    }
+}

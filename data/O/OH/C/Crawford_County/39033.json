@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8747, 
+        "dem": 4518, 
+        "tot": 18702, 
+        "gop": 13265
+    }, 
+    "for": "OH/Crawford County/39033", 
+    "pct": {
+        "dem": 24.16, 
+        "per_point_diff": 46.77, 
+        "gop": 70.93
+    }
+}

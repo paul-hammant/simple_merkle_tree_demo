@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 626, 
+        "dem": 139, 
+        "tot": 934, 
+        "gop": 765
+    }, 
+    "for": "KS/Wichita County/20203", 
+    "pct": {
+        "dem": 14.88, 
+        "per_point_diff": 67.02, 
+        "gop": 81.91
+    }
+}

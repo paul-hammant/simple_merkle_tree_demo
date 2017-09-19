@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 21199, 
+        "dem": 27046, 
+        "tot": 78255, 
+        "gop": 48245
+    }, 
+    "for": "TX/McLennan County/48309", 
+    "pct": {
+        "dem": 34.56, 
+        "per_point_diff": 27.09, 
+        "gop": 61.65
+    }
+}

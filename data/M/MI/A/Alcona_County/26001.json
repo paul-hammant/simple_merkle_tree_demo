@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2469, 
+        "dem": 1732, 
+        "tot": 6179, 
+        "gop": 4201
+    }, 
+    "for": "MI/Alcona County/26001", 
+    "pct": {
+        "dem": 28.03, 
+        "per_point_diff": 39.96, 
+        "gop": 67.99
+    }
+}

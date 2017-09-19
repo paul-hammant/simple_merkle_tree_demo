@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3391, 
+        "dem": 394, 
+        "tot": 4269, 
+        "gop": 3785
+    }, 
+    "for": "TX/Archer County/48009", 
+    "pct": {
+        "dem": 9.23, 
+        "per_point_diff": 79.43, 
+        "gop": 88.66
+    }
+}

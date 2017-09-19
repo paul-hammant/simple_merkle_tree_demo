@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 22549, 
+        "dem": 12926, 
+        "tot": 50294, 
+        "gop": 35475
+    }, 
+    "for": "PA/Lycoming County/42081", 
+    "pct": {
+        "dem": 25.7, 
+        "per_point_diff": 44.83, 
+        "gop": 70.54
+    }
+}

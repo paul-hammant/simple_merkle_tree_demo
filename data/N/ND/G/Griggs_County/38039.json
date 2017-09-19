@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 549, 
+        "dem": 298, 
+        "tot": 1247, 
+        "gop": 847
+    }, 
+    "for": "ND/Griggs County/38039", 
+    "pct": {
+        "dem": 23.9, 
+        "per_point_diff": 44.03, 
+        "gop": 67.92
+    }
+}

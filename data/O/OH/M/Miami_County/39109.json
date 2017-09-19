@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 23479, 
+        "dem": 12832, 
+        "tot": 51467, 
+        "gop": 36311
+    }, 
+    "for": "OH/Miami County/39109", 
+    "pct": {
+        "dem": 24.93, 
+        "per_point_diff": 45.62, 
+        "gop": 70.55
+    }
+}

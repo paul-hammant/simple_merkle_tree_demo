@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1324, 
+        "dem": 1937, 
+        "tot": 2596, 
+        "gop": 613
+    }, 
+    "for": "TX/Brooks County/48047", 
+    "pct": {
+        "dem": 74.61, 
+        "per_point_diff": 51.0, 
+        "gop": 23.61
+    }
+}

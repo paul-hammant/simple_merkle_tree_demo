@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15479, 
+        "dem": 27985, 
+        "tot": 74996, 
+        "gop": 43464
+    }, 
+    "for": "WV/Kanawha County/54039", 
+    "pct": {
+        "dem": 37.32, 
+        "per_point_diff": 20.64, 
+        "gop": 57.96
+    }
+}

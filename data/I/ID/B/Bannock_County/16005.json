@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6838, 
+        "dem": 10342, 
+        "tot": 33405, 
+        "gop": 17180
+    }, 
+    "for": "ID/Bannock County/16005", 
+    "pct": {
+        "dem": 30.96, 
+        "per_point_diff": 20.47, 
+        "gop": 51.43
+    }
+}

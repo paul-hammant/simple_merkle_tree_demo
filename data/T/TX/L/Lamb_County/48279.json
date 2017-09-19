@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2270, 
+        "dem": 770, 
+        "tot": 3905, 
+        "gop": 3040
+    }, 
+    "for": "TX/Lamb County/48279", 
+    "pct": {
+        "dem": 19.72, 
+        "per_point_diff": 58.13, 
+        "gop": 77.85
+    }
+}

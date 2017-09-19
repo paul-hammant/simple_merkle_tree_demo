@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3422, 
+        "dem": 1441, 
+        "tot": 6576, 
+        "gop": 4863
+    }, 
+    "for": "IN/Parke County/18121", 
+    "pct": {
+        "dem": 21.91, 
+        "per_point_diff": 52.04, 
+        "gop": 73.95
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1351, 
+        "dem": 3521, 
+        "tot": 9056, 
+        "gop": 4872
+    }, 
+    "for": "MT/Park County/30067", 
+    "pct": {
+        "dem": 38.88, 
+        "per_point_diff": 14.92, 
+        "gop": 53.8
+    }
+}

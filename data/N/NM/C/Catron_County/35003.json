@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1027, 
+        "dem": 426, 
+        "tot": 2024, 
+        "gop": 1453
+    }, 
+    "for": "NM/Catron County/35003", 
+    "pct": {
+        "dem": 21.05, 
+        "per_point_diff": 50.74, 
+        "gop": 71.79
+    }
+}

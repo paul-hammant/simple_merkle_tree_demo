@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1511, 
+        "dem": 5278, 
+        "tot": 12910, 
+        "gop": 6789
+    }, 
+    "for": "IL/McDonough County/17109", 
+    "pct": {
+        "dem": 40.88, 
+        "per_point_diff": 11.7, 
+        "gop": 52.59
+    }
+}

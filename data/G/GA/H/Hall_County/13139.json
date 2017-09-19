@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 35528, 
+        "dem": 16153, 
+        "tot": 70133, 
+        "gop": 51681
+    }, 
+    "for": "GA/Hall County/13139", 
+    "pct": {
+        "dem": 23.03, 
+        "per_point_diff": 50.66, 
+        "gop": 73.69
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3295, 
+        "dem": 1249, 
+        "tot": 6022, 
+        "gop": 4544
+    }, 
+    "for": "WV/Hardy County/54031", 
+    "pct": {
+        "dem": 20.74, 
+        "per_point_diff": 54.72, 
+        "gop": 75.46
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 418, 
+        "dem": 3426, 
+        "tot": 7678, 
+        "gop": 3844
+    }, 
+    "for": "WI/Crawford County/55023", 
+    "pct": {
+        "dem": 44.62, 
+        "per_point_diff": 5.44, 
+        "gop": 50.07
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 608, 
+        "dem": 372, 
+        "tot": 1395, 
+        "gop": 980
+    }, 
+    "for": "TX/Crockett County/48105", 
+    "pct": {
+        "dem": 26.67, 
+        "per_point_diff": 43.58, 
+        "gop": 70.25
+    }
+}

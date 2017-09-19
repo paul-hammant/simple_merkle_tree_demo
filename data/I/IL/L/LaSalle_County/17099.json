@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6992, 
+        "dem": 19277, 
+        "tot": 48447, 
+        "gop": 26269
+    }, 
+    "for": "IL/LaSalle County/17099", 
+    "pct": {
+        "dem": 39.79, 
+        "per_point_diff": 14.43, 
+        "gop": 54.22
+    }
+}

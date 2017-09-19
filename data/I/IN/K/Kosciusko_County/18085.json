@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17598, 
+        "dem": 6311, 
+        "tot": 31907, 
+        "gop": 23909
+    }, 
+    "for": "IN/Kosciusko County/18085", 
+    "pct": {
+        "dem": 19.78, 
+        "per_point_diff": 55.15, 
+        "gop": 74.93
+    }
+}

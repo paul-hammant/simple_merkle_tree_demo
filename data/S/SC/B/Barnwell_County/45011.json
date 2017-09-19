@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 493, 
+        "dem": 4395, 
+        "tot": 9479, 
+        "gop": 4888
+    }, 
+    "for": "SC/Barnwell County/45011", 
+    "pct": {
+        "dem": 46.37, 
+        "per_point_diff": 5.2, 
+        "gop": 51.57
+    }
+}

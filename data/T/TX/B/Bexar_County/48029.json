@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 79030, 
+        "dem": 319191, 
+        "tot": 586038, 
+        "gop": 240161
+    }, 
+    "for": "TX/Bexar County/48029", 
+    "pct": {
+        "dem": 54.47, 
+        "per_point_diff": 13.49, 
+        "gop": 40.98
+    }
+}

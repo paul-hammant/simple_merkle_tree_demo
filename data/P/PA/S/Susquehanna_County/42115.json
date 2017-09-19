@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8230, 
+        "dem": 5065, 
+        "tot": 19200, 
+        "gop": 13295
+    }, 
+    "for": "PA/Susquehanna County/42115", 
+    "pct": {
+        "dem": 26.38, 
+        "per_point_diff": 42.86, 
+        "gop": 69.24
+    }
+}

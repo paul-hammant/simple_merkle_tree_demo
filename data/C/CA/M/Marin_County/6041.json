@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 69119, 
+        "dem": 86650, 
+        "tot": 109941, 
+        "gop": 17531
+    }, 
+    "for": "CA/Marin County/6041", 
+    "pct": {
+        "dem": 78.82, 
+        "per_point_diff": 62.87, 
+        "gop": 15.95
+    }
+}

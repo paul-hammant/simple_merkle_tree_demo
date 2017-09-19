@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7902, 
+        "dem": 2809, 
+        "tot": 13860, 
+        "gop": 10711
+    }, 
+    "for": "NC/Cherokee County/37039", 
+    "pct": {
+        "dem": 20.27, 
+        "per_point_diff": 57.01, 
+        "gop": 77.28
+    }
+}

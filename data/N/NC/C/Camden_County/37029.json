@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2261, 
+        "dem": 1266, 
+        "tot": 4939, 
+        "gop": 3527
+    }, 
+    "for": "NC/Camden County/37029", 
+    "pct": {
+        "dem": 25.63, 
+        "per_point_diff": 45.78, 
+        "gop": 71.41
+    }
+}

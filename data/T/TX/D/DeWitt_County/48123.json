@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4349, 
+        "dem": 1161, 
+        "tot": 6822, 
+        "gop": 5510
+    }, 
+    "for": "TX/DeWitt County/48123", 
+    "pct": {
+        "dem": 17.02, 
+        "per_point_diff": 63.75, 
+        "gop": 80.77
+    }
+}

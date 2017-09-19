@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6373, 
+        "dem": 5914, 
+        "tot": 18825, 
+        "gop": 12287
+    }, 
+    "for": "GA/Camden County/13039", 
+    "pct": {
+        "dem": 31.42, 
+        "per_point_diff": 33.85, 
+        "gop": 65.27
+    }
+}

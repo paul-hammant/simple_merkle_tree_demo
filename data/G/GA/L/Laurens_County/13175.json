@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5664, 
+        "dem": 6737, 
+        "tot": 19448, 
+        "gop": 12401
+    }, 
+    "for": "GA/Laurens County/13175", 
+    "pct": {
+        "dem": 34.64, 
+        "per_point_diff": 29.12, 
+        "gop": 63.76
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3659, 
+        "dem": 7102, 
+        "tot": 18664, 
+        "gop": 10761
+    }, 
+    "for": "LA/Lincoln Parish/22061", 
+    "pct": {
+        "dem": 38.05, 
+        "per_point_diff": 19.6, 
+        "gop": 57.66
+    }
+}

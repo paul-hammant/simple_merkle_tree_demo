@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1441, 
+        "dem": 2847, 
+        "tot": 7242, 
+        "gop": 4288
+    }, 
+    "for": "MS/Attala County/28007", 
+    "pct": {
+        "dem": 39.31, 
+        "per_point_diff": 19.9, 
+        "gop": 59.21
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2001, 
+        "dem": 1678, 
+        "tot": 5697, 
+        "gop": 3679
+    }, 
+    "for": "MN/Cottonwood County/27033", 
+    "pct": {
+        "dem": 29.45, 
+        "per_point_diff": 35.12, 
+        "gop": 64.58
+    }
+}

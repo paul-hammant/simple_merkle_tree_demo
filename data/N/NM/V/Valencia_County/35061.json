@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2365, 
+        "dem": 10810, 
+        "tot": 27350, 
+        "gop": 13175
+    }, 
+    "for": "NM/Valencia County/35061", 
+    "pct": {
+        "dem": 39.52, 
+        "per_point_diff": 8.65, 
+        "gop": 48.17
+    }
+}

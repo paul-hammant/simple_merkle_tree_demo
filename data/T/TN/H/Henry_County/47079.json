@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6422, 
+        "dem": 3061, 
+        "tot": 12887, 
+        "gop": 9483
+    }, 
+    "for": "TN/Henry County/47079", 
+    "pct": {
+        "dem": 23.75, 
+        "per_point_diff": 49.83, 
+        "gop": 73.59
+    }
+}

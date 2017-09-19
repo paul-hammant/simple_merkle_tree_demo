@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1205, 
+        "dem": 1635, 
+        "tot": 2119, 
+        "gop": 430
+    }, 
+    "for": "TX/Jim Hogg County/48247", 
+    "pct": {
+        "dem": 77.16, 
+        "per_point_diff": 56.87, 
+        "gop": 20.29
+    }
+}

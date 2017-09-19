@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1547, 
+        "dem": 2569, 
+        "tot": 7129, 
+        "gop": 4116
+    }, 
+    "for": "KS/Geary County/20061", 
+    "pct": {
+        "dem": 36.04, 
+        "per_point_diff": 21.7, 
+        "gop": 57.74
+    }
+}

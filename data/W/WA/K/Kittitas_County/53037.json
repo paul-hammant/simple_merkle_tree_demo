@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2655, 
+        "dem": 7190, 
+        "tot": 18334, 
+        "gop": 9845
+    }, 
+    "for": "WA/Kittitas County/53037", 
+    "pct": {
+        "dem": 39.22, 
+        "per_point_diff": 14.48, 
+        "gop": 53.7
+    }
+}

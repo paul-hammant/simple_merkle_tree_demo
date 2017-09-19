@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 531, 
+        "dem": 15154, 
+        "tot": 32985, 
+        "gop": 15685
+    }, 
+    "for": "WA/Clallam County/53009", 
+    "pct": {
+        "dem": 45.94, 
+        "per_point_diff": 1.61, 
+        "gop": 47.55
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3962, 
+        "dem": 21776, 
+        "tot": 50703, 
+        "gop": 25738
+    }, 
+    "for": "CT/Windham County/9015", 
+    "pct": {
+        "dem": 42.95, 
+        "per_point_diff": 7.81, 
+        "gop": 50.76
+    }
+}

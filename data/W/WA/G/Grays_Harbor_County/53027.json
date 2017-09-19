@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1891, 
+        "dem": 11378, 
+        "tot": 26736, 
+        "gop": 13269
+    }, 
+    "for": "WA/Grays Harbor County/53027", 
+    "pct": {
+        "dem": 42.56, 
+        "per_point_diff": 7.07, 
+        "gop": 49.63
+    }
+}

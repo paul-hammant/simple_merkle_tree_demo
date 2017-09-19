@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8769, 
+        "dem": 32832, 
+        "tot": 80228, 
+        "gop": 41601
+    }, 
+    "for": "ME/Penobscot County/23019", 
+    "pct": {
+        "dem": 40.92, 
+        "per_point_diff": 10.93, 
+        "gop": 51.85
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 716, 
+        "dem": 469, 
+        "tot": 1762, 
+        "gop": 1185
+    }, 
+    "for": "MT/Granite County/30039", 
+    "pct": {
+        "dem": 26.62, 
+        "per_point_diff": 40.64, 
+        "gop": 67.25
+    }
+}

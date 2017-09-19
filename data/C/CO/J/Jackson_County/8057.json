@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 457, 
+        "dem": 171, 
+        "tot": 862, 
+        "gop": 628
+    }, 
+    "for": "CO/Jackson County/8057", 
+    "pct": {
+        "dem": 19.84, 
+        "per_point_diff": 53.02, 
+        "gop": 72.85
+    }
+}

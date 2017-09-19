@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1301, 
+        "dem": 8178, 
+        "tot": 18713, 
+        "gop": 9479
+    }, 
+    "for": "IA/Des Moines County/19057", 
+    "pct": {
+        "dem": 43.7, 
+        "per_point_diff": 6.95, 
+        "gop": 50.65
+    }
+}

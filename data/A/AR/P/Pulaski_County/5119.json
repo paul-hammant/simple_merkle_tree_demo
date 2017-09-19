@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 28195, 
+        "dem": 89377, 
+        "tot": 157728, 
+        "gop": 61182
+    }, 
+    "for": "AR/Pulaski County/5119", 
+    "pct": {
+        "dem": 56.67, 
+        "per_point_diff": 17.88, 
+        "gop": 38.79
+    }
+}

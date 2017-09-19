@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 34554, 
+        "dem": 26834, 
+        "tot": 92027, 
+        "gop": 61388
+    }, 
+    "for": "PA/Butler County/42019", 
+    "pct": {
+        "dem": 29.16, 
+        "per_point_diff": 37.55, 
+        "gop": 66.71
+    }
+}

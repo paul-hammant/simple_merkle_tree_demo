@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4724, 
+        "dem": 3301, 
+        "tot": 11939, 
+        "gop": 8025
+    }, 
+    "for": "AZ/Graham County/4009", 
+    "pct": {
+        "dem": 27.65, 
+        "per_point_diff": 39.57, 
+        "gop": 67.22
+    }
+}

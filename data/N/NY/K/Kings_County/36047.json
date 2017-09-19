@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 461433, 
+        "dem": 595086, 
+        "tot": 746295, 
+        "gop": 133653
+    }, 
+    "for": "NY/Kings County/36047", 
+    "pct": {
+        "dem": 79.74, 
+        "per_point_diff": 61.83, 
+        "gop": 17.91
+    }
+}

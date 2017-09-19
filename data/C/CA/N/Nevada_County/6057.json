@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1513, 
+        "dem": 16199, 
+        "tot": 33258, 
+        "gop": 14686
+    }, 
+    "for": "CA/Nevada County/6057", 
+    "pct": {
+        "dem": 48.71, 
+        "per_point_diff": 4.55, 
+        "gop": 44.16
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 27801, 
+        "dem": 36627, 
+        "tot": 106518, 
+        "gop": 64428
+    }, 
+    "for": "TN/Rutherford County/47149", 
+    "pct": {
+        "dem": 34.39, 
+        "per_point_diff": 26.1, 
+        "gop": 60.49
+    }
+}

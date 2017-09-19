@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15781, 
+        "dem": 30089, 
+        "tot": 48231, 
+        "gop": 14308
+    }, 
+    "for": "KS/Douglas County/20045", 
+    "pct": {
+        "dem": 62.39, 
+        "per_point_diff": 32.72, 
+        "gop": 29.67
+    }
+}

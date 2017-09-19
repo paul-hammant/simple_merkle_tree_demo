@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11794, 
+        "dem": 34383, 
+        "tot": 58327, 
+        "gop": 22589
+    }, 
+    "for": "GA/Bibb County/13021", 
+    "pct": {
+        "dem": 58.95, 
+        "per_point_diff": 20.22, 
+        "gop": 38.73
+    }
+}

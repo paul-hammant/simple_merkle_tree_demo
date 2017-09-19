@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17858, 
+        "dem": 9877, 
+        "tot": 38813, 
+        "gop": 27735
+    }, 
+    "for": "AL/Lauderdale County/1077", 
+    "pct": {
+        "dem": 25.45, 
+        "per_point_diff": 46.01, 
+        "gop": 71.46
+    }
+}

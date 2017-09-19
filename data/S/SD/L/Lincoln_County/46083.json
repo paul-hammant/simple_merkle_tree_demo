@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7423, 
+        "dem": 8076, 
+        "tot": 25231, 
+        "gop": 15499
+    }, 
+    "for": "SD/Lincoln County/46083", 
+    "pct": {
+        "dem": 32.01, 
+        "per_point_diff": 29.42, 
+        "gop": 61.43
+    }
+}

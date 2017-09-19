@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3330, 
+        "dem": 5064, 
+        "tot": 14404, 
+        "gop": 8394
+    }, 
+    "for": "KS/Crawford County/20037", 
+    "pct": {
+        "dem": 35.16, 
+        "per_point_diff": 23.12, 
+        "gop": 58.28
+    }
+}

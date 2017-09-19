@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2464, 
+        "dem": 3493, 
+        "tot": 9534, 
+        "gop": 5957
+    }, 
+    "for": "MS/Wayne County/28153", 
+    "pct": {
+        "dem": 36.64, 
+        "per_point_diff": 25.84, 
+        "gop": 62.48
+    }
+}

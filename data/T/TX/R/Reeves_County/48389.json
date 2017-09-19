@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 242, 
+        "dem": 1659, 
+        "tot": 3184, 
+        "gop": 1417
+    }, 
+    "for": "TX/Reeves County/48389", 
+    "pct": {
+        "dem": 52.1, 
+        "per_point_diff": 7.6, 
+        "gop": 44.5
+    }
+}

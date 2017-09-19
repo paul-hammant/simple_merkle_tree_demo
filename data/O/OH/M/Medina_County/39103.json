@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 22229, 
+        "dem": 31582, 
+        "tot": 89360, 
+        "gop": 53811
+    }, 
+    "for": "OH/Medina County/39103", 
+    "pct": {
+        "dem": 35.34, 
+        "per_point_diff": 24.88, 
+        "gop": 60.22
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1286, 
+        "dem": 656, 
+        "tot": 2691, 
+        "gop": 1942
+    }, 
+    "for": "IL/Gallatin County/17059", 
+    "pct": {
+        "dem": 24.38, 
+        "per_point_diff": 47.79, 
+        "gop": 72.17
+    }
+}

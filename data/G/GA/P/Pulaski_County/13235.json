@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1332, 
+        "dem": 1104, 
+        "tot": 3598, 
+        "gop": 2436
+    }, 
+    "for": "GA/Pulaski County/13235", 
+    "pct": {
+        "dem": 30.68, 
+        "per_point_diff": 37.02, 
+        "gop": 67.7
+    }
+}

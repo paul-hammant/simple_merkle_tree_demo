@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9745, 
+        "dem": 15291, 
+        "tot": 43147, 
+        "gop": 25036
+    }, 
+    "for": "AZ/Cochise County/4003", 
+    "pct": {
+        "dem": 35.44, 
+        "per_point_diff": 22.59, 
+        "gop": 58.02
+    }
+}

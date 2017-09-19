@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12534, 
+        "dem": 26476, 
+        "tot": 68849, 
+        "gop": 39010
+    }, 
+    "for": "WI/Marathon County/55073", 
+    "pct": {
+        "dem": 38.46, 
+        "per_point_diff": 18.21, 
+        "gop": 56.66
+    }
+}

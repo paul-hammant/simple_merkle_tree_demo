@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3509, 
+        "dem": 12811, 
+        "tot": 29902, 
+        "gop": 16320
+    }, 
+    "for": "NC/Franklin County/37069", 
+    "pct": {
+        "dem": 42.84, 
+        "per_point_diff": 11.74, 
+        "gop": 54.58
+    }
+}

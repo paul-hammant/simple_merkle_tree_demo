@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1442, 
+        "dem": 959, 
+        "tot": 3554, 
+        "gop": 2401
+    }, 
+    "for": "IA/Fremont County/19071", 
+    "pct": {
+        "dem": 26.98, 
+        "per_point_diff": 40.57, 
+        "gop": 67.56
+    }
+}

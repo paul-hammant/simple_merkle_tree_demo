@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5622, 
+        "dem": 14532, 
+        "tot": 24691, 
+        "gop": 8910
+    }, 
+    "for": "RI/Bristol County/44001", 
+    "pct": {
+        "dem": 58.86, 
+        "per_point_diff": 22.77, 
+        "gop": 36.09
+    }
+}

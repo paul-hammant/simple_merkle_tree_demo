@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 50, 
+        "dem": 265, 
+        "tot": 506, 
+        "gop": 215
+    }, 
+    "for": "CO/San Juan County/8111", 
+    "pct": {
+        "dem": 52.37, 
+        "per_point_diff": 9.88, 
+        "gop": 42.49
+    }
+}

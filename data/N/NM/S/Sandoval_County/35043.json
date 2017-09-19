@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1657, 
+        "dem": 27405, 
+        "tot": 60597, 
+        "gop": 25748
+    }, 
+    "for": "NM/Sandoval County/35043", 
+    "pct": {
+        "dem": 45.23, 
+        "per_point_diff": 2.73, 
+        "gop": 42.49
+    }
+}

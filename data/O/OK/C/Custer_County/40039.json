@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5716, 
+        "dem": 2102, 
+        "tot": 10531, 
+        "gop": 7818
+    }, 
+    "for": "OK/Custer County/40039", 
+    "pct": {
+        "dem": 19.96, 
+        "per_point_diff": 54.28, 
+        "gop": 74.24
+    }
+}

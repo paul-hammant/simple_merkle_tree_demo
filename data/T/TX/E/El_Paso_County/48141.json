@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 90942, 
+        "dem": 145509, 
+        "tot": 210458, 
+        "gop": 54567
+    }, 
+    "for": "TX/El Paso County/48141", 
+    "pct": {
+        "dem": 69.14, 
+        "per_point_diff": 43.21, 
+        "gop": 25.93
+    }
+}

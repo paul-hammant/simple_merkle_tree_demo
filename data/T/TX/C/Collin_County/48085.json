@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 60558, 
+        "dem": 139837, 
+        "tot": 356545, 
+        "gop": 200395
+    }, 
+    "for": "TX/Collin County/48085", 
+    "pct": {
+        "dem": 39.22, 
+        "per_point_diff": 16.98, 
+        "gop": 56.2
+    }
+}

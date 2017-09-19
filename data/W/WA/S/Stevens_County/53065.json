@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6711, 
+        "dem": 4348, 
+        "tot": 16438, 
+        "gop": 11059
+    }, 
+    "for": "WA/Stevens County/53065", 
+    "pct": {
+        "dem": 26.45, 
+        "per_point_diff": 40.83, 
+        "gop": 67.28
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5429, 
+        "dem": 1843, 
+        "tot": 9702, 
+        "gop": 7272
+    }, 
+    "for": "CO/Logan County/8075", 
+    "pct": {
+        "dem": 19.0, 
+        "per_point_diff": 55.96, 
+        "gop": 74.95
+    }
+}

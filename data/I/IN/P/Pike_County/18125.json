@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3101, 
+        "dem": 1297, 
+        "tot": 5977, 
+        "gop": 4398
+    }, 
+    "for": "IN/Pike County/18125", 
+    "pct": {
+        "dem": 21.7, 
+        "per_point_diff": 51.88, 
+        "gop": 73.58
+    }
+}

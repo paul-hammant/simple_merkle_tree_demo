@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3671, 
+        "dem": 7241, 
+        "tot": 11641, 
+        "gop": 3570
+    }, 
+    "for": "VT/Lamoille County/50015", 
+    "pct": {
+        "dem": 62.2, 
+        "per_point_diff": 31.54, 
+        "gop": 30.67
+    }
+}

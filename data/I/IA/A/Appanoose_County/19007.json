@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2218, 
+        "dem": 1813, 
+        "tot": 6096, 
+        "gop": 4031
+    }, 
+    "for": "IA/Appanoose County/19007", 
+    "pct": {
+        "dem": 29.74, 
+        "per_point_diff": 36.38, 
+        "gop": 66.13
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 570, 
+        "dem": 90, 
+        "tot": 760, 
+        "gop": 660
+    }, 
+    "for": "TX/Irion County/48235", 
+    "pct": {
+        "dem": 11.84, 
+        "per_point_diff": 75.0, 
+        "gop": 86.84
+    }
+}

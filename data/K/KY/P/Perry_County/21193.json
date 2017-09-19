@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6022, 
+        "dem": 2136, 
+        "tot": 10566, 
+        "gop": 8158
+    }, 
+    "for": "KY/Perry County/21193", 
+    "pct": {
+        "dem": 20.22, 
+        "per_point_diff": 56.99, 
+        "gop": 77.21
+    }
+}

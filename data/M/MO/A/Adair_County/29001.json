@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2524, 
+        "dem": 3495, 
+        "tot": 10137, 
+        "gop": 6019
+    }, 
+    "for": "MO/Adair County/29001", 
+    "pct": {
+        "dem": 34.48, 
+        "per_point_diff": 24.9, 
+        "gop": 59.38
+    }
+}

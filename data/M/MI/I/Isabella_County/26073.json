@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 934, 
+        "dem": 11404, 
+        "tot": 25344, 
+        "gop": 12338
+    }, 
+    "for": "MI/Isabella County/26073", 
+    "pct": {
+        "dem": 45.0, 
+        "per_point_diff": 3.69, 
+        "gop": 48.68
+    }
+}

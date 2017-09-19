@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5806, 
+        "dem": 23012, 
+        "tot": 41929, 
+        "gop": 17206
+    }, 
+    "for": "VA/Suffolk city/51800", 
+    "pct": {
+        "dem": 54.88, 
+        "per_point_diff": 13.85, 
+        "gop": 41.04
+    }
+}

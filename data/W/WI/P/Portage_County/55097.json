@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1214, 
+        "dem": 18524, 
+        "tot": 38123, 
+        "gop": 17310
+    }, 
+    "for": "WI/Portage County/55097", 
+    "pct": {
+        "dem": 48.59, 
+        "per_point_diff": 3.18, 
+        "gop": 45.41
+    }
+}

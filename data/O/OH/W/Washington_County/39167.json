@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12060, 
+        "dem": 7841, 
+        "tot": 28992, 
+        "gop": 19901
+    }, 
+    "for": "OH/Washington County/39167", 
+    "pct": {
+        "dem": 27.05, 
+        "per_point_diff": 41.6, 
+        "gop": 68.64
+    }
+}

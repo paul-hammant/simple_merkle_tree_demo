@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6191, 
+        "dem": 2879, 
+        "tot": 12423, 
+        "gop": 9070
+    }, 
+    "for": "NC/Currituck County/37053", 
+    "pct": {
+        "dem": 23.17, 
+        "per_point_diff": 49.83, 
+        "gop": 73.01
+    }
+}

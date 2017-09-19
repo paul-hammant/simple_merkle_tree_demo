@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17256, 
+        "dem": 86590, 
+        "tot": 208081, 
+        "gop": 103846
+    }, 
+    "for": "WA/Spokane County/53063", 
+    "pct": {
+        "dem": 41.61, 
+        "per_point_diff": 8.29, 
+        "gop": 49.91
+    }
+}

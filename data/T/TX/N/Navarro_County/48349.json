@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7986, 
+        "dem": 3998, 
+        "tot": 16382, 
+        "gop": 11984
+    }, 
+    "for": "TX/Navarro County/48349", 
+    "pct": {
+        "dem": 24.4, 
+        "per_point_diff": 48.75, 
+        "gop": 73.15
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18176, 
+        "dem": 35048, 
+        "tot": 91002, 
+        "gop": 53224
+    }, 
+    "for": "NC/Cabarrus County/37025", 
+    "pct": {
+        "dem": 38.51, 
+        "per_point_diff": 19.97, 
+        "gop": 58.49
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5258, 
+        "dem": 19530, 
+        "tot": 37342, 
+        "gop": 14272
+    }, 
+    "for": "CO/Broomfield County/8014", 
+    "pct": {
+        "dem": 52.3, 
+        "per_point_diff": 14.08, 
+        "gop": 38.22
+    }
+}

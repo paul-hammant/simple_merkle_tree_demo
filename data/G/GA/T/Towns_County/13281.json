@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4171, 
+        "dem": 1206, 
+        "tot": 6726, 
+        "gop": 5377
+    }, 
+    "for": "GA/Towns County/13281", 
+    "pct": {
+        "dem": 17.93, 
+        "per_point_diff": 62.01, 
+        "gop": 79.94
+    }
+}

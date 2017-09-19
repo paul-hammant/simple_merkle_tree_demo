@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3366, 
+        "dem": 6668, 
+        "tot": 10123, 
+        "gop": 3302
+    }, 
+    "for": "NC/Warren County/37185", 
+    "pct": {
+        "dem": 65.87, 
+        "per_point_diff": 33.25, 
+        "gop": 32.62
+    }
+}

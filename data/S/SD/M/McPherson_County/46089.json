@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 700, 
+        "dem": 192, 
+        "tot": 1137, 
+        "gop": 892
+    }, 
+    "for": "SD/McPherson County/46089", 
+    "pct": {
+        "dem": 16.89, 
+        "per_point_diff": 61.57, 
+        "gop": 78.45
+    }
+}

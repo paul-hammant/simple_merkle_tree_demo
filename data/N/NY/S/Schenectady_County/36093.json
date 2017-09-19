@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3602, 
+        "dem": 30870, 
+        "tot": 61629, 
+        "gop": 27268
+    }, 
+    "for": "NY/Schenectady County/36093", 
+    "pct": {
+        "dem": 50.09, 
+        "per_point_diff": 5.84, 
+        "gop": 44.25
+    }
+}

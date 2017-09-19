@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1740, 
+        "dem": 544, 
+        "tot": 2958, 
+        "gop": 2284
+    }, 
+    "for": "NE/Howard County/31093", 
+    "pct": {
+        "dem": 18.39, 
+        "per_point_diff": 58.82, 
+        "gop": 77.21
+    }
+}

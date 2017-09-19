@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 558, 
+        "dem": 8026, 
+        "tot": 17398, 
+        "gop": 8584
+    }, 
+    "for": "WI/Door County/55029", 
+    "pct": {
+        "dem": 46.13, 
+        "per_point_diff": 3.21, 
+        "gop": 49.34
+    }
+}

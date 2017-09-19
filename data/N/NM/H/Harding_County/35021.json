@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 155, 
+        "dem": 156, 
+        "tot": 527, 
+        "gop": 311
+    }, 
+    "for": "NM/Harding County/35021", 
+    "pct": {
+        "dem": 29.6, 
+        "per_point_diff": 29.41, 
+        "gop": 59.01
+    }
+}

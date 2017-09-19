@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 871, 
+        "dem": 424, 
+        "tot": 1763, 
+        "gop": 1295
+    }, 
+    "for": "TX/Terry County/48445", 
+    "pct": {
+        "dem": 24.05, 
+        "per_point_diff": 49.4, 
+        "gop": 73.45
+    }
+}

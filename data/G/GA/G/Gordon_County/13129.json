@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11995, 
+        "dem": 3176, 
+        "tot": 18850, 
+        "gop": 15171
+    }, 
+    "for": "GA/Gordon County/13129", 
+    "pct": {
+        "dem": 16.85, 
+        "per_point_diff": 63.63, 
+        "gop": 80.48
+    }
+}

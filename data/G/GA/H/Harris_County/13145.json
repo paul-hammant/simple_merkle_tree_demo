@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7849, 
+        "dem": 4082, 
+        "tot": 16392, 
+        "gop": 11931
+    }, 
+    "for": "GA/Harris County/13145", 
+    "pct": {
+        "dem": 24.9, 
+        "per_point_diff": 47.88, 
+        "gop": 72.79
+    }
+}

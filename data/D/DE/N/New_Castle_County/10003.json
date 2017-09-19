@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 77398, 
+        "dem": 162905, 
+        "tot": 261468, 
+        "gop": 85507
+    }, 
+    "for": "DE/New Castle County/10003", 
+    "pct": {
+        "dem": 62.3, 
+        "per_point_diff": 29.6, 
+        "gop": 32.7
+    }
+}

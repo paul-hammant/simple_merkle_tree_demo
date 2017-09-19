@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17070, 
+        "dem": 11623, 
+        "tot": 41365, 
+        "gop": 28693
+    }, 
+    "for": "TX/Gregg County/48183", 
+    "pct": {
+        "dem": 28.1, 
+        "per_point_diff": 41.27, 
+        "gop": 69.37
+    }
+}

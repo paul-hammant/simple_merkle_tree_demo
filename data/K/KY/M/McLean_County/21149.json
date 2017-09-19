@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2393, 
+        "dem": 988, 
+        "tot": 4565, 
+        "gop": 3381
+    }, 
+    "for": "KY/McLean County/21149", 
+    "pct": {
+        "dem": 21.64, 
+        "per_point_diff": 52.42, 
+        "gop": 74.06
+    }
+}

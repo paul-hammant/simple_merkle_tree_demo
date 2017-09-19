@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 967, 
+        "dem": 699, 
+        "tot": 2758, 
+        "gop": 1666
+    }, 
+    "for": "ID/Power County/16077", 
+    "pct": {
+        "dem": 25.34, 
+        "per_point_diff": 35.06, 
+        "gop": 60.41
+    }
+}

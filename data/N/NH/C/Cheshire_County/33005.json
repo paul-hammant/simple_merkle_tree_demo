@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5188, 
+        "dem": 22064, 
+        "tot": 41080, 
+        "gop": 16876
+    }, 
+    "for": "NH/Cheshire County/33005", 
+    "pct": {
+        "dem": 53.71, 
+        "per_point_diff": 12.63, 
+        "gop": 41.08
+    }
+}

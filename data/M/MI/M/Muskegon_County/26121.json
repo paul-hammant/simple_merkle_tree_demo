@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 678, 
+        "dem": 36640, 
+        "tot": 77114, 
+        "gop": 35962
+    }, 
+    "for": "MI/Muskegon County/26121", 
+    "pct": {
+        "dem": 47.51, 
+        "per_point_diff": 0.88, 
+        "gop": 46.63
+    }
+}

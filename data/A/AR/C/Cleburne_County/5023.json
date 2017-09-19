@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7353, 
+        "dem": 2101, 
+        "tot": 11968, 
+        "gop": 9454
+    }, 
+    "for": "AR/Cleburne County/5023", 
+    "pct": {
+        "dem": 17.56, 
+        "per_point_diff": 61.44, 
+        "gop": 78.99
+    }
+}

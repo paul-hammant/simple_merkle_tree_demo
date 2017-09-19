@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3322, 
+        "dem": 3305, 
+        "tot": 10435, 
+        "gop": 6627
+    }, 
+    "for": "IA/Carroll County/19027", 
+    "pct": {
+        "dem": 31.67, 
+        "per_point_diff": 31.84, 
+        "gop": 63.51
+    }
+}

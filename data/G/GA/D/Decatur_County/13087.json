@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1905, 
+        "dem": 4104, 
+        "tot": 10238, 
+        "gop": 6009
+    }, 
+    "for": "GA/Decatur County/13087", 
+    "pct": {
+        "dem": 40.09, 
+        "per_point_diff": 18.61, 
+        "gop": 58.69
+    }
+}

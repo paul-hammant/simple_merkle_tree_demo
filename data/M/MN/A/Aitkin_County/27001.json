@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2382, 
+        "dem": 3134, 
+        "tot": 9185, 
+        "gop": 5516
+    }, 
+    "for": "MN/Aitkin County/27001", 
+    "pct": {
+        "dem": 34.12, 
+        "per_point_diff": 25.93, 
+        "gop": 60.05
+    }
+}

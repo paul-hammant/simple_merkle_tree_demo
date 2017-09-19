@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12460, 
+        "dem": 11215, 
+        "tot": 36754, 
+        "gop": 23675
+    }, 
+    "for": "IN/Howard County/18067", 
+    "pct": {
+        "dem": 30.51, 
+        "per_point_diff": 33.9, 
+        "gop": 64.41
+    }
+}

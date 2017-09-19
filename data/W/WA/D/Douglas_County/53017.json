@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3608, 
+        "dem": 3600, 
+        "tot": 11467, 
+        "gop": 7208
+    }, 
+    "for": "WA/Douglas County/53017", 
+    "pct": {
+        "dem": 31.39, 
+        "per_point_diff": 31.46, 
+        "gop": 62.86
+    }
+}

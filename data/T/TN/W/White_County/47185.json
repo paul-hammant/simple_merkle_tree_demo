@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5815, 
+        "dem": 1842, 
+        "tot": 9776, 
+        "gop": 7657
+    }, 
+    "for": "TN/White County/47185", 
+    "pct": {
+        "dem": 18.84, 
+        "per_point_diff": 59.48, 
+        "gop": 78.32
+    }
+}

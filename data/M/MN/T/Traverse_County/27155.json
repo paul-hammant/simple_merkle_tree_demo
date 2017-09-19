@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 419, 
+        "dem": 631, 
+        "tot": 1791, 
+        "gop": 1050
+    }, 
+    "for": "MN/Traverse County/27155", 
+    "pct": {
+        "dem": 35.23, 
+        "per_point_diff": 23.39, 
+        "gop": 58.63
+    }
+}

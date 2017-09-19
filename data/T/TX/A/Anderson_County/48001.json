@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9807, 
+        "dem": 3358, 
+        "tot": 16887, 
+        "gop": 13165
+    }, 
+    "for": "TX/Anderson County/48001", 
+    "pct": {
+        "dem": 19.89, 
+        "per_point_diff": 58.07, 
+        "gop": 77.96
+    }
+}

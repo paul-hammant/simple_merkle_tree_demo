@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3049, 
+        "dem": 924, 
+        "tot": 5104, 
+        "gop": 3973
+    }, 
+    "for": "IL/Jasper County/17079", 
+    "pct": {
+        "dem": 18.1, 
+        "per_point_diff": 59.74, 
+        "gop": 77.84
+    }
+}

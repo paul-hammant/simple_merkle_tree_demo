@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2604, 
+        "dem": 1711, 
+        "tot": 6290, 
+        "gop": 4315
+    }, 
+    "for": "OH/Morgan County/39115", 
+    "pct": {
+        "dem": 27.2, 
+        "per_point_diff": 41.4, 
+        "gop": 68.6
+    }
+}

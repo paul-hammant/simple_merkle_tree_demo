@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5943, 
+        "dem": 1823, 
+        "tot": 10088, 
+        "gop": 7766
+    }, 
+    "for": "KS/Barton County/20009", 
+    "pct": {
+        "dem": 18.07, 
+        "per_point_diff": 58.91, 
+        "gop": 76.98
+    }
+}

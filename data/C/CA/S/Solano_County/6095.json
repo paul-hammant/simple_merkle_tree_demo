@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 47564, 
+        "dem": 97159, 
+        "tot": 156067, 
+        "gop": 49595
+    }, 
+    "for": "CA/Solano County/6095", 
+    "pct": {
+        "dem": 62.25, 
+        "per_point_diff": 30.48, 
+        "gop": 31.78
+    }
+}

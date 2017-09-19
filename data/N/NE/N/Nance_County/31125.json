@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 977, 
+        "dem": 280, 
+        "tot": 1599, 
+        "gop": 1257
+    }, 
+    "for": "NE/Nance County/31125", 
+    "pct": {
+        "dem": 17.51, 
+        "per_point_diff": 61.1, 
+        "gop": 78.61
+    }
+}

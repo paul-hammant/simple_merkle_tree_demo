@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9928, 
+        "dem": 7493, 
+        "tot": 26157, 
+        "gop": 17421
+    }, 
+    "for": "MI/Tuscola County/26157", 
+    "pct": {
+        "dem": 28.65, 
+        "per_point_diff": 37.96, 
+        "gop": 66.6
+    }
+}

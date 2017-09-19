@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6108, 
+        "dem": 2039, 
+        "tot": 10376, 
+        "gop": 8147
+    }, 
+    "for": "GA/Wayne County/13305", 
+    "pct": {
+        "dem": 19.65, 
+        "per_point_diff": 58.87, 
+        "gop": 78.52
+    }
+}

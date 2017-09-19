@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8159, 
+        "dem": 2286, 
+        "tot": 13123, 
+        "gop": 10445
+    }, 
+    "for": "TX/Gillespie County/48171", 
+    "pct": {
+        "dem": 17.42, 
+        "per_point_diff": 62.17, 
+        "gop": 79.59
+    }
+}

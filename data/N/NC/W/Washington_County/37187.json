@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 930, 
+        "dem": 3490, 
+        "tot": 6115, 
+        "gop": 2560
+    }, 
+    "for": "NC/Washington County/37187", 
+    "pct": {
+        "dem": 57.07, 
+        "per_point_diff": 15.21, 
+        "gop": 41.86
+    }
+}

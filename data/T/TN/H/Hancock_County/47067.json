@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1520, 
+        "dem": 322, 
+        "tot": 2229, 
+        "gop": 1842
+    }, 
+    "for": "TN/Hancock County/47067", 
+    "pct": {
+        "dem": 14.45, 
+        "per_point_diff": 68.19, 
+        "gop": 82.64
+    }
+}

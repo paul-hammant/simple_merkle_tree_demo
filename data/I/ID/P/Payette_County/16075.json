@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3414, 
+        "dem": 892, 
+        "tot": 5703, 
+        "gop": 4306
+    }, 
+    "for": "ID/Payette County/16075", 
+    "pct": {
+        "dem": 15.64, 
+        "per_point_diff": 59.86, 
+        "gop": 75.5
+    }
+}

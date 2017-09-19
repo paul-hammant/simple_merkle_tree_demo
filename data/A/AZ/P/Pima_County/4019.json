@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 48630, 
+        "dem": 195649, 
+        "tot": 360762, 
+        "gop": 147019
+    }, 
+    "for": "AZ/Pima County/4019", 
+    "pct": {
+        "dem": 54.23, 
+        "per_point_diff": 13.48, 
+        "gop": 40.75
+    }
+}

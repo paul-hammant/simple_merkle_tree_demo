@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2801, 
+        "dem": 1263, 
+        "tot": 5629, 
+        "gop": 4064
+    }, 
+    "for": "AR/Lawrence County/5075", 
+    "pct": {
+        "dem": 22.44, 
+        "per_point_diff": 49.76, 
+        "gop": 72.2
+    }
+}

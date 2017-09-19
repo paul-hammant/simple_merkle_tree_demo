@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3742, 
+        "dem": 5378, 
+        "tot": 15434, 
+        "gop": 9120
+    }, 
+    "for": "MI/Chippewa County/26033", 
+    "pct": {
+        "dem": 34.85, 
+        "per_point_diff": 24.25, 
+        "gop": 59.09
+    }
+}

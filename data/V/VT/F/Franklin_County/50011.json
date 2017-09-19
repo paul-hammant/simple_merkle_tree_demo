@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 599, 
+        "dem": 9351, 
+        "tot": 19373, 
+        "gop": 8752
+    }, 
+    "for": "VT/Franklin County/50011", 
+    "pct": {
+        "dem": 48.27, 
+        "per_point_diff": 3.09, 
+        "gop": 45.18
+    }
+}

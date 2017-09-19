@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1638, 
+        "dem": 1023, 
+        "tot": 3757, 
+        "gop": 2661
+    }, 
+    "for": "GA/Candler County/13043", 
+    "pct": {
+        "dem": 27.23, 
+        "per_point_diff": 43.6, 
+        "gop": 70.83
+    }
+}

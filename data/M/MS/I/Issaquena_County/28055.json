@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 97, 
+        "dem": 395, 
+        "tot": 699, 
+        "gop": 298
+    }, 
+    "for": "MS/Issaquena County/28055", 
+    "pct": {
+        "dem": 56.51, 
+        "per_point_diff": 13.88, 
+        "gop": 42.63
+    }
+}

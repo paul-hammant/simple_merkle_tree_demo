@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 99958, 
+        "dem": 219129, 
+        "tot": 357781, 
+        "gop": 119171
+    }, 
+    "for": "MA/Norfolk County/25021", 
+    "pct": {
+        "dem": 61.25, 
+        "per_point_diff": 27.94, 
+        "gop": 33.31
+    }
+}

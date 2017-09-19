@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1600, 
+        "dem": 232, 
+        "tot": 2159, 
+        "gop": 1832
+    }, 
+    "for": "KS/Scott County/20171", 
+    "pct": {
+        "dem": 10.75, 
+        "per_point_diff": 74.11, 
+        "gop": 84.85
+    }
+}

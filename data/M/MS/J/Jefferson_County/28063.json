@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2848, 
+        "dem": 3337, 
+        "tot": 3859, 
+        "gop": 489
+    }, 
+    "for": "MS/Jefferson County/28063", 
+    "pct": {
+        "dem": 86.47, 
+        "per_point_diff": 73.8, 
+        "gop": 12.67
+    }
+}

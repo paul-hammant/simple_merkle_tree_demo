@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11114, 
+        "dem": 5779, 
+        "tot": 23372, 
+        "gop": 16893
+    }, 
+    "for": "TN/Tipton County/47167", 
+    "pct": {
+        "dem": 24.73, 
+        "per_point_diff": 47.55, 
+        "gop": 72.28
+    }
+}

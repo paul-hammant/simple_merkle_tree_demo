@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3583, 
+        "dem": 1154, 
+        "tot": 5982, 
+        "gop": 4737
+    }, 
+    "for": "TX/Trinity County/48455", 
+    "pct": {
+        "dem": 19.29, 
+        "per_point_diff": 59.9, 
+        "gop": 79.19
+    }
+}

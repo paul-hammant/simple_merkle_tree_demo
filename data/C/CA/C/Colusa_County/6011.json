@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 892, 
+        "dem": 2659, 
+        "tot": 6594, 
+        "gop": 3551
+    }, 
+    "for": "CA/Colusa County/6011", 
+    "pct": {
+        "dem": 40.32, 
+        "per_point_diff": 13.53, 
+        "gop": 53.85
+    }
+}

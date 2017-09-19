@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10876, 
+        "dem": 4818, 
+        "tot": 21545, 
+        "gop": 15694
+    }, 
+    "for": "AR/Pope County/5115", 
+    "pct": {
+        "dem": 22.36, 
+        "per_point_diff": 50.48, 
+        "gop": 72.84
+    }
+}

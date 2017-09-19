@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1852, 
+        "dem": 2291, 
+        "tot": 6595, 
+        "gop": 4143
+    }, 
+    "for": "NC/Perquimans County/37143", 
+    "pct": {
+        "dem": 34.74, 
+        "per_point_diff": 28.08, 
+        "gop": 62.82
+    }
+}

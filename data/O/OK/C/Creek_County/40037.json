@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15705, 
+        "dem": 5834, 
+        "tot": 28786, 
+        "gop": 21539
+    }, 
+    "for": "OK/Creek County/40037", 
+    "pct": {
+        "dem": 20.27, 
+        "per_point_diff": 54.56, 
+        "gop": 74.82
+    }
+}

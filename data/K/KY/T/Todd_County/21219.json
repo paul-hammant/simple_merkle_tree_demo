@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2570, 
+        "dem": 1042, 
+        "tot": 4771, 
+        "gop": 3612
+    }, 
+    "for": "KY/Todd County/21219", 
+    "pct": {
+        "dem": 21.84, 
+        "per_point_diff": 53.87, 
+        "gop": 75.71
+    }
+}

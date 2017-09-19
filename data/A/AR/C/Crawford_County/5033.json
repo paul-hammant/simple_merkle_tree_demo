@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12179, 
+        "dem": 4476, 
+        "tot": 22155, 
+        "gop": 16655
+    }, 
+    "for": "AR/Crawford County/5033", 
+    "pct": {
+        "dem": 20.2, 
+        "per_point_diff": 54.97, 
+        "gop": 75.17
+    }
+}

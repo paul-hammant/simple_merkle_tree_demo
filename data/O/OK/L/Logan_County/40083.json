@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9374, 
+        "dem": 4239, 
+        "tot": 18948, 
+        "gop": 13613
+    }, 
+    "for": "OK/Logan County/40083", 
+    "pct": {
+        "dem": 22.37, 
+        "per_point_diff": 49.47, 
+        "gop": 71.84
+    }
+}

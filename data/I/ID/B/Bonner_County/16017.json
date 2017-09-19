@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5080, 
+        "dem": 5140, 
+        "tot": 16815, 
+        "gop": 10220
+    }, 
+    "for": "ID/Bonner County/16017", 
+    "pct": {
+        "dem": 30.57, 
+        "per_point_diff": 30.21, 
+        "gop": 60.78
+    }
+}

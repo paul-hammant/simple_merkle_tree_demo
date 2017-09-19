@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6745, 
+        "dem": 1800, 
+        "tot": 10736, 
+        "gop": 8545
+    }, 
+    "for": "IN/Daviess County/18027", 
+    "pct": {
+        "dem": 16.77, 
+        "per_point_diff": 62.83, 
+        "gop": 79.59
+    }
+}

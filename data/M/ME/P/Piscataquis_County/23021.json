@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2305, 
+        "dem": 3098, 
+        "tot": 9144, 
+        "gop": 5403
+    }, 
+    "for": "ME/Piscataquis County/23021", 
+    "pct": {
+        "dem": 33.88, 
+        "per_point_diff": 25.21, 
+        "gop": 59.09
+    }
+}

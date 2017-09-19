@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4680, 
+        "dem": 2040, 
+        "tot": 9250, 
+        "gop": 6720
+    }, 
+    "for": "MT/Lincoln County/30053", 
+    "pct": {
+        "dem": 22.05, 
+        "per_point_diff": 50.59, 
+        "gop": 72.65
+    }
+}

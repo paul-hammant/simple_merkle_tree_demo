@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5329, 
+        "dem": 958, 
+        "tot": 7529, 
+        "gop": 6287
+    }, 
+    "for": "OK/Beckham County/40009", 
+    "pct": {
+        "dem": 12.72, 
+        "per_point_diff": 70.78, 
+        "gop": 83.5
+    }
+}

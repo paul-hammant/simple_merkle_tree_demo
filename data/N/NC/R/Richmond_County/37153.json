@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1909, 
+        "dem": 8290, 
+        "tot": 18813, 
+        "gop": 10199
+    }, 
+    "for": "NC/Richmond County/37153", 
+    "pct": {
+        "dem": 44.07, 
+        "per_point_diff": 10.15, 
+        "gop": 54.21
+    }
+}

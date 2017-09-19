@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11185, 
+        "dem": 9483, 
+        "tot": 31346, 
+        "gop": 20668
+    }, 
+    "for": "OH/Jefferson County/39081", 
+    "pct": {
+        "dem": 30.25, 
+        "per_point_diff": 35.68, 
+        "gop": 65.94
+    }
+}

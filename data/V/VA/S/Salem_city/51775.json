@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3013, 
+        "dem": 4212, 
+        "tot": 12129, 
+        "gop": 7225
+    }, 
+    "for": "VA/Salem city/51775", 
+    "pct": {
+        "dem": 34.73, 
+        "per_point_diff": 24.84, 
+        "gop": 59.57
+    }
+}

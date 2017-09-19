@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 26764, 
+        "dem": 62435, 
+        "tot": 159473, 
+        "gop": 89199
+    }, 
+    "for": "AL/Madison County/1089", 
+    "pct": {
+        "dem": 39.15, 
+        "per_point_diff": 16.78, 
+        "gop": 55.93
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2790, 
+        "dem": 387, 
+        "tot": 3635, 
+        "gop": 3177
+    }, 
+    "for": "TX/Coleman County/48083", 
+    "pct": {
+        "dem": 10.65, 
+        "per_point_diff": 76.75, 
+        "gop": 87.4
+    }
+}

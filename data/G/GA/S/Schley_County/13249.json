@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1071, 
+        "dem": 401, 
+        "tot": 1909, 
+        "gop": 1472
+    }, 
+    "for": "GA/Schley County/13249", 
+    "pct": {
+        "dem": 21.01, 
+        "per_point_diff": 56.1, 
+        "gop": 77.11
+    }
+}

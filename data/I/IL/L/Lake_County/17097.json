@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 59578, 
+        "dem": 168186, 
+        "tot": 293574, 
+        "gop": 108608
+    }, 
+    "for": "IL/Lake County/17097", 
+    "pct": {
+        "dem": 57.29, 
+        "per_point_diff": 20.29, 
+        "gop": 37.0
+    }
+}

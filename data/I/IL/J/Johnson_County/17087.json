@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3509, 
+        "dem": 1135, 
+        "tot": 6017, 
+        "gop": 4644
+    }, 
+    "for": "IL/Johnson County/17087", 
+    "pct": {
+        "dem": 18.86, 
+        "per_point_diff": 58.32, 
+        "gop": 77.18
+    }
+}

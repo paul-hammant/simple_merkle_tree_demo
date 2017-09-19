@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1310, 
+        "dem": 700, 
+        "tot": 2779, 
+        "gop": 2010
+    }, 
+    "for": "KY/Menifee County/21165", 
+    "pct": {
+        "dem": 25.19, 
+        "per_point_diff": 47.14, 
+        "gop": 72.33
+    }
+}

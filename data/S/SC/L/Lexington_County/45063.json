@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 44723, 
+        "dem": 35143, 
+        "tot": 121829, 
+        "gop": 79866
+    }, 
+    "for": "SC/Lexington County/45063", 
+    "pct": {
+        "dem": 28.85, 
+        "per_point_diff": 36.71, 
+        "gop": 65.56
+    }
+}

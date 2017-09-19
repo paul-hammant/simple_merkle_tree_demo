@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2481, 
+        "dem": 856, 
+        "tot": 4311, 
+        "gop": 3337
+    }, 
+    "for": "TN/Meigs County/47121", 
+    "pct": {
+        "dem": 19.86, 
+        "per_point_diff": 57.55, 
+        "gop": 77.41
+    }
+}

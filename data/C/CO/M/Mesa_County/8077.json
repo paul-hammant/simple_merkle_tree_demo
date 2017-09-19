@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 27171, 
+        "dem": 20958, 
+        "tot": 74876, 
+        "gop": 48129
+    }, 
+    "for": "CO/Mesa County/8077", 
+    "pct": {
+        "dem": 27.99, 
+        "per_point_diff": 36.29, 
+        "gop": 64.28
+    }
+}

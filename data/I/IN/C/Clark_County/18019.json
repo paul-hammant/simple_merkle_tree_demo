@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11221, 
+        "dem": 18791, 
+        "tot": 51104, 
+        "gop": 30012
+    }, 
+    "for": "IN/Clark County/18019", 
+    "pct": {
+        "dem": 36.77, 
+        "per_point_diff": 21.96, 
+        "gop": 58.73
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3522, 
+        "dem": 3871, 
+        "tot": 11416, 
+        "gop": 7393
+    }, 
+    "for": "MS/Simpson County/28127", 
+    "pct": {
+        "dem": 33.91, 
+        "per_point_diff": 30.85, 
+        "gop": 64.76
+    }
+}

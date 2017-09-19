@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6067, 
+        "dem": 3637, 
+        "tot": 13854, 
+        "gop": 9704
+    }, 
+    "for": "PA/Elk County/42047", 
+    "pct": {
+        "dem": 26.25, 
+        "per_point_diff": 43.79, 
+        "gop": 70.04
+    }
+}

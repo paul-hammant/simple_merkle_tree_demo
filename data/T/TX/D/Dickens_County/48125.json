@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 627, 
+        "dem": 128, 
+        "tot": 909, 
+        "gop": 755
+    }, 
+    "for": "TX/Dickens County/48125", 
+    "pct": {
+        "dem": 14.08, 
+        "per_point_diff": 68.98, 
+        "gop": 83.06
+    }
+}

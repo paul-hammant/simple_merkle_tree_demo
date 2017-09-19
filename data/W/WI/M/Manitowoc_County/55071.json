@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8671, 
+        "dem": 14563, 
+        "tot": 39991, 
+        "gop": 23234
+    }, 
+    "for": "WI/Manitowoc County/55071", 
+    "pct": {
+        "dem": 36.42, 
+        "per_point_diff": 21.68, 
+        "gop": 58.1
+    }
+}

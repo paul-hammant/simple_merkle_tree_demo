@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2506, 
+        "dem": 2153, 
+        "tot": 7355, 
+        "gop": 4659
+    }, 
+    "for": "MN/Faribault County/27043", 
+    "pct": {
+        "dem": 29.27, 
+        "per_point_diff": 34.07, 
+        "gop": 63.34
+    }
+}

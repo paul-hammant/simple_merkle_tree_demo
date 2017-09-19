@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1024, 
+        "dem": 1239, 
+        "tot": 3864, 
+        "gop": 2263
+    }, 
+    "for": "ND/Traill County/38097", 
+    "pct": {
+        "dem": 32.07, 
+        "per_point_diff": 26.5, 
+        "gop": 58.57
+    }
+}

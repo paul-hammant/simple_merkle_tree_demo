@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 791, 
+        "dem": 1741, 
+        "tot": 4444, 
+        "gop": 2532
+    }, 
+    "for": "VA/Rappahannock County/51157", 
+    "pct": {
+        "dem": 39.18, 
+        "per_point_diff": 17.8, 
+        "gop": 56.98
+    }
+}

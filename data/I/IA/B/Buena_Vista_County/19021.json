@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2044, 
+        "dem": 2851, 
+        "tot": 8179, 
+        "gop": 4895
+    }, 
+    "for": "IA/Buena Vista County/19021", 
+    "pct": {
+        "dem": 34.86, 
+        "per_point_diff": 24.99, 
+        "gop": 59.85
+    }
+}

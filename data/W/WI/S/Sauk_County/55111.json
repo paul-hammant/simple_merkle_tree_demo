@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 99, 
+        "dem": 14692, 
+        "tot": 31238, 
+        "gop": 14791
+    }, 
+    "for": "WI/Sauk County/55111", 
+    "pct": {
+        "dem": 47.03, 
+        "per_point_diff": 0.32, 
+        "gop": 47.35
+    }
+}

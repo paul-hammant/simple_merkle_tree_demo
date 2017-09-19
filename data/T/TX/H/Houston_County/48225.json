@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4227, 
+        "dem": 1978, 
+        "tot": 8302, 
+        "gop": 6205
+    }, 
+    "for": "TX/Houston County/48225", 
+    "pct": {
+        "dem": 23.83, 
+        "per_point_diff": 50.92, 
+        "gop": 74.74
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 687, 
+        "dem": 1042, 
+        "tot": 2930, 
+        "gop": 1729
+    }, 
+    "for": "SD/Moody County/46101", 
+    "pct": {
+        "dem": 35.56, 
+        "per_point_diff": 23.45, 
+        "gop": 59.01
+    }
+}

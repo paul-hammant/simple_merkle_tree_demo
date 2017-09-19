@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6131, 
+        "dem": 5032, 
+        "tot": 16581, 
+        "gop": 11163
+    }, 
+    "for": "LA/Avoyelles Parish/22009", 
+    "pct": {
+        "dem": 30.35, 
+        "per_point_diff": 36.98, 
+        "gop": 67.32
+    }
+}

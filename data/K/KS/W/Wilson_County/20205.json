@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2197, 
+        "dem": 550, 
+        "tot": 3482, 
+        "gop": 2747
+    }, 
+    "for": "KS/Wilson County/20205", 
+    "pct": {
+        "dem": 15.8, 
+        "per_point_diff": 63.1, 
+        "gop": 78.89
+    }
+}

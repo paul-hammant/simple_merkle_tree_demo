@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13826, 
+        "dem": 29346, 
+        "tot": 47467, 
+        "gop": 15520
+    }, 
+    "for": "KS/Wyandotte County/20209", 
+    "pct": {
+        "dem": 61.82, 
+        "per_point_diff": 29.13, 
+        "gop": 32.7
+    }
+}

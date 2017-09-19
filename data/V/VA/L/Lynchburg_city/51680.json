@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3192, 
+        "dem": 14787, 
+        "tot": 35349, 
+        "gop": 17979
+    }, 
+    "for": "VA/Lynchburg city/51680", 
+    "pct": {
+        "dem": 41.83, 
+        "per_point_diff": 9.03, 
+        "gop": 50.86
+    }
+}

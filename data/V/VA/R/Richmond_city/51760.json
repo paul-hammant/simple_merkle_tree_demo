@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 60386, 
+        "dem": 74640, 
+        "tot": 94724, 
+        "gop": 14254
+    }, 
+    "for": "VA/Richmond city/51760", 
+    "pct": {
+        "dem": 78.8, 
+        "per_point_diff": 63.75, 
+        "gop": 15.05
+    }
+}

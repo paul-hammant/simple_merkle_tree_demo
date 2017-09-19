@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 550, 
+        "dem": 7886, 
+        "tot": 17914, 
+        "gop": 8436
+    }, 
+    "for": "MN/Nicollet County/27103", 
+    "pct": {
+        "dem": 44.02, 
+        "per_point_diff": 3.07, 
+        "gop": 47.09
+    }
+}

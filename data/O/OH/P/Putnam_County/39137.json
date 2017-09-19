@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11830, 
+        "dem": 2874, 
+        "tot": 18387, 
+        "gop": 14704
+    }, 
+    "for": "OH/Putnam County/39137", 
+    "pct": {
+        "dem": 15.63, 
+        "per_point_diff": 64.34, 
+        "gop": 79.97
+    }
+}

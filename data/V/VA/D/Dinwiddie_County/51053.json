@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1682, 
+        "dem": 5765, 
+        "tot": 13533, 
+        "gop": 7447
+    }, 
+    "for": "VA/Dinwiddie County/51053", 
+    "pct": {
+        "dem": 42.6, 
+        "per_point_diff": 12.43, 
+        "gop": 55.03
+    }
+}

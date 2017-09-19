@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 24741, 
+        "dem": 58669, 
+        "tot": 94572, 
+        "gop": 33928
+    }, 
+    "for": "AL/Montgomery County/1101", 
+    "pct": {
+        "dem": 62.04, 
+        "per_point_diff": 26.16, 
+        "gop": 35.88
+    }
+}

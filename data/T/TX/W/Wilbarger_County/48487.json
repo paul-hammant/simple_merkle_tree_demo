@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2359, 
+        "dem": 807, 
+        "tot": 4101, 
+        "gop": 3166
+    }, 
+    "for": "TX/Wilbarger County/48487", 
+    "pct": {
+        "dem": 19.68, 
+        "per_point_diff": 57.52, 
+        "gop": 77.2
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4122, 
+        "dem": 705, 
+        "tot": 5669, 
+        "gop": 4827
+    }, 
+    "for": "MO/Bollinger County/29017", 
+    "pct": {
+        "dem": 12.44, 
+        "per_point_diff": 72.71, 
+        "gop": 85.15
+    }
+}

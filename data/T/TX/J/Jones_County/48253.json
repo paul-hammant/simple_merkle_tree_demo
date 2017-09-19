@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3880, 
+        "dem": 935, 
+        "tot": 5932, 
+        "gop": 4815
+    }, 
+    "for": "TX/Jones County/48253", 
+    "pct": {
+        "dem": 15.76, 
+        "per_point_diff": 65.41, 
+        "gop": 81.17
+    }
+}

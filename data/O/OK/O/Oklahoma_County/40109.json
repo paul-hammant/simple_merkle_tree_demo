@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 28768, 
+        "dem": 112661, 
+        "tot": 273609, 
+        "gop": 141429
+    }, 
+    "for": "OK/Oklahoma County/40109", 
+    "pct": {
+        "dem": 41.18, 
+        "per_point_diff": 10.51, 
+        "gop": 51.69
+    }
+}

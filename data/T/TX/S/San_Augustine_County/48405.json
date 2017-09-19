@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1713, 
+        "dem": 907, 
+        "tot": 3563, 
+        "gop": 2620
+    }, 
+    "for": "TX/San Augustine County/48405", 
+    "pct": {
+        "dem": 25.46, 
+        "per_point_diff": 48.08, 
+        "gop": 73.53
+    }
+}

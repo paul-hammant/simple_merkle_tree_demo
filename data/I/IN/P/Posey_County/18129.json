@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4878, 
+        "dem": 3515, 
+        "tot": 12448, 
+        "gop": 8393
+    }, 
+    "for": "IN/Posey County/18129", 
+    "pct": {
+        "dem": 28.24, 
+        "per_point_diff": 39.19, 
+        "gop": 67.42
+    }
+}

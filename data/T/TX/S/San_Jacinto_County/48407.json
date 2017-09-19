@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6016, 
+        "dem": 2034, 
+        "tot": 10305, 
+        "gop": 8050
+    }, 
+    "for": "TX/San Jacinto County/48407", 
+    "pct": {
+        "dem": 19.74, 
+        "per_point_diff": 58.38, 
+        "gop": 78.12
+    }
+}

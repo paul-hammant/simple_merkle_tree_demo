@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 19959, 
+        "dem": 50336, 
+        "tot": 127902, 
+        "gop": 70295
+    }, 
+    "for": "IL/Madison County/17119", 
+    "pct": {
+        "dem": 39.36, 
+        "per_point_diff": 15.6, 
+        "gop": 54.96
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 20232, 
+        "dem": 19360, 
+        "tot": 62313, 
+        "gop": 39592
+    }, 
+    "for": "VA/Hanover County/51085", 
+    "pct": {
+        "dem": 31.07, 
+        "per_point_diff": 32.47, 
+        "gop": 63.54
+    }
+}

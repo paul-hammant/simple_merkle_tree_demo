@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13653, 
+        "dem": 17391, 
+        "tot": 51094, 
+        "gop": 31044
+    }, 
+    "for": "WI/Fond du Lac County/55039", 
+    "pct": {
+        "dem": 34.04, 
+        "per_point_diff": 26.72, 
+        "gop": 60.76
+    }
+}

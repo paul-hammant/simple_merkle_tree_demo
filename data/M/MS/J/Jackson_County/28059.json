@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18117, 
+        "dem": 13087, 
+        "tot": 45465, 
+        "gop": 31204
+    }, 
+    "for": "MS/Jackson County/28059", 
+    "pct": {
+        "dem": 28.78, 
+        "per_point_diff": 39.85, 
+        "gop": 68.63
+    }
+}

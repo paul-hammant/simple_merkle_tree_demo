@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8455, 
+        "dem": 3939, 
+        "tot": 17268, 
+        "gop": 12394
+    }, 
+    "for": "IL/Clinton County/17027", 
+    "pct": {
+        "dem": 22.81, 
+        "per_point_diff": 48.96, 
+        "gop": 71.77
+    }
+}

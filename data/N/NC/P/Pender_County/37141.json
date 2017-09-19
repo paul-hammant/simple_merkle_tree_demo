@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8231, 
+        "dem": 9086, 
+        "tot": 27072, 
+        "gop": 17317
+    }, 
+    "for": "NC/Pender County/37141", 
+    "pct": {
+        "dem": 33.56, 
+        "per_point_diff": 30.4, 
+        "gop": 63.97
+    }
+}

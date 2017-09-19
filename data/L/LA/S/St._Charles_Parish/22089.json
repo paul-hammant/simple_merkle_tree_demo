@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8062, 
+        "dem": 8558, 
+        "tot": 26190, 
+        "gop": 16620
+    }, 
+    "for": "LA/St. Charles Parish/22089", 
+    "pct": {
+        "dem": 32.68, 
+        "per_point_diff": 30.78, 
+        "gop": 63.46
+    }
+}

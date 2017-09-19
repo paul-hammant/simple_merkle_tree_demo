@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2148, 
+        "dem": 704, 
+        "tot": 3801, 
+        "gop": 2852
+    }, 
+    "for": "ID/Clearwater County/16035", 
+    "pct": {
+        "dem": 18.52, 
+        "per_point_diff": 56.51, 
+        "gop": 75.03
+    }
+}

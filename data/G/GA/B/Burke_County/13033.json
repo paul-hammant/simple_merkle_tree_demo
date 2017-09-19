@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 239, 
+        "dem": 4730, 
+        "tot": 9350, 
+        "gop": 4491
+    }, 
+    "for": "GA/Burke County/13033", 
+    "pct": {
+        "dem": 50.59, 
+        "per_point_diff": 2.56, 
+        "gop": 48.03
+    }
+}

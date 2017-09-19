@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2011, 
+        "dem": 850, 
+        "tot": 3960, 
+        "gop": 2861
+    }, 
+    "for": "KS/Brown County/20013", 
+    "pct": {
+        "dem": 21.46, 
+        "per_point_diff": 50.78, 
+        "gop": 72.25
+    }
+}

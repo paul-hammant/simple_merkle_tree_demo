@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 375, 
+        "dem": 5161, 
+        "tot": 10574, 
+        "gop": 4786
+    }, 
+    "for": "VA/Winchester city/51840", 
+    "pct": {
+        "dem": 48.81, 
+        "per_point_diff": 3.55, 
+        "gop": 45.26
+    }
+}

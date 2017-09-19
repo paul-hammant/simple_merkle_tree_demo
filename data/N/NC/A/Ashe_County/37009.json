@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5877, 
+        "dem": 3476, 
+        "tot": 13160, 
+        "gop": 9353
+    }, 
+    "for": "NC/Ashe County/37009", 
+    "pct": {
+        "dem": 26.41, 
+        "per_point_diff": 44.66, 
+        "gop": 71.07
+    }
+}

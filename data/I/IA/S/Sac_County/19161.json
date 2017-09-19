@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2423, 
+        "dem": 1269, 
+        "tot": 5158, 
+        "gop": 3692
+    }, 
+    "for": "IA/Sac County/19161", 
+    "pct": {
+        "dem": 24.6, 
+        "per_point_diff": 46.98, 
+        "gop": 71.58
+    }
+}

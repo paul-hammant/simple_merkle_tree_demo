@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1074, 
+        "dem": 44395, 
+        "tot": 94198, 
+        "gop": 45469
+    }, 
+    "for": "MI/Saginaw County/26145", 
+    "pct": {
+        "dem": 47.13, 
+        "per_point_diff": 1.14, 
+        "gop": 48.27
+    }
+}

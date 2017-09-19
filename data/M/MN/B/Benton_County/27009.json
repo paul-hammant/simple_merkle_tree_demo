@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7232, 
+        "dem": 5640, 
+        "tot": 19911, 
+        "gop": 12872
+    }, 
+    "for": "MN/Benton County/27009", 
+    "pct": {
+        "dem": 28.33, 
+        "per_point_diff": 36.32, 
+        "gop": 64.65
+    }
+}

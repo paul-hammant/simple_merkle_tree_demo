@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4055, 
+        "dem": 2418, 
+        "tot": 9336, 
+        "gop": 6473
+    }, 
+    "for": "OK/Caddo County/40015", 
+    "pct": {
+        "dem": 25.9, 
+        "per_point_diff": 43.43, 
+        "gop": 69.33
+    }
+}

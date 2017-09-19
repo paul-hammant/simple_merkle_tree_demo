@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 608, 
+        "dem": 3723, 
+        "tot": 8291, 
+        "gop": 4331
+    }, 
+    "for": "VA/Westmoreland County/51193", 
+    "pct": {
+        "dem": 44.9, 
+        "per_point_diff": 7.33, 
+        "gop": 52.24
+    }
+}

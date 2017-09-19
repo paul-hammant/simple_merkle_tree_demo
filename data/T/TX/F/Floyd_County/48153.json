@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1038, 
+        "dem": 435, 
+        "tot": 1958, 
+        "gop": 1473
+    }, 
+    "for": "TX/Floyd County/48153", 
+    "pct": {
+        "dem": 22.22, 
+        "per_point_diff": 53.01, 
+        "gop": 75.23
+    }
+}

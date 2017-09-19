@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 264, 
+        "dem": 65, 
+        "tot": 423, 
+        "gop": 329
+    }, 
+    "for": "NV/Esmeralda County/32009", 
+    "pct": {
+        "dem": 15.37, 
+        "per_point_diff": 62.41, 
+        "gop": 77.78
+    }
+}

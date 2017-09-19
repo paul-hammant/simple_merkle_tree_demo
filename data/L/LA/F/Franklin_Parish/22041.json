@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4008, 
+        "dem": 2506, 
+        "tot": 9162, 
+        "gop": 6514
+    }, 
+    "for": "LA/Franklin Parish/22041", 
+    "pct": {
+        "dem": 27.35, 
+        "per_point_diff": 43.75, 
+        "gop": 71.1
+    }
+}

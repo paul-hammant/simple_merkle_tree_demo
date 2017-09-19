@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5188, 
+        "dem": 2024, 
+        "tot": 9584, 
+        "gop": 7212
+    }, 
+    "for": "MO/Benton County/29015", 
+    "pct": {
+        "dem": 21.12, 
+        "per_point_diff": 54.13, 
+        "gop": 75.25
+    }
+}

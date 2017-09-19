@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3440, 
+        "dem": 651, 
+        "tot": 5714, 
+        "gop": 4091
+    }, 
+    "for": "ID/Fremont County/16043", 
+    "pct": {
+        "dem": 11.39, 
+        "per_point_diff": 60.2, 
+        "gop": 71.6
+    }
+}

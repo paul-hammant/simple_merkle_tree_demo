@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9092, 
+        "dem": 63037, 
+        "tot": 140753, 
+        "gop": 72129
+    }, 
+    "for": "NY/Orange County/36071", 
+    "pct": {
+        "dem": 44.79, 
+        "per_point_diff": 6.46, 
+        "gop": 51.25
+    }
+}

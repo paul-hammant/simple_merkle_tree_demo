@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 125, 
+        "dem": 650, 
+        "tot": 1440, 
+        "gop": 775
+    }, 
+    "for": "GA/Baker County/13007", 
+    "pct": {
+        "dem": 45.14, 
+        "per_point_diff": 8.68, 
+        "gop": 53.82
+    }
+}

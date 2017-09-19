@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2213, 
+        "dem": 1419, 
+        "tot": 5157, 
+        "gop": 3632
+    }, 
+    "for": "GA/Crawford County/13079", 
+    "pct": {
+        "dem": 27.52, 
+        "per_point_diff": 42.91, 
+        "gop": 70.43
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 286, 
+        "dem": 2923, 
+        "tot": 6032, 
+        "gop": 2637
+    }, 
+    "for": "VA/Radford city/51750", 
+    "pct": {
+        "dem": 48.46, 
+        "per_point_diff": 4.74, 
+        "gop": 43.72
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17303, 
+        "dem": 12734, 
+        "tot": 45126, 
+        "gop": 30037
+    }, 
+    "for": "MI/Lapeer County/26087", 
+    "pct": {
+        "dem": 28.22, 
+        "per_point_diff": 38.34, 
+        "gop": 66.56
+    }
+}

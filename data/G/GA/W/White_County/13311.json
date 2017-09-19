@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8079, 
+        "dem": 1672, 
+        "tot": 11771, 
+        "gop": 9751
+    }, 
+    "for": "GA/White County/13311", 
+    "pct": {
+        "dem": 14.2, 
+        "per_point_diff": 68.63, 
+        "gop": 82.84
+    }
+}

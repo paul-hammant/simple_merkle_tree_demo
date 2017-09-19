@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3700, 
+        "dem": 1377, 
+        "tot": 6718, 
+        "gop": 5077
+    }, 
+    "for": "AR/Marion County/5089", 
+    "pct": {
+        "dem": 20.5, 
+        "per_point_diff": 55.08, 
+        "gop": 75.57
+    }
+}

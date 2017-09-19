@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1667, 
+        "dem": 11872, 
+        "tot": 27767, 
+        "gop": 13539
+    }, 
+    "for": "WA/Mason County/53045", 
+    "pct": {
+        "dem": 42.76, 
+        "per_point_diff": 6.0, 
+        "gop": 48.76
+    }
+}

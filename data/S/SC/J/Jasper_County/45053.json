@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1689, 
+        "dem": 7789, 
+        "tot": 14216, 
+        "gop": 6100
+    }, 
+    "for": "SC/Jasper County/45053", 
+    "pct": {
+        "dem": 54.79, 
+        "per_point_diff": 11.88, 
+        "gop": 42.91
+    }
+}

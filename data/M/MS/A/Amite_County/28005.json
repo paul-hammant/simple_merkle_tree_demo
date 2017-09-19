@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1594, 
+        "dem": 2688, 
+        "tot": 7033, 
+        "gop": 4282
+    }, 
+    "for": "MS/Amite County/28005", 
+    "pct": {
+        "dem": 38.22, 
+        "per_point_diff": 22.66, 
+        "gop": 60.88
+    }
+}

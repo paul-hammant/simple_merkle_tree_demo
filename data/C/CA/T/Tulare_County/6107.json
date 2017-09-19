@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11389, 
+        "dem": 39099, 
+        "tot": 94571, 
+        "gop": 50488
+    }, 
+    "for": "CA/Tulare County/6107", 
+    "pct": {
+        "dem": 41.34, 
+        "per_point_diff": 12.04, 
+        "gop": 53.39
+    }
+}

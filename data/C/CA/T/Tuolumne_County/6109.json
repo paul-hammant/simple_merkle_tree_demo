@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4906, 
+        "dem": 8580, 
+        "tot": 23472, 
+        "gop": 13486
+    }, 
+    "for": "CA/Tuolumne County/6109", 
+    "pct": {
+        "dem": 36.55, 
+        "per_point_diff": 20.9, 
+        "gop": 57.46
+    }
+}

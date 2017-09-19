@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6850, 
+        "dem": 16559, 
+        "tot": 42324, 
+        "gop": 23409
+    }, 
+    "for": "WI/Jefferson County/55055", 
+    "pct": {
+        "dem": 39.12, 
+        "per_point_diff": 16.18, 
+        "gop": 55.31
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12675, 
+        "dem": 13968, 
+        "tot": 42818, 
+        "gop": 26643
+    }, 
+    "for": "WI/Dodge County/55027", 
+    "pct": {
+        "dem": 32.62, 
+        "per_point_diff": 29.6, 
+        "gop": 62.22
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10075, 
+        "dem": 17481, 
+        "tot": 46231, 
+        "gop": 27556
+    }, 
+    "for": "NC/Craven County/37049", 
+    "pct": {
+        "dem": 37.81, 
+        "per_point_diff": 21.79, 
+        "gop": 59.61
+    }
+}

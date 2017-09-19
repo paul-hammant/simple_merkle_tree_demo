@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6597, 
+        "dem": 5165, 
+        "tot": 17791, 
+        "gop": 11762
+    }, 
+    "for": "VA/Warren County/51187", 
+    "pct": {
+        "dem": 29.03, 
+        "per_point_diff": 37.08, 
+        "gop": 66.11
+    }
+}

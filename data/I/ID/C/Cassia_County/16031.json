@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4913, 
+        "dem": 1036, 
+        "tot": 8178, 
+        "gop": 5949
+    }, 
+    "for": "ID/Cassia County/16031", 
+    "pct": {
+        "dem": 12.67, 
+        "per_point_diff": 60.08, 
+        "gop": 72.74
+    }
+}

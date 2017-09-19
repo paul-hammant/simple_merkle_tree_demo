@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4042, 
+        "dem": 12172, 
+        "tot": 31094, 
+        "gop": 16214
+    }, 
+    "for": "ME/Oxford County/23017", 
+    "pct": {
+        "dem": 39.15, 
+        "per_point_diff": 13.0, 
+        "gop": 52.15
+    }
+}

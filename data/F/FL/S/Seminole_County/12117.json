@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3654, 
+        "dem": 105611, 
+        "tot": 224377, 
+        "gop": 109265
+    }, 
+    "for": "FL/Seminole County/12117", 
+    "pct": {
+        "dem": 47.07, 
+        "per_point_diff": 1.63, 
+        "gop": 48.7
+    }
+}

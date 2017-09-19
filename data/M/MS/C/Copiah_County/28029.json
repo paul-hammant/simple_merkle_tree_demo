@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 627, 
+        "dem": 6203, 
+        "tot": 11906, 
+        "gop": 5576
+    }, 
+    "for": "MS/Copiah County/28029", 
+    "pct": {
+        "dem": 52.1, 
+        "per_point_diff": 5.27, 
+        "gop": 46.83
+    }
+}

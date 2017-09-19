@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2711, 
+        "dem": 739, 
+        "tot": 4267, 
+        "gop": 3450
+    }, 
+    "for": "TX/Live Oak County/48297", 
+    "pct": {
+        "dem": 17.32, 
+        "per_point_diff": 63.53, 
+        "gop": 80.85
+    }
+}

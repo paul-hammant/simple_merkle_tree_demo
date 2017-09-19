@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9390, 
+        "dem": 4408, 
+        "tot": 18617, 
+        "gop": 13798
+    }, 
+    "for": "AL/Dale County/1045", 
+    "pct": {
+        "dem": 23.68, 
+        "per_point_diff": 50.44, 
+        "gop": 74.12
+    }
+}

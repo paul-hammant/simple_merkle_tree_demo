@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8289, 
+        "dem": 4256, 
+        "tot": 17481, 
+        "gop": 12545
+    }, 
+    "for": "PA/Clarion County/42031", 
+    "pct": {
+        "dem": 24.35, 
+        "per_point_diff": 47.42, 
+        "gop": 71.76
+    }
+}

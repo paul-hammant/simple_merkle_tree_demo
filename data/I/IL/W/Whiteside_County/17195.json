@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1592, 
+        "dem": 11005, 
+        "tot": 25210, 
+        "gop": 12597
+    }, 
+    "for": "IL/Whiteside County/17195", 
+    "pct": {
+        "dem": 43.65, 
+        "per_point_diff": 6.31, 
+        "gop": 49.97
+    }
+}

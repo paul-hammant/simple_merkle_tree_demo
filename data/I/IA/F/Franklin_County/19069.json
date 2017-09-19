@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1663, 
+        "dem": 1490, 
+        "tot": 4915, 
+        "gop": 3153
+    }, 
+    "for": "IA/Franklin County/19069", 
+    "pct": {
+        "dem": 30.32, 
+        "per_point_diff": 33.84, 
+        "gop": 64.15
+    }
+}

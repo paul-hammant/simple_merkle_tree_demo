@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9824, 
+        "dem": 4210, 
+        "tot": 19076, 
+        "gop": 14034
+    }, 
+    "for": "IN/Lawrence County/18093", 
+    "pct": {
+        "dem": 22.07, 
+        "per_point_diff": 51.5, 
+        "gop": 73.57
+    }
+}

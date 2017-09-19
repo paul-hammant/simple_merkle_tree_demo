@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1685, 
+        "dem": 11342, 
+        "tot": 22185, 
+        "gop": 9657
+    }, 
+    "for": "WI/Douglas County/55031", 
+    "pct": {
+        "dem": 51.12, 
+        "per_point_diff": 7.6, 
+        "gop": 43.53
+    }
+}

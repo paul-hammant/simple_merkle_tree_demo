@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 846, 
+        "dem": 1317, 
+        "tot": 3617, 
+        "gop": 2163
+    }, 
+    "for": "AR/Bradley County/5011", 
+    "pct": {
+        "dem": 36.41, 
+        "per_point_diff": 23.39, 
+        "gop": 59.8
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1349, 
+        "dem": 803, 
+        "tot": 3143, 
+        "gop": 2152
+    }, 
+    "for": "MT/Teton County/30099", 
+    "pct": {
+        "dem": 25.55, 
+        "per_point_diff": 42.92, 
+        "gop": 68.47
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2813, 
+        "dem": 930, 
+        "tot": 5191, 
+        "gop": 3743
+    }, 
+    "for": "ID/Gooding County/16047", 
+    "pct": {
+        "dem": 17.92, 
+        "per_point_diff": 54.19, 
+        "gop": 72.11
+    }
+}

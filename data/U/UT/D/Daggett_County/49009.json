@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 251, 
+        "dem": 76, 
+        "tot": 465, 
+        "gop": 327
+    }, 
+    "for": "UT/Daggett County/49009", 
+    "pct": {
+        "dem": 16.34, 
+        "per_point_diff": 53.98, 
+        "gop": 70.32
+    }
+}

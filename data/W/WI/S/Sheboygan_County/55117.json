@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9732, 
+        "dem": 22636, 
+        "tot": 58290, 
+        "gop": 32368
+    }, 
+    "for": "WI/Sheboygan County/55117", 
+    "pct": {
+        "dem": 38.83, 
+        "per_point_diff": 16.7, 
+        "gop": 55.53
+    }
+}

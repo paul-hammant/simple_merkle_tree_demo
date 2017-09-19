@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9150, 
+        "dem": 12960, 
+        "tot": 37124, 
+        "gop": 22110
+    }, 
+    "for": "VA/Fauquier County/51061", 
+    "pct": {
+        "dem": 34.91, 
+        "per_point_diff": 24.65, 
+        "gop": 59.56
+    }
+}

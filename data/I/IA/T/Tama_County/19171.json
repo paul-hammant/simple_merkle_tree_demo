@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1774, 
+        "dem": 3194, 
+        "tot": 8636, 
+        "gop": 4968
+    }, 
+    "for": "IA/Tama County/19171", 
+    "pct": {
+        "dem": 36.98, 
+        "per_point_diff": 20.54, 
+        "gop": 57.53
+    }
+}

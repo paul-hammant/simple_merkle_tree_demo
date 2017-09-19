@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 62610, 
+        "dem": 169169, 
+        "tot": 284832, 
+        "gop": 106559
+    }, 
+    "for": "PA/Delaware County/42045", 
+    "pct": {
+        "dem": 59.39, 
+        "per_point_diff": 21.98, 
+        "gop": 37.41
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11694, 
+        "dem": 6263, 
+        "tot": 25399, 
+        "gop": 17957
+    }, 
+    "for": "PA/Bradford County/42015", 
+    "pct": {
+        "dem": 24.66, 
+        "per_point_diff": 46.04, 
+        "gop": 70.7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3136, 
+        "dem": 6359, 
+        "tot": 10383, 
+        "gop": 3223
+    }, 
+    "for": "OR/Hood River County/41027", 
+    "pct": {
+        "dem": 61.24, 
+        "per_point_diff": 30.2, 
+        "gop": 31.04
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1400, 
+        "dem": 315, 
+        "tot": 2147, 
+        "gop": 1715
+    }, 
+    "for": "MT/Phillips County/30071", 
+    "pct": {
+        "dem": 14.67, 
+        "per_point_diff": 65.21, 
+        "gop": 79.88
+    }
+}

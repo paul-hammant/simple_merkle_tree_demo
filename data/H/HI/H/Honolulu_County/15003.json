@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 85338, 
+        "dem": 175634, 
+        "tot": 285683, 
+        "gop": 90296
+    }, 
+    "for": "HI/Honolulu County/15003", 
+    "pct": {
+        "dem": 61.48, 
+        "per_point_diff": 29.87, 
+        "gop": 31.61
+    }
+}

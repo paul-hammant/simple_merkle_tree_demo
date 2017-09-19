@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1976, 
+        "dem": 552, 
+        "tot": 3197, 
+        "gop": 2528
+    }, 
+    "for": "IA/Osceola County/19143", 
+    "pct": {
+        "dem": 17.27, 
+        "per_point_diff": 61.81, 
+        "gop": 79.07
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 610, 
+        "dem": 22774, 
+        "tot": 49037, 
+        "gop": 23384
+    }, 
+    "for": "IA/Dubuque County/19061", 
+    "pct": {
+        "dem": 46.44, 
+        "per_point_diff": 1.24, 
+        "gop": 47.69
+    }
+}

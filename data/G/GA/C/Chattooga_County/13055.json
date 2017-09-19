@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4845, 
+        "dem": 1612, 
+        "tot": 8246, 
+        "gop": 6457
+    }, 
+    "for": "GA/Chattooga County/13055", 
+    "pct": {
+        "dem": 19.55, 
+        "per_point_diff": 58.76, 
+        "gop": 78.3
+    }
+}

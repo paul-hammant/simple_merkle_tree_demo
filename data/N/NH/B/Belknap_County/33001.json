@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5798, 
+        "dem": 13517, 
+        "tot": 34462, 
+        "gop": 19315
+    }, 
+    "for": "NH/Belknap County/33001", 
+    "pct": {
+        "dem": 39.22, 
+        "per_point_diff": 16.82, 
+        "gop": 56.05
+    }
+}

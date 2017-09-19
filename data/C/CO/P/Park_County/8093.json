@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2702, 
+        "dem": 3351, 
+        "tot": 10245, 
+        "gop": 6053
+    }, 
+    "for": "CO/Park County/8093", 
+    "pct": {
+        "dem": 32.71, 
+        "per_point_diff": 26.37, 
+        "gop": 59.08
+    }
+}

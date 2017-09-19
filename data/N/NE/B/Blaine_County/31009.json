@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 243, 
+        "dem": 30, 
+        "tot": 313, 
+        "gop": 273
+    }, 
+    "for": "NE/Blaine County/31009", 
+    "pct": {
+        "dem": 9.58, 
+        "per_point_diff": 77.64, 
+        "gop": 87.22
+    }
+}

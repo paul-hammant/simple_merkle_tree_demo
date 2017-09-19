@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 779, 
+        "dem": 1838, 
+        "tot": 2939, 
+        "gop": 1059
+    }, 
+    "for": "LA/East Carroll Parish/22035", 
+    "pct": {
+        "dem": 62.54, 
+        "per_point_diff": 26.51, 
+        "gop": 36.03
+    }
+}

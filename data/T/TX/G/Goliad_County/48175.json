@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1645, 
+        "dem": 973, 
+        "tot": 3713, 
+        "gop": 2618
+    }, 
+    "for": "TX/Goliad County/48175", 
+    "pct": {
+        "dem": 26.21, 
+        "per_point_diff": 44.3, 
+        "gop": 70.51
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6174, 
+        "dem": 1703, 
+        "tot": 9785, 
+        "gop": 7877
+    }, 
+    "for": "LA/Sabine Parish/22085", 
+    "pct": {
+        "dem": 17.4, 
+        "per_point_diff": 63.1, 
+        "gop": 80.5
+    }
+}

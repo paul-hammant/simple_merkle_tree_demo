@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3760, 
+        "dem": 855, 
+        "tot": 5771, 
+        "gop": 4615
+    }, 
+    "for": "OK/Texas County/40139", 
+    "pct": {
+        "dem": 14.82, 
+        "per_point_diff": 65.15, 
+        "gop": 79.97
+    }
+}

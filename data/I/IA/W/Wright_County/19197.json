@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1900, 
+        "dem": 1890, 
+        "tot": 5949, 
+        "gop": 3790
+    }, 
+    "for": "IA/Wright County/19197", 
+    "pct": {
+        "dem": 31.77, 
+        "per_point_diff": 31.94, 
+        "gop": 63.71
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10740, 
+        "dem": 3935, 
+        "tot": 18994, 
+        "gop": 14675
+    }, 
+    "for": "TX/Rusk County/48401", 
+    "pct": {
+        "dem": 20.72, 
+        "per_point_diff": 56.54, 
+        "gop": 77.26
+    }
+}

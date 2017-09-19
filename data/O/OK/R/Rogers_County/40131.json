@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 22998, 
+        "dem": 7895, 
+        "tot": 40834, 
+        "gop": 30893
+    }, 
+    "for": "OK/Rogers County/40131", 
+    "pct": {
+        "dem": 19.33, 
+        "per_point_diff": 56.32, 
+        "gop": 75.66
+    }
+}

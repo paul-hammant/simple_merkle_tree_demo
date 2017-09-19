@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1582, 
+        "dem": 4610, 
+        "tot": 11106, 
+        "gop": 6192
+    }, 
+    "for": "FL/Hendry County/12051", 
+    "pct": {
+        "dem": 41.51, 
+        "per_point_diff": 14.24, 
+        "gop": 55.75
+    }
+}

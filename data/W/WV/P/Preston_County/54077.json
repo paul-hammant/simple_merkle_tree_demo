@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7039, 
+        "dem": 2462, 
+        "tot": 12611, 
+        "gop": 9501
+    }, 
+    "for": "WV/Preston County/54077", 
+    "pct": {
+        "dem": 19.52, 
+        "per_point_diff": 55.82, 
+        "gop": 75.34
+    }
+}

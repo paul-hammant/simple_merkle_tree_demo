@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2364, 
+        "dem": 6118, 
+        "tot": 15609, 
+        "gop": 8482
+    }, 
+    "for": "IL/Fulton County/17057", 
+    "pct": {
+        "dem": 39.2, 
+        "per_point_diff": 15.15, 
+        "gop": 54.34
+    }
+}

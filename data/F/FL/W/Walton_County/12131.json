@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18834, 
+        "dem": 6861, 
+        "tot": 33559, 
+        "gop": 25695
+    }, 
+    "for": "FL/Walton County/12131", 
+    "pct": {
+        "dem": 20.44, 
+        "per_point_diff": 56.12, 
+        "gop": 76.57
+    }
+}

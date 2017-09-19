@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8706, 
+        "dem": 9876, 
+        "tot": 29799, 
+        "gop": 18582
+    }, 
+    "for": "IL/Vermilion County/17183", 
+    "pct": {
+        "dem": 33.14, 
+        "per_point_diff": 29.22, 
+        "gop": 62.36
+    }
+}

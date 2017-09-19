@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1262, 
+        "dem": 797, 
+        "tot": 3064, 
+        "gop": 2059
+    }, 
+    "for": "CO/Custer County/8027", 
+    "pct": {
+        "dem": 26.01, 
+        "per_point_diff": 41.19, 
+        "gop": 67.2
+    }
+}

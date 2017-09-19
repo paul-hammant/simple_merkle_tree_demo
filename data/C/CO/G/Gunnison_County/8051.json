@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1818, 
+        "dem": 5068, 
+        "tot": 9299, 
+        "gop": 3250
+    }, 
+    "for": "CO/Gunnison County/8051", 
+    "pct": {
+        "dem": 54.5, 
+        "per_point_diff": 19.55, 
+        "gop": 34.95
+    }
+}

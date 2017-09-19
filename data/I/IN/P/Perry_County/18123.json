@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1494, 
+        "dem": 3062, 
+        "tot": 8025, 
+        "gop": 4556
+    }, 
+    "for": "IN/Perry County/18123", 
+    "pct": {
+        "dem": 38.16, 
+        "per_point_diff": 18.62, 
+        "gop": 56.77
+    }
+}

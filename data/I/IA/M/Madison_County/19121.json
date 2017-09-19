@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2670, 
+        "dem": 2666, 
+        "tot": 8523, 
+        "gop": 5336
+    }, 
+    "for": "IA/Madison County/19121", 
+    "pct": {
+        "dem": 31.28, 
+        "per_point_diff": 31.33, 
+        "gop": 62.61
+    }
+}

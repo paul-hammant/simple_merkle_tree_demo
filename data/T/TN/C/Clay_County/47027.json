@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1433, 
+        "dem": 707, 
+        "tot": 2919, 
+        "gop": 2140
+    }, 
+    "for": "TN/Clay County/47027", 
+    "pct": {
+        "dem": 24.22, 
+        "per_point_diff": 49.09, 
+        "gop": 73.31
+    }
+}

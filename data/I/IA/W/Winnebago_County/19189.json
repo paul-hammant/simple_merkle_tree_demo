@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1517, 
+        "dem": 1920, 
+        "tot": 5717, 
+        "gop": 3437
+    }, 
+    "for": "IA/Winnebago County/19189", 
+    "pct": {
+        "dem": 33.58, 
+        "per_point_diff": 26.53, 
+        "gop": 60.12
+    }
+}

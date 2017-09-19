@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6218, 
+        "dem": 2223, 
+        "tot": 11621, 
+        "gop": 8441
+    }, 
+    "for": "SD/Meade County/46093", 
+    "pct": {
+        "dem": 19.13, 
+        "per_point_diff": 53.51, 
+        "gop": 72.64
+    }
+}

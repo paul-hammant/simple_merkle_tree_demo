@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2783, 
+        "dem": 3931, 
+        "tot": 10904, 
+        "gop": 6714
+    }, 
+    "for": "LA/Assumption Parish/22007", 
+    "pct": {
+        "dem": 36.05, 
+        "per_point_diff": 25.52, 
+        "gop": 61.57
+    }
+}

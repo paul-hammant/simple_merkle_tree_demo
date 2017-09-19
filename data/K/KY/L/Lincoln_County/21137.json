@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5473, 
+        "dem": 1865, 
+        "tot": 9555, 
+        "gop": 7338
+    }, 
+    "for": "KY/Lincoln County/21137", 
+    "pct": {
+        "dem": 19.52, 
+        "per_point_diff": 57.28, 
+        "gop": 76.8
+    }
+}

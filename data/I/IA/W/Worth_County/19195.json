@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 920, 
+        "dem": 1523, 
+        "tot": 4216, 
+        "gop": 2443
+    }, 
+    "for": "IA/Worth County/19195", 
+    "pct": {
+        "dem": 36.12, 
+        "per_point_diff": 21.82, 
+        "gop": 57.95
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 20221, 
+        "dem": 13891, 
+        "tot": 51350, 
+        "gop": 34112
+    }, 
+    "for": "OR/Douglas County/41019", 
+    "pct": {
+        "dem": 27.05, 
+        "per_point_diff": 39.38, 
+        "gop": 66.43
+    }
+}

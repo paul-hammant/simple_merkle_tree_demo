@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 27211, 
+        "dem": 31818, 
+        "tot": 93878, 
+        "gop": 59029
+    }, 
+    "for": "FL/Hernando County/12053", 
+    "pct": {
+        "dem": 33.89, 
+        "per_point_diff": 28.99, 
+        "gop": 62.88
+    }
+}

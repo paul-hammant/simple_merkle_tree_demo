@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3954, 
+        "dem": 18635, 
+        "tot": 45116, 
+        "gop": 22589
+    }, 
+    "for": "OR/Yamhill County/41071", 
+    "pct": {
+        "dem": 41.3, 
+        "per_point_diff": 8.76, 
+        "gop": 50.07
+    }
+}

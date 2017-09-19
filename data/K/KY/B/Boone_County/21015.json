@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 24056, 
+        "dem": 15026, 
+        "tot": 57550, 
+        "gop": 39082
+    }, 
+    "for": "KY/Boone County/21015", 
+    "pct": {
+        "dem": 26.11, 
+        "per_point_diff": 41.8, 
+        "gop": 67.91
+    }
+}

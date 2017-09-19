@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10901, 
+        "dem": 8841, 
+        "tot": 29618, 
+        "gop": 19742
+    }, 
+    "for": "OH/Scioto County/39145", 
+    "pct": {
+        "dem": 29.85, 
+        "per_point_diff": 36.81, 
+        "gop": 66.66
+    }
+}

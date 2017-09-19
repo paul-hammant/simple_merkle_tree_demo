@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2250, 
+        "dem": 18336, 
+        "tot": 40759, 
+        "gop": 20586
+    }, 
+    "for": "AZ/Yuma County/4027", 
+    "pct": {
+        "dem": 44.99, 
+        "per_point_diff": 5.52, 
+        "gop": 50.51
+    }
+}

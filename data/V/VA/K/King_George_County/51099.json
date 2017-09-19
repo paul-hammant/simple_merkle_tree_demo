@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3336, 
+        "dem": 4002, 
+        "tot": 11967, 
+        "gop": 7338
+    }, 
+    "for": "VA/King George County/51099", 
+    "pct": {
+        "dem": 33.44, 
+        "per_point_diff": 27.88, 
+        "gop": 61.32
+    }
+}

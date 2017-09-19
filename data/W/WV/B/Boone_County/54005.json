@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4700, 
+        "dem": 1783, 
+        "tot": 8654, 
+        "gop": 6483
+    }, 
+    "for": "WV/Boone County/54005", 
+    "pct": {
+        "dem": 20.6, 
+        "per_point_diff": 54.31, 
+        "gop": 74.91
+    }
+}

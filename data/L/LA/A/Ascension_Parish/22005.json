@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 19664, 
+        "dem": 16471, 
+        "tot": 54663, 
+        "gop": 36135
+    }, 
+    "for": "LA/Ascension Parish/22005", 
+    "pct": {
+        "dem": 30.13, 
+        "per_point_diff": 35.97, 
+        "gop": 66.11
+    }
+}

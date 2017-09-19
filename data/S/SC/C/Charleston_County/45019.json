@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13815, 
+        "dem": 89048, 
+        "tot": 175850, 
+        "gop": 75233
+    }, 
+    "for": "SC/Charleston County/45019", 
+    "pct": {
+        "dem": 50.64, 
+        "per_point_diff": 7.86, 
+        "gop": 42.78
+    }
+}

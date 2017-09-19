@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3098, 
+        "dem": 5499, 
+        "tot": 15215, 
+        "gop": 8597
+    }, 
+    "for": "IL/Lee County/17103", 
+    "pct": {
+        "dem": 36.14, 
+        "per_point_diff": 20.36, 
+        "gop": 56.5
+    }
+}

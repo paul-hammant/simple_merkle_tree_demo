@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 58428, 
+        "dem": 189437, 
+        "tot": 335017, 
+        "gop": 131009
+    }, 
+    "for": "MD/Baltimore County/24005", 
+    "pct": {
+        "dem": 56.55, 
+        "per_point_diff": 17.44, 
+        "gop": 39.11
+    }
+}

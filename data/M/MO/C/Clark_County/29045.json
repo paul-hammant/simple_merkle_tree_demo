@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1734, 
+        "dem": 724, 
+        "tot": 3316, 
+        "gop": 2458
+    }, 
+    "for": "MO/Clark County/29045", 
+    "pct": {
+        "dem": 21.83, 
+        "per_point_diff": 52.29, 
+        "gop": 74.13
+    }
+}

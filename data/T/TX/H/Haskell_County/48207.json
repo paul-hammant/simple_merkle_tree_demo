@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1089, 
+        "dem": 314, 
+        "tot": 1765, 
+        "gop": 1403
+    }, 
+    "for": "TX/Haskell County/48207", 
+    "pct": {
+        "dem": 17.79, 
+        "per_point_diff": 61.7, 
+        "gop": 79.49
+    }
+}

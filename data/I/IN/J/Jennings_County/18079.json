@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5858, 
+        "dem": 2364, 
+        "tot": 11115, 
+        "gop": 8222
+    }, 
+    "for": "IN/Jennings County/18079", 
+    "pct": {
+        "dem": 21.27, 
+        "per_point_diff": 52.7, 
+        "gop": 73.97
+    }
+}

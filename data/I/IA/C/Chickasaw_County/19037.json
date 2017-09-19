@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1475, 
+        "dem": 2264, 
+        "tot": 6367, 
+        "gop": 3739
+    }, 
+    "for": "IA/Chickasaw County/19037", 
+    "pct": {
+        "dem": 35.56, 
+        "per_point_diff": 23.17, 
+        "gop": 58.72
+    }
+}

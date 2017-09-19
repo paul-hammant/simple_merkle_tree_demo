@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 444, 
+        "dem": 3577, 
+        "tot": 7962, 
+        "gop": 4021
+    }, 
+    "for": "WI/Richland County/55103", 
+    "pct": {
+        "dem": 44.93, 
+        "per_point_diff": 5.58, 
+        "gop": 50.5
+    }
+}

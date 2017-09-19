@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1871, 
+        "dem": 1244, 
+        "tot": 4525, 
+        "gop": 3115
+    }, 
+    "for": "IA/Monona County/19133", 
+    "pct": {
+        "dem": 27.49, 
+        "per_point_diff": 41.35, 
+        "gop": 68.84
+    }
+}

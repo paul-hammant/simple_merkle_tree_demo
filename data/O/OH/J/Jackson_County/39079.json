@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6476, 
+        "dem": 3142, 
+        "tot": 13239, 
+        "gop": 9618
+    }, 
+    "for": "OH/Jackson County/39079", 
+    "pct": {
+        "dem": 23.73, 
+        "per_point_diff": 48.92, 
+        "gop": 72.65
+    }
+}

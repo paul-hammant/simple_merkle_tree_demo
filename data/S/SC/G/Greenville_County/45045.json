@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 52257, 
+        "dem": 73338, 
+        "tot": 211572, 
+        "gop": 125595
+    }, 
+    "for": "SC/Greenville County/45045", 
+    "pct": {
+        "dem": 34.66, 
+        "per_point_diff": 24.7, 
+        "gop": 59.36
+    }
+}

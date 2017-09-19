@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 36912, 
+        "dem": 81266, 
+        "tot": 133478, 
+        "gop": 44354
+    }, 
+    "for": "MI/Ingham County/26065", 
+    "pct": {
+        "dem": 60.88, 
+        "per_point_diff": 27.65, 
+        "gop": 33.23
+    }
+}

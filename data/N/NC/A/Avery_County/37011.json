@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4556, 
+        "dem": 1670, 
+        "tot": 8060, 
+        "gop": 6226
+    }, 
+    "for": "NC/Avery County/37011", 
+    "pct": {
+        "dem": 20.72, 
+        "per_point_diff": 56.53, 
+        "gop": 77.25
+    }
+}

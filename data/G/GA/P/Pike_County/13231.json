@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6034, 
+        "dem": 1239, 
+        "tot": 8675, 
+        "gop": 7273
+    }, 
+    "for": "GA/Pike County/13231", 
+    "pct": {
+        "dem": 14.28, 
+        "per_point_diff": 69.56, 
+        "gop": 83.84
+    }
+}

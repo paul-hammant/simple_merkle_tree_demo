@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12759, 
+        "dem": 6634, 
+        "tot": 27042, 
+        "gop": 19393
+    }, 
+    "for": "TN/Robertson County/47147", 
+    "pct": {
+        "dem": 24.53, 
+        "per_point_diff": 47.18, 
+        "gop": 71.71
+    }
+}

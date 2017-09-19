@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4942, 
+        "dem": 619, 
+        "tot": 6285, 
+        "gop": 5561
+    }, 
+    "for": "GA/Brantley County/13025", 
+    "pct": {
+        "dem": 9.85, 
+        "per_point_diff": 78.63, 
+        "gop": 88.48
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1056, 
+        "dem": 160, 
+        "tot": 1435, 
+        "gop": 1216
+    }, 
+    "for": "KS/Ness County/20135", 
+    "pct": {
+        "dem": 11.15, 
+        "per_point_diff": 73.59, 
+        "gop": 84.74
+    }
+}

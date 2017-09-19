@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2937, 
+        "dem": 1202, 
+        "tot": 5542, 
+        "gop": 4139
+    }, 
+    "for": "IL/Greene County/17061", 
+    "pct": {
+        "dem": 21.69, 
+        "per_point_diff": 53.0, 
+        "gop": 74.68
+    }
+}

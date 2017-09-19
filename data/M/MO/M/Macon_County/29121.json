@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4276, 
+        "dem": 1518, 
+        "tot": 7579, 
+        "gop": 5794
+    }, 
+    "for": "MO/Macon County/29121", 
+    "pct": {
+        "dem": 20.03, 
+        "per_point_diff": 56.42, 
+        "gop": 76.45
+    }
+}

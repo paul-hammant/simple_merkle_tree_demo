@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12331, 
+        "dem": 4645, 
+        "tot": 22182, 
+        "gop": 16976
+    }, 
+    "for": "NC/Stokes County/37169", 
+    "pct": {
+        "dem": 20.94, 
+        "per_point_diff": 55.59, 
+        "gop": 76.53
+    }
+}

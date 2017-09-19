@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5751, 
+        "dem": 1542, 
+        "tot": 9131, 
+        "gop": 7293
+    }, 
+    "for": "KY/Letcher County/21133", 
+    "pct": {
+        "dem": 16.89, 
+        "per_point_diff": 62.98, 
+        "gop": 79.87
+    }
+}

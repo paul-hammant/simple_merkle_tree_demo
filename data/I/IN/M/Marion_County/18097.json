@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 82448, 
+        "dem": 212676, 
+        "tot": 361070, 
+        "gop": 130228
+    }, 
+    "for": "IN/Marion County/18097", 
+    "pct": {
+        "dem": 58.9, 
+        "per_point_diff": 22.83, 
+        "gop": 36.07
+    }
+}

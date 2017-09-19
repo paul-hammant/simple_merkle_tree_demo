@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3821, 
+        "dem": 1565, 
+        "tot": 7301, 
+        "gop": 5386
+    }, 
+    "for": "MI/Missaukee County/26113", 
+    "pct": {
+        "dem": 21.44, 
+        "per_point_diff": 52.34, 
+        "gop": 73.77
+    }
+}

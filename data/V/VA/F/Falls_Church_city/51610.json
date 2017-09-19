@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4487, 
+        "dem": 5810, 
+        "tot": 7667, 
+        "gop": 1323
+    }, 
+    "for": "VA/Falls Church city/51610", 
+    "pct": {
+        "dem": 75.78, 
+        "per_point_diff": 58.52, 
+        "gop": 17.26
+    }
+}

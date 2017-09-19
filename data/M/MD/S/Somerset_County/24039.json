@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1572, 
+        "dem": 3484, 
+        "tot": 8768, 
+        "gop": 5056
+    }, 
+    "for": "MD/Somerset County/24039", 
+    "pct": {
+        "dem": 39.74, 
+        "per_point_diff": 17.93, 
+        "gop": 57.66
+    }
+}

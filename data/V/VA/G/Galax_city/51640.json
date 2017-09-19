@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 923, 
+        "dem": 680, 
+        "tot": 2363, 
+        "gop": 1603
+    }, 
+    "for": "VA/Galax city/51640", 
+    "pct": {
+        "dem": 28.78, 
+        "per_point_diff": 39.06, 
+        "gop": 67.84
+    }
+}

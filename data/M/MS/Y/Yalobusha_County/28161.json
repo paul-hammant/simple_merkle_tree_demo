@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 792, 
+        "dem": 2574, 
+        "tot": 6058, 
+        "gop": 3366
+    }, 
+    "for": "MS/Yalobusha County/28161", 
+    "pct": {
+        "dem": 42.49, 
+        "per_point_diff": 13.07, 
+        "gop": 55.56
+    }
+}

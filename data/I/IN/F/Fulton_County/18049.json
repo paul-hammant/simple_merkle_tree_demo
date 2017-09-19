@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4050, 
+        "dem": 1960, 
+        "tot": 8374, 
+        "gop": 6010
+    }, 
+    "for": "IN/Fulton County/18049", 
+    "pct": {
+        "dem": 23.41, 
+        "per_point_diff": 48.36, 
+        "gop": 71.77
+    }
+}

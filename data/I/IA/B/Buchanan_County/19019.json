@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1538, 
+        "dem": 3966, 
+        "tot": 10137, 
+        "gop": 5504
+    }, 
+    "for": "IA/Buchanan County/19019", 
+    "pct": {
+        "dem": 39.12, 
+        "per_point_diff": 15.17, 
+        "gop": 54.3
+    }
+}

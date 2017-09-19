@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2878, 
+        "dem": 1096, 
+        "tot": 5262, 
+        "gop": 3974
+    }, 
+    "for": "TX/Moore County/48341", 
+    "pct": {
+        "dem": 20.83, 
+        "per_point_diff": 54.69, 
+        "gop": 75.52
+    }
+}

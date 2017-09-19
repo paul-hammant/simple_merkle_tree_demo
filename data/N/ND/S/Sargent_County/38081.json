@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 395, 
+        "dem": 693, 
+        "tot": 1978, 
+        "gop": 1088
+    }, 
+    "for": "ND/Sargent County/38081", 
+    "pct": {
+        "dem": 35.04, 
+        "per_point_diff": 19.97, 
+        "gop": 55.01
+    }
+}

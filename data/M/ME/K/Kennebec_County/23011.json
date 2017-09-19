@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2457, 
+        "dem": 29296, 
+        "tot": 65999, 
+        "gop": 31753
+    }, 
+    "for": "ME/Kennebec County/23011", 
+    "pct": {
+        "dem": 44.39, 
+        "per_point_diff": 3.72, 
+        "gop": 48.11
+    }
+}

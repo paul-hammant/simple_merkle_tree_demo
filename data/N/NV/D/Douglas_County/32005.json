@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8953, 
+        "dem": 8453, 
+        "tot": 27871, 
+        "gop": 17406
+    }, 
+    "for": "NV/Douglas County/32005", 
+    "pct": {
+        "dem": 30.33, 
+        "per_point_diff": 32.12, 
+        "gop": 62.45
+    }
+}

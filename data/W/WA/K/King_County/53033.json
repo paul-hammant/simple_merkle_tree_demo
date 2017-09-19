@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 459368, 
+        "dem": 657149, 
+        "tot": 910823, 
+        "gop": 197781
+    }, 
+    "for": "WA/King County/53033", 
+    "pct": {
+        "dem": 72.15, 
+        "per_point_diff": 50.43, 
+        "gop": 21.71
+    }
+}

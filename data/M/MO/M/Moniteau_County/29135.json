@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4107, 
+        "dem": 1237, 
+        "tot": 6808, 
+        "gop": 5344
+    }, 
+    "for": "MO/Moniteau County/29135", 
+    "pct": {
+        "dem": 18.17, 
+        "per_point_diff": 60.33, 
+        "gop": 78.5
+    }
+}

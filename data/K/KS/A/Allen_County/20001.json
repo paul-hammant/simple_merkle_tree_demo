@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2177, 
+        "dem": 1398, 
+        "tot": 5314, 
+        "gop": 3575
+    }, 
+    "for": "KS/Allen County/20001", 
+    "pct": {
+        "dem": 26.31, 
+        "per_point_diff": 40.97, 
+        "gop": 67.28
+    }
+}

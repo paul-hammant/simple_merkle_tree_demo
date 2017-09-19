@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7188, 
+        "dem": 2328, 
+        "tot": 12195, 
+        "gop": 9516
+    }, 
+    "for": "VA/Russell County/51167", 
+    "pct": {
+        "dem": 19.09, 
+        "per_point_diff": 58.94, 
+        "gop": 78.03
+    }
+}

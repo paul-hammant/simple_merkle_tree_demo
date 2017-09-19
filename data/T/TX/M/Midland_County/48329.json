@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 26903, 
+        "dem": 9993, 
+        "tot": 48753, 
+        "gop": 36896
+    }, 
+    "for": "TX/Midland County/48329", 
+    "pct": {
+        "dem": 20.5, 
+        "per_point_diff": 55.18, 
+        "gop": 75.68
+    }
+}

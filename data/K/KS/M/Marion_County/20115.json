@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2751, 
+        "dem": 1177, 
+        "tot": 5465, 
+        "gop": 3928
+    }, 
+    "for": "KS/Marion County/20115", 
+    "pct": {
+        "dem": 21.54, 
+        "per_point_diff": 50.34, 
+        "gop": 71.88
+    }
+}

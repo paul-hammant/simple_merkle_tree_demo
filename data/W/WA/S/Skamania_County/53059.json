@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 703, 
+        "dem": 2207, 
+        "tot": 5587, 
+        "gop": 2910
+    }, 
+    "for": "WA/Skamania County/53059", 
+    "pct": {
+        "dem": 39.5, 
+        "per_point_diff": 12.58, 
+        "gop": 52.09
+    }
+}

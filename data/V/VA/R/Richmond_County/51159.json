@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 866, 
+        "dem": 1347, 
+        "tot": 3651, 
+        "gop": 2213
+    }, 
+    "for": "VA/Richmond County/51159", 
+    "pct": {
+        "dem": 36.89, 
+        "per_point_diff": 23.72, 
+        "gop": 60.61
+    }
+}

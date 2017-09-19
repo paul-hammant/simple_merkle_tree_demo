@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1199, 
+        "dem": 2173, 
+        "tot": 3225, 
+        "gop": 974
+    }, 
+    "for": "TX/Dimmit County/48127", 
+    "pct": {
+        "dem": 67.38, 
+        "per_point_diff": 37.18, 
+        "gop": 30.2
+    }
+}

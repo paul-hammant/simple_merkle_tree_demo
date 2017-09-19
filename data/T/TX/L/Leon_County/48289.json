@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5482, 
+        "dem": 909, 
+        "tot": 7407, 
+        "gop": 6391
+    }, 
+    "for": "TX/Leon County/48289", 
+    "pct": {
+        "dem": 12.27, 
+        "per_point_diff": 74.01, 
+        "gop": 86.28
+    }
+}

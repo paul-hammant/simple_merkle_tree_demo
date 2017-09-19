@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16149, 
+        "dem": 8901, 
+        "tot": 36027, 
+        "gop": 25050
+    }, 
+    "for": "IN/Hancock County/18059", 
+    "pct": {
+        "dem": 24.71, 
+        "per_point_diff": 44.82, 
+        "gop": 69.53
+    }
+}

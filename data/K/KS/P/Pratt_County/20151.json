@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2055, 
+        "dem": 769, 
+        "tot": 3806, 
+        "gop": 2824
+    }, 
+    "for": "KS/Pratt County/20151", 
+    "pct": {
+        "dem": 20.2, 
+        "per_point_diff": 53.99, 
+        "gop": 74.2
+    }
+}

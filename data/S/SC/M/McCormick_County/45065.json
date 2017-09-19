@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 172, 
+        "dem": 2479, 
+        "tot": 5215, 
+        "gop": 2651
+    }, 
+    "for": "SC/McCormick County/45065", 
+    "pct": {
+        "dem": 47.54, 
+        "per_point_diff": 3.3, 
+        "gop": 50.83
+    }
+}

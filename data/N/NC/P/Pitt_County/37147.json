@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5776, 
+        "dem": 40967, 
+        "tot": 78264, 
+        "gop": 35191
+    }, 
+    "for": "NC/Pitt County/37147", 
+    "pct": {
+        "dem": 52.34, 
+        "per_point_diff": 7.38, 
+        "gop": 44.96
+    }
+}

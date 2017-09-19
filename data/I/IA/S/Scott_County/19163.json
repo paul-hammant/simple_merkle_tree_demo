@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1219, 
+        "dem": 40302, 
+        "tot": 84878, 
+        "gop": 39083
+    }, 
+    "for": "IA/Scott County/19163", 
+    "pct": {
+        "dem": 47.48, 
+        "per_point_diff": 1.44, 
+        "gop": 46.05
+    }
+}

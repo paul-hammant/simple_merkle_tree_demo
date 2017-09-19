@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 489, 
+        "dem": 190, 
+        "tot": 901, 
+        "gop": 679
+    }, 
+    "for": "TX/Cochran County/48079", 
+    "pct": {
+        "dem": 21.09, 
+        "per_point_diff": 54.27, 
+        "gop": 75.36
+    }
+}

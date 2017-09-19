@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 33970, 
+        "dem": 108793, 
+        "tot": 260304, 
+        "gop": 142763
+    }, 
+    "for": "FL/Volusia County/12127", 
+    "pct": {
+        "dem": 41.79, 
+        "per_point_diff": 13.05, 
+        "gop": 54.84
+    }
+}

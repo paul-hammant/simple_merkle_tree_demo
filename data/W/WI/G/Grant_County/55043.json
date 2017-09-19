@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2300, 
+        "dem": 10047, 
+        "tot": 24051, 
+        "gop": 12347
+    }, 
+    "for": "WI/Grant County/55043", 
+    "pct": {
+        "dem": 41.77, 
+        "per_point_diff": 9.56, 
+        "gop": 51.34
+    }
+}

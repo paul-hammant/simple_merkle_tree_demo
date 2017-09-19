@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5275, 
+        "dem": 4957, 
+        "tot": 15807, 
+        "gop": 10232
+    }, 
+    "for": "LA/St. Bernard Parish/22087", 
+    "pct": {
+        "dem": 31.36, 
+        "per_point_diff": 33.37, 
+        "gop": 64.73
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1983, 
+        "dem": 978, 
+        "tot": 4010, 
+        "gop": 2961
+    }, 
+    "for": "TX/Newton County/48351", 
+    "pct": {
+        "dem": 24.39, 
+        "per_point_diff": 49.45, 
+        "gop": 73.84
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2109, 
+        "dem": 2523, 
+        "tot": 2954, 
+        "gop": 414
+    }, 
+    "for": "MS/Claiborne County/28021", 
+    "pct": {
+        "dem": 85.41, 
+        "per_point_diff": 71.39, 
+        "gop": 14.01
+    }
+}

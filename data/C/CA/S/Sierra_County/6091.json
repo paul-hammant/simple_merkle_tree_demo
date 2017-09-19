@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 447, 
+        "dem": 601, 
+        "tot": 1804, 
+        "gop": 1048
+    }, 
+    "for": "CA/Sierra County/6091", 
+    "pct": {
+        "dem": 33.31, 
+        "per_point_diff": 24.78, 
+        "gop": 58.09
+    }
+}

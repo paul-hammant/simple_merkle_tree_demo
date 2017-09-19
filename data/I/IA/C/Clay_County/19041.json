@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3624, 
+        "dem": 2246, 
+        "tot": 8542, 
+        "gop": 5870
+    }, 
+    "for": "IA/Clay County/19041", 
+    "pct": {
+        "dem": 26.29, 
+        "per_point_diff": 42.43, 
+        "gop": 68.72
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7826, 
+        "dem": 4488, 
+        "tot": 17597, 
+        "gop": 12314
+    }, 
+    "for": "OH/Champaign County/39021", 
+    "pct": {
+        "dem": 25.5, 
+        "per_point_diff": 44.47, 
+        "gop": 69.98
+    }
+}

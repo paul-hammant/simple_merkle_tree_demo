@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2142, 
+        "dem": 1458, 
+        "tot": 5165, 
+        "gop": 3600
+    }, 
+    "for": "MO/Mississippi County/29133", 
+    "pct": {
+        "dem": 28.23, 
+        "per_point_diff": 41.47, 
+        "gop": 69.7
+    }
+}

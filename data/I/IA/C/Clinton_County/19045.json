@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1170, 
+        "dem": 10079, 
+        "tot": 22748, 
+        "gop": 11249
+    }, 
+    "for": "IA/Clinton County/19045", 
+    "pct": {
+        "dem": 44.31, 
+        "per_point_diff": 5.14, 
+        "gop": 49.45
+    }
+}

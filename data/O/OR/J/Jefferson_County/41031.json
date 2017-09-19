@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2445, 
+        "dem": 2892, 
+        "tot": 8874, 
+        "gop": 5337
+    }, 
+    "for": "OR/Jefferson County/41031", 
+    "pct": {
+        "dem": 32.59, 
+        "per_point_diff": 27.55, 
+        "gop": 60.14
+    }
+}

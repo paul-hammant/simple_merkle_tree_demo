@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2119, 
+        "dem": 1312, 
+        "tot": 4998, 
+        "gop": 3431
+    }, 
+    "for": "IA/Montgomery County/19137", 
+    "pct": {
+        "dem": 26.25, 
+        "per_point_diff": 42.4, 
+        "gop": 68.65
+    }
+}

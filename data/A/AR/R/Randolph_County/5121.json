@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3083, 
+        "dem": 1425, 
+        "tot": 6313, 
+        "gop": 4508
+    }, 
+    "for": "AR/Randolph County/5121", 
+    "pct": {
+        "dem": 22.57, 
+        "per_point_diff": 48.84, 
+        "gop": 71.41
+    }
+}

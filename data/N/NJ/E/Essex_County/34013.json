@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 168972, 
+        "dem": 231031, 
+        "tot": 299808, 
+        "gop": 62059
+    }, 
+    "for": "NJ/Essex County/34013", 
+    "pct": {
+        "dem": 77.06, 
+        "per_point_diff": 56.36, 
+        "gop": 20.7
+    }
+}

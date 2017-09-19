@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 395, 
+        "dem": 2267, 
+        "tot": 4179, 
+        "gop": 1872
+    }, 
+    "for": "GA/Terrell County/13273", 
+    "pct": {
+        "dem": 54.25, 
+        "per_point_diff": 9.45, 
+        "gop": 44.8
+    }
+}

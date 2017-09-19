@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 627, 
+        "dem": 3129, 
+        "tot": 7005, 
+        "gop": 3756
+    }, 
+    "for": "LA/Bienville Parish/22013", 
+    "pct": {
+        "dem": 44.67, 
+        "per_point_diff": 8.95, 
+        "gop": 53.62
+    }
+}

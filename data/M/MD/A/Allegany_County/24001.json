@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13360, 
+        "dem": 6665, 
+        "tot": 27804, 
+        "gop": 20025
+    }, 
+    "for": "MD/Allegany County/24001", 
+    "pct": {
+        "dem": 23.97, 
+        "per_point_diff": 48.05, 
+        "gop": 72.02
+    }
+}

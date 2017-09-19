@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3107, 
+        "dem": 1095, 
+        "tot": 5487, 
+        "gop": 4202
+    }, 
+    "for": "OK/Marshall County/40095", 
+    "pct": {
+        "dem": 19.96, 
+        "per_point_diff": 56.62, 
+        "gop": 76.58
+    }
+}

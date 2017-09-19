@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9300, 
+        "dem": 2925, 
+        "tot": 15912, 
+        "gop": 12225
+    }, 
+    "for": "AR/Boone County/5009", 
+    "pct": {
+        "dem": 18.38, 
+        "per_point_diff": 58.45, 
+        "gop": 76.83
+    }
+}

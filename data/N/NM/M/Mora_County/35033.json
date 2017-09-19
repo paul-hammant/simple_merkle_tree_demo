@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 871, 
+        "dem": 1533, 
+        "tot": 2429, 
+        "gop": 662
+    }, 
+    "for": "NM/Mora County/35033", 
+    "pct": {
+        "dem": 63.11, 
+        "per_point_diff": 35.86, 
+        "gop": 27.25
+    }
+}

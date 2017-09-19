@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 34603, 
+        "dem": 66716, 
+        "tot": 180750, 
+        "gop": 101319
+    }, 
+    "for": "KS/Sedgwick County/20173", 
+    "pct": {
+        "dem": 36.91, 
+        "per_point_diff": 19.14, 
+        "gop": 56.05
+    }
+}

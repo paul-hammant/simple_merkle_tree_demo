@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 992, 
+        "dem": 14437, 
+        "tot": 32217, 
+        "gop": 15429
+    }, 
+    "for": "MN/Rice County/27131", 
+    "pct": {
+        "dem": 44.81, 
+        "per_point_diff": 3.08, 
+        "gop": 47.89
+    }
+}

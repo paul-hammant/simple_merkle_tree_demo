@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14125, 
+        "dem": 16148, 
+        "tot": 47746, 
+        "gop": 30273
+    }, 
+    "for": "NC/Moore County/37125", 
+    "pct": {
+        "dem": 33.82, 
+        "per_point_diff": 29.58, 
+        "gop": 63.4
+    }
+}

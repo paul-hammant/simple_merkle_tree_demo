@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 402, 
+        "dem": 84, 
+        "tot": 583, 
+        "gop": 486
+    }, 
+    "for": "TX/Cottle County/48101", 
+    "pct": {
+        "dem": 14.41, 
+        "per_point_diff": 68.95, 
+        "gop": 83.36
+    }
+}

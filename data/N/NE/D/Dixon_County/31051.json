@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1485, 
+        "dem": 556, 
+        "tot": 2744, 
+        "gop": 2041
+    }, 
+    "for": "NE/Dixon County/31051", 
+    "pct": {
+        "dem": 20.26, 
+        "per_point_diff": 54.12, 
+        "gop": 74.38
+    }
+}

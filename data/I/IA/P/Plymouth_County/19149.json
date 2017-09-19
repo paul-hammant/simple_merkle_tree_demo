@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6781, 
+        "dem": 2878, 
+        "tot": 13057, 
+        "gop": 9659
+    }, 
+    "for": "IA/Plymouth County/19149", 
+    "pct": {
+        "dem": 22.04, 
+        "per_point_diff": 51.93, 
+        "gop": 73.98
+    }
+}

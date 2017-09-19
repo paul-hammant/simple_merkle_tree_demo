@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1036, 
+        "dem": 222, 
+        "tot": 1535, 
+        "gop": 1258
+    }, 
+    "for": "TX/Dallam County/48111", 
+    "pct": {
+        "dem": 14.46, 
+        "per_point_diff": 67.49, 
+        "gop": 81.95
+    }
+}

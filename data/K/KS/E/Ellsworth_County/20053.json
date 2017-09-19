@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1418, 
+        "dem": 515, 
+        "tot": 2626, 
+        "gop": 1933
+    }, 
+    "for": "KS/Ellsworth County/20053", 
+    "pct": {
+        "dem": 19.61, 
+        "per_point_diff": 54.0, 
+        "gop": 73.61
+    }
+}

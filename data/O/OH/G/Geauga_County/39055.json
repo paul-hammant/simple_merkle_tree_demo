@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12412, 
+        "dem": 17165, 
+        "tot": 48736, 
+        "gop": 29577
+    }, 
+    "for": "OH/Geauga County/39055", 
+    "pct": {
+        "dem": 35.22, 
+        "per_point_diff": 25.47, 
+        "gop": 60.69
+    }
+}

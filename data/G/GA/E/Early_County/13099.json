@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 387, 
+        "dem": 2165, 
+        "tot": 4782, 
+        "gop": 2552
+    }, 
+    "for": "GA/Early County/13099", 
+    "pct": {
+        "dem": 45.27, 
+        "per_point_diff": 8.09, 
+        "gop": 53.37
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9797, 
+        "dem": 8917, 
+        "tot": 28721, 
+        "gop": 18714
+    }, 
+    "for": "PA/Carbon County/42025", 
+    "pct": {
+        "dem": 31.05, 
+        "per_point_diff": 34.11, 
+        "gop": 65.16
+    }
+}

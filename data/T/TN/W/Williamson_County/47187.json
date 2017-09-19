@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 37168, 
+        "dem": 30992, 
+        "tot": 104700, 
+        "gop": 68160
+    }, 
+    "for": "TN/Williamson County/47187", 
+    "pct": {
+        "dem": 29.6, 
+        "per_point_diff": 35.5, 
+        "gop": 65.1
+    }
+}

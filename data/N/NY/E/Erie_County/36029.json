@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18248, 
+        "dem": 192065, 
+        "tot": 383248, 
+        "gop": 173817
+    }, 
+    "for": "NY/Erie County/36029", 
+    "pct": {
+        "dem": 50.12, 
+        "per_point_diff": 4.76, 
+        "gop": 45.35
+    }
+}

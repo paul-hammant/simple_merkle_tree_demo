@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17043, 
+        "dem": 12815, 
+        "tot": 44636, 
+        "gop": 29858
+    }, 
+    "for": "OH/Allen County/39003", 
+    "pct": {
+        "dem": 28.71, 
+        "per_point_diff": 38.18, 
+        "gop": 66.89
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2368, 
+        "dem": 249, 
+        "tot": 2945, 
+        "gop": 2617
+    }, 
+    "for": "TX/Carson County/48065", 
+    "pct": {
+        "dem": 8.46, 
+        "per_point_diff": 80.41, 
+        "gop": 88.86
+    }
+}

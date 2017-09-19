@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4323, 
+        "dem": 1582, 
+        "tot": 8008, 
+        "gop": 5905
+    }, 
+    "for": "KS/Dickinson County/20041", 
+    "pct": {
+        "dem": 19.76, 
+        "per_point_diff": 53.98, 
+        "gop": 73.74
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9150, 
+        "dem": 29496, 
+        "tot": 71882, 
+        "gop": 38646
+    }, 
+    "for": "MI/Berrien County/26021", 
+    "pct": {
+        "dem": 41.03, 
+        "per_point_diff": 12.73, 
+        "gop": 53.76
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1684, 
+        "dem": 1395, 
+        "tot": 4674, 
+        "gop": 3079
+    }, 
+    "for": "IA/Palo Alto County/19147", 
+    "pct": {
+        "dem": 29.85, 
+        "per_point_diff": 36.03, 
+        "gop": 65.88
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1486, 
+        "dem": 3218, 
+        "tot": 5214, 
+        "gop": 1732
+    }, 
+    "for": "VA/Manassas Park city/51685", 
+    "pct": {
+        "dem": 61.72, 
+        "per_point_diff": 28.5, 
+        "gop": 33.22
+    }
+}

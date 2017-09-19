@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10047, 
+        "dem": 9086, 
+        "tot": 29609, 
+        "gop": 19133
+    }, 
+    "for": "IN/Warrick County/18173", 
+    "pct": {
+        "dem": 30.69, 
+        "per_point_diff": 33.93, 
+        "gop": 64.62
+    }
+}

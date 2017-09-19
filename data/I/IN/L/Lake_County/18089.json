@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 41331, 
+        "dem": 116896, 
+        "tot": 200247, 
+        "gop": 75565
+    }, 
+    "for": "IN/Lake County/18089", 
+    "pct": {
+        "dem": 58.38, 
+        "per_point_diff": 20.64, 
+        "gop": 37.74
+    }
+}

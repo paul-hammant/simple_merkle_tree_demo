@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2365, 
+        "dem": 467, 
+        "tot": 3483, 
+        "gop": 2832
+    }, 
+    "for": "KS/Thomas County/20193", 
+    "pct": {
+        "dem": 13.41, 
+        "per_point_diff": 67.9, 
+        "gop": 81.31
+    }
+}

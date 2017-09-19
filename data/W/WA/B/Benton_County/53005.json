@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 20421, 
+        "dem": 25173, 
+        "tot": 76907, 
+        "gop": 45594
+    }, 
+    "for": "WA/Benton County/53005", 
+    "pct": {
+        "dem": 32.73, 
+        "per_point_diff": 26.55, 
+        "gop": 59.28
+    }
+}

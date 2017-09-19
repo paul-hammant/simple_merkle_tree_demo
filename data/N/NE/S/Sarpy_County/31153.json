@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16945, 
+        "dem": 27704, 
+        "tot": 77781, 
+        "gop": 44649
+    }, 
+    "for": "NE/Sarpy County/31153", 
+    "pct": {
+        "dem": 35.62, 
+        "per_point_diff": 21.79, 
+        "gop": 57.4
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7658, 
+        "dem": 12289, 
+        "tot": 34263, 
+        "gop": 19947
+    }, 
+    "for": "NY/Jefferson County/36045", 
+    "pct": {
+        "dem": 35.87, 
+        "per_point_diff": 22.35, 
+        "gop": 58.22
+    }
+}

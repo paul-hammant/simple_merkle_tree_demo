@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4534, 
+        "dem": 5667, 
+        "tot": 16338, 
+        "gop": 10201
+    }, 
+    "for": "AR/Union County/5139", 
+    "pct": {
+        "dem": 34.69, 
+        "per_point_diff": 27.75, 
+        "gop": 62.44
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 20658, 
+        "dem": 2150, 
+        "tot": 25384, 
+        "gop": 22808
+    }, 
+    "for": "AL/Blount County/1009", 
+    "pct": {
+        "dem": 8.47, 
+        "per_point_diff": 81.38, 
+        "gop": 89.85
+    }
+}

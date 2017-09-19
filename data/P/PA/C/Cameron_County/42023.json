@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1026, 
+        "dem": 469, 
+        "tot": 2024, 
+        "gop": 1495
+    }, 
+    "for": "PA/Cameron County/42023", 
+    "pct": {
+        "dem": 23.17, 
+        "per_point_diff": 50.69, 
+        "gop": 73.86
+    }
+}

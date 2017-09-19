@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 353, 
+        "dem": 1690, 
+        "tot": 3287, 
+        "gop": 1337
+    }, 
+    "for": "CO/Ouray County/8091", 
+    "pct": {
+        "dem": 51.41, 
+        "per_point_diff": 10.74, 
+        "gop": 40.68
+    }
+}

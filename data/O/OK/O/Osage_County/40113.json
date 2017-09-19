@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6966, 
+        "dem": 5593, 
+        "tot": 18942, 
+        "gop": 12559
+    }, 
+    "for": "OK/Osage County/40113", 
+    "pct": {
+        "dem": 29.53, 
+        "per_point_diff": 36.78, 
+        "gop": 66.3
+    }
+}

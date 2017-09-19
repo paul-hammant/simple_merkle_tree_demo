@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9041, 
+        "dem": 30740, 
+        "tot": 57271, 
+        "gop": 21699
+    }, 
+    "for": "MT/Missoula County/30063", 
+    "pct": {
+        "dem": 53.67, 
+        "per_point_diff": 15.79, 
+        "gop": 37.89
+    }
+}

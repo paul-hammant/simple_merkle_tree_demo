@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3425, 
+        "dem": 3102, 
+        "tot": 10564, 
+        "gop": 6527
+    }, 
+    "for": "MN/Dodge County/27039", 
+    "pct": {
+        "dem": 29.36, 
+        "per_point_diff": 32.42, 
+        "gop": 61.79
+    }
+}

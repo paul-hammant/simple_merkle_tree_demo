@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 77830, 
+        "dem": 145412, 
+        "tot": 219385, 
+        "gop": 67582
+    }, 
+    "for": "NJ/Union County/34039", 
+    "pct": {
+        "dem": 66.28, 
+        "per_point_diff": 35.48, 
+        "gop": 30.81
+    }
+}

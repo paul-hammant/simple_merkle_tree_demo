@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10843, 
+        "dem": 2379, 
+        "tot": 15818, 
+        "gop": 13222
+    }, 
+    "for": "AL/Covington County/1039", 
+    "pct": {
+        "dem": 15.04, 
+        "per_point_diff": 68.55, 
+        "gop": 83.59
+    }
+}

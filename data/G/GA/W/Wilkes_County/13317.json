@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 725, 
+        "dem": 1844, 
+        "tot": 4470, 
+        "gop": 2569
+    }, 
+    "for": "GA/Wilkes County/13317", 
+    "pct": {
+        "dem": 41.25, 
+        "per_point_diff": 16.22, 
+        "gop": 57.47
+    }
+}

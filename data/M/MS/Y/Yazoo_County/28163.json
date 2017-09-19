@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 653, 
+        "dem": 5221, 
+        "tot": 9892, 
+        "gop": 4568
+    }, 
+    "for": "MS/Yazoo County/28163", 
+    "pct": {
+        "dem": 52.78, 
+        "per_point_diff": 6.6, 
+        "gop": 46.18
+    }
+}

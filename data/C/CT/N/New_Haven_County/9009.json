@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 45228, 
+        "dem": 203601, 
+        "tot": 375909, 
+        "gop": 158373
+    }, 
+    "for": "CT/New Haven County/9009", 
+    "pct": {
+        "dem": 54.16, 
+        "per_point_diff": 12.03, 
+        "gop": 42.13
+    }
+}

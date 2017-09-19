@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 314, 
+        "dem": 30, 
+        "tot": 387, 
+        "gop": 344
+    }, 
+    "for": "NE/Thomas County/31171", 
+    "pct": {
+        "dem": 7.75, 
+        "per_point_diff": 81.14, 
+        "gop": 88.89
+    }
+}

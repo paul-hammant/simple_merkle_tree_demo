@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9295, 
+        "dem": 4799, 
+        "tot": 19880, 
+        "gop": 14094
+    }, 
+    "for": "MI/Hillsdale County/26059", 
+    "pct": {
+        "dem": 24.14, 
+        "per_point_diff": 46.76, 
+        "gop": 70.9
+    }
+}

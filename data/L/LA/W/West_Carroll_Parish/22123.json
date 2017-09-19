@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3255, 
+        "dem": 715, 
+        "tot": 4759, 
+        "gop": 3970
+    }, 
+    "for": "LA/West Carroll Parish/22123", 
+    "pct": {
+        "dem": 15.02, 
+        "per_point_diff": 68.4, 
+        "gop": 83.42
+    }
+}

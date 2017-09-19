@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5252, 
+        "dem": 3747, 
+        "tot": 13282, 
+        "gop": 8999
+    }, 
+    "for": "MD/Caroline County/24011", 
+    "pct": {
+        "dem": 28.21, 
+        "per_point_diff": 39.54, 
+        "gop": 67.75
+    }
+}

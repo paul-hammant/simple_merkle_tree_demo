@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 405, 
+        "dem": 55, 
+        "tot": 533, 
+        "gop": 460
+    }, 
+    "for": "MT/Wibaux County/30109", 
+    "pct": {
+        "dem": 10.32, 
+        "per_point_diff": 75.98, 
+        "gop": 86.3
+    }
+}

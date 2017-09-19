@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1961, 
+        "dem": 3219, 
+        "tot": 8975, 
+        "gop": 5180
+    }, 
+    "for": "NY/Yates County/36123", 
+    "pct": {
+        "dem": 35.87, 
+        "per_point_diff": 21.85, 
+        "gop": 57.72
+    }
+}

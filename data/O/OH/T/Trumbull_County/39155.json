@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6022, 
+        "dem": 42130, 
+        "tot": 94073, 
+        "gop": 48152
+    }, 
+    "for": "OH/Trumbull County/39155", 
+    "pct": {
+        "dem": 44.78, 
+        "per_point_diff": 6.4, 
+        "gop": 51.19
+    }
+}

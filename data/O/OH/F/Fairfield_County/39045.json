@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 19013, 
+        "dem": 24150, 
+        "tot": 70542, 
+        "gop": 43163
+    }, 
+    "for": "OH/Fairfield County/39045", 
+    "pct": {
+        "dem": 34.23, 
+        "per_point_diff": 26.95, 
+        "gop": 61.19
+    }
+}

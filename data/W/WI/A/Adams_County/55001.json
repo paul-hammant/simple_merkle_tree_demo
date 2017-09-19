@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2203, 
+        "dem": 3780, 
+        "tot": 10107, 
+        "gop": 5983
+    }, 
+    "for": "WI/Adams County/55001", 
+    "pct": {
+        "dem": 37.4, 
+        "per_point_diff": 21.8, 
+        "gop": 59.2
+    }
+}

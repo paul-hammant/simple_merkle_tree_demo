@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17571, 
+        "dem": 45056, 
+        "tot": 112790, 
+        "gop": 62627
+    }, 
+    "for": "OH/Lake County/39085", 
+    "pct": {
+        "dem": 39.95, 
+        "per_point_diff": 15.58, 
+        "gop": 55.53
+    }
+}

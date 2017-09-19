@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3185, 
+        "dem": 1836, 
+        "tot": 6995, 
+        "gop": 5021
+    }, 
+    "for": "GA/Dodge County/13091", 
+    "pct": {
+        "dem": 26.25, 
+        "per_point_diff": 45.53, 
+        "gop": 71.78
+    }
+}

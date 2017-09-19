@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 33667, 
+        "dem": 11910, 
+        "tot": 59860, 
+        "gop": 45577
+    }, 
+    "for": "TN/Sullivan County/47163", 
+    "pct": {
+        "dem": 19.9, 
+        "per_point_diff": 56.24, 
+        "gop": 76.14
+    }
+}

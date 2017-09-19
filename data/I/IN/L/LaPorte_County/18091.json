@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2883, 
+        "dem": 19795, 
+        "tot": 44994, 
+        "gop": 22678
+    }, 
+    "for": "IN/LaPorte County/18091", 
+    "pct": {
+        "dem": 43.99, 
+        "per_point_diff": 6.41, 
+        "gop": 50.4
+    }
+}

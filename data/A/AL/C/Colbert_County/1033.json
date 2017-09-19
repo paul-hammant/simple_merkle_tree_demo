@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9422, 
+        "dem": 7296, 
+        "tot": 24626, 
+        "gop": 16718
+    }, 
+    "for": "AL/Colbert County/1033", 
+    "pct": {
+        "dem": 29.63, 
+        "per_point_diff": 38.26, 
+        "gop": 67.89
+    }
+}

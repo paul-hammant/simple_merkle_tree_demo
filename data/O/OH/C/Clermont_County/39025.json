@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 39864, 
+        "dem": 26096, 
+        "tot": 96455, 
+        "gop": 65960
+    }, 
+    "for": "OH/Clermont County/39025", 
+    "pct": {
+        "dem": 27.06, 
+        "per_point_diff": 41.33, 
+        "gop": 68.38
+    }
+}

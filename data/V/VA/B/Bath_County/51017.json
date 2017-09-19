@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 945, 
+        "dem": 603, 
+        "tot": 2243, 
+        "gop": 1548
+    }, 
+    "for": "VA/Bath County/51017", 
+    "pct": {
+        "dem": 26.88, 
+        "per_point_diff": 42.13, 
+        "gop": 69.01
+    }
+}

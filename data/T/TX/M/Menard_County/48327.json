@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 528, 
+        "dem": 153, 
+        "tot": 860, 
+        "gop": 681
+    }, 
+    "for": "TX/Menard County/48327", 
+    "pct": {
+        "dem": 17.79, 
+        "per_point_diff": 61.4, 
+        "gop": 79.19
+    }
+}

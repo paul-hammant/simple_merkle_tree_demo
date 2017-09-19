@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4402, 
+        "dem": 7053, 
+        "tot": 10589, 
+        "gop": 2651
+    }, 
+    "for": "WA/San Juan County/53055", 
+    "pct": {
+        "dem": 66.61, 
+        "per_point_diff": 41.57, 
+        "gop": 25.04
+    }
+}

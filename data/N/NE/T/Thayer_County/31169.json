@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1503, 
+        "dem": 490, 
+        "tot": 2613, 
+        "gop": 1993
+    }, 
+    "for": "NE/Thayer County/31169", 
+    "pct": {
+        "dem": 18.75, 
+        "per_point_diff": 57.52, 
+        "gop": 76.27
+    }
+}

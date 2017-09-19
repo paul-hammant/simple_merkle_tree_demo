@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2755, 
+        "dem": 2163, 
+        "tot": 7457, 
+        "gop": 4918
+    }, 
+    "for": "IA/Butler County/19023", 
+    "pct": {
+        "dem": 29.01, 
+        "per_point_diff": 36.95, 
+        "gop": 65.95
+    }
+}

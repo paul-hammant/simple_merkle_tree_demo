@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8871, 
+        "dem": 6398, 
+        "tot": 22365, 
+        "gop": 15269
+    }, 
+    "for": "PA/Wayne County/42127", 
+    "pct": {
+        "dem": 28.61, 
+        "per_point_diff": 39.66, 
+        "gop": 68.27
+    }
+}

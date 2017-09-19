@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3553, 
+        "dem": 3347, 
+        "tot": 10572, 
+        "gop": 6900
+    }, 
+    "for": "LA/Plaquemines Parish/22075", 
+    "pct": {
+        "dem": 31.66, 
+        "per_point_diff": 33.61, 
+        "gop": 65.27
+    }
+}

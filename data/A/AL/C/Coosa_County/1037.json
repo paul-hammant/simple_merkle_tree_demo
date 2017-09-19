@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1596, 
+        "dem": 1780, 
+        "tot": 5223, 
+        "gop": 3376
+    }, 
+    "for": "AL/Coosa County/1037", 
+    "pct": {
+        "dem": 34.08, 
+        "per_point_diff": 30.56, 
+        "gop": 64.64
+    }
+}

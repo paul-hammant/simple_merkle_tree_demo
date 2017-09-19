@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1314, 
+        "dem": 857, 
+        "tot": 3172, 
+        "gop": 2171
+    }, 
+    "for": "NE/Colfax County/31037", 
+    "pct": {
+        "dem": 27.02, 
+        "per_point_diff": 41.42, 
+        "gop": 68.44
+    }
+}

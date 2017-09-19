@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 616, 
+        "dem": 2696, 
+        "tot": 5154, 
+        "gop": 2080
+    }, 
+    "for": "CA/Mono County/6051", 
+    "pct": {
+        "dem": 52.31, 
+        "per_point_diff": 11.95, 
+        "gop": 40.36
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 315, 
+        "dem": 62, 
+        "tot": 459, 
+        "gop": 377
+    }, 
+    "for": "NE/Wheeler County/31183", 
+    "pct": {
+        "dem": 13.51, 
+        "per_point_diff": 68.63, 
+        "gop": 82.14
+    }
+}

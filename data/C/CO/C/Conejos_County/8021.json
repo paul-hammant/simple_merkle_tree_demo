@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 132, 
+        "dem": 1753, 
+        "tot": 3970, 
+        "gop": 1885
+    }, 
+    "for": "CO/Conejos County/8021", 
+    "pct": {
+        "dem": 44.16, 
+        "per_point_diff": 3.32, 
+        "gop": 47.48
+    }
+}

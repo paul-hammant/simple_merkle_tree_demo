@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1540, 
+        "dem": 287, 
+        "tot": 2200, 
+        "gop": 1827
+    }, 
+    "for": "OK/Grant County/40053", 
+    "pct": {
+        "dem": 13.05, 
+        "per_point_diff": 70.0, 
+        "gop": 83.05
+    }
+}

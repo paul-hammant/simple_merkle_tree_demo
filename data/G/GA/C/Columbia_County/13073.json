@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 24197, 
+        "dem": 18863, 
+        "tot": 64190, 
+        "gop": 43060
+    }, 
+    "for": "GA/Columbia County/13073", 
+    "pct": {
+        "dem": 29.39, 
+        "per_point_diff": 37.7, 
+        "gop": 67.08
+    }
+}

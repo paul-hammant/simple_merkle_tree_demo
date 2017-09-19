@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1187, 
+        "dem": 1369, 
+        "tot": 4151, 
+        "gop": 2556
+    }, 
+    "for": "MI/Schoolcraft County/26153", 
+    "pct": {
+        "dem": 32.98, 
+        "per_point_diff": 28.6, 
+        "gop": 61.58
+    }
+}

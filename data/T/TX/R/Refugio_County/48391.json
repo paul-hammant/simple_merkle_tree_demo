@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 796, 
+        "dem": 1034, 
+        "tot": 2945, 
+        "gop": 1830
+    }, 
+    "for": "TX/Refugio County/48391", 
+    "pct": {
+        "dem": 35.11, 
+        "per_point_diff": 27.03, 
+        "gop": 62.14
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2331, 
+        "dem": 4727, 
+        "tot": 12087, 
+        "gop": 7058
+    }, 
+    "for": "SC/Union County/45087", 
+    "pct": {
+        "dem": 39.11, 
+        "per_point_diff": 19.29, 
+        "gop": 58.39
+    }
+}

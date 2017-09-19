@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5883, 
+        "dem": 15438, 
+        "tot": 37764, 
+        "gop": 21321
+    }, 
+    "for": "TN/Madison County/47113", 
+    "pct": {
+        "dem": 40.88, 
+        "per_point_diff": 15.58, 
+        "gop": 56.46
+    }
+}

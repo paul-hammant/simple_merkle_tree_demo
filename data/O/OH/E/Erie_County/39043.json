@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3609, 
+        "dem": 15692, 
+        "tot": 36730, 
+        "gop": 19301
+    }, 
+    "for": "OH/Erie County/39043", 
+    "pct": {
+        "dem": 42.72, 
+        "per_point_diff": 9.83, 
+        "gop": 52.55
+    }
+}

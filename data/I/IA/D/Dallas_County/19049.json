@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3626, 
+        "dem": 15662, 
+        "tot": 37617, 
+        "gop": 19288
+    }, 
+    "for": "IA/Dallas County/19049", 
+    "pct": {
+        "dem": 41.64, 
+        "per_point_diff": 9.64, 
+        "gop": 51.27
+    }
+}

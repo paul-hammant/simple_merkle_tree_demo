@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 37615, 
+        "dem": 207587, 
+        "tot": 395000, 
+        "gop": 169972
+    }, 
+    "for": "OH/Hamilton County/39061", 
+    "pct": {
+        "dem": 52.55, 
+        "per_point_diff": 9.52, 
+        "gop": 43.03
+    }
+}

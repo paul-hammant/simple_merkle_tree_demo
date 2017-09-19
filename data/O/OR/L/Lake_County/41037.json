@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2373, 
+        "dem": 628, 
+        "tot": 3814, 
+        "gop": 3001
+    }, 
+    "for": "OR/Lake County/41037", 
+    "pct": {
+        "dem": 16.47, 
+        "per_point_diff": 62.22, 
+        "gop": 78.68
+    }
+}

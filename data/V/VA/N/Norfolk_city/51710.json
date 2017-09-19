@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 31554, 
+        "dem": 51429, 
+        "tot": 75172, 
+        "gop": 19875
+    }, 
+    "for": "VA/Norfolk city/51710", 
+    "pct": {
+        "dem": 68.42, 
+        "per_point_diff": 41.98, 
+        "gop": 26.44
+    }
+}

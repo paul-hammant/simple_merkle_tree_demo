@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4802, 
+        "dem": 3573, 
+        "tot": 12418, 
+        "gop": 8375
+    }, 
+    "for": "PA/Wyoming County/42131", 
+    "pct": {
+        "dem": 28.77, 
+        "per_point_diff": 38.67, 
+        "gop": 67.44
+    }
+}

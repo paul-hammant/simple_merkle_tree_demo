@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 619, 
+        "dem": 34, 
+        "tot": 715, 
+        "gop": 653
+    }, 
+    "for": "MT/Garfield County/30033", 
+    "pct": {
+        "dem": 4.76, 
+        "per_point_diff": 86.57, 
+        "gop": 91.33
+    }
+}

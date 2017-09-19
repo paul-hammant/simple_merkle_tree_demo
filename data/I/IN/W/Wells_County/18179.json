@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7414, 
+        "dem": 2585, 
+        "tot": 13123, 
+        "gop": 9999
+    }, 
+    "for": "IN/Wells County/18179", 
+    "pct": {
+        "dem": 19.7, 
+        "per_point_diff": 56.5, 
+        "gop": 76.19
+    }
+}

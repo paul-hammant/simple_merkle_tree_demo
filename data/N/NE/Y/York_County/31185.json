@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3505, 
+        "dem": 1181, 
+        "tot": 6256, 
+        "gop": 4686
+    }, 
+    "for": "NE/York County/31185", 
+    "pct": {
+        "dem": 18.88, 
+        "per_point_diff": 56.03, 
+        "gop": 74.9
+    }
+}

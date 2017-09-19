@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 973, 
+        "dem": 430, 
+        "tot": 1982, 
+        "gop": 1403
+    }, 
+    "for": "NV/Pershing County/32027", 
+    "pct": {
+        "dem": 21.7, 
+        "per_point_diff": 49.09, 
+        "gop": 70.79
+    }
+}

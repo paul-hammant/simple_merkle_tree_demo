@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3720, 
+        "dem": 1167, 
+        "tot": 6870, 
+        "gop": 4887
+    }, 
+    "for": "ID/Minidoka County/16067", 
+    "pct": {
+        "dem": 16.99, 
+        "per_point_diff": 54.15, 
+        "gop": 71.14
+    }
+}

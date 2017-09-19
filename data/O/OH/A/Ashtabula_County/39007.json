@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7564, 
+        "dem": 15191, 
+        "tot": 39809, 
+        "gop": 22755
+    }, 
+    "for": "OH/Ashtabula County/39007", 
+    "pct": {
+        "dem": 38.16, 
+        "per_point_diff": 19.0, 
+        "gop": 57.16
+    }
+}

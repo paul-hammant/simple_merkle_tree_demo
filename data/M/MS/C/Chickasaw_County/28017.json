@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 478, 
+        "dem": 3649, 
+        "tot": 7890, 
+        "gop": 4127
+    }, 
+    "for": "MS/Chickasaw County/28017", 
+    "pct": {
+        "dem": 46.25, 
+        "per_point_diff": 6.06, 
+        "gop": 52.31
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 114, 
+        "dem": 461, 
+        "tot": 1044, 
+        "gop": 575
+    }, 
+    "for": "GA/Quitman County/13239", 
+    "pct": {
+        "dem": 44.16, 
+        "per_point_diff": 10.92, 
+        "gop": 55.08
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3052, 
+        "dem": 1832, 
+        "tot": 6966, 
+        "gop": 4884
+    }, 
+    "for": "VA/Bristol city/51520", 
+    "pct": {
+        "dem": 26.3, 
+        "per_point_diff": 43.81, 
+        "gop": 70.11
+    }
+}

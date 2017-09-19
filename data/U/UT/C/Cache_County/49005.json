@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9938, 
+        "dem": 6705, 
+        "tot": 35879, 
+        "gop": 16643
+    }, 
+    "for": "UT/Cache County/49005", 
+    "pct": {
+        "dem": 18.69, 
+        "per_point_diff": 27.7, 
+        "gop": 46.39
+    }
+}

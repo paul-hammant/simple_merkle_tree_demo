@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10701, 
+        "dem": 2483, 
+        "tot": 16128, 
+        "gop": 13184
+    }, 
+    "for": "GA/Habersham County/13137", 
+    "pct": {
+        "dem": 15.4, 
+        "per_point_diff": 66.35, 
+        "gop": 81.75
+    }
+}

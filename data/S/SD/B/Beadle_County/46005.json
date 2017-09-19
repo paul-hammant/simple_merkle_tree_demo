@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2543, 
+        "dem": 1912, 
+        "tot": 6772, 
+        "gop": 4455
+    }, 
+    "for": "SD/Beadle County/46005", 
+    "pct": {
+        "dem": 28.23, 
+        "per_point_diff": 37.55, 
+        "gop": 65.79
+    }
+}

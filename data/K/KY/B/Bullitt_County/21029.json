@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17955, 
+        "dem": 8255, 
+        "tot": 36036, 
+        "gop": 26210
+    }, 
+    "for": "KY/Bullitt County/21029", 
+    "pct": {
+        "dem": 22.91, 
+        "per_point_diff": 49.83, 
+        "gop": 72.73
+    }
+}

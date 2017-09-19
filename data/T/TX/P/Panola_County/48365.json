@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6610, 
+        "dem": 1835, 
+        "tot": 10413, 
+        "gop": 8445
+    }, 
+    "for": "TX/Panola County/48365", 
+    "pct": {
+        "dem": 17.62, 
+        "per_point_diff": 63.48, 
+        "gop": 81.1
+    }
+}

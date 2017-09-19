@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4537, 
+        "dem": 5455, 
+        "tot": 16487, 
+        "gop": 9992
+    }, 
+    "for": "OK/Cherokee County/40021", 
+    "pct": {
+        "dem": 33.09, 
+        "per_point_diff": 27.52, 
+        "gop": 60.61
+    }
+}

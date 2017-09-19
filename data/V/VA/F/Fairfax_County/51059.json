@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 196648, 
+        "dem": 354485, 
+        "tot": 542858, 
+        "gop": 157837
+    }, 
+    "for": "VA/Fairfax County/51059", 
+    "pct": {
+        "dem": 65.3, 
+        "per_point_diff": 36.22, 
+        "gop": 29.08
+    }
+}

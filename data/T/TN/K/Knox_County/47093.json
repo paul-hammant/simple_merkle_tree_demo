@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 42863, 
+        "dem": 62861, 
+        "tot": 179266, 
+        "gop": 105724
+    }, 
+    "for": "TN/Knox County/47093", 
+    "pct": {
+        "dem": 35.07, 
+        "per_point_diff": 23.91, 
+        "gop": 58.98
+    }
+}

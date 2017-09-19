@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3825, 
+        "dem": 1491, 
+        "tot": 6945, 
+        "gop": 5316
+    }, 
+    "for": "TX/Burleson County/48051", 
+    "pct": {
+        "dem": 21.47, 
+        "per_point_diff": 55.08, 
+        "gop": 76.54
+    }
+}

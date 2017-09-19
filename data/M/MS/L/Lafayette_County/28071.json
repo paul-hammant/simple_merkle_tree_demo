@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2904, 
+        "dem": 7968, 
+        "tot": 19642, 
+        "gop": 10872
+    }, 
+    "for": "MS/Lafayette County/28071", 
+    "pct": {
+        "dem": 40.57, 
+        "per_point_diff": 14.78, 
+        "gop": 55.35
+    }
+}

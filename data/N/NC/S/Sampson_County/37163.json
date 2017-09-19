@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4275, 
+        "dem": 10486, 
+        "tot": 25638, 
+        "gop": 14761
+    }, 
+    "for": "NC/Sampson County/37163", 
+    "pct": {
+        "dem": 40.9, 
+        "per_point_diff": 16.67, 
+        "gop": 57.57
+    }
+}

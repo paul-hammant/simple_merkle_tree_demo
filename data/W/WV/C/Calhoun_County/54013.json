@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1567, 
+        "dem": 456, 
+        "tot": 2604, 
+        "gop": 2023
+    }, 
+    "for": "WV/Calhoun County/54013", 
+    "pct": {
+        "dem": 17.51, 
+        "per_point_diff": 60.18, 
+        "gop": 77.69
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 254, 
+        "dem": 412, 
+        "tot": 1149, 
+        "gop": 666
+    }, 
+    "for": "SD/Bennett County/46007", 
+    "pct": {
+        "dem": 35.86, 
+        "per_point_diff": 22.11, 
+        "gop": 57.96
+    }
+}

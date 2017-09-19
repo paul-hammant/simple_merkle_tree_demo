@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 24131, 
+        "dem": 13093, 
+        "tot": 52029, 
+        "gop": 37224
+    }, 
+    "for": "PA/Blair County/42013", 
+    "pct": {
+        "dem": 25.16, 
+        "per_point_diff": 46.38, 
+        "gop": 71.54
+    }
+}

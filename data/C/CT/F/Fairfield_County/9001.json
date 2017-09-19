@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 83266, 
+        "dem": 238723, 
+        "tot": 410279, 
+        "gop": 155457
+    }, 
+    "for": "CT/Fairfield County/9001", 
+    "pct": {
+        "dem": 58.19, 
+        "per_point_diff": 20.29, 
+        "gop": 37.89
+    }
+}

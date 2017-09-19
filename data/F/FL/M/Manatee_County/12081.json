@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 30615, 
+        "dem": 71066, 
+        "tot": 178521, 
+        "gop": 101681
+    }, 
+    "for": "FL/Manatee County/12081", 
+    "pct": {
+        "dem": 39.81, 
+        "per_point_diff": 17.15, 
+        "gop": 56.96
+    }
+}

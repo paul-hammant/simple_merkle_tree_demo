@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1086, 
+        "dem": 3821, 
+        "tot": 9202, 
+        "gop": 4907
+    }, 
+    "for": "WI/Jackson County/55053", 
+    "pct": {
+        "dem": 41.52, 
+        "per_point_diff": 11.8, 
+        "gop": 53.33
+    }
+}

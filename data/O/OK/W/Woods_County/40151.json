@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2424, 
+        "dem": 521, 
+        "tot": 3665, 
+        "gop": 2945
+    }, 
+    "for": "OK/Woods County/40151", 
+    "pct": {
+        "dem": 14.22, 
+        "per_point_diff": 66.14, 
+        "gop": 80.35
+    }
+}

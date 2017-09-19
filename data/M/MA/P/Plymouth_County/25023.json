@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 19106, 
+        "dem": 133828, 
+        "tot": 264168, 
+        "gop": 114722
+    }, 
+    "for": "MA/Plymouth County/25023", 
+    "pct": {
+        "dem": 50.66, 
+        "per_point_diff": 7.23, 
+        "gop": 43.43
+    }
+}

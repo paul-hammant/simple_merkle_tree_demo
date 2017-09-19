@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1159, 
+        "dem": 323, 
+        "tot": 1896, 
+        "gop": 1482
+    }, 
+    "for": "OK/Greer County/40055", 
+    "pct": {
+        "dem": 17.04, 
+        "per_point_diff": 61.13, 
+        "gop": 78.16
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 519, 
+        "dem": 23879, 
+        "tot": 52169, 
+        "gop": 23360
+    }, 
+    "for": "MT/Gallatin County/30031", 
+    "pct": {
+        "dem": 45.77, 
+        "per_point_diff": 0.99, 
+        "gop": 44.78
+    }
+}

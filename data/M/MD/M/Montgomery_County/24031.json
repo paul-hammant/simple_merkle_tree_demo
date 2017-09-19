@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 226776, 
+        "dem": 309761, 
+        "tot": 408300, 
+        "gop": 82985
+    }, 
+    "for": "MD/Montgomery County/24031", 
+    "pct": {
+        "dem": 75.87, 
+        "per_point_diff": 55.54, 
+        "gop": 20.32
+    }
+}

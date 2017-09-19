@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3353, 
+        "dem": 956, 
+        "tot": 5325, 
+        "gop": 4309
+    }, 
+    "for": "MS/Greene County/28041", 
+    "pct": {
+        "dem": 17.95, 
+        "per_point_diff": 62.97, 
+        "gop": 80.92
+    }
+}

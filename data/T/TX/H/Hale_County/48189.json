@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4257, 
+        "dem": 2090, 
+        "tot": 8802, 
+        "gop": 6347
+    }, 
+    "for": "TX/Hale County/48189", 
+    "pct": {
+        "dem": 23.74, 
+        "per_point_diff": 48.36, 
+        "gop": 72.11
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3138, 
+        "dem": 1064, 
+        "tot": 5419, 
+        "gop": 4202
+    }, 
+    "for": "OK/Choctaw County/40023", 
+    "pct": {
+        "dem": 19.63, 
+        "per_point_diff": 57.91, 
+        "gop": 77.54
+    }
+}

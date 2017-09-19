@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15303, 
+        "dem": 4395, 
+        "tot": 25000, 
+        "gop": 19698
+    }, 
+    "for": "OH/Darke County/39037", 
+    "pct": {
+        "dem": 17.58, 
+        "per_point_diff": 61.21, 
+        "gop": 78.79
+    }
+}

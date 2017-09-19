@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 180, 
+        "dem": 7851, 
+        "tot": 16151, 
+        "gop": 7671
+    }, 
+    "for": "MS/Oktibbeha County/28105", 
+    "pct": {
+        "dem": 48.61, 
+        "per_point_diff": 1.11, 
+        "gop": 47.5
+    }
+}

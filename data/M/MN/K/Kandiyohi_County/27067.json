@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5519, 
+        "dem": 7266, 
+        "tot": 21648, 
+        "gop": 12785
+    }, 
+    "for": "MN/Kandiyohi County/27067", 
+    "pct": {
+        "dem": 33.56, 
+        "per_point_diff": 25.49, 
+        "gop": 59.06
+    }
+}

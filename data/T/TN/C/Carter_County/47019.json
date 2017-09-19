@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13444, 
+        "dem": 3453, 
+        "tot": 20993, 
+        "gop": 16897
+    }, 
+    "for": "TN/Carter County/47019", 
+    "pct": {
+        "dem": 16.45, 
+        "per_point_diff": 64.04, 
+        "gop": 80.49
+    }
+}

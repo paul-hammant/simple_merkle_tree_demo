@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1334, 
+        "dem": 4235, 
+        "tot": 10042, 
+        "gop": 5569
+    }, 
+    "for": "LA/East Feliciana Parish/22037", 
+    "pct": {
+        "dem": 42.17, 
+        "per_point_diff": 13.28, 
+        "gop": 55.46
+    }
+}

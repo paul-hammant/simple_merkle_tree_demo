@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 708, 
+        "dem": 1213, 
+        "tot": 3183, 
+        "gop": 1921
+    }, 
+    "for": "GA/Marion County/13197", 
+    "pct": {
+        "dem": 38.11, 
+        "per_point_diff": 22.24, 
+        "gop": 60.35
+    }
+}

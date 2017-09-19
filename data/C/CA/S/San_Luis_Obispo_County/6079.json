@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10329, 
+        "dem": 63001, 
+        "tot": 124575, 
+        "gop": 52672
+    }, 
+    "for": "CA/San Luis Obispo County/6079", 
+    "pct": {
+        "dem": 50.57, 
+        "per_point_diff": 8.29, 
+        "gop": 42.28
+    }
+}

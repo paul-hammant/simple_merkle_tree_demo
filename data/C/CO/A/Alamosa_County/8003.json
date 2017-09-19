@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 137, 
+        "dem": 3168, 
+        "tot": 6897, 
+        "gop": 3031
+    }, 
+    "for": "CO/Alamosa County/8003", 
+    "pct": {
+        "dem": 45.93, 
+        "per_point_diff": 1.99, 
+        "gop": 43.95
+    }
+}

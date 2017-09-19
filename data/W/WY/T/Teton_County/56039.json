@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3393, 
+        "dem": 7313, 
+        "tot": 12176, 
+        "gop": 3920
+    }, 
+    "for": "WY/Teton County/56039", 
+    "pct": {
+        "dem": 60.06, 
+        "per_point_diff": 27.87, 
+        "gop": 32.19
+    }
+}

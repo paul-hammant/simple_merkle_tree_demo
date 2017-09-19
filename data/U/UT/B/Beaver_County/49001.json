@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1574, 
+        "dem": 264, 
+        "tot": 2490, 
+        "gop": 1838
+    }, 
+    "for": "UT/Beaver County/49001", 
+    "pct": {
+        "dem": 10.6, 
+        "per_point_diff": 63.21, 
+        "gop": 73.82
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6144, 
+        "dem": 4170, 
+        "tot": 15112, 
+        "gop": 10314
+    }, 
+    "for": "VA/Pulaski County/51155", 
+    "pct": {
+        "dem": 27.59, 
+        "per_point_diff": 40.66, 
+        "gop": 68.25
+    }
+}

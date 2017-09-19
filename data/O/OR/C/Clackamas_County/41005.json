@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11125, 
+        "dem": 90187, 
+        "tot": 182136, 
+        "gop": 79062
+    }, 
+    "for": "OR/Clackamas County/41005", 
+    "pct": {
+        "dem": 49.52, 
+        "per_point_diff": 6.11, 
+        "gop": 43.41
+    }
+}

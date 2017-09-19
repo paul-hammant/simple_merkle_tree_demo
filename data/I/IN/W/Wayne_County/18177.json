@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7706, 
+        "dem": 8322, 
+        "tot": 25575, 
+        "gop": 16028
+    }, 
+    "for": "IN/Wayne County/18177", 
+    "pct": {
+        "dem": 32.54, 
+        "per_point_diff": 30.13, 
+        "gop": 62.67
+    }
+}

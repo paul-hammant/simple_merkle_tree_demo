@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1739, 
+        "dem": 3061, 
+        "tot": 8417, 
+        "gop": 4800
+    }, 
+    "for": "IL/Mercer County/17131", 
+    "pct": {
+        "dem": 36.37, 
+        "per_point_diff": 20.66, 
+        "gop": 57.03
+    }
+}

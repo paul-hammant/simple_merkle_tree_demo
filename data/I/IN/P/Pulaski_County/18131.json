@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2527, 
+        "dem": 1327, 
+        "tot": 5437, 
+        "gop": 3854
+    }, 
+    "for": "IN/Pulaski County/18131", 
+    "pct": {
+        "dem": 24.41, 
+        "per_point_diff": 46.48, 
+        "gop": 70.88
+    }
+}

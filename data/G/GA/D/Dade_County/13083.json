@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4082, 
+        "dem": 965, 
+        "tot": 6238, 
+        "gop": 5047
+    }, 
+    "for": "GA/Dade County/13083", 
+    "pct": {
+        "dem": 15.47, 
+        "per_point_diff": 65.44, 
+        "gop": 80.91
+    }
+}

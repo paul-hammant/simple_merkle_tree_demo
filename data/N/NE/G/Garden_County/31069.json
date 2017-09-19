@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 716, 
+        "dem": 153, 
+        "tot": 1063, 
+        "gop": 869
+    }, 
+    "for": "NE/Garden County/31069", 
+    "pct": {
+        "dem": 14.39, 
+        "per_point_diff": 67.36, 
+        "gop": 81.75
+    }
+}

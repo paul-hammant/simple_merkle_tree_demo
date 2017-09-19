@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1120, 
+        "dem": 262, 
+        "tot": 1678, 
+        "gop": 1382
+    }, 
+    "for": "TX/Real County/48385", 
+    "pct": {
+        "dem": 15.61, 
+        "per_point_diff": 66.75, 
+        "gop": 82.36
+    }
+}

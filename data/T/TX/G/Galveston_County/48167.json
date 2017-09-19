@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 28063, 
+        "dem": 45503, 
+        "tot": 123994, 
+        "gop": 73566
+    }, 
+    "for": "TX/Galveston County/48167", 
+    "pct": {
+        "dem": 36.7, 
+        "per_point_diff": 22.63, 
+        "gop": 59.33
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6296, 
+        "dem": 7568, 
+        "tot": 22691, 
+        "gop": 13864
+    }, 
+    "for": "WI/Polk County/55095", 
+    "pct": {
+        "dem": 33.35, 
+        "per_point_diff": 27.75, 
+        "gop": 61.1
+    }
+}

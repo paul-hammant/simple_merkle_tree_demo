@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5232, 
+        "dem": 776, 
+        "tot": 6935, 
+        "gop": 6008
+    }, 
+    "for": "TX/Eastland County/48133", 
+    "pct": {
+        "dem": 11.19, 
+        "per_point_diff": 75.44, 
+        "gop": 86.63
+    }
+}

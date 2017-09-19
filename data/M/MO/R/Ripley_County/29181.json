@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3690, 
+        "dem": 830, 
+        "tot": 5518, 
+        "gop": 4520
+    }, 
+    "for": "MO/Ripley County/29181", 
+    "pct": {
+        "dem": 15.04, 
+        "per_point_diff": 66.87, 
+        "gop": 81.91
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14042, 
+        "dem": 24369, 
+        "tot": 37987, 
+        "gop": 10327
+    }, 
+    "for": "MA/Franklin County/25011", 
+    "pct": {
+        "dem": 64.15, 
+        "per_point_diff": 36.97, 
+        "gop": 27.19
+    }
+}

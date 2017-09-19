@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3805, 
+        "dem": 6886, 
+        "tot": 10100, 
+        "gop": 3081
+    }, 
+    "for": "NC/Hertford County/37091", 
+    "pct": {
+        "dem": 68.18, 
+        "per_point_diff": 37.67, 
+        "gop": 30.5
+    }
+}

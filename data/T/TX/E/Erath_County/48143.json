@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9046, 
+        "dem": 2159, 
+        "tot": 13810, 
+        "gop": 11205
+    }, 
+    "for": "TX/Erath County/48143", 
+    "pct": {
+        "dem": 15.63, 
+        "per_point_diff": 65.5, 
+        "gop": 81.14
+    }
+}

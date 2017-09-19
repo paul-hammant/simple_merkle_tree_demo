@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4414, 
+        "dem": 2567, 
+        "tot": 10043, 
+        "gop": 6981
+    }, 
+    "for": "MO/Audrain County/29007", 
+    "pct": {
+        "dem": 25.56, 
+        "per_point_diff": 43.95, 
+        "gop": 69.51
+    }
+}

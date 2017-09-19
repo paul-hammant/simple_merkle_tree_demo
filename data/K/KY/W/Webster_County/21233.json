@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3157, 
+        "dem": 1240, 
+        "tot": 5804, 
+        "gop": 4397
+    }, 
+    "for": "KY/Webster County/21233", 
+    "pct": {
+        "dem": 21.36, 
+        "per_point_diff": 54.39, 
+        "gop": 75.76
+    }
+}

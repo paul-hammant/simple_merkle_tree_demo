@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1203, 
+        "dem": 1252, 
+        "tot": 3814, 
+        "gop": 2455
+    }, 
+    "for": "AR/Lincoln County/5079", 
+    "pct": {
+        "dem": 32.83, 
+        "per_point_diff": 31.54, 
+        "gop": 64.37
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 284, 
+        "dem": 2069, 
+        "tot": 3976, 
+        "gop": 1785
+    }, 
+    "for": "VA/Surry County/51181", 
+    "pct": {
+        "dem": 52.04, 
+        "per_point_diff": 7.14, 
+        "gop": 44.89
+    }
+}

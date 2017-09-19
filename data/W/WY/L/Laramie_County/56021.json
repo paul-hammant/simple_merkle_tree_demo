@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13272, 
+        "dem": 11572, 
+        "tot": 39945, 
+        "gop": 24844
+    }, 
+    "for": "WY/Laramie County/56021", 
+    "pct": {
+        "dem": 28.97, 
+        "per_point_diff": 33.23, 
+        "gop": 62.2
+    }
+}

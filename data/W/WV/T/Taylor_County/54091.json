@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3218, 
+        "dem": 1483, 
+        "tot": 6498, 
+        "gop": 4701
+    }, 
+    "for": "WV/Taylor County/54091", 
+    "pct": {
+        "dem": 22.82, 
+        "per_point_diff": 49.52, 
+        "gop": 72.35
+    }
+}

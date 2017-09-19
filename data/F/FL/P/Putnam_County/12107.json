@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11953, 
+        "dem": 9920, 
+        "tot": 32652, 
+        "gop": 21873
+    }, 
+    "for": "FL/Putnam County/12107", 
+    "pct": {
+        "dem": 30.38, 
+        "per_point_diff": 36.61, 
+        "gop": 66.99
+    }
+}

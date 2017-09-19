@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8122, 
+        "dem": 32296, 
+        "tot": 78153, 
+        "gop": 40418
+    }, 
+    "for": "AR/Washington County/5143", 
+    "pct": {
+        "dem": 41.32, 
+        "per_point_diff": 10.39, 
+        "gop": 51.72
+    }
+}

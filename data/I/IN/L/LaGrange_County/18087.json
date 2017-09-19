@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4945, 
+        "dem": 2080, 
+        "tot": 9552, 
+        "gop": 7025
+    }, 
+    "for": "IN/LaGrange County/18087", 
+    "pct": {
+        "dem": 21.78, 
+        "per_point_diff": 51.77, 
+        "gop": 73.54
+    }
+}

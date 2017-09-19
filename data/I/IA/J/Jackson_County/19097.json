@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1984, 
+        "dem": 3837, 
+        "tot": 10204, 
+        "gop": 5821
+    }, 
+    "for": "IA/Jackson County/19097", 
+    "pct": {
+        "dem": 37.6, 
+        "per_point_diff": 19.44, 
+        "gop": 57.05
+    }
+}

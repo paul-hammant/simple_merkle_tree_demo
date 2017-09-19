@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2354, 
+        "dem": 274, 
+        "tot": 2981, 
+        "gop": 2628
+    }, 
+    "for": "TX/Ochiltree County/48357", 
+    "pct": {
+        "dem": 9.19, 
+        "per_point_diff": 78.97, 
+        "gop": 88.16
+    }
+}

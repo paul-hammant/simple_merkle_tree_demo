@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8430, 
+        "dem": 10414, 
+        "tot": 30156, 
+        "gop": 18844
+    }, 
+    "for": "NC/Haywood County/37087", 
+    "pct": {
+        "dem": 34.53, 
+        "per_point_diff": 27.95, 
+        "gop": 62.49
+    }
+}

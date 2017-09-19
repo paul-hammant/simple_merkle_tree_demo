@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4471, 
+        "dem": 53448, 
+        "tot": 105737, 
+        "gop": 48977
+    }, 
+    "for": "LA/Caddo Parish/22017", 
+    "pct": {
+        "dem": 50.55, 
+        "per_point_diff": 4.23, 
+        "gop": 46.32
+    }
+}

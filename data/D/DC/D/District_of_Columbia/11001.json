@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 248670, 
+        "dem": 260223, 
+        "tot": 280272, 
+        "gop": 11553
+    }, 
+    "for": "DC/District of Columbia/11001", 
+    "pct": {
+        "dem": 92.85, 
+        "per_point_diff": 88.72, 
+        "gop": 4.12
+    }
+}

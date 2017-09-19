@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3642, 
+        "dem": 33347, 
+        "tot": 74253, 
+        "gop": 36989
+    }, 
+    "for": "DE/Kent County/10001", 
+    "pct": {
+        "dem": 44.91, 
+        "per_point_diff": 4.9, 
+        "gop": 49.81
+    }
+}

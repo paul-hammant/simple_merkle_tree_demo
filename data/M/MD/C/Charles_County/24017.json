@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 21900, 
+        "dem": 46063, 
+        "tot": 72480, 
+        "gop": 24163
+    }, 
+    "for": "MD/Charles County/24017", 
+    "pct": {
+        "dem": 63.55, 
+        "per_point_diff": 30.22, 
+        "gop": 33.34
+    }
+}

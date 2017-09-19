@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2073, 
+        "dem": 3236, 
+        "tot": 9098, 
+        "gop": 5309
+    }, 
+    "for": "IA/Clayton County/19043", 
+    "pct": {
+        "dem": 35.57, 
+        "per_point_diff": 22.79, 
+        "gop": 58.35
+    }
+}

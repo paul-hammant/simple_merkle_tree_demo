@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 25929, 
+        "dem": 28153, 
+        "tot": 84553, 
+        "gop": 54082
+    }, 
+    "for": "NC/Johnston County/37101", 
+    "pct": {
+        "dem": 33.3, 
+        "per_point_diff": 30.67, 
+        "gop": 63.96
+    }
+}

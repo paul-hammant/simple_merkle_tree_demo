@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4844, 
+        "dem": 1443, 
+        "tot": 7949, 
+        "gop": 6287
+    }, 
+    "for": "GA/Rabun County/13241", 
+    "pct": {
+        "dem": 18.15, 
+        "per_point_diff": 60.94, 
+        "gop": 79.09
+    }
+}

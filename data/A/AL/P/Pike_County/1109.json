@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2642, 
+        "dem": 5039, 
+        "tot": 13025, 
+        "gop": 7681
+    }, 
+    "for": "AL/Pike County/1109", 
+    "pct": {
+        "dem": 38.69, 
+        "per_point_diff": 20.28, 
+        "gop": 58.97
+    }
+}

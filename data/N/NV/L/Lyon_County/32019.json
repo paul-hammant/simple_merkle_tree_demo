@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9859, 
+        "dem": 6146, 
+        "tot": 23762, 
+        "gop": 16005
+    }, 
+    "for": "NV/Lyon County/32019", 
+    "pct": {
+        "dem": 25.86, 
+        "per_point_diff": 41.49, 
+        "gop": 67.36
+    }
+}

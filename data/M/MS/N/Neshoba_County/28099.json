@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4945, 
+        "dem": 2668, 
+        "tot": 10438, 
+        "gop": 7613
+    }, 
+    "for": "MS/Neshoba County/28099", 
+    "pct": {
+        "dem": 25.56, 
+        "per_point_diff": 47.37, 
+        "gop": 72.94
+    }
+}

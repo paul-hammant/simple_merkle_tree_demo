@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1730, 
+        "dem": 715, 
+        "tot": 3286, 
+        "gop": 2445
+    }, 
+    "for": "IN/Union County/18161", 
+    "pct": {
+        "dem": 21.76, 
+        "per_point_diff": 52.65, 
+        "gop": 74.41
+    }
+}

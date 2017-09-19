@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3129, 
+        "dem": 3157, 
+        "tot": 9596, 
+        "gop": 6286
+    }, 
+    "for": "LA/Richland Parish/22083", 
+    "pct": {
+        "dem": 32.9, 
+        "per_point_diff": 32.61, 
+        "gop": 65.51
+    }
+}

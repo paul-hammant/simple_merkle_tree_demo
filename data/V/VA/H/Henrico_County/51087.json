@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 33941, 
+        "dem": 93615, 
+        "tot": 161966, 
+        "gop": 59674
+    }, 
+    "for": "VA/Henrico County/51087", 
+    "pct": {
+        "dem": 57.8, 
+        "per_point_diff": 20.96, 
+        "gop": 36.84
+    }
+}

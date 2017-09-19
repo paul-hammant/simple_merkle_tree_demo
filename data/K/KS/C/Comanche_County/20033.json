@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 603, 
+        "dem": 102, 
+        "tot": 857, 
+        "gop": 705
+    }, 
+    "for": "KS/Comanche County/20033", 
+    "pct": {
+        "dem": 11.9, 
+        "per_point_diff": 70.36, 
+        "gop": 82.26
+    }
+}

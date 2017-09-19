@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 29631, 
+        "dem": 339145, 
+        "tot": 683612, 
+        "gop": 309514
+    }, 
+    "for": "CA/Riverside County/6065", 
+    "pct": {
+        "dem": 49.61, 
+        "per_point_diff": 4.33, 
+        "gop": 45.28
+    }
+}

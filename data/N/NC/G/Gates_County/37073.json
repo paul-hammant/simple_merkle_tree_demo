@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 480, 
+        "dem": 2371, 
+        "tot": 5328, 
+        "gop": 2851
+    }, 
+    "for": "NC/Gates County/37073", 
+    "pct": {
+        "dem": 44.5, 
+        "per_point_diff": 9.01, 
+        "gop": 53.51
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 39988, 
+        "dem": 197126, 
+        "tot": 380972, 
+        "gop": 157138
+    }, 
+    "for": "MA/Worcester County/25027", 
+    "pct": {
+        "dem": 51.74, 
+        "per_point_diff": 10.5, 
+        "gop": 41.25
+    }
+}

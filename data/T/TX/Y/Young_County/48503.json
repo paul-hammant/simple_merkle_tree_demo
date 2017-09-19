@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5714, 
+        "dem": 873, 
+        "tot": 7658, 
+        "gop": 6587
+    }, 
+    "for": "TX/Young County/48503", 
+    "pct": {
+        "dem": 11.4, 
+        "per_point_diff": 74.61, 
+        "gop": 86.01
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14918, 
+        "dem": 9127, 
+        "tot": 34250, 
+        "gop": 24045
+    }, 
+    "for": "GA/Floyd County/13115", 
+    "pct": {
+        "dem": 26.65, 
+        "per_point_diff": 43.56, 
+        "gop": 70.2
+    }
+}

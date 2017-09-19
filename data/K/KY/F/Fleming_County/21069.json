@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3374, 
+        "dem": 1348, 
+        "tot": 6250, 
+        "gop": 4722
+    }, 
+    "for": "KY/Fleming County/21069", 
+    "pct": {
+        "dem": 21.57, 
+        "per_point_diff": 53.98, 
+        "gop": 75.55
+    }
+}

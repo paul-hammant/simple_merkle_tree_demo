@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 393, 
+        "dem": 3537, 
+        "tot": 7641, 
+        "gop": 3930
+    }, 
+    "for": "FL/Jefferson County/12065", 
+    "pct": {
+        "dem": 46.29, 
+        "per_point_diff": 5.14, 
+        "gop": 51.43
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13755, 
+        "dem": 10026, 
+        "tot": 35068, 
+        "gop": 23781
+    }, 
+    "for": "TN/Maury County/47119", 
+    "pct": {
+        "dem": 28.59, 
+        "per_point_diff": 39.22, 
+        "gop": 67.81
+    }
+}

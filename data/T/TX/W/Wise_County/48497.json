@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17243, 
+        "dem": 3412, 
+        "tot": 24661, 
+        "gop": 20655
+    }, 
+    "for": "TX/Wise County/48497", 
+    "pct": {
+        "dem": 13.84, 
+        "per_point_diff": 69.92, 
+        "gop": 83.76
+    }
+}

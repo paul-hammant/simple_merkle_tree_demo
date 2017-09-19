@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1724, 
+        "dem": 2314, 
+        "tot": 6786, 
+        "gop": 4038
+    }, 
+    "for": "SD/Lake County/46079", 
+    "pct": {
+        "dem": 34.1, 
+        "per_point_diff": 25.41, 
+        "gop": 59.5
+    }
+}

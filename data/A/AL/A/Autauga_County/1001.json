@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12202, 
+        "dem": 5908, 
+        "tot": 24661, 
+        "gop": 18110
+    }, 
+    "for": "AL/Autauga County/1001", 
+    "pct": {
+        "dem": 23.96, 
+        "per_point_diff": 49.48, 
+        "gop": 73.44
+    }
+}

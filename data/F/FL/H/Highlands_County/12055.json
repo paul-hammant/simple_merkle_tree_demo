@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14608, 
+        "dem": 14901, 
+        "tot": 45589, 
+        "gop": 29509
+    }, 
+    "for": "FL/Highlands County/12055", 
+    "pct": {
+        "dem": 32.69, 
+        "per_point_diff": 32.04, 
+        "gop": 64.73
+    }
+}

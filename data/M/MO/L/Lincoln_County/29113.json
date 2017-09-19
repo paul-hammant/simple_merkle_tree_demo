@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12550, 
+        "dem": 5561, 
+        "tot": 24857, 
+        "gop": 18111
+    }, 
+    "for": "MO/Lincoln County/29113", 
+    "pct": {
+        "dem": 22.37, 
+        "per_point_diff": 50.49, 
+        "gop": 72.86
+    }
+}

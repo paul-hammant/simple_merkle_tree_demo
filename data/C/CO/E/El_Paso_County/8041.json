@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 70699, 
+        "dem": 105807, 
+        "tot": 313273, 
+        "gop": 176506
+    }, 
+    "for": "CO/El Paso County/8041", 
+    "pct": {
+        "dem": 33.77, 
+        "per_point_diff": 22.57, 
+        "gop": 56.34
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6306, 
+        "dem": 63454, 
+        "tot": 123943, 
+        "gop": 57148
+    }, 
+    "for": "NY/Rockland County/36087", 
+    "pct": {
+        "dem": 51.2, 
+        "per_point_diff": 5.09, 
+        "gop": 46.11
+    }
+}

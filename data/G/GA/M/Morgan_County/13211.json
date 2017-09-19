@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3901, 
+        "dem": 2658, 
+        "tot": 9435, 
+        "gop": 6559
+    }, 
+    "for": "GA/Morgan County/13211", 
+    "pct": {
+        "dem": 28.17, 
+        "per_point_diff": 41.35, 
+        "gop": 69.52
+    }
+}

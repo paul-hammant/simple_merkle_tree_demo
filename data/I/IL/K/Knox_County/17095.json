@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 719, 
+        "dem": 9939, 
+        "tot": 21964, 
+        "gop": 10658
+    }, 
+    "for": "IL/Knox County/17095", 
+    "pct": {
+        "dem": 45.25, 
+        "per_point_diff": 3.27, 
+        "gop": 48.52
+    }
+}

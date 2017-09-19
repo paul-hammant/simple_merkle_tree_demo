@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7925, 
+        "dem": 8845, 
+        "tot": 26474, 
+        "gop": 16770
+    }, 
+    "for": "SC/Laurens County/45059", 
+    "pct": {
+        "dem": 33.41, 
+        "per_point_diff": 29.94, 
+        "gop": 63.35
+    }
+}

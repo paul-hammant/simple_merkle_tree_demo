@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2313, 
+        "dem": 1251, 
+        "tot": 5033, 
+        "gop": 3564
+    }, 
+    "for": "IA/Humboldt County/19091", 
+    "pct": {
+        "dem": 24.86, 
+        "per_point_diff": 45.96, 
+        "gop": 70.81
+    }
+}

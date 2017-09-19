@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1995, 
+        "dem": 289, 
+        "tot": 2708, 
+        "gop": 2284
+    }, 
+    "for": "CO/Washington County/8121", 
+    "pct": {
+        "dem": 10.67, 
+        "per_point_diff": 73.67, 
+        "gop": 84.34
+    }
+}

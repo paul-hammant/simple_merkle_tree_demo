@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3791, 
+        "dem": 14659, 
+        "tot": 35154, 
+        "gop": 18450
+    }, 
+    "for": "NY/St. Lawrence County/36089", 
+    "pct": {
+        "dem": 41.7, 
+        "per_point_diff": 10.78, 
+        "gop": 52.48
+    }
+}

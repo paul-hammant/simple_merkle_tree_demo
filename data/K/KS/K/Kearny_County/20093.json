@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 824, 
+        "dem": 224, 
+        "tot": 1325, 
+        "gop": 1048
+    }, 
+    "for": "KS/Kearny County/20093", 
+    "pct": {
+        "dem": 16.91, 
+        "per_point_diff": 62.19, 
+        "gop": 79.09
+    }
+}

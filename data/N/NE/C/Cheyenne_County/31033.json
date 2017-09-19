@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2908, 
+        "dem": 702, 
+        "tot": 4569, 
+        "gop": 3610
+    }, 
+    "for": "NE/Cheyenne County/31033", 
+    "pct": {
+        "dem": 15.36, 
+        "per_point_diff": 63.65, 
+        "gop": 79.01
+    }
+}

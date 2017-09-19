@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2420, 
+        "dem": 1445, 
+        "tot": 5855, 
+        "gop": 3865
+    }, 
+    "for": "NM/Roosevelt County/35041", 
+    "pct": {
+        "dem": 24.68, 
+        "per_point_diff": 41.33, 
+        "gop": 66.01
+    }
+}

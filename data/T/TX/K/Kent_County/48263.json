@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 301, 
+        "dem": 59, 
+        "tot": 433, 
+        "gop": 360
+    }, 
+    "for": "TX/Kent County/48263", 
+    "pct": {
+        "dem": 13.63, 
+        "per_point_diff": 69.52, 
+        "gop": 83.14
+    }
+}

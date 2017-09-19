@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5214, 
+        "dem": 22975, 
+        "tot": 55340, 
+        "gop": 28189
+    }, 
+    "for": "ME/Androscoggin County/23001", 
+    "pct": {
+        "dem": 41.52, 
+        "per_point_diff": 9.42, 
+        "gop": 50.94
+    }
+}

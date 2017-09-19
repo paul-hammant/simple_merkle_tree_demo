@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 22938, 
+        "dem": 20336, 
+        "tot": 69154, 
+        "gop": 43274
+    }, 
+    "for": "MN/Wright County/27171", 
+    "pct": {
+        "dem": 29.41, 
+        "per_point_diff": 33.17, 
+        "gop": 62.58
+    }
+}

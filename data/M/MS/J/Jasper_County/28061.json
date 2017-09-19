@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 335, 
+        "dem": 4367, 
+        "tot": 8468, 
+        "gop": 4032
+    }, 
+    "for": "MS/Jasper County/28061", 
+    "pct": {
+        "dem": 51.57, 
+        "per_point_diff": 3.96, 
+        "gop": 47.61
+    }
+}

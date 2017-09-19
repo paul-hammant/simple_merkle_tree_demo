@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 72, 
+        "dem": 1187, 
+        "tot": 2621, 
+        "gop": 1259
+    }, 
+    "for": "MT/Blaine County/30005", 
+    "pct": {
+        "dem": 45.29, 
+        "per_point_diff": 2.75, 
+        "gop": 48.04
+    }
+}

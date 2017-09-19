@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7008, 
+        "dem": 8199, 
+        "tot": 24029, 
+        "gop": 15207
+    }, 
+    "for": "VA/Henry County/51089", 
+    "pct": {
+        "dem": 34.12, 
+        "per_point_diff": 29.16, 
+        "gop": 63.29
+    }
+}

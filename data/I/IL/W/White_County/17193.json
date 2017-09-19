@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4227, 
+        "dem": 1412, 
+        "tot": 7289, 
+        "gop": 5639
+    }, 
+    "for": "IL/White County/17193", 
+    "pct": {
+        "dem": 19.37, 
+        "per_point_diff": 57.99, 
+        "gop": 77.36
+    }
+}

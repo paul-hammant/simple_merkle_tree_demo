@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16952, 
+        "dem": 14670, 
+        "tot": 48550, 
+        "gop": 31622
+    }, 
+    "for": "OH/Wayne County/39169", 
+    "pct": {
+        "dem": 30.22, 
+        "per_point_diff": 34.92, 
+        "gop": 65.13
+    }
+}

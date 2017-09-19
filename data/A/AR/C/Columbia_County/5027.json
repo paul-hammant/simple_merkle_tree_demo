@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2316, 
+        "dem": 3140, 
+        "tot": 8837, 
+        "gop": 5456
+    }, 
+    "for": "AR/Columbia County/5027", 
+    "pct": {
+        "dem": 35.53, 
+        "per_point_diff": 26.21, 
+        "gop": 61.74
+    }
+}

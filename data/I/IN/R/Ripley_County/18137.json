@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7335, 
+        "dem": 2471, 
+        "tot": 12790, 
+        "gop": 9806
+    }, 
+    "for": "IN/Ripley County/18137", 
+    "pct": {
+        "dem": 19.32, 
+        "per_point_diff": 57.35, 
+        "gop": 76.67
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1220, 
+        "dem": 1939, 
+        "tot": 5328, 
+        "gop": 3159
+    }, 
+    "for": "MI/Lake County/26085", 
+    "pct": {
+        "dem": 36.39, 
+        "per_point_diff": 22.9, 
+        "gop": 59.29
+    }
+}

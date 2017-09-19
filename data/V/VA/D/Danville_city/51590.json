@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3745, 
+        "dem": 11051, 
+        "tot": 18862, 
+        "gop": 7306
+    }, 
+    "for": "VA/Danville city/51590", 
+    "pct": {
+        "dem": 58.59, 
+        "per_point_diff": 19.85, 
+        "gop": 38.73
+    }
+}

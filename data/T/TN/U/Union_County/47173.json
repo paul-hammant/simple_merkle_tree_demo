@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4014, 
+        "dem": 1010, 
+        "tot": 6204, 
+        "gop": 5024
+    }, 
+    "for": "TN/Union County/47173", 
+    "pct": {
+        "dem": 16.28, 
+        "per_point_diff": 64.7, 
+        "gop": 80.98
+    }
+}

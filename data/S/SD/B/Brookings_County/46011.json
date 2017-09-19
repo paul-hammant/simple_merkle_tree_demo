@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1869, 
+        "dem": 4879, 
+        "tot": 12680, 
+        "gop": 6748
+    }, 
+    "for": "SD/Brookings County/46011", 
+    "pct": {
+        "dem": 38.48, 
+        "per_point_diff": 14.74, 
+        "gop": 53.22
+    }
+}

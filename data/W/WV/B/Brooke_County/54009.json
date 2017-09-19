@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4025, 
+        "dem": 2549, 
+        "tot": 9540, 
+        "gop": 6574
+    }, 
+    "for": "WV/Brooke County/54009", 
+    "pct": {
+        "dem": 26.72, 
+        "per_point_diff": 42.19, 
+        "gop": 68.91
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10101, 
+        "dem": 3245, 
+        "tot": 17199, 
+        "gop": 13346
+    }, 
+    "for": "OK/Le Flore County/40079", 
+    "pct": {
+        "dem": 18.87, 
+        "per_point_diff": 58.73, 
+        "gop": 77.6
+    }
+}

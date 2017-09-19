@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 635, 
+        "dem": 91, 
+        "tot": 853, 
+        "gop": 726
+    }, 
+    "for": "CO/Kiowa County/8061", 
+    "pct": {
+        "dem": 10.67, 
+        "per_point_diff": 74.44, 
+        "gop": 85.11
+    }
+}

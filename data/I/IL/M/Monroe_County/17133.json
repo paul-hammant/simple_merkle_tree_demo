@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7092, 
+        "dem": 5522, 
+        "tot": 19074, 
+        "gop": 12614
+    }, 
+    "for": "IL/Monroe County/17133", 
+    "pct": {
+        "dem": 28.95, 
+        "per_point_diff": 37.18, 
+        "gop": 66.13
+    }
+}

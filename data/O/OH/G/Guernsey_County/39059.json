@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6878, 
+        "dem": 4286, 
+        "tot": 16156, 
+        "gop": 11164
+    }, 
+    "for": "OH/Guernsey County/39059", 
+    "pct": {
+        "dem": 26.53, 
+        "per_point_diff": 42.57, 
+        "gop": 69.1
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3370, 
+        "dem": 21856, 
+        "tot": 42523, 
+        "gop": 18486
+    }, 
+    "for": "CA/Merced County/6047", 
+    "pct": {
+        "dem": 51.4, 
+        "per_point_diff": 7.93, 
+        "gop": 43.47
+    }
+}

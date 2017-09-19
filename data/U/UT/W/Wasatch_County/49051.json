@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3052, 
+        "dem": 3063, 
+        "tot": 12120, 
+        "gop": 6115
+    }, 
+    "for": "UT/Wasatch County/49051", 
+    "pct": {
+        "dem": 25.27, 
+        "per_point_diff": 25.18, 
+        "gop": 50.45
+    }
+}

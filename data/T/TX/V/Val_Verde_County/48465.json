@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1064, 
+        "dem": 6920, 
+        "tot": 13476, 
+        "gop": 5856
+    }, 
+    "for": "TX/Val Verde County/48465", 
+    "pct": {
+        "dem": 51.35, 
+        "per_point_diff": 7.9, 
+        "gop": 43.46
+    }
+}

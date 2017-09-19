@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7743, 
+        "dem": 3334, 
+        "tot": 15080, 
+        "gop": 11077
+    }, 
+    "for": "WV/Wayne County/54099", 
+    "pct": {
+        "dem": 22.11, 
+        "per_point_diff": 51.35, 
+        "gop": 73.45
+    }
+}

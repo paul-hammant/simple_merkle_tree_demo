@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15881, 
+        "dem": 5157, 
+        "tot": 27451, 
+        "gop": 21038
+    }, 
+    "for": "AR/White County/5145", 
+    "pct": {
+        "dem": 18.79, 
+        "per_point_diff": 57.85, 
+        "gop": 76.64
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5678, 
+        "dem": 4015, 
+        "tot": 18905, 
+        "gop": 9693
+    }, 
+    "for": "UT/Tooele County/49045", 
+    "pct": {
+        "dem": 21.24, 
+        "per_point_diff": 30.03, 
+        "gop": 51.27
+    }
+}

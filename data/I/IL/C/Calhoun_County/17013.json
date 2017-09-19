@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 980, 
+        "dem": 739, 
+        "tot": 2556, 
+        "gop": 1719
+    }, 
+    "for": "IL/Calhoun County/17013", 
+    "pct": {
+        "dem": 28.91, 
+        "per_point_diff": 38.34, 
+        "gop": 67.25
+    }
+}

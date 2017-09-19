@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4505, 
+        "dem": 16327, 
+        "tot": 38722, 
+        "gop": 20832
+    }, 
+    "for": "MD/Wicomico County/24045", 
+    "pct": {
+        "dem": 42.16, 
+        "per_point_diff": 11.63, 
+        "gop": 53.8
+    }
+}

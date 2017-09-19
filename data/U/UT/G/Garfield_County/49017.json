@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1225, 
+        "dem": 352, 
+        "tot": 2294, 
+        "gop": 1577
+    }, 
+    "for": "UT/Garfield County/49017", 
+    "pct": {
+        "dem": 15.34, 
+        "per_point_diff": 53.4, 
+        "gop": 68.74
+    }
+}

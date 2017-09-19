@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 828, 
+        "dem": 185, 
+        "tot": 1265, 
+        "gop": 1013
+    }, 
+    "for": "KS/Graham County/20065", 
+    "pct": {
+        "dem": 14.62, 
+        "per_point_diff": 65.45, 
+        "gop": 80.08
+    }
+}

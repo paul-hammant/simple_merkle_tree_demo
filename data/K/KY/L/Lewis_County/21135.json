@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3578, 
+        "dem": 785, 
+        "tot": 5293, 
+        "gop": 4363
+    }, 
+    "for": "KY/Lewis County/21135", 
+    "pct": {
+        "dem": 14.83, 
+        "per_point_diff": 67.6, 
+        "gop": 82.43
+    }
+}

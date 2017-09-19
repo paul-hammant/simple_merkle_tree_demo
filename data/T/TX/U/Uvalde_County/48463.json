@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 965, 
+        "dem": 3863, 
+        "tot": 8936, 
+        "gop": 4828
+    }, 
+    "for": "TX/Uvalde County/48463", 
+    "pct": {
+        "dem": 43.23, 
+        "per_point_diff": 10.8, 
+        "gop": 54.03
+    }
+}

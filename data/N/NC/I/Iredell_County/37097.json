@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 29723, 
+        "dem": 24441, 
+        "tot": 80727, 
+        "gop": 54164
+    }, 
+    "for": "NC/Iredell County/37097", 
+    "pct": {
+        "dem": 30.28, 
+        "per_point_diff": 36.82, 
+        "gop": 67.1
+    }
+}

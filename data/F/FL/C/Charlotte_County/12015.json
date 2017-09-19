@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 26775, 
+        "dem": 33421, 
+        "tot": 96323, 
+        "gop": 60196
+    }, 
+    "for": "FL/Charlotte County/12015", 
+    "pct": {
+        "dem": 34.7, 
+        "per_point_diff": 27.8, 
+        "gop": 62.49
+    }
+}

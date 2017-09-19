@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10415, 
+        "dem": 24204, 
+        "tot": 62083, 
+        "gop": 34619
+    }, 
+    "for": "VA/Spotsylvania County/51177", 
+    "pct": {
+        "dem": 38.99, 
+        "per_point_diff": 16.78, 
+        "gop": 55.76
+    }
+}

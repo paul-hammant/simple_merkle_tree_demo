@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7488, 
+        "dem": 4798, 
+        "tot": 18008, 
+        "gop": 12286
+    }, 
+    "for": "IN/Marshall County/18099", 
+    "pct": {
+        "dem": 26.64, 
+        "per_point_diff": 41.58, 
+        "gop": 68.23
+    }
+}

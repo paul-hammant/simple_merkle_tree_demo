@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2243, 
+        "dem": 5695, 
+        "tot": 14034, 
+        "gop": 7938
+    }, 
+    "for": "MD/Dorchester County/24019", 
+    "pct": {
+        "dem": 40.58, 
+        "per_point_diff": 15.98, 
+        "gop": 56.56
+    }
+}

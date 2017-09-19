@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 950, 
+        "dem": 227, 
+        "tot": 1474, 
+        "gop": 1177
+    }, 
+    "for": "KS/Rush County/20165", 
+    "pct": {
+        "dem": 15.4, 
+        "per_point_diff": 64.45, 
+        "gop": 79.85
+    }
+}

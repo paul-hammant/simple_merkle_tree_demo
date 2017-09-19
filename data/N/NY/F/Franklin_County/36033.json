@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1119, 
+        "dem": 6517, 
+        "tot": 15148, 
+        "gop": 7636
+    }, 
+    "for": "NY/Franklin County/36033", 
+    "pct": {
+        "dem": 43.02, 
+        "per_point_diff": 7.39, 
+        "gop": 50.41
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 610, 
+        "dem": 209, 
+        "tot": 1054, 
+        "gop": 819
+    }, 
+    "for": "TX/Schleicher County/48413", 
+    "pct": {
+        "dem": 19.83, 
+        "per_point_diff": 57.87, 
+        "gop": 77.7
+    }
+}

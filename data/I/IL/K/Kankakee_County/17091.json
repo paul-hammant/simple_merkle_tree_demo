@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6173, 
+        "dem": 18908, 
+        "tot": 46556, 
+        "gop": 25081
+    }, 
+    "for": "IL/Kankakee County/17091", 
+    "pct": {
+        "dem": 40.61, 
+        "per_point_diff": 13.26, 
+        "gop": 53.87
+    }
+}

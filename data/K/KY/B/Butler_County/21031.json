@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3481, 
+        "dem": 947, 
+        "tot": 5575, 
+        "gop": 4428
+    }, 
+    "for": "KY/Butler County/21031", 
+    "pct": {
+        "dem": 16.99, 
+        "per_point_diff": 62.44, 
+        "gop": 79.43
+    }
+}

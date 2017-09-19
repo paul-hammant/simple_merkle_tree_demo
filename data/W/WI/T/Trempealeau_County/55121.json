@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1725, 
+        "dem": 5645, 
+        "tot": 13581, 
+        "gop": 7370
+    }, 
+    "for": "WI/Trempealeau County/55121", 
+    "pct": {
+        "dem": 41.57, 
+        "per_point_diff": 12.7, 
+        "gop": 54.27
+    }
+}

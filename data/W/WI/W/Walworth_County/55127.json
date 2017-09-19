@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10142, 
+        "dem": 18706, 
+        "tot": 50570, 
+        "gop": 28848
+    }, 
+    "for": "WI/Walworth County/55127", 
+    "pct": {
+        "dem": 36.99, 
+        "per_point_diff": 20.06, 
+        "gop": 57.05
+    }
+}

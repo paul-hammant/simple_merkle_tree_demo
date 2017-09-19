@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 116, 
+        "dem": 2541, 
+        "tot": 5354, 
+        "gop": 2657
+    }, 
+    "for": "VA/Essex County/51057", 
+    "pct": {
+        "dem": 47.46, 
+        "per_point_diff": 2.17, 
+        "gop": 49.63
+    }
+}

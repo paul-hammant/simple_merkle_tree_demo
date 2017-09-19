@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 277950, 
+        "dem": 312443, 
+        "tot": 365295, 
+        "gop": 34493
+    }, 
+    "for": "CA/San Francisco County/6075", 
+    "pct": {
+        "dem": 85.53, 
+        "per_point_diff": 76.09, 
+        "gop": 9.44
+    }
+}

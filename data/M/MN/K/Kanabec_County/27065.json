@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2903, 
+        "dem": 2327, 
+        "tot": 8125, 
+        "gop": 5230
+    }, 
+    "for": "MN/Kanabec County/27065", 
+    "pct": {
+        "dem": 28.64, 
+        "per_point_diff": 35.73, 
+        "gop": 64.37
+    }
+}

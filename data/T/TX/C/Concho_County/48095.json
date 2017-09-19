@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 737, 
+        "dem": 148, 
+        "tot": 1067, 
+        "gop": 885
+    }, 
+    "for": "TX/Concho County/48095", 
+    "pct": {
+        "dem": 13.87, 
+        "per_point_diff": 69.07, 
+        "gop": 82.94
+    }
+}

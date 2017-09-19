@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3128, 
+        "dem": 1472, 
+        "tot": 6389, 
+        "gop": 4600
+    }, 
+    "for": "AR/Yell County/5149", 
+    "pct": {
+        "dem": 23.04, 
+        "per_point_diff": 48.96, 
+        "gop": 72.0
+    }
+}

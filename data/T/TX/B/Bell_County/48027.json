@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14172, 
+        "dem": 37608, 
+        "tot": 93999, 
+        "gop": 51780
+    }, 
+    "for": "TX/Bell County/48027", 
+    "pct": {
+        "dem": 40.01, 
+        "per_point_diff": 15.08, 
+        "gop": 55.09
+    }
+}

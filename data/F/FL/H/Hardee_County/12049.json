@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3091, 
+        "dem": 2147, 
+        "tot": 7577, 
+        "gop": 5238
+    }, 
+    "for": "FL/Hardee County/12049", 
+    "pct": {
+        "dem": 28.34, 
+        "per_point_diff": 40.79, 
+        "gop": 69.13
+    }
+}

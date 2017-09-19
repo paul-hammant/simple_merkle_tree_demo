@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1602, 
+        "dem": 49102, 
+        "tot": 103958, 
+        "gop": 50704
+    }, 
+    "for": "TX/Nueces County/48355", 
+    "pct": {
+        "dem": 47.23, 
+        "per_point_diff": 1.54, 
+        "gop": 48.77
+    }
+}

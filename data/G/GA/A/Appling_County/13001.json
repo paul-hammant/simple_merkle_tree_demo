@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4058, 
+        "dem": 1434, 
+        "tot": 7003, 
+        "gop": 5492
+    }, 
+    "for": "GA/Appling County/13001", 
+    "pct": {
+        "dem": 20.48, 
+        "per_point_diff": 57.95, 
+        "gop": 78.42
+    }
+}

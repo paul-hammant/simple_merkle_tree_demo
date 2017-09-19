@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3643, 
+        "dem": 10983, 
+        "tot": 26509, 
+        "gop": 14626
+    }, 
+    "for": "NY/Sullivan County/36105", 
+    "pct": {
+        "dem": 41.43, 
+        "per_point_diff": 13.74, 
+        "gop": 55.17
+    }
+}

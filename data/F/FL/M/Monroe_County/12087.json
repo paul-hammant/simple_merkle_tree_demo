@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2936, 
+        "dem": 18949, 
+        "tot": 42434, 
+        "gop": 21885
+    }, 
+    "for": "FL/Monroe County/12087", 
+    "pct": {
+        "dem": 44.66, 
+        "per_point_diff": 6.92, 
+        "gop": 51.57
+    }
+}

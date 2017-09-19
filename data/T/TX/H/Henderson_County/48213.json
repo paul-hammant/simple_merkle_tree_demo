@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17925, 
+        "dem": 5649, 
+        "tot": 29855, 
+        "gop": 23574
+    }, 
+    "for": "TX/Henderson County/48213", 
+    "pct": {
+        "dem": 18.92, 
+        "per_point_diff": 60.04, 
+        "gop": 78.96
+    }
+}

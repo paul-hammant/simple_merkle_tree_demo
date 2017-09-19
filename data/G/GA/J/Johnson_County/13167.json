@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1383, 
+        "dem": 1136, 
+        "tot": 3682, 
+        "gop": 2519
+    }, 
+    "for": "GA/Johnson County/13167", 
+    "pct": {
+        "dem": 30.85, 
+        "per_point_diff": 37.56, 
+        "gop": 68.41
+    }
+}

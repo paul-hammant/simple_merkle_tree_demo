@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2622, 
+        "dem": 1006, 
+        "tot": 4766, 
+        "gop": 3628
+    }, 
+    "for": "KY/Morgan County/21175", 
+    "pct": {
+        "dem": 21.11, 
+        "per_point_diff": 55.01, 
+        "gop": 76.12
+    }
+}

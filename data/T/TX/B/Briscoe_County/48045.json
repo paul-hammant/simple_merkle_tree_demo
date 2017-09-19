@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 534, 
+        "dem": 91, 
+        "tot": 734, 
+        "gop": 625
+    }, 
+    "for": "TX/Briscoe County/48045", 
+    "pct": {
+        "dem": 12.4, 
+        "per_point_diff": 72.75, 
+        "gop": 85.15
+    }
+}

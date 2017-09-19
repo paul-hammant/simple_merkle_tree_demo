@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1440, 
+        "dem": 3595, 
+        "tot": 8872, 
+        "gop": 5035
+    }, 
+    "for": "VA/Southampton County/51175", 
+    "pct": {
+        "dem": 40.52, 
+        "per_point_diff": 16.23, 
+        "gop": 56.75
+    }
+}

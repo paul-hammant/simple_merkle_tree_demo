@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2451, 
+        "dem": 7125, 
+        "tot": 17128, 
+        "gop": 9576
+    }, 
+    "for": "SC/Chesterfield County/45025", 
+    "pct": {
+        "dem": 41.6, 
+        "per_point_diff": 14.31, 
+        "gop": 55.91
+    }
+}

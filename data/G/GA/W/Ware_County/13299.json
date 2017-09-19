@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5072, 
+        "dem": 3436, 
+        "tot": 12150, 
+        "gop": 8508
+    }, 
+    "for": "GA/Ware County/13299", 
+    "pct": {
+        "dem": 28.28, 
+        "per_point_diff": 41.74, 
+        "gop": 70.02
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 708, 
+        "dem": 4136, 
+        "tot": 7926, 
+        "gop": 3428
+    }, 
+    "for": "WI/Ashland County/55003", 
+    "pct": {
+        "dem": 52.18, 
+        "per_point_diff": 8.93, 
+        "gop": 43.25
+    }
+}

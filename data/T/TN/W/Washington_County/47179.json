@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 21176, 
+        "dem": 13003, 
+        "tot": 49411, 
+        "gop": 34179
+    }, 
+    "for": "TN/Washington County/47179", 
+    "pct": {
+        "dem": 26.32, 
+        "per_point_diff": 42.86, 
+        "gop": 69.17
+    }
+}

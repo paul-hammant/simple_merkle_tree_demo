@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15880, 
+        "dem": 17932, 
+        "tot": 55153, 
+        "gop": 33812
+    }, 
+    "for": "MI/Allegan County/26005", 
+    "pct": {
+        "dem": 32.51, 
+        "per_point_diff": 28.79, 
+        "gop": 61.31
+    }
+}

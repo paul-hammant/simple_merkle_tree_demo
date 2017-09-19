@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9036, 
+        "dem": 3704, 
+        "tot": 17250, 
+        "gop": 12740
+    }, 
+    "for": "OK/Pittsburg County/40121", 
+    "pct": {
+        "dem": 21.47, 
+        "per_point_diff": 52.38, 
+        "gop": 73.86
+    }
+}

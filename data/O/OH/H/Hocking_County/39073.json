@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4569, 
+        "dem": 3713, 
+        "tot": 12513, 
+        "gop": 8282
+    }, 
+    "for": "OH/Hocking County/39073", 
+    "pct": {
+        "dem": 29.67, 
+        "per_point_diff": 36.51, 
+        "gop": 66.19
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 900, 
+        "dem": 2041, 
+        "tot": 5039, 
+        "gop": 2941
+    }, 
+    "for": "NC/Jones County/37103", 
+    "pct": {
+        "dem": 40.5, 
+        "per_point_diff": 17.86, 
+        "gop": 58.36
+    }
+}

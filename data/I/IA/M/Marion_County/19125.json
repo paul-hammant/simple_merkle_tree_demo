@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5471, 
+        "dem": 5469, 
+        "tot": 17554, 
+        "gop": 10940
+    }, 
+    "for": "IA/Marion County/19125", 
+    "pct": {
+        "dem": 31.16, 
+        "per_point_diff": 31.17, 
+        "gop": 62.32
+    }
+}

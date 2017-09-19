@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 32083, 
+        "dem": 110313, 
+        "tot": 200220, 
+        "gop": 78230
+    }, 
+    "for": "MA/Hampden County/25013", 
+    "pct": {
+        "dem": 55.1, 
+        "per_point_diff": 16.02, 
+        "gop": 39.07
+    }
+}

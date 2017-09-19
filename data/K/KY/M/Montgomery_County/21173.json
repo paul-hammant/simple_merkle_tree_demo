@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4698, 
+        "dem": 3158, 
+        "tot": 11437, 
+        "gop": 7856
+    }, 
+    "for": "KY/Montgomery County/21173", 
+    "pct": {
+        "dem": 27.61, 
+        "per_point_diff": 41.08, 
+        "gop": 68.69
+    }
+}

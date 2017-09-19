@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6663, 
+        "dem": 1579, 
+        "tot": 10055, 
+        "gop": 8242
+    }, 
+    "for": "VA/Scott County/51169", 
+    "pct": {
+        "dem": 15.7, 
+        "per_point_diff": 66.27, 
+        "gop": 81.97
+    }
+}

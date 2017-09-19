@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 425, 
+        "dem": 281, 
+        "tot": 1064, 
+        "gop": 706
+    }, 
+    "for": "SD/Miner County/46097", 
+    "pct": {
+        "dem": 26.41, 
+        "per_point_diff": 39.94, 
+        "gop": 66.35
+    }
+}

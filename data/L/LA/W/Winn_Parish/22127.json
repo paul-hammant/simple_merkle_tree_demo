@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2962, 
+        "dem": 1643, 
+        "tot": 6368, 
+        "gop": 4605
+    }, 
+    "for": "LA/Winn Parish/22127", 
+    "pct": {
+        "dem": 25.8, 
+        "per_point_diff": 46.51, 
+        "gop": 72.31
+    }
+}

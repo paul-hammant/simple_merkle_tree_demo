@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9749, 
+        "dem": 4002, 
+        "tot": 18533, 
+        "gop": 13751
+    }, 
+    "for": "OK/Carter County/40019", 
+    "pct": {
+        "dem": 21.59, 
+        "per_point_diff": 52.6, 
+        "gop": 74.2
+    }
+}

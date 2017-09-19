@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2993, 
+        "dem": 3623, 
+        "tot": 10742, 
+        "gop": 6616
+    }, 
+    "for": "WI/Kewaunee County/55061", 
+    "pct": {
+        "dem": 33.73, 
+        "per_point_diff": 27.86, 
+        "gop": 61.59
+    }
+}

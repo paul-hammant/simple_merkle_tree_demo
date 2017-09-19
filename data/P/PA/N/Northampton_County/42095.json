@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5448, 
+        "dem": 65936, 
+        "tot": 142775, 
+        "gop": 71384
+    }, 
+    "for": "PA/Northampton County/42095", 
+    "pct": {
+        "dem": 46.18, 
+        "per_point_diff": 3.82, 
+        "gop": 50.0
+    }
+}

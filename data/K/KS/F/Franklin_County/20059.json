@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4196, 
+        "dem": 2829, 
+        "tot": 10658, 
+        "gop": 7025
+    }, 
+    "for": "KS/Franklin County/20059", 
+    "pct": {
+        "dem": 26.54, 
+        "per_point_diff": 39.37, 
+        "gop": 65.91
+    }
+}

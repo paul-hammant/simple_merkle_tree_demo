@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14215, 
+        "dem": 26161, 
+        "tot": 40393, 
+        "gop": 11946
+    }, 
+    "for": "CA/Napa County/6055", 
+    "pct": {
+        "dem": 64.77, 
+        "per_point_diff": 35.19, 
+        "gop": 29.57
+    }
+}

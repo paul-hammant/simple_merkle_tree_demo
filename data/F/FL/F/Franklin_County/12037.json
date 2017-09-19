@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2381, 
+        "dem": 1738, 
+        "tot": 6003, 
+        "gop": 4119
+    }, 
+    "for": "FL/Franklin County/12037", 
+    "pct": {
+        "dem": 28.95, 
+        "per_point_diff": 39.66, 
+        "gop": 68.62
+    }
+}

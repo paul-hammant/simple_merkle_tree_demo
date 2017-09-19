@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2455, 
+        "dem": 732, 
+        "tot": 4171, 
+        "gop": 3187
+    }, 
+    "for": "OR/Grant County/41023", 
+    "pct": {
+        "dem": 17.55, 
+        "per_point_diff": 58.86, 
+        "gop": 76.41
+    }
+}

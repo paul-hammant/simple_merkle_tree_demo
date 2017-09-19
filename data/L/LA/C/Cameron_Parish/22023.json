@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2933, 
+        "dem": 323, 
+        "tot": 3692, 
+        "gop": 3256
+    }, 
+    "for": "LA/Cameron Parish/22023", 
+    "pct": {
+        "dem": 8.75, 
+        "per_point_diff": 79.44, 
+        "gop": 88.19
+    }
+}

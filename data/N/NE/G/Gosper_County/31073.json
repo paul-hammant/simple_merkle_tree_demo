@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 627, 
+        "dem": 165, 
+        "tot": 1000, 
+        "gop": 792
+    }, 
+    "for": "NE/Gosper County/31073", 
+    "pct": {
+        "dem": 16.5, 
+        "per_point_diff": 62.7, 
+        "gop": 79.2
+    }
+}

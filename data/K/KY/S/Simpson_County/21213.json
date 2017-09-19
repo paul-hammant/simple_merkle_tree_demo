@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2933, 
+        "dem": 2144, 
+        "tot": 7524, 
+        "gop": 5077
+    }, 
+    "for": "KY/Simpson County/21213", 
+    "pct": {
+        "dem": 28.5, 
+        "per_point_diff": 38.98, 
+        "gop": 67.48
+    }
+}

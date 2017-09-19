@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2793, 
+        "dem": 1829, 
+        "tot": 6650, 
+        "gop": 4622
+    }, 
+    "for": "GA/Oglethorpe County/13221", 
+    "pct": {
+        "dem": 27.5, 
+        "per_point_diff": 42.0, 
+        "gop": 69.5
+    }
+}

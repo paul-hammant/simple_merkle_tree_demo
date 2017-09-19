@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12809, 
+        "dem": 5792, 
+        "tot": 26861, 
+        "gop": 18601
+    }, 
+    "for": "ND/Ward County/38101", 
+    "pct": {
+        "dem": 21.56, 
+        "per_point_diff": 47.69, 
+        "gop": 69.25
+    }
+}

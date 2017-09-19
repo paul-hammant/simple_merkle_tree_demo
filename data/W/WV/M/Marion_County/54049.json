@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7666, 
+        "dem": 6926, 
+        "tot": 22910, 
+        "gop": 14592
+    }, 
+    "for": "WV/Marion County/54049", 
+    "pct": {
+        "dem": 30.23, 
+        "per_point_diff": 33.46, 
+        "gop": 63.69
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10274, 
+        "dem": 5228, 
+        "tot": 21350, 
+        "gop": 15502
+    }, 
+    "for": "NC/Davie County/37059", 
+    "pct": {
+        "dem": 24.49, 
+        "per_point_diff": 48.12, 
+        "gop": 72.61
+    }
+}

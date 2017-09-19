@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7239, 
+        "dem": 4473, 
+        "tot": 17111, 
+        "gop": 11712
+    }, 
+    "for": "NY/Allegany County/36003", 
+    "pct": {
+        "dem": 26.14, 
+        "per_point_diff": 42.31, 
+        "gop": 68.45
+    }
+}

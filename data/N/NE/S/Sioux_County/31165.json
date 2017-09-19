@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 525, 
+        "dem": 77, 
+        "tot": 709, 
+        "gop": 602
+    }, 
+    "for": "NE/Sioux County/31165", 
+    "pct": {
+        "dem": 10.86, 
+        "per_point_diff": 74.05, 
+        "gop": 84.91
+    }
+}

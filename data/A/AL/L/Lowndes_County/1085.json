@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3131, 
+        "dem": 4882, 
+        "tot": 6676, 
+        "gop": 1751
+    }, 
+    "for": "AL/Lowndes County/1085", 
+    "pct": {
+        "dem": 73.13, 
+        "per_point_diff": 46.9, 
+        "gop": 26.23
+    }
+}

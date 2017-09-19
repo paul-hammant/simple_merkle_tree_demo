@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 542, 
+        "dem": 137, 
+        "tot": 861, 
+        "gop": 679
+    }, 
+    "for": "SD/Sully County/46119", 
+    "pct": {
+        "dem": 15.91, 
+        "per_point_diff": 62.95, 
+        "gop": 78.86
+    }
+}

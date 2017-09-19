@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 191600, 
+        "dem": 239131, 
+        "tot": 295871, 
+        "gop": 47531
+    }, 
+    "for": "GA/DeKalb County/13089", 
+    "pct": {
+        "dem": 80.82, 
+        "per_point_diff": 64.76, 
+        "gop": 16.06
+    }
+}

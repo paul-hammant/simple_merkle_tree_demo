@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 19199, 
+        "dem": 83839, 
+        "tot": 154249, 
+        "gop": 64640
+    }, 
+    "for": "NJ/Somerset County/34035", 
+    "pct": {
+        "dem": 54.35, 
+        "per_point_diff": 12.45, 
+        "gop": 41.91
+    }
+}

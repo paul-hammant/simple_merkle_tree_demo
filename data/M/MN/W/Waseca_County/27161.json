@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3129, 
+        "dem": 2838, 
+        "tot": 9579, 
+        "gop": 5967
+    }, 
+    "for": "MN/Waseca County/27161", 
+    "pct": {
+        "dem": 29.63, 
+        "per_point_diff": 32.67, 
+        "gop": 62.29
+    }
+}

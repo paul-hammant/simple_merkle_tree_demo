@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 875, 
+        "dem": 3337, 
+        "tot": 5870, 
+        "gop": 2462
+    }, 
+    "for": "MS/Tallahatchie County/28135", 
+    "pct": {
+        "dem": 56.85, 
+        "per_point_diff": 14.91, 
+        "gop": 41.94
+    }
+}

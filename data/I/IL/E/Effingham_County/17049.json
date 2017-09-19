@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10542, 
+        "dem": 3071, 
+        "tot": 17428, 
+        "gop": 13613
+    }, 
+    "for": "IL/Effingham County/17049", 
+    "pct": {
+        "dem": 17.62, 
+        "per_point_diff": 60.49, 
+        "gop": 78.11
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5186, 
+        "dem": 8991, 
+        "tot": 23472, 
+        "gop": 14177
+    }, 
+    "for": "NC/Columbus County/37047", 
+    "pct": {
+        "dem": 38.31, 
+        "per_point_diff": 22.09, 
+        "gop": 60.4
+    }
+}

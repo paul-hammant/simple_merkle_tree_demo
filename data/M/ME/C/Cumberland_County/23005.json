@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 45238, 
+        "dem": 102935, 
+        "tot": 171249, 
+        "gop": 57697
+    }, 
+    "for": "ME/Cumberland County/23005", 
+    "pct": {
+        "dem": 60.11, 
+        "per_point_diff": 26.42, 
+        "gop": 33.69
+    }
+}

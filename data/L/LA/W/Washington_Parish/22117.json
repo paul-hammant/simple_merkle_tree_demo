@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6862, 
+        "dem": 5690, 
+        "tot": 18622, 
+        "gop": 12552
+    }, 
+    "for": "LA/Washington Parish/22117", 
+    "pct": {
+        "dem": 30.56, 
+        "per_point_diff": 36.85, 
+        "gop": 67.4
+    }
+}

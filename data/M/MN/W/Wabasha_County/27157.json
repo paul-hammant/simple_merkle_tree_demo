@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3123, 
+        "dem": 3866, 
+        "tot": 11764, 
+        "gop": 6989
+    }, 
+    "for": "MN/Wabasha County/27157", 
+    "pct": {
+        "dem": 32.86, 
+        "per_point_diff": 26.55, 
+        "gop": 59.41
+    }
+}

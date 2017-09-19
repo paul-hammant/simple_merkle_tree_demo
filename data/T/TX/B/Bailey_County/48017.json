@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 946, 
+        "dem": 397, 
+        "tot": 1784, 
+        "gop": 1343
+    }, 
+    "for": "TX/Bailey County/48017", 
+    "pct": {
+        "dem": 22.25, 
+        "per_point_diff": 53.03, 
+        "gop": 75.28
+    }
+}

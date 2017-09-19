@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2848, 
+        "dem": 1663, 
+        "tot": 6252, 
+        "gop": 4511
+    }, 
+    "for": "AL/Crenshaw County/1041", 
+    "pct": {
+        "dem": 26.6, 
+        "per_point_diff": 45.55, 
+        "gop": 72.15
+    }
+}

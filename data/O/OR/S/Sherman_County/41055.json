@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 524, 
+        "dem": 202, 
+        "tot": 983, 
+        "gop": 726
+    }, 
+    "for": "OR/Sherman County/41055", 
+    "pct": {
+        "dem": 20.55, 
+        "per_point_diff": 53.31, 
+        "gop": 73.86
+    }
+}

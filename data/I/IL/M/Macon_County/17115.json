@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8571, 
+        "dem": 18211, 
+        "tot": 47283, 
+        "gop": 26782
+    }, 
+    "for": "IL/Macon County/17115", 
+    "pct": {
+        "dem": 38.51, 
+        "per_point_diff": 18.13, 
+        "gop": 56.64
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1028, 
+        "dem": 2056, 
+        "tot": 3134, 
+        "gop": 1028
+    }, 
+    "for": "TX/Zapata County/48505", 
+    "pct": {
+        "dem": 65.6, 
+        "per_point_diff": 32.8, 
+        "gop": 32.8
+    }
+}

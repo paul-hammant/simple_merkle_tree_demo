@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2918, 
+        "dem": 11366, 
+        "tot": 27568, 
+        "gop": 14284
+    }, 
+    "for": "NY/Warren County/36113", 
+    "pct": {
+        "dem": 41.23, 
+        "per_point_diff": 10.58, 
+        "gop": 51.81
+    }
+}

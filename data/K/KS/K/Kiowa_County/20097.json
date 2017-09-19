@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 744, 
+        "dem": 111, 
+        "tot": 1023, 
+        "gop": 855
+    }, 
+    "for": "KS/Kiowa County/20097", 
+    "pct": {
+        "dem": 10.85, 
+        "per_point_diff": 72.73, 
+        "gop": 83.58
+    }
+}

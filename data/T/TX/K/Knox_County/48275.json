@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 831, 
+        "dem": 247, 
+        "tot": 1358, 
+        "gop": 1078
+    }, 
+    "for": "TX/Knox County/48275", 
+    "pct": {
+        "dem": 18.19, 
+        "per_point_diff": 61.19, 
+        "gop": 79.38
+    }
+}

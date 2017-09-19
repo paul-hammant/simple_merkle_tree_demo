@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5410, 
+        "dem": 1026, 
+        "tot": 9778, 
+        "gop": 6436
+    }, 
+    "for": "UT/Sanpete County/49039", 
+    "pct": {
+        "dem": 10.49, 
+        "per_point_diff": 55.33, 
+        "gop": 65.82
+    }
+}

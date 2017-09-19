@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 61915, 
+        "dem": 137818, 
+        "tot": 232034, 
+        "gop": 75903
+    }, 
+    "for": "OR/Washington County/41067", 
+    "pct": {
+        "dem": 59.4, 
+        "per_point_diff": 26.68, 
+        "gop": 32.71
+    }
+}

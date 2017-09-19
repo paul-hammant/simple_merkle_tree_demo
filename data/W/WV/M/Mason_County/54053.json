@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5528, 
+        "dem": 2069, 
+        "tot": 10115, 
+        "gop": 7597
+    }, 
+    "for": "WV/Mason County/54053", 
+    "pct": {
+        "dem": 20.45, 
+        "per_point_diff": 54.65, 
+        "gop": 75.11
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14070, 
+        "dem": 16787, 
+        "tot": 50149, 
+        "gop": 30857
+    }, 
+    "for": "VA/Roanoke County/51161", 
+    "pct": {
+        "dem": 33.47, 
+        "per_point_diff": 28.06, 
+        "gop": 61.53
+    }
+}

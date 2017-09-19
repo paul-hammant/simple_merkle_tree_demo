@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 22844, 
+        "dem": 127619, 
+        "tot": 246068, 
+        "gop": 104775
+    }, 
+    "for": "MA/Bristol County/25005", 
+    "pct": {
+        "dem": 51.86, 
+        "per_point_diff": 9.28, 
+        "gop": 42.58
+    }
+}

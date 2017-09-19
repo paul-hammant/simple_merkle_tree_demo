@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 22317, 
+        "dem": 6293, 
+        "tot": 36180, 
+        "gop": 28610
+    }, 
+    "for": "TN/Sevier County/47155", 
+    "pct": {
+        "dem": 17.39, 
+        "per_point_diff": 61.68, 
+        "gop": 79.08
+    }
+}

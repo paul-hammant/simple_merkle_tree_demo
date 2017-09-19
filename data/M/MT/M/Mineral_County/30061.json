@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 807, 
+        "dem": 515, 
+        "tot": 1974, 
+        "gop": 1322
+    }, 
+    "for": "MT/Mineral County/30061", 
+    "pct": {
+        "dem": 26.09, 
+        "per_point_diff": 40.88, 
+        "gop": 66.97
+    }
+}

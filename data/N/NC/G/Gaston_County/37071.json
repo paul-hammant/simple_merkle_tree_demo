@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 30485, 
+        "dem": 30982, 
+        "tot": 94872, 
+        "gop": 61467
+    }, 
+    "for": "NC/Gaston County/37071", 
+    "pct": {
+        "dem": 32.66, 
+        "per_point_diff": 32.13, 
+        "gop": 64.79
+    }
+}

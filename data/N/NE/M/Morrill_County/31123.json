@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1506, 
+        "dem": 282, 
+        "tot": 2166, 
+        "gop": 1788
+    }, 
+    "for": "NE/Morrill County/31123", 
+    "pct": {
+        "dem": 13.02, 
+        "per_point_diff": 69.53, 
+        "gop": 82.55
+    }
+}

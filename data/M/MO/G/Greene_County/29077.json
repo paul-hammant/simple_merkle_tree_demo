@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 34987, 
+        "dem": 42400, 
+        "tot": 127609, 
+        "gop": 77387
+    }, 
+    "for": "MO/Greene County/29077", 
+    "pct": {
+        "dem": 33.23, 
+        "per_point_diff": 27.42, 
+        "gop": 60.64
+    }
+}

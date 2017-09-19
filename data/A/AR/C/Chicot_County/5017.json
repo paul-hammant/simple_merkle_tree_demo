@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 634, 
+        "dem": 2350, 
+        "tot": 4149, 
+        "gop": 1716
+    }, 
+    "for": "AR/Chicot County/5017", 
+    "pct": {
+        "dem": 56.64, 
+        "per_point_diff": 15.28, 
+        "gop": 41.36
+    }
+}

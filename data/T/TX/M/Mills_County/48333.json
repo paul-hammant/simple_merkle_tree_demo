@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1707, 
+        "dem": 242, 
+        "tot": 2238, 
+        "gop": 1949
+    }, 
+    "for": "TX/Mills County/48333", 
+    "pct": {
+        "dem": 10.81, 
+        "per_point_diff": 76.27, 
+        "gop": 87.09
+    }
+}

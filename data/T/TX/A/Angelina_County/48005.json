@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14128, 
+        "dem": 7538, 
+        "tot": 29870, 
+        "gop": 21666
+    }, 
+    "for": "TX/Angelina County/48005", 
+    "pct": {
+        "dem": 25.24, 
+        "per_point_diff": 47.3, 
+        "gop": 72.53
+    }
+}

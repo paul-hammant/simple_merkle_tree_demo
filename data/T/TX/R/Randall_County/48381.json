@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 35039, 
+        "dem": 8340, 
+        "tot": 53813, 
+        "gop": 43379
+    }, 
+    "for": "TX/Randall County/48381", 
+    "pct": {
+        "dem": 15.5, 
+        "per_point_diff": 65.11, 
+        "gop": 80.61
+    }
+}

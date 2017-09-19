@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 638, 
+        "dem": 383, 
+        "tot": 1456, 
+        "gop": 1021
+    }, 
+    "for": "VA/Norton city/51720", 
+    "pct": {
+        "dem": 26.3, 
+        "per_point_diff": 43.82, 
+        "gop": 70.12
+    }
+}

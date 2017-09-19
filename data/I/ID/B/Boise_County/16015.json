@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1896, 
+        "dem": 777, 
+        "tot": 3812, 
+        "gop": 2673
+    }, 
+    "for": "ID/Boise County/16015", 
+    "pct": {
+        "dem": 20.38, 
+        "per_point_diff": 49.74, 
+        "gop": 70.12
+    }
+}

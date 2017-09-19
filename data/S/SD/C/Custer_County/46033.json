@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2170, 
+        "dem": 1120, 
+        "tot": 4716, 
+        "gop": 3290
+    }, 
+    "for": "SD/Custer County/46033", 
+    "pct": {
+        "dem": 23.75, 
+        "per_point_diff": 46.01, 
+        "gop": 69.76
+    }
+}

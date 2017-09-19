@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2931, 
+        "dem": 1111, 
+        "tot": 5396, 
+        "gop": 4042
+    }, 
+    "for": "AR/Izard County/5065", 
+    "pct": {
+        "dem": 20.59, 
+        "per_point_diff": 54.32, 
+        "gop": 74.91
+    }
+}

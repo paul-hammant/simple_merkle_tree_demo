@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5822, 
+        "dem": 34894, 
+        "tot": 67918, 
+        "gop": 29072
+    }, 
+    "for": "NH/Strafford County/33017", 
+    "pct": {
+        "dem": 51.38, 
+        "per_point_diff": 8.57, 
+        "gop": 42.8
+    }
+}

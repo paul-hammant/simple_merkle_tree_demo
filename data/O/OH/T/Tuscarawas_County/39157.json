@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14210, 
+        "dem": 11895, 
+        "tot": 40088, 
+        "gop": 26105
+    }, 
+    "for": "OH/Tuscarawas County/39157", 
+    "pct": {
+        "dem": 29.67, 
+        "per_point_diff": 35.45, 
+        "gop": 65.12
+    }
+}

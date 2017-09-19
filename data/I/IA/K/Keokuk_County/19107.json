@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2120, 
+        "dem": 1265, 
+        "tot": 4858, 
+        "gop": 3385
+    }, 
+    "for": "IA/Keokuk County/19107", 
+    "pct": {
+        "dem": 26.04, 
+        "per_point_diff": 43.64, 
+        "gop": 69.68
+    }
+}

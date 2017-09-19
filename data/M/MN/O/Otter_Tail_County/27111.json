@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11600, 
+        "dem": 9339, 
+        "tot": 32284, 
+        "gop": 20939
+    }, 
+    "for": "MN/Otter Tail County/27111", 
+    "pct": {
+        "dem": 28.93, 
+        "per_point_diff": 35.93, 
+        "gop": 64.86
+    }
+}

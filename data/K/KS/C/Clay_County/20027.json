@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2166, 
+        "dem": 665, 
+        "tot": 3727, 
+        "gop": 2831
+    }, 
+    "for": "KS/Clay County/20027", 
+    "pct": {
+        "dem": 17.84, 
+        "per_point_diff": 58.12, 
+        "gop": 75.96
+    }
+}

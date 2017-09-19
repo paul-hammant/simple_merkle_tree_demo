@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2336, 
+        "dem": 381, 
+        "tot": 3220, 
+        "gop": 2717
+    }, 
+    "for": "NE/Antelope County/31003", 
+    "pct": {
+        "dem": 11.83, 
+        "per_point_diff": 72.55, 
+        "gop": 84.38
+    }
+}

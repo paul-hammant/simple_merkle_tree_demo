@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10675, 
+        "dem": 3140, 
+        "tot": 17350, 
+        "gop": 13815
+    }, 
+    "for": "NC/Yadkin County/37197", 
+    "pct": {
+        "dem": 18.1, 
+        "per_point_diff": 61.53, 
+        "gop": 79.63
+    }
+}

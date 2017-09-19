@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1087, 
+        "dem": 4634, 
+        "tot": 11251, 
+        "gop": 5721
+    }, 
+    "for": "OR/Wasco County/41065", 
+    "pct": {
+        "dem": 41.19, 
+        "per_point_diff": 9.66, 
+        "gop": 50.85
+    }
+}

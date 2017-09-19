@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12292, 
+        "dem": 6489, 
+        "tot": 27051, 
+        "gop": 18781
+    }, 
+    "for": "KS/Butler County/20015", 
+    "pct": {
+        "dem": 23.99, 
+        "per_point_diff": 45.44, 
+        "gop": 69.43
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8273, 
+        "dem": 14994, 
+        "tot": 22079, 
+        "gop": 6721
+    }, 
+    "for": "FL/Gadsden County/12039", 
+    "pct": {
+        "dem": 67.91, 
+        "per_point_diff": 37.47, 
+        "gop": 30.44
+    }
+}

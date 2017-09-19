@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5281, 
+        "dem": 2691, 
+        "tot": 10894, 
+        "gop": 7972
+    }, 
+    "for": "LA/Union Parish/22111", 
+    "pct": {
+        "dem": 24.7, 
+        "per_point_diff": 48.48, 
+        "gop": 73.18
+    }
+}

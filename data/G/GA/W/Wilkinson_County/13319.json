@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 439, 
+        "dem": 1893, 
+        "tot": 4276, 
+        "gop": 2332
+    }, 
+    "for": "GA/Wilkinson County/13319", 
+    "pct": {
+        "dem": 44.27, 
+        "per_point_diff": 10.27, 
+        "gop": 54.54
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6225, 
+        "dem": 1181, 
+        "tot": 8819, 
+        "gop": 7406
+    }, 
+    "for": "LA/Grant Parish/22043", 
+    "pct": {
+        "dem": 13.39, 
+        "per_point_diff": 70.59, 
+        "gop": 83.98
+    }
+}

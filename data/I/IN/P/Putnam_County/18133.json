@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7281, 
+        "dem": 3356, 
+        "tot": 14680, 
+        "gop": 10637
+    }, 
+    "for": "IN/Putnam County/18133", 
+    "pct": {
+        "dem": 22.86, 
+        "per_point_diff": 49.6, 
+        "gop": 72.46
+    }
+}

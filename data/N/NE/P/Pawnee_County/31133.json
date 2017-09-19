@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 691, 
+        "dem": 279, 
+        "tot": 1314, 
+        "gop": 970
+    }, 
+    "for": "NE/Pawnee County/31133", 
+    "pct": {
+        "dem": 21.23, 
+        "per_point_diff": 52.59, 
+        "gop": 73.82
+    }
+}

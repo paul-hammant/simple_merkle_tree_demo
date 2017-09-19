@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7048, 
+        "dem": 40010, 
+        "tot": 77134, 
+        "gop": 32962
+    }, 
+    "for": "NY/Ulster County/36111", 
+    "pct": {
+        "dem": 51.87, 
+        "per_point_diff": 9.14, 
+        "gop": 42.73
+    }
+}

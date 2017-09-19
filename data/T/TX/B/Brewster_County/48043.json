@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 204, 
+        "dem": 1869, 
+        "tot": 4226, 
+        "gop": 2073
+    }, 
+    "for": "TX/Brewster County/48043", 
+    "pct": {
+        "dem": 44.23, 
+        "per_point_diff": 4.83, 
+        "gop": 49.05
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 30091, 
+        "dem": 22631, 
+        "tot": 76649, 
+        "gop": 52722
+    }, 
+    "for": "FL/Sumter County/12119", 
+    "pct": {
+        "dem": 29.53, 
+        "per_point_diff": 39.26, 
+        "gop": 68.78
+    }
+}

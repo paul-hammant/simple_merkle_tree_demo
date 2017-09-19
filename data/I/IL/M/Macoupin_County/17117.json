@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7662, 
+        "dem": 6532, 
+        "tot": 21881, 
+        "gop": 14194
+    }, 
+    "for": "IL/Macoupin County/17117", 
+    "pct": {
+        "dem": 29.85, 
+        "per_point_diff": 35.02, 
+        "gop": 64.87
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 109566, 
+        "dem": 133833, 
+        "tot": 165619, 
+        "gop": 24267
+    }, 
+    "for": "LA/Orleans Parish/22071", 
+    "pct": {
+        "dem": 80.81, 
+        "per_point_diff": 66.16, 
+        "gop": 14.65
+    }
+}

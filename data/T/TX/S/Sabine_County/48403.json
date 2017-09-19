@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3378, 
+        "dem": 614, 
+        "tot": 4642, 
+        "gop": 3992
+    }, 
+    "for": "TX/Sabine County/48403", 
+    "pct": {
+        "dem": 13.23, 
+        "per_point_diff": 72.77, 
+        "gop": 86.0
+    }
+}

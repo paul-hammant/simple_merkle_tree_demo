@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3168, 
+        "dem": 4006, 
+        "tot": 4862, 
+        "gop": 838
+    }, 
+    "for": "AL/Greene County/1063", 
+    "pct": {
+        "dem": 82.39, 
+        "per_point_diff": 65.16, 
+        "gop": 17.24
+    }
+}

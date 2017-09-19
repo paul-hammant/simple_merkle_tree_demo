@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1860, 
+        "dem": 6669, 
+        "tot": 12123, 
+        "gop": 4809
+    }, 
+    "for": "WI/Iowa County/55049", 
+    "pct": {
+        "dem": 55.01, 
+        "per_point_diff": 15.34, 
+        "gop": 39.67
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13770, 
+        "dem": 12283, 
+        "tot": 40337, 
+        "gop": 26053
+    }, 
+    "for": "AR/Garland County/5051", 
+    "pct": {
+        "dem": 30.45, 
+        "per_point_diff": 34.14, 
+        "gop": 64.59
+    }
+}

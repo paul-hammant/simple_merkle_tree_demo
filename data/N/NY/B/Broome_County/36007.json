@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2865, 
+        "dem": 35212, 
+        "tot": 77657, 
+        "gop": 38077
+    }, 
+    "for": "NY/Broome County/36007", 
+    "pct": {
+        "dem": 45.34, 
+        "per_point_diff": 3.69, 
+        "gop": 49.03
+    }
+}

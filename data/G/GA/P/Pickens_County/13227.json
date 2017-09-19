@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9674, 
+        "dem": 1977, 
+        "tot": 13982, 
+        "gop": 11651
+    }, 
+    "for": "GA/Pickens County/13227", 
+    "pct": {
+        "dem": 14.14, 
+        "per_point_diff": 69.19, 
+        "gop": 83.33
+    }
+}

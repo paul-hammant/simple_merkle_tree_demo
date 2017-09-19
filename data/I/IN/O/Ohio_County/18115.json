@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1432, 
+        "dem": 686, 
+        "tot": 2917, 
+        "gop": 2118
+    }, 
+    "for": "IN/Ohio County/18115", 
+    "pct": {
+        "dem": 23.52, 
+        "per_point_diff": 49.09, 
+        "gop": 72.61
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5642, 
+        "dem": 2669, 
+        "tot": 11660, 
+        "gop": 8311
+    }, 
+    "for": "KS/Ellis County/20051", 
+    "pct": {
+        "dem": 22.89, 
+        "per_point_diff": 48.39, 
+        "gop": 71.28
+    }
+}

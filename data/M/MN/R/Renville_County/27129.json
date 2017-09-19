@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2773, 
+        "dem": 2117, 
+        "tot": 7563, 
+        "gop": 4890
+    }, 
+    "for": "MN/Renville County/27129", 
+    "pct": {
+        "dem": 27.99, 
+        "per_point_diff": 36.67, 
+        "gop": 64.66
+    }
+}

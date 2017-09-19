@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4015, 
+        "dem": 3088, 
+        "tot": 10835, 
+        "gop": 7103
+    }, 
+    "for": "MO/Ray County/29177", 
+    "pct": {
+        "dem": 28.5, 
+        "per_point_diff": 37.06, 
+        "gop": 65.56
+    }
+}

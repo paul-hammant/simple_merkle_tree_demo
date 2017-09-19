@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 841, 
+        "dem": 3128, 
+        "tot": 7284, 
+        "gop": 3969
+    }, 
+    "for": "VA/Buckingham County/51029", 
+    "pct": {
+        "dem": 42.94, 
+        "per_point_diff": 11.55, 
+        "gop": 54.49
+    }
+}

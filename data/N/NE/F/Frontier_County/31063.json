@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 945, 
+        "dem": 161, 
+        "tot": 1310, 
+        "gop": 1106
+    }, 
+    "for": "NE/Frontier County/31063", 
+    "pct": {
+        "dem": 12.29, 
+        "per_point_diff": 72.14, 
+        "gop": 84.43
+    }
+}

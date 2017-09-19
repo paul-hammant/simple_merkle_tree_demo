@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1024, 
+        "dem": 135, 
+        "tot": 1322, 
+        "gop": 1159
+    }, 
+    "for": "TX/Lipscomb County/48295", 
+    "pct": {
+        "dem": 10.21, 
+        "per_point_diff": 77.46, 
+        "gop": 87.67
+    }
+}

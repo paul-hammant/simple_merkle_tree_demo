@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 533, 
+        "dem": 1876, 
+        "tot": 4716, 
+        "gop": 2409
+    }, 
+    "for": "CA/Trinity County/6105", 
+    "pct": {
+        "dem": 39.78, 
+        "per_point_diff": 11.3, 
+        "gop": 51.08
+    }
+}

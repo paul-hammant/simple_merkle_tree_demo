@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2353, 
+        "dem": 3301, 
+        "tot": 9616, 
+        "gop": 5654
+    }, 
+    "for": "SD/Yankton County/46135", 
+    "pct": {
+        "dem": 34.33, 
+        "per_point_diff": 24.47, 
+        "gop": 58.8
+    }
+}

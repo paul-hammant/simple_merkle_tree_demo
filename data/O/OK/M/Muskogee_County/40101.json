@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7060, 
+        "dem": 7969, 
+        "tot": 24193, 
+        "gop": 15029
+    }, 
+    "for": "OK/Muskogee County/40101", 
+    "pct": {
+        "dem": 32.94, 
+        "per_point_diff": 29.18, 
+        "gop": 62.12
+    }
+}

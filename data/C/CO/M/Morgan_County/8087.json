@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4976, 
+        "dem": 3128, 
+        "tot": 11888, 
+        "gop": 8104
+    }, 
+    "for": "CO/Morgan County/8087", 
+    "pct": {
+        "dem": 26.31, 
+        "per_point_diff": 41.86, 
+        "gop": 68.17
+    }
+}

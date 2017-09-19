@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 243, 
+        "dem": 14, 
+        "tot": 286, 
+        "gop": 257
+    }, 
+    "for": "NE/McPherson County/31117", 
+    "pct": {
+        "dem": 4.9, 
+        "per_point_diff": 84.97, 
+        "gop": 89.86
+    }
+}

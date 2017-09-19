@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1070, 
+        "dem": 860, 
+        "tot": 3002, 
+        "gop": 1930
+    }, 
+    "for": "MN/Lincoln County/27081", 
+    "pct": {
+        "dem": 28.65, 
+        "per_point_diff": 35.64, 
+        "gop": 64.29
+    }
+}

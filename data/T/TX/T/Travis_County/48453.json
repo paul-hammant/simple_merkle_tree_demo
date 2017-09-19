@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 179725, 
+        "dem": 306475, 
+        "tot": 462511, 
+        "gop": 126750
+    }, 
+    "for": "TX/Travis County/48453", 
+    "pct": {
+        "dem": 66.26, 
+        "per_point_diff": 38.86, 
+        "gop": 27.4
+    }
+}

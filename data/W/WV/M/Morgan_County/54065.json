@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4150, 
+        "dem": 1568, 
+        "tot": 7635, 
+        "gop": 5718
+    }, 
+    "for": "WV/Morgan County/54065", 
+    "pct": {
+        "dem": 20.54, 
+        "per_point_diff": 54.35, 
+        "gop": 74.89
+    }
+}

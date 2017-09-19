@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3686, 
+        "dem": 9458, 
+        "tot": 24007, 
+        "gop": 13144
+    }, 
+    "for": "WV/Jefferson County/54037", 
+    "pct": {
+        "dem": 39.4, 
+        "per_point_diff": 15.35, 
+        "gop": 54.75
+    }
+}

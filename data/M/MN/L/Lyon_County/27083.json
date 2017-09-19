@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3431, 
+        "dem": 3825, 
+        "tot": 12129, 
+        "gop": 7256
+    }, 
+    "for": "MN/Lyon County/27083", 
+    "pct": {
+        "dem": 31.54, 
+        "per_point_diff": 28.29, 
+        "gop": 59.82
+    }
+}

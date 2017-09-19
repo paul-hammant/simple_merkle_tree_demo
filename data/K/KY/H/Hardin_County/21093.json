@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13026, 
+        "dem": 13944, 
+        "tot": 43113, 
+        "gop": 26970
+    }, 
+    "for": "KY/Hardin County/21093", 
+    "pct": {
+        "dem": 32.34, 
+        "per_point_diff": 30.21, 
+        "gop": 62.56
+    }
+}

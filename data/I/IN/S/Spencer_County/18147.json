@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3711, 
+        "dem": 2861, 
+        "tot": 9959, 
+        "gop": 6572
+    }, 
+    "for": "IN/Spencer County/18147", 
+    "pct": {
+        "dem": 28.73, 
+        "per_point_diff": 37.26, 
+        "gop": 65.99
+    }
+}

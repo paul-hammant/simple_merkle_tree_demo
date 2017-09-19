@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1847, 
+        "dem": 828, 
+        "tot": 3740, 
+        "gop": 2675
+    }, 
+    "for": "NE/Wayne County/31179", 
+    "pct": {
+        "dem": 22.14, 
+        "per_point_diff": 49.39, 
+        "gop": 71.52
+    }
+}

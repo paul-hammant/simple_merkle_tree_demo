@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3845, 
+        "dem": 1252, 
+        "tot": 6520, 
+        "gop": 5097
+    }, 
+    "for": "TN/Polk County/47139", 
+    "pct": {
+        "dem": 19.2, 
+        "per_point_diff": 58.97, 
+        "gop": 78.17
+    }
+}

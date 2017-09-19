@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 19323, 
+        "dem": 23117, 
+        "tot": 67255, 
+        "gop": 42440
+    }, 
+    "for": "NC/Brunswick County/37019", 
+    "pct": {
+        "dem": 34.37, 
+        "per_point_diff": 28.73, 
+        "gop": 63.1
+    }
+}

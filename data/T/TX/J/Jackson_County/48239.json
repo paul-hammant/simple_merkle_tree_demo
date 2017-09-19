@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3362, 
+        "dem": 904, 
+        "tot": 5275, 
+        "gop": 4266
+    }, 
+    "for": "TX/Jackson County/48239", 
+    "pct": {
+        "dem": 17.14, 
+        "per_point_diff": 63.73, 
+        "gop": 80.87
+    }
+}

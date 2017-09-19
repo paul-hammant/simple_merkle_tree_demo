@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 40003, 
+        "dem": 64922, 
+        "tot": 91536, 
+        "gop": 24919
+    }, 
+    "for": "MS/Hinds County/28049", 
+    "pct": {
+        "dem": 70.93, 
+        "per_point_diff": 43.7, 
+        "gop": 27.22
+    }
+}

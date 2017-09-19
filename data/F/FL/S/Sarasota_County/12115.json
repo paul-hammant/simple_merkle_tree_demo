@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 26422, 
+        "dem": 97676, 
+        "tot": 228509, 
+        "gop": 124098
+    }, 
+    "for": "FL/Sarasota County/12115", 
+    "pct": {
+        "dem": 42.74, 
+        "per_point_diff": 11.56, 
+        "gop": 54.31
+    }
+}

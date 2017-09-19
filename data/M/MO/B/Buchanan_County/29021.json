@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9305, 
+        "dem": 12010, 
+        "tot": 35563, 
+        "gop": 21315
+    }, 
+    "for": "MO/Buchanan County/29021", 
+    "pct": {
+        "dem": 33.77, 
+        "per_point_diff": 26.16, 
+        "gop": 59.94
+    }
+}

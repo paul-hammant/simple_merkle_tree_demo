@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8895, 
+        "dem": 7316, 
+        "tot": 24633, 
+        "gop": 16211
+    }, 
+    "for": "MD/Queen Anne's County/24035", 
+    "pct": {
+        "dem": 29.7, 
+        "per_point_diff": 36.11, 
+        "gop": 65.81
+    }
+}

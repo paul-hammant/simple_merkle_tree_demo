@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6046, 
+        "dem": 9597, 
+        "tot": 25793, 
+        "gop": 15643
+    }, 
+    "for": "GA/Troup County/13285", 
+    "pct": {
+        "dem": 37.21, 
+        "per_point_diff": 23.44, 
+        "gop": 60.65
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1562, 
+        "dem": 756, 
+        "tot": 3168, 
+        "gop": 2318
+    }, 
+    "for": "PA/Sullivan County/42113", 
+    "pct": {
+        "dem": 23.86, 
+        "per_point_diff": 49.31, 
+        "gop": 73.17
+    }
+}

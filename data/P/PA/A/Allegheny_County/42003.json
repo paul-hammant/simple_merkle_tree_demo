@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 105529, 
+        "dem": 363017, 
+        "tot": 643173, 
+        "gop": 257488
+    }, 
+    "for": "PA/Allegheny County/42003", 
+    "pct": {
+        "dem": 56.44, 
+        "per_point_diff": 16.41, 
+        "gop": 40.03
+    }
+}

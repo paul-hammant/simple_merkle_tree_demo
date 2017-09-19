@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13865, 
+        "dem": 3335, 
+        "tot": 21315, 
+        "gop": 17200
+    }, 
+    "for": "OH/Mercer County/39107", 
+    "pct": {
+        "dem": 15.65, 
+        "per_point_diff": 65.05, 
+        "gop": 80.69
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1270, 
+        "dem": 216, 
+        "tot": 1739, 
+        "gop": 1486
+    }, 
+    "for": "MO/Mercer County/29129", 
+    "pct": {
+        "dem": 12.42, 
+        "per_point_diff": 73.03, 
+        "gop": 85.45
+    }
+}

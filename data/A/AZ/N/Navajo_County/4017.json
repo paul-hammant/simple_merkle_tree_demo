@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2803, 
+        "dem": 15362, 
+        "tot": 35409, 
+        "gop": 18165
+    }, 
+    "for": "AZ/Navajo County/4017", 
+    "pct": {
+        "dem": 43.38, 
+        "per_point_diff": 7.92, 
+        "gop": 51.3
+    }
+}

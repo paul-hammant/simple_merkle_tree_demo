@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11879, 
+        "dem": 7620, 
+        "tot": 28330, 
+        "gop": 19499
+    }, 
+    "for": "TX/Potter County/48375", 
+    "pct": {
+        "dem": 26.9, 
+        "per_point_diff": 41.93, 
+        "gop": 68.83
+    }
+}

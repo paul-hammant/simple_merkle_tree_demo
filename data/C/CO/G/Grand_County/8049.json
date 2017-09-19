@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1148, 
+        "dem": 3319, 
+        "tot": 8513, 
+        "gop": 4467
+    }, 
+    "for": "CO/Grand County/8049", 
+    "pct": {
+        "dem": 38.99, 
+        "per_point_diff": 13.49, 
+        "gop": 52.47
+    }
+}

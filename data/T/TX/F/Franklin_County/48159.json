@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2918, 
+        "dem": 665, 
+        "tot": 4356, 
+        "gop": 3583
+    }, 
+    "for": "TX/Franklin County/48159", 
+    "pct": {
+        "dem": 15.27, 
+        "per_point_diff": 66.99, 
+        "gop": 82.25
+    }
+}

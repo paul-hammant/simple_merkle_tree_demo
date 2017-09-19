@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2970, 
+        "dem": 2080, 
+        "tot": 7608, 
+        "gop": 5050
+    }, 
+    "for": "IA/Mills County/19129", 
+    "pct": {
+        "dem": 27.34, 
+        "per_point_diff": 39.04, 
+        "gop": 66.38
+    }
+}

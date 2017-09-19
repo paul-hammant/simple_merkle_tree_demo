@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 959, 
+        "dem": 1104, 
+        "tot": 3453, 
+        "gop": 2063
+    }, 
+    "for": "MN/Grant County/27051", 
+    "pct": {
+        "dem": 31.97, 
+        "per_point_diff": 27.77, 
+        "gop": 59.75
+    }
+}

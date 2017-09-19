@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6698, 
+        "dem": 1967, 
+        "tot": 10990, 
+        "gop": 8665
+    }, 
+    "for": "IN/Franklin County/18047", 
+    "pct": {
+        "dem": 17.9, 
+        "per_point_diff": 60.95, 
+        "gop": 78.84
+    }
+}

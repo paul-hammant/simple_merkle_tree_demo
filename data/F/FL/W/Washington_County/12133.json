@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6369, 
+        "dem": 2261, 
+        "tot": 11144, 
+        "gop": 8630
+    }, 
+    "for": "FL/Washington County/12133", 
+    "pct": {
+        "dem": 20.29, 
+        "per_point_diff": 57.15, 
+        "gop": 77.44
+    }
+}

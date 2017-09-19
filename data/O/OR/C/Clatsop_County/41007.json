@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1105, 
+        "dem": 8899, 
+        "tot": 18158, 
+        "gop": 7794
+    }, 
+    "for": "OR/Clatsop County/41007", 
+    "pct": {
+        "dem": 49.01, 
+        "per_point_diff": 6.09, 
+        "gop": 42.92
+    }
+}

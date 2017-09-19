@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6814, 
+        "dem": 159416, 
+        "tot": 326424, 
+        "gop": 152602
+    }, 
+    "for": "GA/Cobb County/13067", 
+    "pct": {
+        "dem": 48.84, 
+        "per_point_diff": 2.09, 
+        "gop": 46.75
+    }
+}

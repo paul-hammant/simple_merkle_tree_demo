@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1156, 
+        "dem": 943, 
+        "tot": 3142, 
+        "gop": 2099
+    }, 
+    "for": "TN/Trousdale County/47169", 
+    "pct": {
+        "dem": 30.01, 
+        "per_point_diff": 36.79, 
+        "gop": 66.8
+    }
+}

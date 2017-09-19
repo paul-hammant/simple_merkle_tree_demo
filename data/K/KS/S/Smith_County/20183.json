@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1340, 
+        "dem": 295, 
+        "tot": 2014, 
+        "gop": 1635
+    }, 
+    "for": "KS/Smith County/20183", 
+    "pct": {
+        "dem": 14.65, 
+        "per_point_diff": 66.53, 
+        "gop": 81.18
+    }
+}

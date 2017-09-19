@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1726, 
+        "dem": 1185, 
+        "tot": 4201, 
+        "gop": 2911
+    }, 
+    "for": "TX/Deaf Smith County/48117", 
+    "pct": {
+        "dem": 28.21, 
+        "per_point_diff": 41.09, 
+        "gop": 69.29
+    }
+}

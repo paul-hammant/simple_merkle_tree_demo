@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16396, 
+        "dem": 26859, 
+        "tot": 74101, 
+        "gop": 43255
+    }, 
+    "for": "MI/Monroe County/26115", 
+    "pct": {
+        "dem": 36.25, 
+        "per_point_diff": 22.13, 
+        "gop": 58.37
+    }
+}

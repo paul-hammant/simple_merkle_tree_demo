@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 26752, 
+        "dem": 73540, 
+        "tot": 181388, 
+        "gop": 100292
+    }, 
+    "for": "LA/Jefferson Parish/22051", 
+    "pct": {
+        "dem": 40.54, 
+        "per_point_diff": 14.75, 
+        "gop": 55.29
+    }
+}

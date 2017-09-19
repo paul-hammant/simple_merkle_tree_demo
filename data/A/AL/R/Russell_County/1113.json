@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 367, 
+        "dem": 9577, 
+        "tot": 19136, 
+        "gop": 9210
+    }, 
+    "for": "AL/Russell County/1113", 
+    "pct": {
+        "dem": 50.05, 
+        "per_point_diff": 1.92, 
+        "gop": 48.13
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1853, 
+        "dem": 4663, 
+        "tot": 11709, 
+        "gop": 6516
+    }, 
+    "for": "TX/Caldwell County/48055", 
+    "pct": {
+        "dem": 39.82, 
+        "per_point_diff": 15.83, 
+        "gop": 55.65
+    }
+}

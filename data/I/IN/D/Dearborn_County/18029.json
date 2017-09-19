@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13227, 
+        "dem": 4883, 
+        "tot": 23910, 
+        "gop": 18110
+    }, 
+    "for": "IN/Dearborn County/18029", 
+    "pct": {
+        "dem": 20.42, 
+        "per_point_diff": 55.32, 
+        "gop": 75.74
+    }
+}

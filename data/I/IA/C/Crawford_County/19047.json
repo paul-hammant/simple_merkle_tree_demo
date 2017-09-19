@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2623, 
+        "dem": 1985, 
+        "tot": 6862, 
+        "gop": 4608
+    }, 
+    "for": "IA/Crawford County/19047", 
+    "pct": {
+        "dem": 28.93, 
+        "per_point_diff": 38.23, 
+        "gop": 67.15
+    }
+}

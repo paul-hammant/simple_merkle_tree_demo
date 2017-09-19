@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 428, 
+        "dem": 305, 
+        "tot": 1137, 
+        "gop": 733
+    }, 
+    "for": "ND/Towner County/38095", 
+    "pct": {
+        "dem": 26.82, 
+        "per_point_diff": 37.64, 
+        "gop": 64.47
+    }
+}

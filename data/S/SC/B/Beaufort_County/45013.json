@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10409, 
+        "dem": 29577, 
+        "tot": 72770, 
+        "gop": 39986
+    }, 
+    "for": "SC/Beaufort County/45013", 
+    "pct": {
+        "dem": 40.64, 
+        "per_point_diff": 14.3, 
+        "gop": 54.95
+    }
+}

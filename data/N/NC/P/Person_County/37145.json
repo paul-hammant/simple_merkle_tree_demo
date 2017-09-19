@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3344, 
+        "dem": 7772, 
+        "tot": 19303, 
+        "gop": 11116
+    }, 
+    "for": "NC/Person County/37145", 
+    "pct": {
+        "dem": 40.26, 
+        "per_point_diff": 17.32, 
+        "gop": 57.59
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 479, 
+        "dem": 70, 
+        "tot": 633, 
+        "gop": 549
+    }, 
+    "for": "TX/Sterling County/48431", 
+    "pct": {
+        "dem": 11.06, 
+        "per_point_diff": 75.67, 
+        "gop": 86.73
+    }
+}

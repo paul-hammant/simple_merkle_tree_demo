@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10291, 
+        "dem": 2543, 
+        "tot": 15959, 
+        "gop": 12834
+    }, 
+    "for": "MO/Laclede County/29105", 
+    "pct": {
+        "dem": 15.93, 
+        "per_point_diff": 64.48, 
+        "gop": 80.42
+    }
+}

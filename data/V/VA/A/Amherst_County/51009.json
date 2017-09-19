@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4657, 
+        "dem": 4986, 
+        "tot": 15164, 
+        "gop": 9643
+    }, 
+    "for": "VA/Amherst County/51009", 
+    "pct": {
+        "dem": 32.88, 
+        "per_point_diff": 30.71, 
+        "gop": 63.59
+    }
+}

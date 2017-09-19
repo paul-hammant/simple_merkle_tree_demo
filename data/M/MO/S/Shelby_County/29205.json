@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1918, 
+        "dem": 606, 
+        "tot": 3252, 
+        "gop": 2524
+    }, 
+    "for": "MO/Shelby County/29205", 
+    "pct": {
+        "dem": 18.63, 
+        "per_point_diff": 58.98, 
+        "gop": 77.61
+    }
+}

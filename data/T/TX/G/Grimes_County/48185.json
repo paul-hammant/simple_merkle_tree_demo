@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4871, 
+        "dem": 2194, 
+        "tot": 9528, 
+        "gop": 7065
+    }, 
+    "for": "TX/Grimes County/48185", 
+    "pct": {
+        "dem": 23.03, 
+        "per_point_diff": 51.12, 
+        "gop": 74.15
+    }
+}

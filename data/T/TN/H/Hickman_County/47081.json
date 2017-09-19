@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3862, 
+        "dem": 1823, 
+        "tot": 7762, 
+        "gop": 5685
+    }, 
+    "for": "TN/Hickman County/47081", 
+    "pct": {
+        "dem": 23.49, 
+        "per_point_diff": 49.76, 
+        "gop": 73.24
+    }
+}

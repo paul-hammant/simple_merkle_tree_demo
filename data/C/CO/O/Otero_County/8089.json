@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1269, 
+        "dem": 1719, 
+        "tot": 5038, 
+        "gop": 2988
+    }, 
+    "for": "CO/Otero County/8089", 
+    "pct": {
+        "dem": 34.12, 
+        "per_point_diff": 25.19, 
+        "gop": 59.31
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1858, 
+        "dem": 1524, 
+        "tot": 5253, 
+        "gop": 3382
+    }, 
+    "for": "MN/Yellow Medicine County/27173", 
+    "pct": {
+        "dem": 29.01, 
+        "per_point_diff": 35.37, 
+        "gop": 64.38
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3759, 
+        "dem": 4281, 
+        "tot": 12928, 
+        "gop": 8040
+    }, 
+    "for": "KY/Boyle County/21021", 
+    "pct": {
+        "dem": 33.11, 
+        "per_point_diff": 29.08, 
+        "gop": 62.19
+    }
+}

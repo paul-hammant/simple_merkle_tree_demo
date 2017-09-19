@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1281, 
+        "dem": 539, 
+        "tot": 2417, 
+        "gop": 1820
+    }, 
+    "for": "TN/Van Buren County/47175", 
+    "pct": {
+        "dem": 22.3, 
+        "per_point_diff": 53.0, 
+        "gop": 75.3
+    }
+}

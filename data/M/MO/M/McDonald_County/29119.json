@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5270, 
+        "dem": 1329, 
+        "tot": 8233, 
+        "gop": 6599
+    }, 
+    "for": "MO/McDonald County/29119", 
+    "pct": {
+        "dem": 16.14, 
+        "per_point_diff": 64.01, 
+        "gop": 80.15
+    }
+}

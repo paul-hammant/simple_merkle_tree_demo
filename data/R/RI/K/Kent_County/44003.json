@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 559, 
+        "dem": 37582, 
+        "tot": 79691, 
+        "gop": 38141
+    }, 
+    "for": "RI/Kent County/44003", 
+    "pct": {
+        "dem": 47.16, 
+        "per_point_diff": 0.7, 
+        "gop": 47.86
+    }
+}

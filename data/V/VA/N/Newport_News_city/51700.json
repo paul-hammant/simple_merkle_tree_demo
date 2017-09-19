@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17347, 
+        "dem": 40997, 
+        "tot": 68432, 
+        "gop": 23650
+    }, 
+    "for": "VA/Newport News city/51700", 
+    "pct": {
+        "dem": 59.91, 
+        "per_point_diff": 25.35, 
+        "gop": 34.56
+    }
+}

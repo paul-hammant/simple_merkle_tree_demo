@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4631, 
+        "dem": 2705, 
+        "tot": 10597, 
+        "gop": 7336
+    }, 
+    "for": "MI/Osceola County/26133", 
+    "pct": {
+        "dem": 25.53, 
+        "per_point_diff": 43.7, 
+        "gop": 69.23
+    }
+}

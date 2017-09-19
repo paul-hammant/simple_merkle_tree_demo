@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18190, 
+        "dem": 14816, 
+        "tot": 50715, 
+        "gop": 33006
+    }, 
+    "for": "MO/Cass County/29037", 
+    "pct": {
+        "dem": 29.21, 
+        "per_point_diff": 35.87, 
+        "gop": 65.08
+    }
+}

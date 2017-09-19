@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2351, 
+        "dem": 4491, 
+        "tot": 11644, 
+        "gop": 6842
+    }, 
+    "for": "SC/Edgefield County/45037", 
+    "pct": {
+        "dem": 38.57, 
+        "per_point_diff": 20.19, 
+        "gop": 58.76
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 868, 
+        "dem": 2717, 
+        "tot": 6421, 
+        "gop": 3585
+    }, 
+    "for": "LA/Claiborne Parish/22027", 
+    "pct": {
+        "dem": 42.31, 
+        "per_point_diff": 13.52, 
+        "gop": 55.83
+    }
+}

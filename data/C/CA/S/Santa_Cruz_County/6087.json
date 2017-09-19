@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 65027, 
+        "dem": 85185, 
+        "tot": 113509, 
+        "gop": 20158
+    }, 
+    "for": "CA/Santa Cruz County/6087", 
+    "pct": {
+        "dem": 75.05, 
+        "per_point_diff": 57.29, 
+        "gop": 17.76
+    }
+}

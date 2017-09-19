@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1303, 
+        "dem": 765, 
+        "tot": 3035, 
+        "gop": 2068
+    }, 
+    "for": "NE/Nemaha County/31127", 
+    "pct": {
+        "dem": 25.21, 
+        "per_point_diff": 42.93, 
+        "gop": 68.14
+    }
+}

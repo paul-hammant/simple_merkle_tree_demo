@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7696, 
+        "dem": 5271, 
+        "tot": 18504, 
+        "gop": 12967
+    }, 
+    "for": "AL/Tallapoosa County/1123", 
+    "pct": {
+        "dem": 28.49, 
+        "per_point_diff": 41.59, 
+        "gop": 70.08
+    }
+}

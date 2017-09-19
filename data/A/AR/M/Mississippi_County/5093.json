@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1367, 
+        "dem": 5621, 
+        "tot": 12995, 
+        "gop": 6988
+    }, 
+    "for": "AR/Mississippi County/5093", 
+    "pct": {
+        "dem": 43.26, 
+        "per_point_diff": 10.52, 
+        "gop": 53.77
+    }
+}

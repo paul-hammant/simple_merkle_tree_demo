@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7612, 
+        "dem": 2248, 
+        "tot": 12504, 
+        "gop": 9860
+    }, 
+    "for": "TN/Campbell County/47013", 
+    "pct": {
+        "dem": 17.98, 
+        "per_point_diff": 60.88, 
+        "gop": 78.85
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7147, 
+        "dem": 1728, 
+        "tot": 10935, 
+        "gop": 8875
+    }, 
+    "for": "MO/Texas County/29215", 
+    "pct": {
+        "dem": 15.8, 
+        "per_point_diff": 65.36, 
+        "gop": 81.16
+    }
+}

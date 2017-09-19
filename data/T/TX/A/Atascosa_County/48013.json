@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3963, 
+        "dem": 4635, 
+        "tot": 13605, 
+        "gop": 8598
+    }, 
+    "for": "TX/Atascosa County/48013", 
+    "pct": {
+        "dem": 34.07, 
+        "per_point_diff": 29.13, 
+        "gop": 63.2
+    }
+}

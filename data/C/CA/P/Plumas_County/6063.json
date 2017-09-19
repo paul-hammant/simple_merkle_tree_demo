@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1855, 
+        "dem": 3224, 
+        "tot": 8830, 
+        "gop": 5079
+    }, 
+    "for": "CA/Plumas County/6063", 
+    "pct": {
+        "dem": 36.51, 
+        "per_point_diff": 21.01, 
+        "gop": 57.52
+    }
+}

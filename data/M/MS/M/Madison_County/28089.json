@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7249, 
+        "dem": 18358, 
+        "tot": 45048, 
+        "gop": 25607
+    }, 
+    "for": "MS/Madison County/28089", 
+    "pct": {
+        "dem": 40.75, 
+        "per_point_diff": 16.09, 
+        "gop": 56.84
+    }
+}

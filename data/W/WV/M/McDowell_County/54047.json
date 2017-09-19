@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3185, 
+        "dem": 1429, 
+        "tot": 6179, 
+        "gop": 4614
+    }, 
+    "for": "WV/McDowell County/54047", 
+    "pct": {
+        "dem": 23.13, 
+        "per_point_diff": 51.55, 
+        "gop": 74.67
+    }
+}

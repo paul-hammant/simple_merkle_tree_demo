@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 767, 
+        "dem": 1295, 
+        "tot": 3402, 
+        "gop": 2062
+    }, 
+    "for": "GA/Taylor County/13269", 
+    "pct": {
+        "dem": 38.07, 
+        "per_point_diff": 22.55, 
+        "gop": 60.61
+    }
+}

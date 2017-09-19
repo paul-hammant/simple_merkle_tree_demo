@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18796, 
+        "dem": 65015, 
+        "tot": 122301, 
+        "gop": 46219
+    }, 
+    "for": "WA/Thurston County/53067", 
+    "pct": {
+        "dem": 53.16, 
+        "per_point_diff": 15.37, 
+        "gop": 37.79
+    }
+}

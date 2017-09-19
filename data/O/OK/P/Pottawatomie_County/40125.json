@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11821, 
+        "dem": 6005, 
+        "tot": 25417, 
+        "gop": 17826
+    }, 
+    "for": "OK/Pottawatomie County/40125", 
+    "pct": {
+        "dem": 23.63, 
+        "per_point_diff": 46.51, 
+        "gop": 70.13
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3797, 
+        "dem": 3030, 
+        "tot": 10386, 
+        "gop": 6827
+    }, 
+    "for": "MI/Ogemaw County/26129", 
+    "pct": {
+        "dem": 29.17, 
+        "per_point_diff": 36.56, 
+        "gop": 65.73
+    }
+}

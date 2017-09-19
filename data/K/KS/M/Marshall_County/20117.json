@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2190, 
+        "dem": 1060, 
+        "tot": 4578, 
+        "gop": 3250
+    }, 
+    "for": "KS/Marshall County/20117", 
+    "pct": {
+        "dem": 23.15, 
+        "per_point_diff": 47.84, 
+        "gop": 70.99
+    }
+}

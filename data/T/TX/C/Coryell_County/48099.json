@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7155, 
+        "dem": 5057, 
+        "tot": 18127, 
+        "gop": 12212
+    }, 
+    "for": "TX/Coryell County/48099", 
+    "pct": {
+        "dem": 27.9, 
+        "per_point_diff": 39.47, 
+        "gop": 67.37
+    }
+}

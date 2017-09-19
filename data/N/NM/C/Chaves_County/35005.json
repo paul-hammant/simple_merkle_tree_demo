@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7339, 
+        "dem": 5530, 
+        "tot": 20159, 
+        "gop": 12869
+    }, 
+    "for": "NM/Chaves County/35005", 
+    "pct": {
+        "dem": 27.43, 
+        "per_point_diff": 36.41, 
+        "gop": 63.84
+    }
+}

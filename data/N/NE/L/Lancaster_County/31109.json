@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 77, 
+        "dem": 60533, 
+        "tot": 129803, 
+        "gop": 60456
+    }, 
+    "for": "NE/Lancaster County/31109", 
+    "pct": {
+        "dem": 46.63, 
+        "per_point_diff": 0.06, 
+        "gop": 46.58
+    }
+}

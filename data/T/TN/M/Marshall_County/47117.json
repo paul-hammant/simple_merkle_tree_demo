@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5319, 
+        "dem": 2848, 
+        "tot": 11402, 
+        "gop": 8167
+    }, 
+    "for": "TN/Marshall County/47117", 
+    "pct": {
+        "dem": 24.98, 
+        "per_point_diff": 46.65, 
+        "gop": 71.63
+    }
+}

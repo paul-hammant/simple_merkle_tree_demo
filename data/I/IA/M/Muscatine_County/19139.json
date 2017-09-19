@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1265, 
+        "dem": 8284, 
+        "tot": 19086, 
+        "gop": 9549
+    }, 
+    "for": "IA/Muscatine County/19139", 
+    "pct": {
+        "dem": 43.4, 
+        "per_point_diff": 6.63, 
+        "gop": 50.03
+    }
+}

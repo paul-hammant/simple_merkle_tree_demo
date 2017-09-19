@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8064, 
+        "dem": 4988, 
+        "tot": 19127, 
+        "gop": 13052
+    }, 
+    "for": "MO/Callaway County/29027", 
+    "pct": {
+        "dem": 26.08, 
+        "per_point_diff": 42.16, 
+        "gop": 68.24
+    }
+}

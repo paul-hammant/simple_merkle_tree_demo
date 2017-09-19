@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11082, 
+        "dem": 3084, 
+        "tot": 17886, 
+        "gop": 14166
+    }, 
+    "for": "OK/Stephens County/40137", 
+    "pct": {
+        "dem": 17.24, 
+        "per_point_diff": 61.96, 
+        "gop": 79.2
+    }
+}

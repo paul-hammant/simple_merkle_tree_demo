@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 14349, 
+        "dem": 26258, 
+        "tot": 38824, 
+        "gop": 11909
+    }, 
+    "for": "SC/Orangeburg County/45075", 
+    "pct": {
+        "dem": 67.63, 
+        "per_point_diff": 36.96, 
+        "gop": 30.67
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5570, 
+        "dem": 2636, 
+        "tot": 11333, 
+        "gop": 8206
+    }, 
+    "for": "IN/Washington County/18175", 
+    "pct": {
+        "dem": 23.26, 
+        "per_point_diff": 49.15, 
+        "gop": 72.41
+    }
+}

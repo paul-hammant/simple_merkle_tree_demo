@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 24505, 
+        "dem": 34436, 
+        "tot": 96945, 
+        "gop": 58941
+    }, 
+    "for": "PA/Washington County/42125", 
+    "pct": {
+        "dem": 35.52, 
+        "per_point_diff": 25.28, 
+        "gop": 60.8
+    }
+}

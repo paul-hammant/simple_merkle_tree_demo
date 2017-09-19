@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3056, 
+        "dem": 105207, 
+        "tot": 219531, 
+        "gop": 102151
+    }, 
+    "for": "NE/Douglas County/31055", 
+    "pct": {
+        "dem": 47.92, 
+        "per_point_diff": 1.39, 
+        "gop": 46.53
+    }
+}

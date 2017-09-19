@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5452, 
+        "dem": 6707, 
+        "tot": 19692, 
+        "gop": 12159
+    }, 
+    "for": "KY/Henderson County/21101", 
+    "pct": {
+        "dem": 34.06, 
+        "per_point_diff": 27.69, 
+        "gop": 61.75
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 690, 
+        "dem": 6582, 
+        "tot": 14202, 
+        "gop": 7272
+    }, 
+    "for": "SC/Chester County/45023", 
+    "pct": {
+        "dem": 46.35, 
+        "per_point_diff": 4.86, 
+        "gop": 51.2
+    }
+}

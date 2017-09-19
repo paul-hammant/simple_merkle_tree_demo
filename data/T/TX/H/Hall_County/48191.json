@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 727, 
+        "dem": 164, 
+        "tot": 1089, 
+        "gop": 891
+    }, 
+    "for": "TX/Hall County/48191", 
+    "pct": {
+        "dem": 15.06, 
+        "per_point_diff": 66.76, 
+        "gop": 81.82
+    }
+}

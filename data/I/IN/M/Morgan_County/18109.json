@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17634, 
+        "dem": 6037, 
+        "tot": 31180, 
+        "gop": 23671
+    }, 
+    "for": "IN/Morgan County/18109", 
+    "pct": {
+        "dem": 19.36, 
+        "per_point_diff": 56.56, 
+        "gop": 75.92
+    }
+}

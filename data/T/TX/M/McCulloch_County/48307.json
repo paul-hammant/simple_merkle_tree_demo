@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2066, 
+        "dem": 480, 
+        "tot": 3086, 
+        "gop": 2546
+    }, 
+    "for": "TX/McCulloch County/48307", 
+    "pct": {
+        "dem": 15.55, 
+        "per_point_diff": 66.95, 
+        "gop": 82.5
+    }
+}

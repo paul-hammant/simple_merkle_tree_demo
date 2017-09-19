@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7335, 
+        "dem": 24154, 
+        "tot": 58786, 
+        "gop": 31489
+    }, 
+    "for": "MI/Calhoun County/26025", 
+    "pct": {
+        "dem": 41.09, 
+        "per_point_diff": 12.48, 
+        "gop": 53.57
+    }
+}

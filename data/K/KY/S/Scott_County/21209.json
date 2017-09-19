@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7339, 
+        "dem": 7713, 
+        "tot": 24159, 
+        "gop": 15052
+    }, 
+    "for": "KY/Scott County/21209", 
+    "pct": {
+        "dem": 31.93, 
+        "per_point_diff": 30.38, 
+        "gop": 62.3
+    }
+}

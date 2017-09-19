@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6285, 
+        "dem": 4740, 
+        "tot": 16490, 
+        "gop": 11025
+    }, 
+    "for": "MI/Branch County/26023", 
+    "pct": {
+        "dem": 28.74, 
+        "per_point_diff": 38.11, 
+        "gop": 66.86
+    }
+}

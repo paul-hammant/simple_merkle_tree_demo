@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 569, 
+        "dem": 3255, 
+        "tot": 6134, 
+        "gop": 2686
+    }, 
+    "for": "VA/Northampton County/51131", 
+    "pct": {
+        "dem": 53.06, 
+        "per_point_diff": 9.28, 
+        "gop": 43.79
+    }
+}

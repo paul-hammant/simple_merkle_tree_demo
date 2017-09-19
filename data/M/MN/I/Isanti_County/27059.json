@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7979, 
+        "dem": 5656, 
+        "tot": 20875, 
+        "gop": 13635
+    }, 
+    "for": "MN/Isanti County/27059", 
+    "pct": {
+        "dem": 27.09, 
+        "per_point_diff": 38.22, 
+        "gop": 65.32
+    }
+}

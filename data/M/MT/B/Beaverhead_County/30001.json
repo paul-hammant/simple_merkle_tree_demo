@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2128, 
+        "dem": 1115, 
+        "tot": 4676, 
+        "gop": 3243
+    }, 
+    "for": "MT/Beaverhead County/30001", 
+    "pct": {
+        "dem": 23.85, 
+        "per_point_diff": 45.51, 
+        "gop": 69.35
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7937, 
+        "dem": 2252, 
+        "tot": 12905, 
+        "gop": 10189
+    }, 
+    "for": "MD/Garrett County/24023", 
+    "pct": {
+        "dem": 17.45, 
+        "per_point_diff": 61.5, 
+        "gop": 78.95
+    }
+}

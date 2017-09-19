@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6490, 
+        "dem": 15721, 
+        "tot": 25683, 
+        "gop": 9231
+    }, 
+    "for": "AR/Jefferson County/5069", 
+    "pct": {
+        "dem": 61.21, 
+        "per_point_diff": 25.27, 
+        "gop": 35.94
+    }
+}

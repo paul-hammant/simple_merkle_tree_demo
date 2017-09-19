@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 25300, 
+        "dem": 12085, 
+        "tot": 51849, 
+        "gop": 37385
+    }, 
+    "for": "TN/Blount County/47009", 
+    "pct": {
+        "dem": 23.31, 
+        "per_point_diff": 48.8, 
+        "gop": 72.1
+    }
+}

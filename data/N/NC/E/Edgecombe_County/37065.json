@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7933, 
+        "dem": 16152, 
+        "tot": 24653, 
+        "gop": 8219
+    }, 
+    "for": "NC/Edgecombe County/37065", 
+    "pct": {
+        "dem": 65.52, 
+        "per_point_diff": 32.18, 
+        "gop": 33.34
+    }
+}

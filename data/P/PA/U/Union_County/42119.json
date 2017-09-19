@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4467, 
+        "dem": 6138, 
+        "tot": 17400, 
+        "gop": 10605
+    }, 
+    "for": "PA/Union County/42119", 
+    "pct": {
+        "dem": 35.28, 
+        "per_point_diff": 25.67, 
+        "gop": 60.95
+    }
+}

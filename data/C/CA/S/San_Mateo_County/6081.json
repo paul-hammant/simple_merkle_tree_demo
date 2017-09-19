@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 165849, 
+        "dem": 219580, 
+        "tot": 287499, 
+        "gop": 53731
+    }, 
+    "for": "CA/San Mateo County/6081", 
+    "pct": {
+        "dem": 76.38, 
+        "per_point_diff": 57.69, 
+        "gop": 18.69
+    }
+}

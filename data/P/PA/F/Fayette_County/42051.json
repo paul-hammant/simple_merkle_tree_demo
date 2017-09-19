@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16562, 
+        "dem": 17826, 
+        "tot": 53426, 
+        "gop": 34388
+    }, 
+    "for": "PA/Fayette County/42051", 
+    "pct": {
+        "dem": 33.37, 
+        "per_point_diff": 31.0, 
+        "gop": 64.37
+    }
+}

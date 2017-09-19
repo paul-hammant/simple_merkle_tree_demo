@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5634, 
+        "dem": 3026, 
+        "tot": 12223, 
+        "gop": 8660
+    }, 
+    "for": "KY/Meade County/21163", 
+    "pct": {
+        "dem": 24.76, 
+        "per_point_diff": 46.09, 
+        "gop": 70.85
+    }
+}

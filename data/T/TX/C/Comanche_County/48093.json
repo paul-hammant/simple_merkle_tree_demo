@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3512, 
+        "dem": 788, 
+        "tot": 5208, 
+        "gop": 4300
+    }, 
+    "for": "TX/Comanche County/48093", 
+    "pct": {
+        "dem": 15.13, 
+        "per_point_diff": 67.43, 
+        "gop": 82.57
+    }
+}

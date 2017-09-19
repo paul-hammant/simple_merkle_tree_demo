@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4367, 
+        "dem": 4693, 
+        "tot": 14607, 
+        "gop": 9060
+    }, 
+    "for": "IL/Morgan County/17137", 
+    "pct": {
+        "dem": 32.13, 
+        "per_point_diff": 29.9, 
+        "gop": 62.03
+    }
+}

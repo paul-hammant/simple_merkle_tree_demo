@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 23081, 
+        "dem": 12339, 
+        "tot": 50045, 
+        "gop": 35420
+    }, 
+    "for": "MO/Franklin County/29071", 
+    "pct": {
+        "dem": 24.66, 
+        "per_point_diff": 46.12, 
+        "gop": 70.78
+    }
+}

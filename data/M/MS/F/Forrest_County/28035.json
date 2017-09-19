@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3878, 
+        "dem": 11271, 
+        "tot": 27284, 
+        "gop": 15149
+    }, 
+    "for": "MS/Forrest County/28035", 
+    "pct": {
+        "dem": 41.31, 
+        "per_point_diff": 14.21, 
+        "gop": 55.52
+    }
+}

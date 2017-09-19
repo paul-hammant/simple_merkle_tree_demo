@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 828, 
+        "dem": 4953, 
+        "tot": 9491, 
+        "gop": 4125
+    }, 
+    "for": "WI/Bayfield County/55007", 
+    "pct": {
+        "dem": 52.19, 
+        "per_point_diff": 8.72, 
+        "gop": 43.46
+    }
+}

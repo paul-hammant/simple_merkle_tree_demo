@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2876, 
+        "dem": 1464, 
+        "tot": 6151, 
+        "gop": 4340
+    }, 
+    "for": "KS/Neosho County/20133", 
+    "pct": {
+        "dem": 23.8, 
+        "per_point_diff": 46.76, 
+        "gop": 70.56
+    }
+}

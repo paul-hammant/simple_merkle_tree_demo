@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4, 
+        "dem": 2157, 
+        "tot": 4966, 
+        "gop": 2161
+    }, 
+    "for": "ID/Teton County/16081", 
+    "pct": {
+        "dem": 43.44, 
+        "per_point_diff": 0.08, 
+        "gop": 43.52
+    }
+}

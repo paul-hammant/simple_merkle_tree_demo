@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 38355, 
+        "dem": 64733, 
+        "tot": 96676, 
+        "gop": 26378
+    }, 
+    "for": "CA/Monterey County/6053", 
+    "pct": {
+        "dem": 66.96, 
+        "per_point_diff": 39.67, 
+        "gop": 27.28
+    }
+}

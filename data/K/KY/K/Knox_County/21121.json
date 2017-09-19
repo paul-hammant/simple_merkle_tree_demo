@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8124, 
+        "dem": 1761, 
+        "tot": 12001, 
+        "gop": 9885
+    }, 
+    "for": "KY/Knox County/21121", 
+    "pct": {
+        "dem": 14.67, 
+        "per_point_diff": 67.69, 
+        "gop": 82.37
+    }
+}

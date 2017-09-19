@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18813, 
+        "dem": 12273, 
+        "tot": 45261, 
+        "gop": 31086
+    }, 
+    "for": "OH/Columbiana County/39029", 
+    "pct": {
+        "dem": 27.12, 
+        "per_point_diff": 41.57, 
+        "gop": 68.68
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 23679, 
+        "dem": 38790, 
+        "tot": 109326, 
+        "gop": 62469
+    }, 
+    "for": "OK/Cleveland County/40027", 
+    "pct": {
+        "dem": 35.48, 
+        "per_point_diff": 21.66, 
+        "gop": 57.14
+    }
+}

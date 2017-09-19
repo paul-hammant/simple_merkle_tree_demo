@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1371, 
+        "dem": 2186, 
+        "tot": 5982, 
+        "gop": 3557
+    }, 
+    "for": "NC/Swain County/37173", 
+    "pct": {
+        "dem": 36.54, 
+        "per_point_diff": 22.92, 
+        "gop": 59.46
+    }
+}

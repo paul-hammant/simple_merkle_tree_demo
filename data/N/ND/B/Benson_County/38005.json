@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 85, 
+        "dem": 842, 
+        "tot": 1940, 
+        "gop": 927
+    }, 
+    "for": "ND/Benson County/38005", 
+    "pct": {
+        "dem": 43.4, 
+        "per_point_diff": 4.38, 
+        "gop": 47.78
+    }
+}

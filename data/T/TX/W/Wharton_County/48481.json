@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5911, 
+        "dem": 4238, 
+        "tot": 14707, 
+        "gop": 10149
+    }, 
+    "for": "TX/Wharton County/48481", 
+    "pct": {
+        "dem": 28.82, 
+        "per_point_diff": 40.19, 
+        "gop": 69.01
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12406, 
+        "dem": 14057, 
+        "tot": 41374, 
+        "gop": 26463
+    }, 
+    "for": "NC/Rockingham County/37157", 
+    "pct": {
+        "dem": 33.98, 
+        "per_point_diff": 29.99, 
+        "gop": 63.96
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1095, 
+        "dem": 2516, 
+        "tot": 4040, 
+        "gop": 1421
+    }, 
+    "for": "VA/Franklin city/51620", 
+    "pct": {
+        "dem": 62.28, 
+        "per_point_diff": 27.1, 
+        "gop": 35.17
+    }
+}

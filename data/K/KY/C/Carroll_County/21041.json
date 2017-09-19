@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1482, 
+        "dem": 1106, 
+        "tot": 3851, 
+        "gop": 2588
+    }, 
+    "for": "KY/Carroll County/21041", 
+    "pct": {
+        "dem": 28.72, 
+        "per_point_diff": 38.48, 
+        "gop": 67.2
+    }
+}

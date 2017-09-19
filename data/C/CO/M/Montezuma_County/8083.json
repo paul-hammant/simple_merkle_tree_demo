@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3851, 
+        "dem": 3920, 
+        "tot": 12706, 
+        "gop": 7771
+    }, 
+    "for": "CO/Montezuma County/8083", 
+    "pct": {
+        "dem": 30.85, 
+        "per_point_diff": 30.31, 
+        "gop": 61.16
+    }
+}

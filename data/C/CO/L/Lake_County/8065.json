@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 336, 
+        "dem": 1600, 
+        "tot": 3175, 
+        "gop": 1264
+    }, 
+    "for": "CO/Lake County/8065", 
+    "pct": {
+        "dem": 50.39, 
+        "per_point_diff": 10.58, 
+        "gop": 39.81
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 344, 
+        "dem": 3069, 
+        "tot": 6543, 
+        "gop": 3413
+    }, 
+    "for": "AL/Conecuh County/1035", 
+    "pct": {
+        "dem": 46.91, 
+        "per_point_diff": 5.26, 
+        "gop": 52.16
+    }
+}

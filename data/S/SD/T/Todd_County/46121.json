@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1018, 
+        "dem": 1505, 
+        "tot": 2125, 
+        "gop": 487
+    }, 
+    "for": "SD/Todd County/46121", 
+    "pct": {
+        "dem": 70.82, 
+        "per_point_diff": 47.91, 
+        "gop": 22.92
+    }
+}

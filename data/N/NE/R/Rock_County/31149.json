@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 617, 
+        "dem": 70, 
+        "tot": 793, 
+        "gop": 687
+    }, 
+    "for": "NE/Rock County/31149", 
+    "pct": {
+        "dem": 8.83, 
+        "per_point_diff": 77.81, 
+        "gop": 86.63
+    }
+}

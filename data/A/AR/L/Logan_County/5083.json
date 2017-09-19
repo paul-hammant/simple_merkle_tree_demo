@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4025, 
+        "dem": 1712, 
+        "tot": 7839, 
+        "gop": 5737
+    }, 
+    "for": "AR/Logan County/5083", 
+    "pct": {
+        "dem": 21.84, 
+        "per_point_diff": 51.35, 
+        "gop": 73.19
+    }
+}

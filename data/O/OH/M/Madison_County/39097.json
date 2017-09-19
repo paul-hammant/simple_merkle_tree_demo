@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6657, 
+        "dem": 4662, 
+        "tot": 16754, 
+        "gop": 11319
+    }, 
+    "for": "OH/Madison County/39097", 
+    "pct": {
+        "dem": 27.83, 
+        "per_point_diff": 39.73, 
+        "gop": 67.56
+    }
+}

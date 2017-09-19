@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4250, 
+        "dem": 2563, 
+        "tot": 9902, 
+        "gop": 6813
+    }, 
+    "for": "IN/White County/18181", 
+    "pct": {
+        "dem": 25.88, 
+        "per_point_diff": 42.92, 
+        "gop": 68.8
+    }
+}

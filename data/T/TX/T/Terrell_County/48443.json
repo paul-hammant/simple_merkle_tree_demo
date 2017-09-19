@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 147, 
+        "dem": 140, 
+        "tot": 437, 
+        "gop": 287
+    }, 
+    "for": "TX/Terrell County/48443", 
+    "pct": {
+        "dem": 32.04, 
+        "per_point_diff": 33.64, 
+        "gop": 65.68
+    }
+}

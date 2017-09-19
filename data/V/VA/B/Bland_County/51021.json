@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2119, 
+        "dem": 453, 
+        "tot": 3124, 
+        "gop": 2572
+    }, 
+    "for": "VA/Bland County/51021", 
+    "pct": {
+        "dem": 14.5, 
+        "per_point_diff": 67.83, 
+        "gop": 82.33
+    }
+}

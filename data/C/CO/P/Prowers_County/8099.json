@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2335, 
+        "dem": 1173, 
+        "tot": 4978, 
+        "gop": 3508
+    }, 
+    "for": "CO/Prowers County/8099", 
+    "pct": {
+        "dem": 23.56, 
+        "per_point_diff": 46.91, 
+        "gop": 70.47
+    }
+}

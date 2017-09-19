@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1987, 
+        "dem": 360, 
+        "tot": 2826, 
+        "gop": 2347
+    }, 
+    "for": "WV/Doddridge County/54017", 
+    "pct": {
+        "dem": 12.74, 
+        "per_point_diff": 70.31, 
+        "gop": 83.05
+    }
+}

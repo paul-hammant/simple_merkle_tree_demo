@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4291, 
+        "dem": 2068, 
+        "tot": 8842, 
+        "gop": 6359
+    }, 
+    "for": "OH/Paulding County/39125", 
+    "pct": {
+        "dem": 23.39, 
+        "per_point_diff": 48.53, 
+        "gop": 71.92
+    }
+}

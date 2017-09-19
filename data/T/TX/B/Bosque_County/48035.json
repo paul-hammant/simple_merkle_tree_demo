@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5048, 
+        "dem": 1277, 
+        "tot": 7797, 
+        "gop": 6325
+    }, 
+    "for": "TX/Bosque County/48035", 
+    "pct": {
+        "dem": 16.38, 
+        "per_point_diff": 64.74, 
+        "gop": 81.12
+    }
+}

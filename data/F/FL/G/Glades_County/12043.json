@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1725, 
+        "dem": 1271, 
+        "tot": 4355, 
+        "gop": 2996
+    }, 
+    "for": "FL/Glades County/12043", 
+    "pct": {
+        "dem": 29.18, 
+        "per_point_diff": 39.61, 
+        "gop": 68.79
+    }
+}

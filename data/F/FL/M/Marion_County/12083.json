@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 45752, 
+        "dem": 61958, 
+        "tot": 174485, 
+        "gop": 107710
+    }, 
+    "for": "FL/Marion County/12083", 
+    "pct": {
+        "dem": 35.51, 
+        "per_point_diff": 26.22, 
+        "gop": 61.73
+    }
+}

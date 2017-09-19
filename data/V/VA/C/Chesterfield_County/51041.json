@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3945, 
+        "dem": 80993, 
+        "tot": 175288, 
+        "gop": 84938
+    }, 
+    "for": "VA/Chesterfield County/51041", 
+    "pct": {
+        "dem": 46.21, 
+        "per_point_diff": 2.25, 
+        "gop": 48.46
+    }
+}

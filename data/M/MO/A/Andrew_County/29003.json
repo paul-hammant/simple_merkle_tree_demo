@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4620, 
+        "dem": 2045, 
+        "tot": 9140, 
+        "gop": 6665
+    }, 
+    "for": "MO/Andrew County/29003", 
+    "pct": {
+        "dem": 22.37, 
+        "per_point_diff": 50.55, 
+        "gop": 72.92
+    }
+}

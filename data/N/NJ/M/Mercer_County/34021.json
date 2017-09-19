@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 51117, 
+        "dem": 93721, 
+        "tot": 141332, 
+        "gop": 42604
+    }, 
+    "for": "NJ/Mercer County/34021", 
+    "pct": {
+        "dem": 66.31, 
+        "per_point_diff": 36.17, 
+        "gop": 30.14
+    }
+}

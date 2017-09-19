@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4438, 
+        "dem": 9502, 
+        "tot": 16061, 
+        "gop": 5064
+    }, 
+    "for": "CO/Summit County/8117", 
+    "pct": {
+        "dem": 59.16, 
+        "per_point_diff": 27.63, 
+        "gop": 31.53
+    }
+}

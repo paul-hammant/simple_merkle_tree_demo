@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 237515, 
+        "dem": 429283, 
+        "tot": 672644, 
+        "gop": 191768
+    }, 
+    "for": "MN/Hennepin County/27053", 
+    "pct": {
+        "dem": 63.82, 
+        "per_point_diff": 35.31, 
+        "gop": 28.51
+    }
+}

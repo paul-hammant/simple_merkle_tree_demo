@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 58555, 
+        "dem": 312517, 
+        "tot": 598783, 
+        "gop": 253962
+    }, 
+    "for": "CA/San Bernardino County/6071", 
+    "pct": {
+        "dem": 52.19, 
+        "per_point_diff": 9.78, 
+        "gop": 42.41
+    }
+}

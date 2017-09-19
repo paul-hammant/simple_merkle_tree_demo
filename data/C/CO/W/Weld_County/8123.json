@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 30013, 
+        "dem": 45869, 
+        "tot": 133790, 
+        "gop": 75882
+    }, 
+    "for": "CO/Weld County/8123", 
+    "pct": {
+        "dem": 34.28, 
+        "per_point_diff": 22.43, 
+        "gop": 56.72
+    }
+}

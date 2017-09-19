@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 487, 
+        "dem": 1019, 
+        "tot": 2706, 
+        "gop": 1506
+    }, 
+    "for": "VT/Essex County/50009", 
+    "pct": {
+        "dem": 37.66, 
+        "per_point_diff": 18.0, 
+        "gop": 55.65
+    }
+}

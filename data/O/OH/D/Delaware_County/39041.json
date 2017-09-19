@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16076, 
+        "dem": 39584, 
+        "tot": 100101, 
+        "gop": 55660
+    }, 
+    "for": "OH/Delaware County/39041", 
+    "pct": {
+        "dem": 39.54, 
+        "per_point_diff": 16.06, 
+        "gop": 55.6
+    }
+}

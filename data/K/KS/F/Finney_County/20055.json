@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3149, 
+        "dem": 3006, 
+        "tot": 9731, 
+        "gop": 6155
+    }, 
+    "for": "KS/Finney County/20055", 
+    "pct": {
+        "dem": 30.89, 
+        "per_point_diff": 32.36, 
+        "gop": 63.25
+    }
+}

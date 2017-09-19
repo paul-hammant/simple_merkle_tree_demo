@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1648, 
+        "dem": 12987, 
+        "tot": 29063, 
+        "gop": 14635
+    }, 
+    "for": "NH/Carroll County/33003", 
+    "pct": {
+        "dem": 44.69, 
+        "per_point_diff": 5.67, 
+        "gop": 50.36
+    }
+}

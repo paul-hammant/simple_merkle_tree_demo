@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9980, 
+        "dem": 7029, 
+        "tot": 25239, 
+        "gop": 17009
+    }, 
+    "for": "IN/Grant County/18053", 
+    "pct": {
+        "dem": 27.85, 
+        "per_point_diff": 39.54, 
+        "gop": 67.39
+    }
+}

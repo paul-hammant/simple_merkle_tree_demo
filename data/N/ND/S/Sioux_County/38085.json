@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 502, 
+        "dem": 758, 
+        "tot": 1177, 
+        "gop": 256
+    }, 
+    "for": "ND/Sioux County/38085", 
+    "pct": {
+        "dem": 64.4, 
+        "per_point_diff": 42.65, 
+        "gop": 21.75
+    }
+}

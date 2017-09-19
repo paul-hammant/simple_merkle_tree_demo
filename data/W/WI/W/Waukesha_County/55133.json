@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 63321, 
+        "dem": 79200, 
+        "tot": 233273, 
+        "gop": 142521
+    }, 
+    "for": "WI/Waukesha County/55133", 
+    "pct": {
+        "dem": 33.95, 
+        "per_point_diff": 27.14, 
+        "gop": 61.1
+    }
+}

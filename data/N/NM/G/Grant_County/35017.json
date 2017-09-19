@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 975, 
+        "dem": 6226, 
+        "tot": 12633, 
+        "gop": 5251
+    }, 
+    "for": "NM/Grant County/35017", 
+    "pct": {
+        "dem": 49.28, 
+        "per_point_diff": 7.72, 
+        "gop": 41.57
+    }
+}

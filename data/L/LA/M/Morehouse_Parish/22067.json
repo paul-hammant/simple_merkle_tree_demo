@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1347, 
+        "dem": 5155, 
+        "tot": 11852, 
+        "gop": 6502
+    }, 
+    "for": "LA/Morehouse Parish/22067", 
+    "pct": {
+        "dem": 43.49, 
+        "per_point_diff": 11.37, 
+        "gop": 54.86
+    }
+}

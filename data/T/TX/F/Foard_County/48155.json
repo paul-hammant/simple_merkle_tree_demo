@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 270, 
+        "dem": 113, 
+        "tot": 511, 
+        "gop": 383
+    }, 
+    "for": "TX/Foard County/48155", 
+    "pct": {
+        "dem": 22.11, 
+        "per_point_diff": 52.84, 
+        "gop": 74.95
+    }
+}

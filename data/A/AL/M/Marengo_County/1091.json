@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 383, 
+        "dem": 5607, 
+        "tot": 10948, 
+        "gop": 5224
+    }, 
+    "for": "AL/Marengo County/1091", 
+    "pct": {
+        "dem": 51.21, 
+        "per_point_diff": 3.5, 
+        "gop": 47.72
+    }
+}

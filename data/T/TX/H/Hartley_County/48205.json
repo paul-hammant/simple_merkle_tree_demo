@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1555, 
+        "dem": 172, 
+        "tot": 1945, 
+        "gop": 1727
+    }, 
+    "for": "TX/Hartley County/48205", 
+    "pct": {
+        "dem": 8.84, 
+        "per_point_diff": 79.95, 
+        "gop": 88.79
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4532, 
+        "dem": 8238, 
+        "tot": 22401, 
+        "gop": 12770
+    }, 
+    "for": "NY/Washington County/36115", 
+    "pct": {
+        "dem": 36.78, 
+        "per_point_diff": 20.23, 
+        "gop": 57.01
+    }
+}

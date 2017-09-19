@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5246, 
+        "dem": 2283, 
+        "tot": 10309, 
+        "gop": 7529
+    }, 
+    "for": "MO/Randolph County/29175", 
+    "pct": {
+        "dem": 22.15, 
+        "per_point_diff": 50.89, 
+        "gop": 73.03
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 752, 
+        "dem": 3809, 
+        "tot": 6934, 
+        "gop": 3057
+    }, 
+    "for": "GA/Jefferson County/13163", 
+    "pct": {
+        "dem": 54.93, 
+        "per_point_diff": 10.85, 
+        "gop": 44.09
+    }
+}

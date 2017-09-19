@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2399, 
+        "dem": 12300, 
+        "tot": 24035, 
+        "gop": 9901
+    }, 
+    "for": "OR/Lincoln County/41041", 
+    "pct": {
+        "dem": 51.18, 
+        "per_point_diff": 9.98, 
+        "gop": 41.19
+    }
+}

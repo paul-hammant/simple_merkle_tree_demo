@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3255, 
+        "dem": 3973, 
+        "tot": 11903, 
+        "gop": 7228
+    }, 
+    "for": "MI/Oceana County/26127", 
+    "pct": {
+        "dem": 33.38, 
+        "per_point_diff": 27.35, 
+        "gop": 60.72
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4736, 
+        "dem": 15552, 
+        "tot": 27941, 
+        "gop": 10816
+    }, 
+    "for": "OH/Athens County/39009", 
+    "pct": {
+        "dem": 55.66, 
+        "per_point_diff": 16.95, 
+        "gop": 38.71
+    }
+}

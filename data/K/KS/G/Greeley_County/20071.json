@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 440, 
+        "dem": 83, 
+        "tot": 639, 
+        "gop": 523
+    }, 
+    "for": "KS/Greeley County/20071", 
+    "pct": {
+        "dem": 12.99, 
+        "per_point_diff": 68.86, 
+        "gop": 81.85
+    }
+}

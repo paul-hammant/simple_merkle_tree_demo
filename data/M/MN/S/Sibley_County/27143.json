@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3239, 
+        "dem": 1954, 
+        "tot": 7727, 
+        "gop": 5193
+    }, 
+    "for": "MN/Sibley County/27143", 
+    "pct": {
+        "dem": 25.29, 
+        "per_point_diff": 41.92, 
+        "gop": 67.21
+    }
+}

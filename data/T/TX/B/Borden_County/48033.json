@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 299, 
+        "dem": 31, 
+        "tot": 365, 
+        "gop": 330
+    }, 
+    "for": "TX/Borden County/48033", 
+    "pct": {
+        "dem": 8.49, 
+        "per_point_diff": 81.92, 
+        "gop": 90.41
+    }
+}

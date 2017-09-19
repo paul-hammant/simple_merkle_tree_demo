@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 21236, 
+        "dem": 10664, 
+        "tot": 43893, 
+        "gop": 31900
+    }, 
+    "for": "LA/Terrebonne Parish/22109", 
+    "pct": {
+        "dem": 24.3, 
+        "per_point_diff": 48.38, 
+        "gop": 72.68
+    }
+}

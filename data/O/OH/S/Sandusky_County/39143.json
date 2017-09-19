@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6312, 
+        "dem": 9733, 
+        "tot": 27491, 
+        "gop": 16045
+    }, 
+    "for": "OH/Sandusky County/39143", 
+    "pct": {
+        "dem": 35.4, 
+        "per_point_diff": 22.96, 
+        "gop": 58.36
+    }
+}

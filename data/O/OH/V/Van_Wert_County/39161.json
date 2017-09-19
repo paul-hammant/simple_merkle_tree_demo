@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7661, 
+        "dem": 2667, 
+        "tot": 13584, 
+        "gop": 10328
+    }, 
+    "for": "OH/Van Wert County/39161", 
+    "pct": {
+        "dem": 19.63, 
+        "per_point_diff": 56.4, 
+        "gop": 76.03
+    }
+}

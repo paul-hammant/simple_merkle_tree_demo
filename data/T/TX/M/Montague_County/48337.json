@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6641, 
+        "dem": 885, 
+        "tot": 8604, 
+        "gop": 7526
+    }, 
+    "for": "TX/Montague County/48337", 
+    "pct": {
+        "dem": 10.29, 
+        "per_point_diff": 77.19, 
+        "gop": 87.47
+    }
+}

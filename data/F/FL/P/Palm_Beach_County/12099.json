@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 100649, 
+        "dem": 371411, 
+        "tot": 657235, 
+        "gop": 270762
+    }, 
+    "for": "FL/Palm Beach County/12099", 
+    "pct": {
+        "dem": 56.51, 
+        "per_point_diff": 15.31, 
+        "gop": 41.2
+    }
+}

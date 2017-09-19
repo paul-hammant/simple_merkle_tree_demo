@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6432, 
+        "dem": 3460, 
+        "tot": 13592, 
+        "gop": 9892
+    }, 
+    "for": "GA/Colquitt County/13071", 
+    "pct": {
+        "dem": 25.46, 
+        "per_point_diff": 47.32, 
+        "gop": 72.78
+    }
+}

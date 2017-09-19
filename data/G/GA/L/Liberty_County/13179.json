@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3406, 
+        "dem": 9531, 
+        "tot": 16082, 
+        "gop": 6125
+    }, 
+    "for": "GA/Liberty County/13179", 
+    "pct": {
+        "dem": 59.27, 
+        "per_point_diff": 21.18, 
+        "gop": 38.09
+    }
+}

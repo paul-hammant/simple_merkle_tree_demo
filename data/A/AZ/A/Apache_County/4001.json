@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6881, 
+        "dem": 12196, 
+        "tot": 18659, 
+        "gop": 5315
+    }, 
+    "for": "AZ/Apache County/4001", 
+    "pct": {
+        "dem": 65.36, 
+        "per_point_diff": 36.88, 
+        "gop": 28.48
+    }
+}

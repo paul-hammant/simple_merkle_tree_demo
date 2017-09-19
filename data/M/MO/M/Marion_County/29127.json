@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6425, 
+        "dem": 2993, 
+        "tot": 12902, 
+        "gop": 9418
+    }, 
+    "for": "MO/Marion County/29127", 
+    "pct": {
+        "dem": 23.2, 
+        "per_point_diff": 49.8, 
+        "gop": 73.0
+    }
+}

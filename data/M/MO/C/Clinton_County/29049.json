@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4486, 
+        "dem": 2572, 
+        "tot": 10197, 
+        "gop": 7058
+    }, 
+    "for": "MO/Clinton County/29049", 
+    "pct": {
+        "dem": 25.22, 
+        "per_point_diff": 43.99, 
+        "gop": 69.22
+    }
+}

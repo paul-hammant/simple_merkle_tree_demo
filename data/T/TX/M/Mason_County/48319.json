@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1303, 
+        "dem": 353, 
+        "tot": 2053, 
+        "gop": 1656
+    }, 
+    "for": "TX/Mason County/48319", 
+    "pct": {
+        "dem": 17.19, 
+        "per_point_diff": 63.47, 
+        "gop": 80.66
+    }
+}

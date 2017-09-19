@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6017, 
+        "dem": 4246, 
+        "tot": 15187, 
+        "gop": 10263
+    }, 
+    "for": "WV/Fayette County/54019", 
+    "pct": {
+        "dem": 27.96, 
+        "per_point_diff": 39.62, 
+        "gop": 67.58
+    }
+}

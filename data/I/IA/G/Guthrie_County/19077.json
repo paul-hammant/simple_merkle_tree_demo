@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1883, 
+        "dem": 1720, 
+        "tot": 5654, 
+        "gop": 3603
+    }, 
+    "for": "IA/Guthrie County/19077", 
+    "pct": {
+        "dem": 30.42, 
+        "per_point_diff": 33.3, 
+        "gop": 63.72
+    }
+}

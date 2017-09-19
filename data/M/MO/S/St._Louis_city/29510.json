@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 81206, 
+        "dem": 101487, 
+        "tot": 127403, 
+        "gop": 20281
+    }, 
+    "for": "MO/St. Louis city/29510", 
+    "pct": {
+        "dem": 79.66, 
+        "per_point_diff": 63.74, 
+        "gop": 15.92
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6954, 
+        "dem": 5805, 
+        "tot": 19563, 
+        "gop": 12759
+    }, 
+    "for": "NY/Fulton County/36035", 
+    "pct": {
+        "dem": 29.67, 
+        "per_point_diff": 35.55, 
+        "gop": 65.22
+    }
+}

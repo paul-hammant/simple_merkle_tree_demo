@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2582, 
+        "dem": 1995, 
+        "tot": 6831, 
+        "gop": 4577
+    }, 
+    "for": "AR/Cross County/5037", 
+    "pct": {
+        "dem": 29.21, 
+        "per_point_diff": 37.8, 
+        "gop": 67.0
+    }
+}

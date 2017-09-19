@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 227, 
+        "dem": 1117, 
+        "tot": 2550, 
+        "gop": 1344
+    }, 
+    "for": "AR/Woodruff County/5147", 
+    "pct": {
+        "dem": 43.8, 
+        "per_point_diff": 8.9, 
+        "gop": 52.71
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 24260, 
+        "dem": 160306, 
+        "tot": 322592, 
+        "gop": 136046
+    }, 
+    "for": "WA/Pierce County/53053", 
+    "pct": {
+        "dem": 49.69, 
+        "per_point_diff": 7.52, 
+        "gop": 42.17
+    }
+}

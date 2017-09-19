@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2462, 
+        "dem": 9025, 
+        "tot": 22029, 
+        "gop": 11487
+    }, 
+    "for": "WI/Dunn County/55033", 
+    "pct": {
+        "dem": 40.97, 
+        "per_point_diff": 11.18, 
+        "gop": 52.14
+    }
+}

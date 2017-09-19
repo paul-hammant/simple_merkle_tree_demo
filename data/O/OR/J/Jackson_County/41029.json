@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9533, 
+        "dem": 43550, 
+        "tot": 103789, 
+        "gop": 53083
+    }, 
+    "for": "OR/Jackson County/41029", 
+    "pct": {
+        "dem": 41.96, 
+        "per_point_diff": 9.18, 
+        "gop": 51.15
+    }
+}

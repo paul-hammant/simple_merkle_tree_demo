@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 785, 
+        "dem": 5701, 
+        "tot": 13261, 
+        "gop": 6486
+    }, 
+    "for": "OR/Tillamook County/41057", 
+    "pct": {
+        "dem": 42.99, 
+        "per_point_diff": 5.92, 
+        "gop": 48.91
+    }
+}

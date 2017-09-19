@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3952, 
+        "dem": 6378, 
+        "tot": 8912, 
+        "gop": 2426
+    }, 
+    "for": "MS/Coahoma County/28027", 
+    "pct": {
+        "dem": 71.57, 
+        "per_point_diff": 44.34, 
+        "gop": 27.22
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1735, 
+        "dem": 2715, 
+        "tot": 7589, 
+        "gop": 4450
+    }, 
+    "for": "IA/Hamilton County/19079", 
+    "pct": {
+        "dem": 35.78, 
+        "per_point_diff": 22.86, 
+        "gop": 58.64
+    }
+}

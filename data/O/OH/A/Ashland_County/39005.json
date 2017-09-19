@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11510, 
+        "dem": 5659, 
+        "tot": 24074, 
+        "gop": 17169
+    }, 
+    "for": "OH/Ashland County/39005", 
+    "pct": {
+        "dem": 23.51, 
+        "per_point_diff": 47.81, 
+        "gop": 71.32
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3797, 
+        "dem": 1688, 
+        "tot": 7410, 
+        "gop": 5485
+    }, 
+    "for": "TN/Smith County/47159", 
+    "pct": {
+        "dem": 22.78, 
+        "per_point_diff": 51.24, 
+        "gop": 74.02
+    }
+}

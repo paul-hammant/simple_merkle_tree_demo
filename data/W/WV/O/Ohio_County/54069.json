@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5625, 
+        "dem": 5452, 
+        "tot": 17819, 
+        "gop": 11077
+    }, 
+    "for": "WV/Ohio County/54069", 
+    "pct": {
+        "dem": 30.6, 
+        "per_point_diff": 31.57, 
+        "gop": 62.16
+    }
+}

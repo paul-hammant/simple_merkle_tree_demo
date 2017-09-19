@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1969, 
+        "dem": 550, 
+        "tot": 3242, 
+        "gop": 2519
+    }, 
+    "for": "NE/Kearney County/31099", 
+    "pct": {
+        "dem": 16.96, 
+        "per_point_diff": 60.73, 
+        "gop": 77.7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17925, 
+        "dem": 75169, 
+        "tot": 175934, 
+        "gop": 93094
+    }, 
+    "for": "PA/Berks County/42011", 
+    "pct": {
+        "dem": 42.73, 
+        "per_point_diff": 10.19, 
+        "gop": 52.91
+    }
+}

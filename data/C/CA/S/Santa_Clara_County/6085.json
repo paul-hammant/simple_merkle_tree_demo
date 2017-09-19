@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 346020, 
+        "dem": 483472, 
+        "tot": 659148, 
+        "gop": 137452
+    }, 
+    "for": "CA/Santa Clara County/6085", 
+    "pct": {
+        "dem": 73.35, 
+        "per_point_diff": 52.5, 
+        "gop": 20.85
+    }
+}

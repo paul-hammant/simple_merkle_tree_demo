@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8390, 
+        "dem": 4711, 
+        "tot": 18533, 
+        "gop": 13101
+    }, 
+    "for": "IL/Franklin County/17055", 
+    "pct": {
+        "dem": 25.42, 
+        "per_point_diff": 45.27, 
+        "gop": 70.69
+    }
+}

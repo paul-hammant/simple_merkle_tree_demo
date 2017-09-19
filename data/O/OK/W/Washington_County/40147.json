@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10763, 
+        "dem": 5047, 
+        "tot": 22208, 
+        "gop": 15810
+    }, 
+    "for": "OK/Washington County/40147", 
+    "pct": {
+        "dem": 22.73, 
+        "per_point_diff": 48.46, 
+        "gop": 71.19
+    }
+}

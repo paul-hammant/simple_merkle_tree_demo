@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2998, 
+        "dem": 2234, 
+        "tot": 7919, 
+        "gop": 5232
+    }, 
+    "for": "KS/Labette County/20099", 
+    "pct": {
+        "dem": 28.21, 
+        "per_point_diff": 37.86, 
+        "gop": 66.07
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 575, 
+        "dem": 12974, 
+        "tot": 29108, 
+        "gop": 13549
+    }, 
+    "for": "MN/Clay County/27027", 
+    "pct": {
+        "dem": 44.57, 
+        "per_point_diff": 1.98, 
+        "gop": 46.55
+    }
+}

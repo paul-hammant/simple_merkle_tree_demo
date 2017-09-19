@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5358, 
+        "dem": 1910, 
+        "tot": 9551, 
+        "gop": 7268
+    }, 
+    "for": "KY/Grant County/21081", 
+    "pct": {
+        "dem": 20.0, 
+        "per_point_diff": 56.1, 
+        "gop": 76.1
+    }
+}

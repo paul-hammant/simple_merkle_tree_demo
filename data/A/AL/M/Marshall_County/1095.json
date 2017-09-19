@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 24304, 
+        "dem": 4913, 
+        "tot": 34965, 
+        "gop": 29217
+    }, 
+    "for": "AL/Marshall County/1095", 
+    "pct": {
+        "dem": 14.05, 
+        "per_point_diff": 69.51, 
+        "gop": 83.56
+    }
+}

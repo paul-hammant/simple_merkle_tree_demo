@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 528, 
+        "dem": 1109, 
+        "tot": 1820, 
+        "gop": 581
+    }, 
+    "for": "CO/Costilla County/8023", 
+    "pct": {
+        "dem": 60.93, 
+        "per_point_diff": 29.01, 
+        "gop": 31.92
+    }
+}

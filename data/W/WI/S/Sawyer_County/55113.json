@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1779, 
+        "dem": 2846, 
+        "tot": 7767, 
+        "gop": 4625
+    }, 
+    "for": "WI/Sawyer County/55113", 
+    "pct": {
+        "dem": 36.64, 
+        "per_point_diff": 22.9, 
+        "gop": 59.55
+    }
+}

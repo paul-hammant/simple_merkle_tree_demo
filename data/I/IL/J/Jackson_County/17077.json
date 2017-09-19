@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 730, 
+        "dem": 11619, 
+        "tot": 24509, 
+        "gop": 10889
+    }, 
+    "for": "IL/Jackson County/17077", 
+    "pct": {
+        "dem": 47.41, 
+        "per_point_diff": 2.98, 
+        "gop": 44.43
+    }
+}

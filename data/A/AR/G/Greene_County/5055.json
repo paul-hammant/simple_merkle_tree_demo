@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7642, 
+        "dem": 3056, 
+        "tot": 14422, 
+        "gop": 10698
+    }, 
+    "for": "AR/Greene County/5055", 
+    "pct": {
+        "dem": 21.19, 
+        "per_point_diff": 52.99, 
+        "gop": 74.18
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 143633, 
+        "dem": 335961, 
+        "tot": 554711, 
+        "gop": 192328
+    }, 
+    "for": "OH/Franklin County/39049", 
+    "pct": {
+        "dem": 60.57, 
+        "per_point_diff": 25.89, 
+        "gop": 34.67
+    }
+}

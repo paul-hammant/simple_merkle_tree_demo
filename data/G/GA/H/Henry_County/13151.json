@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4261, 
+        "dem": 49902, 
+        "tot": 98037, 
+        "gop": 45641
+    }, 
+    "for": "GA/Henry County/13151", 
+    "pct": {
+        "dem": 50.9, 
+        "per_point_diff": 4.35, 
+        "gop": 46.55
+    }
+}

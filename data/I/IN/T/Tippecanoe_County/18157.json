@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3504, 
+        "dem": 27207, 
+        "tot": 61916, 
+        "gop": 30711
+    }, 
+    "for": "IN/Tippecanoe County/18157", 
+    "pct": {
+        "dem": 43.94, 
+        "per_point_diff": 5.66, 
+        "gop": 49.6
+    }
+}

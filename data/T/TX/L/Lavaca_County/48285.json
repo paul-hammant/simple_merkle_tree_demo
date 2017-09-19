@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6169, 
+        "dem": 1170, 
+        "tot": 8633, 
+        "gop": 7339
+    }, 
+    "for": "TX/Lavaca County/48285", 
+    "pct": {
+        "dem": 13.55, 
+        "per_point_diff": 71.46, 
+        "gop": 85.01
+    }
+}

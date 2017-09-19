@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1239, 
+        "dem": 14428, 
+        "tot": 33256, 
+        "gop": 15667
+    }, 
+    "for": "MN/Blue Earth County/27013", 
+    "pct": {
+        "dem": 43.38, 
+        "per_point_diff": 3.73, 
+        "gop": 47.11
+    }
+}

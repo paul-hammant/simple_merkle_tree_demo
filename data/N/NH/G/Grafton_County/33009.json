@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9500, 
+        "dem": 28510, 
+        "tot": 50065, 
+        "gop": 19010
+    }, 
+    "for": "NH/Grafton County/33009", 
+    "pct": {
+        "dem": 56.95, 
+        "per_point_diff": 18.98, 
+        "gop": 37.97
+    }
+}

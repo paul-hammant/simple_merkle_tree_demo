@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 23401, 
+        "dem": 55260, 
+        "tot": 141088, 
+        "gop": 78661
+    }, 
+    "for": "TN/Hamilton County/47065", 
+    "pct": {
+        "dem": 39.17, 
+        "per_point_diff": 16.59, 
+        "gop": 55.75
+    }
+}

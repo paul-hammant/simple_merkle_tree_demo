@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1434, 
+        "dem": 52554, 
+        "tot": 111827, 
+        "gop": 53988
+    }, 
+    "for": "VA/Chesapeake city/51550", 
+    "pct": {
+        "dem": 47.0, 
+        "per_point_diff": 1.28, 
+        "gop": 48.28
+    }
+}

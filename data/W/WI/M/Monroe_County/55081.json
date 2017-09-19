@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4395, 
+        "dem": 7047, 
+        "tot": 19554, 
+        "gop": 11442
+    }, 
+    "for": "WI/Monroe County/55081", 
+    "pct": {
+        "dem": 36.04, 
+        "per_point_diff": 22.48, 
+        "gop": 58.51
+    }
+}

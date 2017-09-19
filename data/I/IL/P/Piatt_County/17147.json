@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2990, 
+        "dem": 2633, 
+        "tot": 8899, 
+        "gop": 5623
+    }, 
+    "for": "IL/Piatt County/17147", 
+    "pct": {
+        "dem": 29.59, 
+        "per_point_diff": 33.6, 
+        "gop": 63.19
+    }
+}

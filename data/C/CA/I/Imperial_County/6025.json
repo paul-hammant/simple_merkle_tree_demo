@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17172, 
+        "dem": 28467, 
+        "tot": 41751, 
+        "gop": 11295
+    }, 
+    "for": "CA/Imperial County/6025", 
+    "pct": {
+        "dem": 68.18, 
+        "per_point_diff": 41.13, 
+        "gop": 27.05
+    }
+}

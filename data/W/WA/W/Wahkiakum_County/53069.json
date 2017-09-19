@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 504, 
+        "dem": 824, 
+        "tot": 2333, 
+        "gop": 1328
+    }, 
+    "for": "WA/Wahkiakum County/53069", 
+    "pct": {
+        "dem": 35.32, 
+        "per_point_diff": 21.6, 
+        "gop": 56.92
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 32857, 
+        "dem": 27894, 
+        "tot": 94262, 
+        "gop": 60751
+    }, 
+    "for": "AR/Benton County/5007", 
+    "pct": {
+        "dem": 29.59, 
+        "per_point_diff": 34.86, 
+        "gop": 64.45
+    }
+}

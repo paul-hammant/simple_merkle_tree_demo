@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 54371, 
+        "dem": 18409, 
+        "tot": 94090, 
+        "gop": 72780
+    }, 
+    "for": "AL/Baldwin County/1003", 
+    "pct": {
+        "dem": 19.57, 
+        "per_point_diff": 57.79, 
+        "gop": 77.35
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7100, 
+        "dem": 2425, 
+        "tot": 12223, 
+        "gop": 9525
+    }, 
+    "for": "TN/Obion County/47131", 
+    "pct": {
+        "dem": 19.84, 
+        "per_point_diff": 58.09, 
+        "gop": 77.93
+    }
+}

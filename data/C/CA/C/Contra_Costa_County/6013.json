@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 180839, 
+        "dem": 286658, 
+        "tot": 415972, 
+        "gop": 105819
+    }, 
+    "for": "CA/Contra Costa County/6013", 
+    "pct": {
+        "dem": 68.91, 
+        "per_point_diff": 43.47, 
+        "gop": 25.44
+    }
+}

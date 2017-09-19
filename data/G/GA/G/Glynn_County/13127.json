@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9744, 
+        "dem": 11738, 
+        "tot": 34041, 
+        "gop": 21482
+    }, 
+    "for": "GA/Glynn County/13127", 
+    "pct": {
+        "dem": 34.48, 
+        "per_point_diff": 28.62, 
+        "gop": 63.11
+    }
+}

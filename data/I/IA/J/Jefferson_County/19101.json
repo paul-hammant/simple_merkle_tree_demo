@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 36, 
+        "dem": 3702, 
+        "tot": 8001, 
+        "gop": 3738
+    }, 
+    "for": "IA/Jefferson County/19101", 
+    "pct": {
+        "dem": 46.27, 
+        "per_point_diff": 0.45, 
+        "gop": 46.72
+    }
+}

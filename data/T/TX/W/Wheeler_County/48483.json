@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1893, 
+        "dem": 194, 
+        "tot": 2306, 
+        "gop": 2087
+    }, 
+    "for": "TX/Wheeler County/48483", 
+    "pct": {
+        "dem": 8.41, 
+        "per_point_diff": 82.09, 
+        "gop": 90.5
+    }
+}

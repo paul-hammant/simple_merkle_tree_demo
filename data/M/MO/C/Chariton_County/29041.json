@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2060, 
+        "dem": 888, 
+        "tot": 3962, 
+        "gop": 2948
+    }, 
+    "for": "MO/Chariton County/29041", 
+    "pct": {
+        "dem": 22.41, 
+        "per_point_diff": 51.99, 
+        "gop": 74.41
+    }
+}

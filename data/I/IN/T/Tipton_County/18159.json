@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4002, 
+        "dem": 1587, 
+        "tot": 7510, 
+        "gop": 5589
+    }, 
+    "for": "IN/Tipton County/18159", 
+    "pct": {
+        "dem": 21.13, 
+        "per_point_diff": 53.29, 
+        "gop": 74.42
+    }
+}

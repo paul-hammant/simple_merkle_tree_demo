@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15521, 
+        "dem": 5638, 
+        "tot": 27386, 
+        "gop": 21159
+    }, 
+    "for": "LA/Acadia Parish/22001", 
+    "pct": {
+        "dem": 20.59, 
+        "per_point_diff": 56.67, 
+        "gop": 77.26
+    }
+}

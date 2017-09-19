@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15621, 
+        "dem": 23041, 
+        "tot": 66036, 
+        "gop": 38662
+    }, 
+    "for": "TX/Brazos County/48041", 
+    "pct": {
+        "dem": 34.89, 
+        "per_point_diff": 23.66, 
+        "gop": 58.55
+    }
+}

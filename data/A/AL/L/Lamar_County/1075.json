@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4784, 
+        "dem": 1035, 
+        "tot": 6931, 
+        "gop": 5819
+    }, 
+    "for": "AL/Lamar County/1075", 
+    "pct": {
+        "dem": 14.93, 
+        "per_point_diff": 69.02, 
+        "gop": 83.96
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1382, 
+        "dem": 3531, 
+        "tot": 5873, 
+        "gop": 2149
+    }, 
+    "for": "VA/Martinsville city/51690", 
+    "pct": {
+        "dem": 60.12, 
+        "per_point_diff": 23.53, 
+        "gop": 36.59
+    }
+}

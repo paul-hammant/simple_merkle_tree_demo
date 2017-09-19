@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 107, 
+        "dem": 90697, 
+        "tot": 195784, 
+        "gop": 90590
+    }, 
+    "for": "WA/Clark County/53011", 
+    "pct": {
+        "dem": 46.33, 
+        "per_point_diff": 0.05, 
+        "gop": 46.27
+    }
+}

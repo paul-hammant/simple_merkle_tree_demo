@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 608, 
+        "dem": 369, 
+        "tot": 1421, 
+        "gop": 977
+    }, 
+    "for": "SD/Lyman County/46085", 
+    "pct": {
+        "dem": 25.97, 
+        "per_point_diff": 42.79, 
+        "gop": 68.75
+    }
+}

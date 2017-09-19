@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8112, 
+        "dem": 5068, 
+        "tot": 19389, 
+        "gop": 13180
+    }, 
+    "for": "IL/Woodford County/17203", 
+    "pct": {
+        "dem": 26.14, 
+        "per_point_diff": 41.84, 
+        "gop": 67.98
+    }
+}

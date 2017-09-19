@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17561, 
+        "dem": 12422, 
+        "tot": 43744, 
+        "gop": 29983
+    }, 
+    "for": "GA/Carroll County/13045", 
+    "pct": {
+        "dem": 28.4, 
+        "per_point_diff": 40.14, 
+        "gop": 68.54
+    }
+}

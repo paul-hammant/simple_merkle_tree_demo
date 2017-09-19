@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5230, 
+        "dem": 2117, 
+        "tot": 10667, 
+        "gop": 7347
+    }, 
+    "for": "ID/Jerome County/16053", 
+    "pct": {
+        "dem": 19.85, 
+        "per_point_diff": 49.03, 
+        "gop": 68.88
+    }
+}

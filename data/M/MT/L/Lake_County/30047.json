@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2750, 
+        "dem": 4703, 
+        "tot": 12898, 
+        "gop": 7453
+    }, 
+    "for": "MT/Lake County/30047", 
+    "pct": {
+        "dem": 36.46, 
+        "per_point_diff": 21.32, 
+        "gop": 57.78
+    }
+}

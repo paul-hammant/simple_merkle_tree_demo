@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1582, 
+        "dem": 1053, 
+        "tot": 3844, 
+        "gop": 2635
+    }, 
+    "for": "IA/Monroe County/19135", 
+    "pct": {
+        "dem": 27.39, 
+        "per_point_diff": 41.16, 
+        "gop": 68.55
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4420, 
+        "dem": 4225, 
+        "tot": 13548, 
+        "gop": 8645
+    }, 
+    "for": "WI/Clark County/55019", 
+    "pct": {
+        "dem": 31.19, 
+        "per_point_diff": 32.62, 
+        "gop": 63.81
+    }
+}

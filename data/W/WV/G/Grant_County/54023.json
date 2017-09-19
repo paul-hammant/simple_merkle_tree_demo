@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3828, 
+        "dem": 510, 
+        "tot": 4945, 
+        "gop": 4338
+    }, 
+    "for": "WV/Grant County/54023", 
+    "pct": {
+        "dem": 10.31, 
+        "per_point_diff": 77.41, 
+        "gop": 87.72
+    }
+}

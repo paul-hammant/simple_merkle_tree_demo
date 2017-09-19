@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7290, 
+        "dem": 12053, 
+        "tot": 33791, 
+        "gop": 19343
+    }, 
+    "for": "MT/Cascade County/30013", 
+    "pct": {
+        "dem": 35.67, 
+        "per_point_diff": 21.57, 
+        "gop": 57.24
+    }
+}

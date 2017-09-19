@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7515, 
+        "dem": 31463, 
+        "tot": 73968, 
+        "gop": 38978
+    }, 
+    "for": "OH/Portage County/39133", 
+    "pct": {
+        "dem": 42.54, 
+        "per_point_diff": 10.16, 
+        "gop": 52.7
+    }
+}

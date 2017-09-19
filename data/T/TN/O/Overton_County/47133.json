@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4112, 
+        "dem": 1943, 
+        "tot": 8195, 
+        "gop": 6055
+    }, 
+    "for": "TN/Overton County/47133", 
+    "pct": {
+        "dem": 23.71, 
+        "per_point_diff": 50.18, 
+        "gop": 73.89
+    }
+}

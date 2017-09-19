@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1822, 
+        "dem": 7143, 
+        "tot": 16617, 
+        "gop": 8965
+    }, 
+    "for": "LA/Natchitoches Parish/22069", 
+    "pct": {
+        "dem": 42.99, 
+        "per_point_diff": 10.96, 
+        "gop": 53.95
+    }
+}

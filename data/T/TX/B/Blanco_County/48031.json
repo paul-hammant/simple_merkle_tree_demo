@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2968, 
+        "dem": 1244, 
+        "tot": 5669, 
+        "gop": 4212
+    }, 
+    "for": "TX/Blanco County/48031", 
+    "pct": {
+        "dem": 21.94, 
+        "per_point_diff": 52.35, 
+        "gop": 74.3
+    }
+}

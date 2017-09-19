@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2466, 
+        "dem": 2238, 
+        "tot": 7457, 
+        "gop": 4704
+    }, 
+    "for": "MI/Arenac County/26011", 
+    "pct": {
+        "dem": 30.01, 
+        "per_point_diff": 33.07, 
+        "gop": 63.08
+    }
+}

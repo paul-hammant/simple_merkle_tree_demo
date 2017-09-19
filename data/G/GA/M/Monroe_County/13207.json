@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5251, 
+        "dem": 3570, 
+        "tot": 12675, 
+        "gop": 8821
+    }, 
+    "for": "GA/Monroe County/13207", 
+    "pct": {
+        "dem": 28.17, 
+        "per_point_diff": 41.43, 
+        "gop": 69.59
+    }
+}

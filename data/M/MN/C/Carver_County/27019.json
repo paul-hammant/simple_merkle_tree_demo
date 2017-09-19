@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7549, 
+        "dem": 21508, 
+        "tot": 55102, 
+        "gop": 29057
+    }, 
+    "for": "MN/Carver County/27019", 
+    "pct": {
+        "dem": 39.03, 
+        "per_point_diff": 13.7, 
+        "gop": 52.73
+    }
+}

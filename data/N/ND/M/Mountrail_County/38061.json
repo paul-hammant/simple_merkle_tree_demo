@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1340, 
+        "dem": 1211, 
+        "tot": 4009, 
+        "gop": 2551
+    }, 
+    "for": "ND/Mountrail County/38061", 
+    "pct": {
+        "dem": 30.21, 
+        "per_point_diff": 33.42, 
+        "gop": 63.63
+    }
+}

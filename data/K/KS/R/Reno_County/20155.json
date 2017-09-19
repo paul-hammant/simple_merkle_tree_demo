@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8430, 
+        "dem": 6670, 
+        "tot": 23448, 
+        "gop": 15100
+    }, 
+    "for": "KS/Reno County/20155", 
+    "pct": {
+        "dem": 28.45, 
+        "per_point_diff": 35.95, 
+        "gop": 64.4
+    }
+}

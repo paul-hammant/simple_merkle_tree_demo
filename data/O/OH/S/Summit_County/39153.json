@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 20391, 
+        "dem": 129922, 
+        "tot": 249937, 
+        "gop": 109531
+    }, 
+    "for": "OH/Summit County/39153", 
+    "pct": {
+        "dem": 51.98, 
+        "per_point_diff": 8.16, 
+        "gop": 43.82
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3165, 
+        "dem": 1907, 
+        "tot": 7469, 
+        "gop": 5072
+    }, 
+    "for": "IL/De Witt County/17039", 
+    "pct": {
+        "dem": 25.53, 
+        "per_point_diff": 42.38, 
+        "gop": 67.91
+    }
+}

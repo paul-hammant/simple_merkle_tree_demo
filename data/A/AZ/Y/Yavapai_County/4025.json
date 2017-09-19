@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 29157, 
+        "dem": 29705, 
+        "tot": 92780, 
+        "gop": 58862
+    }, 
+    "for": "AZ/Yavapai County/4025", 
+    "pct": {
+        "dem": 32.02, 
+        "per_point_diff": 31.43, 
+        "gop": 63.44
+    }
+}

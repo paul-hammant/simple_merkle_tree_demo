@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4632, 
+        "dem": 13258, 
+        "tot": 33213, 
+        "gop": 17890
+    }, 
+    "for": "MI/Van Buren County/26159", 
+    "pct": {
+        "dem": 39.92, 
+        "per_point_diff": 13.95, 
+        "gop": 53.86
+    }
+}

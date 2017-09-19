@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 292756, 
+        "dem": 508919, 
+        "tot": 767337, 
+        "gop": 216163
+    }, 
+    "for": "MA/Middlesex County/25017", 
+    "pct": {
+        "dem": 66.32, 
+        "per_point_diff": 38.15, 
+        "gop": 28.17
+    }
+}

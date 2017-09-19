@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3165, 
+        "dem": 3539, 
+        "tot": 10765, 
+        "gop": 6704
+    }, 
+    "for": "MI/Menominee County/26109", 
+    "pct": {
+        "dem": 32.88, 
+        "per_point_diff": 29.4, 
+        "gop": 62.28
+    }
+}

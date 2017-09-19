@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2948, 
+        "dem": 1001, 
+        "tot": 5024, 
+        "gop": 3949
+    }, 
+    "for": "MS/Webster County/28155", 
+    "pct": {
+        "dem": 19.92, 
+        "per_point_diff": 58.68, 
+        "gop": 78.6
+    }
+}

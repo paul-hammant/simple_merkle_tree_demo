@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 58144, 
+        "dem": 222499, 
+        "tot": 412929, 
+        "gop": 164355
+    }, 
+    "for": "IL/DuPage County/17043", 
+    "pct": {
+        "dem": 53.88, 
+        "per_point_diff": 14.08, 
+        "gop": 39.8
+    }
+}

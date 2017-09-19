@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 55906, 
+        "dem": 164887, 
+        "tot": 282668, 
+        "gop": 108981
+    }, 
+    "for": "NJ/Middlesex County/34023", 
+    "pct": {
+        "dem": 58.33, 
+        "per_point_diff": 19.78, 
+        "gop": 38.55
+    }
+}

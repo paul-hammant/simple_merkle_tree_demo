@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10627, 
+        "dem": 110251, 
+        "tot": 228659, 
+        "gop": 99624
+    }, 
+    "for": "MN/Dakota County/27037", 
+    "pct": {
+        "dem": 48.22, 
+        "per_point_diff": 4.65, 
+        "gop": 43.57
+    }
+}

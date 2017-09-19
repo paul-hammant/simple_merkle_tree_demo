@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7273, 
+        "dem": 4408, 
+        "tot": 16818, 
+        "gop": 11681
+    }, 
+    "for": "IL/Jefferson County/17081", 
+    "pct": {
+        "dem": 26.21, 
+        "per_point_diff": 43.25, 
+        "gop": 69.46
+    }
+}

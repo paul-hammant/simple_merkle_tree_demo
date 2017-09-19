@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15099, 
+        "dem": 7633, 
+        "tot": 31770, 
+        "gop": 22732
+    }, 
+    "for": "IL/Adams County/17001", 
+    "pct": {
+        "dem": 24.03, 
+        "per_point_diff": 47.53, 
+        "gop": 71.55
+    }
+}

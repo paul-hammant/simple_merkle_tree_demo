@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5840, 
+        "dem": 21520, 
+        "tot": 49824, 
+        "gop": 27360
+    }, 
+    "for": "NC/Wayne County/37191", 
+    "pct": {
+        "dem": 43.19, 
+        "per_point_diff": 11.72, 
+        "gop": 54.91
+    }
+}

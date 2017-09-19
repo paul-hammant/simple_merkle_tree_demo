@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 32483, 
+        "dem": 54572, 
+        "tot": 82329, 
+        "gop": 22089
+    }, 
+    "for": "MA/Hampshire County/25015", 
+    "pct": {
+        "dem": 66.29, 
+        "per_point_diff": 39.46, 
+        "gop": 26.83
+    }
+}

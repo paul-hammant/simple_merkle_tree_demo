@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4939, 
+        "dem": 1431, 
+        "tot": 7988, 
+        "gop": 6370
+    }, 
+    "for": "KY/Wayne County/21231", 
+    "pct": {
+        "dem": 17.91, 
+        "per_point_diff": 61.83, 
+        "gop": 79.74
+    }
+}

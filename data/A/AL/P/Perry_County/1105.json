@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2420, 
+        "dem": 3823, 
+        "tot": 5255, 
+        "gop": 1403
+    }, 
+    "for": "AL/Perry County/1105", 
+    "pct": {
+        "dem": 72.75, 
+        "per_point_diff": 46.05, 
+        "gop": 26.7
+    }
+}

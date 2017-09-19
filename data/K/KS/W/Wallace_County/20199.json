@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 666, 
+        "dem": 45, 
+        "tot": 779, 
+        "gop": 711
+    }, 
+    "for": "KS/Wallace County/20199", 
+    "pct": {
+        "dem": 5.78, 
+        "per_point_diff": 85.49, 
+        "gop": 91.27
+    }
+}

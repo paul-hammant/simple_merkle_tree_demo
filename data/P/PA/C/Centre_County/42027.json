@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1456, 
+        "dem": 36555, 
+        "tot": 75394, 
+        "gop": 35099
+    }, 
+    "for": "PA/Centre County/42027", 
+    "pct": {
+        "dem": 48.49, 
+        "per_point_diff": 1.93, 
+        "gop": 46.55
+    }
+}

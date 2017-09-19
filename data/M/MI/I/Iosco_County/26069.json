@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4000, 
+        "dem": 4344, 
+        "tot": 13349, 
+        "gop": 8344
+    }, 
+    "for": "MI/Iosco County/26069", 
+    "pct": {
+        "dem": 32.54, 
+        "per_point_diff": 29.96, 
+        "gop": 62.51
+    }
+}

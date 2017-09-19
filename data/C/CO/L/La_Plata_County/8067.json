@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2829, 
+        "dem": 15300, 
+        "tot": 30722, 
+        "gop": 12471
+    }, 
+    "for": "CO/La Plata County/8067", 
+    "pct": {
+        "dem": 49.8, 
+        "per_point_diff": 9.21, 
+        "gop": 40.59
+    }
+}

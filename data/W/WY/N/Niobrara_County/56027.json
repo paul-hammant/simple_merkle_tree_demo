@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1001, 
+        "dem": 115, 
+        "tot": 1297, 
+        "gop": 1116
+    }, 
+    "for": "WY/Niobrara County/56027", 
+    "pct": {
+        "dem": 8.87, 
+        "per_point_diff": 77.18, 
+        "gop": 86.04
+    }
+}

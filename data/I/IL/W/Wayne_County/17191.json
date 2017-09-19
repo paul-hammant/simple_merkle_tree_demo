@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5915, 
+        "dem": 1048, 
+        "tot": 8256, 
+        "gop": 6963
+    }, 
+    "for": "IL/Wayne County/17191", 
+    "pct": {
+        "dem": 12.69, 
+        "per_point_diff": 71.64, 
+        "gop": 84.34
+    }
+}

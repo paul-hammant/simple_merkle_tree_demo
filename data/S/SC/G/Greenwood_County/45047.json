@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6248, 
+        "dem": 10633, 
+        "tot": 28600, 
+        "gop": 16881
+    }, 
+    "for": "SC/Greenwood County/45047", 
+    "pct": {
+        "dem": 37.18, 
+        "per_point_diff": 21.85, 
+        "gop": 59.02
+    }
+}

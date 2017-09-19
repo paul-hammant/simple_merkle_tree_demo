@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 162895, 
+        "dem": 288986, 
+        "tot": 434970, 
+        "gop": 126091
+    }, 
+    "for": "WI/Milwaukee County/55079", 
+    "pct": {
+        "dem": 66.44, 
+        "per_point_diff": 37.45, 
+        "gop": 28.99
+    }
+}

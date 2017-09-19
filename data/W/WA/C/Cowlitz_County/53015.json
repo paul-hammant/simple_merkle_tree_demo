@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6224, 
+        "dem": 17842, 
+        "tot": 45485, 
+        "gop": 24066
+    }, 
+    "for": "WA/Cowlitz County/53015", 
+    "pct": {
+        "dem": 39.23, 
+        "per_point_diff": 13.68, 
+        "gop": 52.91
+    }
+}

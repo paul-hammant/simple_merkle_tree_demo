@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2354, 
+        "dem": 601, 
+        "tot": 3698, 
+        "gop": 2955
+    }, 
+    "for": "AR/Searcy County/5129", 
+    "pct": {
+        "dem": 16.25, 
+        "per_point_diff": 63.66, 
+        "gop": 79.91
+    }
+}

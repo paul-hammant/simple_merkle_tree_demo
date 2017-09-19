@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10922, 
+        "dem": 24010, 
+        "tot": 62463, 
+        "gop": 34932
+    }, 
+    "for": "SC/Dorchester County/45035", 
+    "pct": {
+        "dem": 38.44, 
+        "per_point_diff": 17.49, 
+        "gop": 55.92
+    }
+}

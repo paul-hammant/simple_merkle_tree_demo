@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 25731, 
+        "dem": 22595, 
+        "tot": 75258, 
+        "gop": 48326
+    }, 
+    "for": "IN/Hendricks County/18063", 
+    "pct": {
+        "dem": 30.02, 
+        "per_point_diff": 34.19, 
+        "gop": 64.21
+    }
+}

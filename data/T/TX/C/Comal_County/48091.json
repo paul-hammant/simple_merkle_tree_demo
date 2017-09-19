@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 30830, 
+        "dem": 14166, 
+        "tot": 61567, 
+        "gop": 44996
+    }, 
+    "for": "TX/Comal County/48091", 
+    "pct": {
+        "dem": 23.01, 
+        "per_point_diff": 50.08, 
+        "gop": 73.08
+    }
+}

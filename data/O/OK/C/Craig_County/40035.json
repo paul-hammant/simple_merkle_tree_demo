@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3030, 
+        "dem": 1249, 
+        "tot": 5778, 
+        "gop": 4279
+    }, 
+    "for": "OK/Craig County/40035", 
+    "pct": {
+        "dem": 21.62, 
+        "per_point_diff": 52.44, 
+        "gop": 74.06
+    }
+}

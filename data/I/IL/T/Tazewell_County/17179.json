@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 18052, 
+        "dem": 20568, 
+        "tot": 63347, 
+        "gop": 38620
+    }, 
+    "for": "IL/Tazewell County/17179", 
+    "pct": {
+        "dem": 32.47, 
+        "per_point_diff": 28.5, 
+        "gop": 60.97
+    }
+}

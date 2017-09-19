@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 53849, 
+        "dem": 342976, 
+        "tot": 663255, 
+        "gop": 289127
+    }, 
+    "for": "MI/Oakland County/26125", 
+    "pct": {
+        "dem": 51.71, 
+        "per_point_diff": 8.12, 
+        "gop": 43.59
+    }
+}

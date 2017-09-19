@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 15689, 
+        "dem": 28462, 
+        "tot": 43000, 
+        "gop": 12773
+    }, 
+    "for": "VA/Portsmouth city/51740", 
+    "pct": {
+        "dem": 66.19, 
+        "per_point_diff": 36.49, 
+        "gop": 29.7
+    }
+}

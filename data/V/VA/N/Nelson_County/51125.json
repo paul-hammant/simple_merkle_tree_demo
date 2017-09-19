@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 473, 
+        "dem": 3677, 
+        "tot": 8247, 
+        "gop": 4150
+    }, 
+    "for": "VA/Nelson County/51125", 
+    "pct": {
+        "dem": 44.59, 
+        "per_point_diff": 5.74, 
+        "gop": 50.32
+    }
+}

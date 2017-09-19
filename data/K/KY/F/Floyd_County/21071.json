@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7978, 
+        "dem": 4015, 
+        "tot": 16521, 
+        "gop": 11993
+    }, 
+    "for": "KY/Floyd County/21071", 
+    "pct": {
+        "dem": 24.3, 
+        "per_point_diff": 48.29, 
+        "gop": 72.59
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4686, 
+        "dem": 1768, 
+        "tot": 8489, 
+        "gop": 6454
+    }, 
+    "for": "VA/Patrick County/51141", 
+    "pct": {
+        "dem": 20.83, 
+        "per_point_diff": 55.2, 
+        "gop": 76.03
+    }
+}

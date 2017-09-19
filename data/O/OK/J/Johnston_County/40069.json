@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2299, 
+        "dem": 782, 
+        "tot": 4001, 
+        "gop": 3081
+    }, 
+    "for": "OK/Johnston County/40069", 
+    "pct": {
+        "dem": 19.55, 
+        "per_point_diff": 57.46, 
+        "gop": 77.01
+    }
+}

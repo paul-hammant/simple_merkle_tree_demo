@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6002, 
+        "dem": 15922, 
+        "tot": 39569, 
+        "gop": 21924
+    }, 
+    "for": "IN/Vigo County/18167", 
+    "pct": {
+        "dem": 40.24, 
+        "per_point_diff": 15.17, 
+        "gop": 55.41
+    }
+}

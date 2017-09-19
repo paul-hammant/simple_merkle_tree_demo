@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 23228, 
+        "dem": 41030, 
+        "tot": 61489, 
+        "gop": 17802
+    }, 
+    "for": "VA/Hampton city/51650", 
+    "pct": {
+        "dem": 66.73, 
+        "per_point_diff": 37.78, 
+        "gop": 28.95
+    }
+}

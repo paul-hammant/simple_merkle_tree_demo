@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4524, 
+        "dem": 1960, 
+        "tot": 8765, 
+        "gop": 6484
+    }, 
+    "for": "KY/Breckinridge County/21027", 
+    "pct": {
+        "dem": 22.36, 
+        "per_point_diff": 51.61, 
+        "gop": 73.98
+    }
+}

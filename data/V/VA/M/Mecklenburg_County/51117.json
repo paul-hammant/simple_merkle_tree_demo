@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1712, 
+        "dem": 6571, 
+        "tot": 15177, 
+        "gop": 8283
+    }, 
+    "for": "VA/Mecklenburg County/51117", 
+    "pct": {
+        "dem": 43.3, 
+        "per_point_diff": 11.28, 
+        "gop": 54.58
+    }
+}

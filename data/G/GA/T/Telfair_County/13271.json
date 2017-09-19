@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1136, 
+        "dem": 1313, 
+        "tot": 3794, 
+        "gop": 2449
+    }, 
+    "for": "GA/Telfair County/13271", 
+    "pct": {
+        "dem": 34.61, 
+        "per_point_diff": 29.94, 
+        "gop": 64.55
+    }
+}

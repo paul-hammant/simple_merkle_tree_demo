@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 828, 
+        "dem": 565, 
+        "tot": 2082, 
+        "gop": 1393
+    }, 
+    "for": "IA/Adams County/19003", 
+    "pct": {
+        "dem": 27.14, 
+        "per_point_diff": 39.77, 
+        "gop": 66.91
+    }
+}

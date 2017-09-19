@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 234, 
+        "dem": 1262, 
+        "tot": 2820, 
+        "gop": 1496
+    }, 
+    "for": "IL/Alexander County/17003", 
+    "pct": {
+        "dem": 44.75, 
+        "per_point_diff": 8.3, 
+        "gop": 53.05
+    }
+}

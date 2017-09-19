@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3545, 
+        "dem": 2067, 
+        "tot": 8032, 
+        "gop": 5612
+    }, 
+    "for": "OK/Seminole County/40133", 
+    "pct": {
+        "dem": 25.73, 
+        "per_point_diff": 44.14, 
+        "gop": 69.87
+    }
+}

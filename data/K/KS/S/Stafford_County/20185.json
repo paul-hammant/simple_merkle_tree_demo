@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1182, 
+        "dem": 303, 
+        "tot": 1884, 
+        "gop": 1485
+    }, 
+    "for": "KS/Stafford County/20185", 
+    "pct": {
+        "dem": 16.08, 
+        "per_point_diff": 62.74, 
+        "gop": 78.82
+    }
+}

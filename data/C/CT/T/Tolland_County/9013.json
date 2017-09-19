@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4461, 
+        "dem": 38450, 
+        "tot": 77069, 
+        "gop": 33989
+    }, 
+    "for": "CT/Tolland County/9013", 
+    "pct": {
+        "dem": 49.89, 
+        "per_point_diff": 5.79, 
+        "gop": 44.1
+    }
+}

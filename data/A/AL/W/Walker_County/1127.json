@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 19722, 
+        "dem": 4486, 
+        "tot": 29243, 
+        "gop": 24208
+    }, 
+    "for": "AL/Walker County/1127", 
+    "pct": {
+        "dem": 15.34, 
+        "per_point_diff": 67.44, 
+        "gop": 82.78
+    }
+}

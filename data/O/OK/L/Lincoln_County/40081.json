@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8415, 
+        "dem": 2423, 
+        "tot": 14001, 
+        "gop": 10838
+    }, 
+    "for": "OK/Lincoln County/40081", 
+    "pct": {
+        "dem": 17.31, 
+        "per_point_diff": 60.1, 
+        "gop": 77.41
+    }
+}

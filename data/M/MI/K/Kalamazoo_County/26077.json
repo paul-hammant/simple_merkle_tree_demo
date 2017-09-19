@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16111, 
+        "dem": 67142, 
+        "tot": 125966, 
+        "gop": 51031
+    }, 
+    "for": "MI/Kalamazoo County/26077", 
+    "pct": {
+        "dem": 53.3, 
+        "per_point_diff": 12.79, 
+        "gop": 40.51
+    }
+}

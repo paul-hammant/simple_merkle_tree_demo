@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1671, 
+        "dem": 5928, 
+        "tot": 10353, 
+        "gop": 4257
+    }, 
+    "for": "SC/Marlboro County/45069", 
+    "pct": {
+        "dem": 57.26, 
+        "per_point_diff": 16.14, 
+        "gop": 41.12
+    }
+}

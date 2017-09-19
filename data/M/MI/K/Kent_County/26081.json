@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9392, 
+        "dem": 138567, 
+        "tot": 306270, 
+        "gop": 147959
+    }, 
+    "for": "MI/Kent County/26081", 
+    "pct": {
+        "dem": 45.24, 
+        "per_point_diff": 3.07, 
+        "gop": 48.31
+    }
+}

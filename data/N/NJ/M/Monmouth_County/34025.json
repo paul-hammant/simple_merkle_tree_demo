@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 29480, 
+        "dem": 135825, 
+        "tot": 311474, 
+        "gop": 165305
+    }, 
+    "for": "NJ/Monmouth County/34025", 
+    "pct": {
+        "dem": 43.61, 
+        "per_point_diff": 9.46, 
+        "gop": 53.07
+    }
+}

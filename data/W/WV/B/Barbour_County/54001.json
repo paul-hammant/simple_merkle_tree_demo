@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3296, 
+        "dem": 1213, 
+        "tot": 6024, 
+        "gop": 4509
+    }, 
+    "for": "WV/Barbour County/54001", 
+    "pct": {
+        "dem": 20.14, 
+        "per_point_diff": 54.71, 
+        "gop": 74.85
+    }
+}

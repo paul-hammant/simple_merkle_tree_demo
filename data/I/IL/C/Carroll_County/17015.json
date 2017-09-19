@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1991, 
+        "dem": 2437, 
+        "tot": 7354, 
+        "gop": 4428
+    }, 
+    "for": "IL/Carroll County/17015", 
+    "pct": {
+        "dem": 33.14, 
+        "per_point_diff": 27.07, 
+        "gop": 60.21
+    }
+}

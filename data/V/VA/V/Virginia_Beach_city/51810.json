@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7645, 
+        "dem": 76744, 
+        "tot": 171876, 
+        "gop": 84389
+    }, 
+    "for": "VA/Virginia Beach city/51810", 
+    "pct": {
+        "dem": 44.65, 
+        "per_point_diff": 4.45, 
+        "gop": 49.1
+    }
+}

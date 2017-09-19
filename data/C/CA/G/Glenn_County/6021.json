@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2723, 
+        "dem": 3065, 
+        "tot": 9379, 
+        "gop": 5788
+    }, 
+    "for": "CA/Glenn County/6021", 
+    "pct": {
+        "dem": 32.68, 
+        "per_point_diff": 29.03, 
+        "gop": 61.71
+    }
+}

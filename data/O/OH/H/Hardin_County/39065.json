@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5671, 
+        "dem": 2870, 
+        "tot": 12014, 
+        "gop": 8541
+    }, 
+    "for": "OH/Hardin County/39065", 
+    "pct": {
+        "dem": 23.89, 
+        "per_point_diff": 47.2, 
+        "gop": 71.09
+    }
+}

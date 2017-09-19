@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6540, 
+        "dem": 3982, 
+        "tot": 15310, 
+        "gop": 10522
+    }, 
+    "for": "IL/Christian County/17021", 
+    "pct": {
+        "dem": 26.01, 
+        "per_point_diff": 42.72, 
+        "gop": 68.73
+    }
+}

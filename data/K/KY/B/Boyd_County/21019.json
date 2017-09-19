@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7570, 
+        "dem": 6021, 
+        "tot": 20443, 
+        "gop": 13591
+    }, 
+    "for": "KY/Boyd County/21019", 
+    "pct": {
+        "dem": 29.45, 
+        "per_point_diff": 37.03, 
+        "gop": 66.48
+    }
+}

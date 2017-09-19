@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2462, 
+        "dem": 505, 
+        "tot": 3621, 
+        "gop": 2967
+    }, 
+    "for": "WV/Tyler County/54095", 
+    "pct": {
+        "dem": 13.95, 
+        "per_point_diff": 67.99, 
+        "gop": 81.94
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3996, 
+        "dem": 1234, 
+        "tot": 6572, 
+        "gop": 5230
+    }, 
+    "for": "AL/Clay County/1027", 
+    "pct": {
+        "dem": 18.78, 
+        "per_point_diff": 60.8, 
+        "gop": 79.58
+    }
+}

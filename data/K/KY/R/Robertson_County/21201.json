@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 537, 
+        "dem": 222, 
+        "tot": 1013, 
+        "gop": 759
+    }, 
+    "for": "KY/Robertson County/21201", 
+    "pct": {
+        "dem": 21.92, 
+        "per_point_diff": 53.01, 
+        "gop": 74.93
+    }
+}

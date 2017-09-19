@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1397, 
+        "dem": 5712, 
+        "tot": 12936, 
+        "gop": 7109
+    }, 
+    "for": "AL/Clarke County/1025", 
+    "pct": {
+        "dem": 44.16, 
+        "per_point_diff": 10.8, 
+        "gop": 54.96
+    }
+}

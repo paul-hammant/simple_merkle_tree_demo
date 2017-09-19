@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 428, 
+        "dem": 9121, 
+        "tot": 18791, 
+        "gop": 8693
+    }, 
+    "for": "WI/Green County/55045", 
+    "pct": {
+        "dem": 48.54, 
+        "per_point_diff": 2.28, 
+        "gop": 46.26
+    }
+}

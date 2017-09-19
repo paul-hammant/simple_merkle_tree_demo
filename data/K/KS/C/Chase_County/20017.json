@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 651, 
+        "dem": 313, 
+        "tot": 1342, 
+        "gop": 964
+    }, 
+    "for": "KS/Chase County/20017", 
+    "pct": {
+        "dem": 23.32, 
+        "per_point_diff": 48.51, 
+        "gop": 71.83
+    }
+}

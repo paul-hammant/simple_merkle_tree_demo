@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3537, 
+        "dem": 5137, 
+        "tot": 14567, 
+        "gop": 8674
+    }, 
+    "for": "MI/Charlevoix County/26029", 
+    "pct": {
+        "dem": 35.26, 
+        "per_point_diff": 24.28, 
+        "gop": 59.55
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6459, 
+        "dem": 45306, 
+        "tot": 88402, 
+        "gop": 38847
+    }, 
+    "for": "CT/Middlesex County/9007", 
+    "pct": {
+        "dem": 51.25, 
+        "per_point_diff": 7.31, 
+        "gop": 43.94
+    }
+}

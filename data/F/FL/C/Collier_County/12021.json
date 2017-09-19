@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 44356, 
+        "dem": 60941, 
+        "tot": 170505, 
+        "gop": 105297
+    }, 
+    "for": "FL/Collier County/12021", 
+    "pct": {
+        "dem": 35.74, 
+        "per_point_diff": 26.01, 
+        "gop": 61.76
+    }
+}

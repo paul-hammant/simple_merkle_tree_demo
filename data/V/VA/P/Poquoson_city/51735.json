@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3490, 
+        "dem": 1599, 
+        "tot": 7114, 
+        "gop": 5089
+    }, 
+    "for": "VA/Poquoson city/51735", 
+    "pct": {
+        "dem": 22.48, 
+        "per_point_diff": 49.06, 
+        "gop": 71.54
+    }
+}

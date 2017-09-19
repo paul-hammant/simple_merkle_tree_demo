@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 634, 
+        "dem": 340, 
+        "tot": 1407, 
+        "gop": 974
+    }, 
+    "for": "SD/Aurora County/46003", 
+    "pct": {
+        "dem": 24.16, 
+        "per_point_diff": 45.06, 
+        "gop": 69.23
+    }
+}

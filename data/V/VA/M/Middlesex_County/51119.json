@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1561, 
+        "dem": 2107, 
+        "tot": 5994, 
+        "gop": 3668
+    }, 
+    "for": "VA/Middlesex County/51119", 
+    "pct": {
+        "dem": 35.15, 
+        "per_point_diff": 26.04, 
+        "gop": 61.19
+    }
+}

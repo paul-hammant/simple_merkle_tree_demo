@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 40321, 
+        "dem": 21689, 
+        "tot": 87151, 
+        "gop": 62010
+    }, 
+    "for": "FL/Bay County/12005", 
+    "pct": {
+        "dem": 24.89, 
+        "per_point_diff": 46.27, 
+        "gop": 71.15
+    }
+}

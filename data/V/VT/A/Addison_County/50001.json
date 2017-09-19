@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5920, 
+        "dem": 11217, 
+        "tot": 17592, 
+        "gop": 5297
+    }, 
+    "for": "VT/Addison County/50001", 
+    "pct": {
+        "dem": 63.76, 
+        "per_point_diff": 33.65, 
+        "gop": 30.11
+    }
+}

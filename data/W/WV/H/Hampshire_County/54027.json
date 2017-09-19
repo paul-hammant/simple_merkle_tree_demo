@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5070, 
+        "dem": 1576, 
+        "tot": 8557, 
+        "gop": 6646
+    }, 
+    "for": "WV/Hampshire County/54027", 
+    "pct": {
+        "dem": 18.42, 
+        "per_point_diff": 59.25, 
+        "gop": 77.67
+    }
+}

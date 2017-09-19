@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 22658, 
+        "dem": 68429, 
+        "tot": 163387, 
+        "gop": 91087
+    }, 
+    "for": "AL/Mobile County/1097", 
+    "pct": {
+        "dem": 41.88, 
+        "per_point_diff": 13.87, 
+        "gop": 55.75
+    }
+}

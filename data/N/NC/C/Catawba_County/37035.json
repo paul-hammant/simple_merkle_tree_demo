@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 27012, 
+        "dem": 21050, 
+        "tot": 71065, 
+        "gop": 48062
+    }, 
+    "for": "NC/Catawba County/37035", 
+    "pct": {
+        "dem": 29.62, 
+        "per_point_diff": 38.01, 
+        "gop": 67.63
+    }
+}

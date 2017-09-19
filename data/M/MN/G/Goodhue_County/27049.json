@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4595, 
+        "dem": 9446, 
+        "tot": 25538, 
+        "gop": 14041
+    }, 
+    "for": "MN/Goodhue County/27049", 
+    "pct": {
+        "dem": 36.99, 
+        "per_point_diff": 17.99, 
+        "gop": 54.98
+    }
+}

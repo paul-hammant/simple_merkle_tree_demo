@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5930, 
+        "dem": 2279, 
+        "tot": 10912, 
+        "gop": 8209
+    }, 
+    "for": "IL/Shelby County/17173", 
+    "pct": {
+        "dem": 20.89, 
+        "per_point_diff": 54.34, 
+        "gop": 75.23
+    }
+}

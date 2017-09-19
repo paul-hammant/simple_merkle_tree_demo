@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 711, 
+        "dem": 96, 
+        "tot": 933, 
+        "gop": 807
+    }, 
+    "for": "TX/Sherman County/48421", 
+    "pct": {
+        "dem": 10.29, 
+        "per_point_diff": 76.21, 
+        "gop": 86.5
+    }
+}

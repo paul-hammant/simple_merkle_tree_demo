@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7400, 
+        "dem": 4146, 
+        "tot": 16265, 
+        "gop": 11546
+    }, 
+    "for": "KY/Greenup County/21089", 
+    "pct": {
+        "dem": 25.49, 
+        "per_point_diff": 45.5, 
+        "gop": 70.99
+    }
+}

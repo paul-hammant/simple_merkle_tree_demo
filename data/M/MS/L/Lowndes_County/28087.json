@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1579, 
+        "dem": 11545, 
+        "tot": 25139, 
+        "gop": 13124
+    }, 
+    "for": "MS/Lowndes County/28087", 
+    "pct": {
+        "dem": 45.92, 
+        "per_point_diff": 6.28, 
+        "gop": 52.21
+    }
+}

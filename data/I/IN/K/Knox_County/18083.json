@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7305, 
+        "dem": 3772, 
+        "tot": 15483, 
+        "gop": 11077
+    }, 
+    "for": "IN/Knox County/18083", 
+    "pct": {
+        "dem": 24.36, 
+        "per_point_diff": 47.18, 
+        "gop": 71.54
+    }
+}

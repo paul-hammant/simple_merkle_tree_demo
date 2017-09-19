@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7204, 
+        "dem": 4828, 
+        "tot": 17624, 
+        "gop": 12032
+    }, 
+    "for": "PA/Warren County/42123", 
+    "pct": {
+        "dem": 27.39, 
+        "per_point_diff": 40.88, 
+        "gop": 68.27
+    }
+}

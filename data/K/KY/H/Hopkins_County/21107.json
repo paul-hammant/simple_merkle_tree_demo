@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10967, 
+        "dem": 4310, 
+        "tot": 20325, 
+        "gop": 15277
+    }, 
+    "for": "KY/Hopkins County/21107", 
+    "pct": {
+        "dem": 21.21, 
+        "per_point_diff": 53.96, 
+        "gop": 75.16
+    }
+}

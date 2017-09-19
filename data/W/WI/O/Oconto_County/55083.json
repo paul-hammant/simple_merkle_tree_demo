@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7369, 
+        "dem": 5886, 
+        "tot": 19924, 
+        "gop": 13255
+    }, 
+    "for": "WI/Oconto County/55083", 
+    "pct": {
+        "dem": 29.54, 
+        "per_point_diff": 36.99, 
+        "gop": 66.53
+    }
+}

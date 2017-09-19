@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 367, 
+        "dem": 13123, 
+        "tot": 27255, 
+        "gop": 12756
+    }, 
+    "for": "NY/Columbia County/36021", 
+    "pct": {
+        "dem": 48.15, 
+        "per_point_diff": 1.35, 
+        "gop": 46.8
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1711, 
+        "dem": 1505, 
+        "tot": 5218, 
+        "gop": 3216
+    }, 
+    "for": "ND/Ramsey County/38071", 
+    "pct": {
+        "dem": 28.84, 
+        "per_point_diff": 32.79, 
+        "gop": 61.63
+    }
+}

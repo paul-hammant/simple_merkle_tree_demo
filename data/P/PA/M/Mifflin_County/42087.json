@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10487, 
+        "dem": 3563, 
+        "tot": 18239, 
+        "gop": 14050
+    }, 
+    "for": "PA/Mifflin County/42087", 
+    "pct": {
+        "dem": 19.54, 
+        "per_point_diff": 57.5, 
+        "gop": 77.03
+    }
+}

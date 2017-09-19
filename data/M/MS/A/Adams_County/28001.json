@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1796, 
+        "dem": 6921, 
+        "tot": 12214, 
+        "gop": 5125
+    }, 
+    "for": "MS/Adams County/28001", 
+    "pct": {
+        "dem": 56.66, 
+        "per_point_diff": 14.7, 
+        "gop": 41.96
+    }
+}

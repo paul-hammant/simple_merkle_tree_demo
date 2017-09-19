@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6840, 
+        "dem": 2802, 
+        "tot": 13039, 
+        "gop": 9642
+    }, 
+    "for": "IN/Adams County/18001", 
+    "pct": {
+        "dem": 21.49, 
+        "per_point_diff": 52.46, 
+        "gop": 73.95
+    }
+}

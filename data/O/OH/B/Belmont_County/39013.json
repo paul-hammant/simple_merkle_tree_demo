@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12077, 
+        "dem": 8652, 
+        "tot": 30537, 
+        "gop": 20729
+    }, 
+    "for": "OH/Belmont County/39013", 
+    "pct": {
+        "dem": 28.33, 
+        "per_point_diff": 39.55, 
+        "gop": 67.88
+    }
+}

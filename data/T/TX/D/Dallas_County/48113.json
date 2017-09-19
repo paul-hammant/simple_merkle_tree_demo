@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 196980, 
+        "dem": 458845, 
+        "tot": 750649, 
+        "gop": 261865
+    }, 
+    "for": "TX/Dallas County/48113", 
+    "pct": {
+        "dem": 61.13, 
+        "per_point_diff": 26.24, 
+        "gop": 34.89
+    }
+}

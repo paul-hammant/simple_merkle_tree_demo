@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1715, 
+        "dem": 216, 
+        "tot": 2256, 
+        "gop": 1931
+    }, 
+    "for": "OK/Alfalfa County/40003", 
+    "pct": {
+        "dem": 9.57, 
+        "per_point_diff": 76.02, 
+        "gop": 85.59
+    }
+}

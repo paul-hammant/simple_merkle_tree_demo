@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 733, 
+        "dem": 336, 
+        "tot": 1511, 
+        "gop": 1069
+    }, 
+    "for": "CO/Crowley County/8025", 
+    "pct": {
+        "dem": 22.24, 
+        "per_point_diff": 48.51, 
+        "gop": 70.75
+    }
+}

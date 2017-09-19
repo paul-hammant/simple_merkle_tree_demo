@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7322, 
+        "dem": 7237, 
+        "tot": 23481, 
+        "gop": 14559
+    }, 
+    "for": "OH/Seneca County/39147", 
+    "pct": {
+        "dem": 30.82, 
+        "per_point_diff": 31.18, 
+        "gop": 62.0
+    }
+}

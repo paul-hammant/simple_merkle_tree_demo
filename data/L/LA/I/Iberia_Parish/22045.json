@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10205, 
+        "dem": 10698, 
+        "tot": 32454, 
+        "gop": 20903
+    }, 
+    "for": "LA/Iberia Parish/22045", 
+    "pct": {
+        "dem": 32.96, 
+        "per_point_diff": 31.44, 
+        "gop": 64.41
+    }
+}

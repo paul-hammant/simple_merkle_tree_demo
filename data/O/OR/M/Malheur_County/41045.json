@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4928, 
+        "dem": 2213, 
+        "tot": 9950, 
+        "gop": 7141
+    }, 
+    "for": "OR/Malheur County/41045", 
+    "pct": {
+        "dem": 22.24, 
+        "per_point_diff": 49.53, 
+        "gop": 71.77
+    }
+}

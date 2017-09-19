@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3490, 
+        "dem": 4884, 
+        "tot": 13930, 
+        "gop": 8374
+    }, 
+    "for": "VA/Goochland County/51075", 
+    "pct": {
+        "dem": 35.06, 
+        "per_point_diff": 25.05, 
+        "gop": 60.11
+    }
+}

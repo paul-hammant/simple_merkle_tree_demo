@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3644, 
+        "dem": 6972, 
+        "tot": 18774, 
+        "gop": 10616
+    }, 
+    "for": "MI/Emmet County/26047", 
+    "pct": {
+        "dem": 37.14, 
+        "per_point_diff": 19.41, 
+        "gop": 56.55
+    }
+}

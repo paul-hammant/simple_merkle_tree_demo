@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 684, 
+        "dem": 2116, 
+        "tot": 5350, 
+        "gop": 2800
+    }, 
+    "for": "MN/Stevens County/27149", 
+    "pct": {
+        "dem": 39.55, 
+        "per_point_diff": 12.79, 
+        "gop": 52.34
+    }
+}

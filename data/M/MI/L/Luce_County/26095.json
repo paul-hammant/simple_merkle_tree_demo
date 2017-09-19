@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1075, 
+        "dem": 681, 
+        "tot": 2576, 
+        "gop": 1756
+    }, 
+    "for": "MI/Luce County/26095", 
+    "pct": {
+        "dem": 26.44, 
+        "per_point_diff": 41.73, 
+        "gop": 68.17
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3624, 
+        "dem": 1372, 
+        "tot": 6522, 
+        "gop": 4996
+    }, 
+    "for": "TX/Lee County/48287", 
+    "pct": {
+        "dem": 21.04, 
+        "per_point_diff": 55.57, 
+        "gop": 76.6
+    }
+}

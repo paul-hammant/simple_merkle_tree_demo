@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2695, 
+        "dem": 2064, 
+        "tot": 7460, 
+        "gop": 4759
+    }, 
+    "for": "ND/Richland County/38077", 
+    "pct": {
+        "dem": 27.67, 
+        "per_point_diff": 36.13, 
+        "gop": 63.79
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3261, 
+        "dem": 571, 
+        "tot": 4609, 
+        "gop": 3832
+    }, 
+    "for": "NE/Phelps County/31137", 
+    "pct": {
+        "dem": 12.39, 
+        "per_point_diff": 70.75, 
+        "gop": 83.14
+    }
+}

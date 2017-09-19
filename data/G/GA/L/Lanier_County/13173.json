@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1179, 
+        "dem": 805, 
+        "tot": 2861, 
+        "gop": 1984
+    }, 
+    "for": "GA/Lanier County/13173", 
+    "pct": {
+        "dem": 28.14, 
+        "per_point_diff": 41.21, 
+        "gop": 69.35
+    }
+}

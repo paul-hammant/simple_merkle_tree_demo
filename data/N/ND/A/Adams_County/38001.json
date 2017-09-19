@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 688, 
+        "dem": 216, 
+        "tot": 1206, 
+        "gop": 904
+    }, 
+    "for": "ND/Adams County/38001", 
+    "pct": {
+        "dem": 17.91, 
+        "per_point_diff": 57.05, 
+        "gop": 74.96
+    }
+}

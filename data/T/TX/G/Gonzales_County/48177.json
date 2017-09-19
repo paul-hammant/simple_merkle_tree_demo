@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3013, 
+        "dem": 1567, 
+        "tot": 6304, 
+        "gop": 4580
+    }, 
+    "for": "TX/Gonzales County/48177", 
+    "pct": {
+        "dem": 24.86, 
+        "per_point_diff": 47.8, 
+        "gop": 72.65
+    }
+}

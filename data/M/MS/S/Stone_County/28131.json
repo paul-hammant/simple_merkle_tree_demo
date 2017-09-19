@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3410, 
+        "dem": 1400, 
+        "tot": 6368, 
+        "gop": 4810
+    }, 
+    "for": "MS/Stone County/28131", 
+    "pct": {
+        "dem": 21.98, 
+        "per_point_diff": 53.55, 
+        "gop": 75.53
+    }
+}

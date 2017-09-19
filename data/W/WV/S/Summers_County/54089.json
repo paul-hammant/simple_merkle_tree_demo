@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2258, 
+        "dem": 1186, 
+        "tot": 4847, 
+        "gop": 3444
+    }, 
+    "for": "WV/Summers County/54089", 
+    "pct": {
+        "dem": 24.47, 
+        "per_point_diff": 46.59, 
+        "gop": 71.05
+    }
+}

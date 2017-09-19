@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1550, 
+        "dem": 924, 
+        "tot": 3619, 
+        "gop": 2474
+    }, 
+    "for": "WV/Pocahontas County/54075", 
+    "pct": {
+        "dem": 25.53, 
+        "per_point_diff": 42.83, 
+        "gop": 68.36
+    }
+}

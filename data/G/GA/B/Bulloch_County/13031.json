@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5664, 
+        "dem": 8812, 
+        "tot": 24151, 
+        "gop": 14476
+    }, 
+    "for": "GA/Bulloch County/13031", 
+    "pct": {
+        "dem": 36.49, 
+        "per_point_diff": 23.45, 
+        "gop": 59.94
+    }
+}

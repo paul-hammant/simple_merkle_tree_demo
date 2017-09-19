@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4544, 
+        "dem": 12902, 
+        "tot": 32250, 
+        "gop": 17446
+    }, 
+    "for": "CA/Kings County/6031", 
+    "pct": {
+        "dem": 40.01, 
+        "per_point_diff": 14.09, 
+        "gop": 54.1
+    }
+}

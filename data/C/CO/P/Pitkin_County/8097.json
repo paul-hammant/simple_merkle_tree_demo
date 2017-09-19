@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4717, 
+        "dem": 7239, 
+        "tot": 10387, 
+        "gop": 2522
+    }, 
+    "for": "CO/Pitkin County/8097", 
+    "pct": {
+        "dem": 69.69, 
+        "per_point_diff": 45.41, 
+        "gop": 24.28
+    }
+}

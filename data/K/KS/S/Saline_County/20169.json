@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7283, 
+        "dem": 6084, 
+        "tot": 21206, 
+        "gop": 13367
+    }, 
+    "for": "KS/Saline County/20169", 
+    "pct": {
+        "dem": 28.69, 
+        "per_point_diff": 34.34, 
+        "gop": 63.03
+    }
+}

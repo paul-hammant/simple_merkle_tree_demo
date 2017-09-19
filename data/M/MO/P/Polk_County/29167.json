@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7805, 
+        "dem": 2630, 
+        "tot": 13709, 
+        "gop": 10435
+    }, 
+    "for": "MO/Polk County/29167", 
+    "pct": {
+        "dem": 19.18, 
+        "per_point_diff": 56.93, 
+        "gop": 76.12
+    }
+}

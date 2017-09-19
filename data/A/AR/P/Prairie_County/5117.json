@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1691, 
+        "dem": 812, 
+        "tot": 3404, 
+        "gop": 2503
+    }, 
+    "for": "AR/Prairie County/5117", 
+    "pct": {
+        "dem": 23.85, 
+        "per_point_diff": 49.68, 
+        "gop": 73.53
+    }
+}

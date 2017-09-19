@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7740, 
+        "dem": 1201, 
+        "tot": 15687, 
+        "gop": 8941
+    }, 
+    "for": "ID/Madison County/16065", 
+    "pct": {
+        "dem": 7.66, 
+        "per_point_diff": 49.34, 
+        "gop": 57.0
+    }
+}

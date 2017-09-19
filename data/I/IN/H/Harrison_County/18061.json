@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8217, 
+        "dem": 4776, 
+        "tot": 18528, 
+        "gop": 12993
+    }, 
+    "for": "IN/Harrison County/18061", 
+    "pct": {
+        "dem": 25.78, 
+        "per_point_diff": 44.35, 
+        "gop": 70.13
+    }
+}

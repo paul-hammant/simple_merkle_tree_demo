@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5992, 
+        "dem": 1847, 
+        "tot": 10035, 
+        "gop": 7839
+    }, 
+    "for": "TN/McNairy County/47109", 
+    "pct": {
+        "dem": 18.41, 
+        "per_point_diff": 59.71, 
+        "gop": 78.12
+    }
+}

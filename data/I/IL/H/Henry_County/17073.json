@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5127, 
+        "dem": 8835, 
+        "tot": 24232, 
+        "gop": 13962
+    }, 
+    "for": "IL/Henry County/17073", 
+    "pct": {
+        "dem": 36.46, 
+        "per_point_diff": 21.16, 
+        "gop": 57.62
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10557, 
+        "dem": 12005, 
+        "tot": 13717, 
+        "gop": 1448
+    }, 
+    "for": "VA/Petersburg city/51730", 
+    "pct": {
+        "dem": 87.52, 
+        "per_point_diff": 76.96, 
+        "gop": 10.56
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3088, 
+        "dem": 8522, 
+        "tot": 14217, 
+        "gop": 5434
+    }, 
+    "for": "SC/Marion County/45067", 
+    "pct": {
+        "dem": 59.94, 
+        "per_point_diff": 21.72, 
+        "gop": 38.22
+    }
+}

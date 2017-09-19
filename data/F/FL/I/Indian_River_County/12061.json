@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 19567, 
+        "dem": 28997, 
+        "tot": 79897, 
+        "gop": 48564
+    }, 
+    "for": "FL/Indian River County/12061", 
+    "pct": {
+        "dem": 36.29, 
+        "per_point_diff": 24.49, 
+        "gop": 60.78
+    }
+}

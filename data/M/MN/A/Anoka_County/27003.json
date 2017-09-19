@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17842, 
+        "dem": 75499, 
+        "tot": 184084, 
+        "gop": 93341
+    }, 
+    "for": "MN/Anoka County/27003", 
+    "pct": {
+        "dem": 41.01, 
+        "per_point_diff": 9.69, 
+        "gop": 50.71
+    }
+}

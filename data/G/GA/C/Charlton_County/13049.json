@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1946, 
+        "dem": 1004, 
+        "tot": 4008, 
+        "gop": 2950
+    }, 
+    "for": "GA/Charlton County/13049", 
+    "pct": {
+        "dem": 25.05, 
+        "per_point_diff": 48.55, 
+        "gop": 73.6
+    }
+}

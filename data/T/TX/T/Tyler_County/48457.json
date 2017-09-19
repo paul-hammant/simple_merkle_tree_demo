@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5358, 
+        "dem": 1243, 
+        "tot": 7969, 
+        "gop": 6601
+    }, 
+    "for": "TX/Tyler County/48457", 
+    "pct": {
+        "dem": 15.6, 
+        "per_point_diff": 67.24, 
+        "gop": 82.83
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6033, 
+        "dem": 3547, 
+        "tot": 14203, 
+        "gop": 9580
+    }, 
+    "for": "CO/Teller County/8119", 
+    "pct": {
+        "dem": 24.97, 
+        "per_point_diff": 42.48, 
+        "gop": 67.45
+    }
+}

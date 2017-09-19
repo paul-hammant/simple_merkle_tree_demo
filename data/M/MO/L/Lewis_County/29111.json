@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2410, 
+        "dem": 933, 
+        "tot": 4452, 
+        "gop": 3343
+    }, 
+    "for": "MO/Lewis County/29111", 
+    "pct": {
+        "dem": 20.96, 
+        "per_point_diff": 54.13, 
+        "gop": 75.09
+    }
+}

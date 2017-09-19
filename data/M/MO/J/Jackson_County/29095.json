@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 48946, 
+        "dem": 163723, 
+        "tot": 294063, 
+        "gop": 114777
+    }, 
+    "for": "MO/Jackson County/29095", 
+    "pct": {
+        "dem": 55.68, 
+        "per_point_diff": 16.64, 
+        "gop": 39.03
+    }
+}

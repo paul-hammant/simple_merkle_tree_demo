@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 22354, 
+        "dem": 24132, 
+        "tot": 73860, 
+        "gop": 46486
+    }, 
+    "for": "NJ/Sussex County/34037", 
+    "pct": {
+        "dem": 32.67, 
+        "per_point_diff": 30.27, 
+        "gop": 62.94
+    }
+}

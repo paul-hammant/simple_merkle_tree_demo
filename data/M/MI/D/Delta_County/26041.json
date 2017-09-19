@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4681, 
+        "dem": 6431, 
+        "tot": 18467, 
+        "gop": 11112
+    }, 
+    "for": "MI/Delta County/26041", 
+    "pct": {
+        "dem": 34.82, 
+        "per_point_diff": 25.35, 
+        "gop": 60.17
+    }
+}

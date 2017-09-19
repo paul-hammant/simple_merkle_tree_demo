@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 824, 
+        "dem": 360, 
+        "tot": 1748, 
+        "gop": 1184
+    }, 
+    "for": "ID/Lincoln County/16063", 
+    "pct": {
+        "dem": 20.59, 
+        "per_point_diff": 47.14, 
+        "gop": 67.73
+    }
+}

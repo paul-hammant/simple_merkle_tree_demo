@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4781, 
+        "dem": 5744, 
+        "tot": 16715, 
+        "gop": 10525
+    }, 
+    "for": "TX/Waller County/48473", 
+    "pct": {
+        "dem": 34.36, 
+        "per_point_diff": 28.6, 
+        "gop": 62.97
+    }
+}

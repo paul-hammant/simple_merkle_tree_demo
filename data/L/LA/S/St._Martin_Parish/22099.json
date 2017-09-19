@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8606, 
+        "dem": 8266, 
+        "tot": 25749, 
+        "gop": 16872
+    }, 
+    "for": "LA/St. Martin Parish/22099", 
+    "pct": {
+        "dem": 32.1, 
+        "per_point_diff": 33.42, 
+        "gop": 65.52
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2532, 
+        "dem": 2556, 
+        "tot": 7713, 
+        "gop": 5088
+    }, 
+    "for": "MS/Clarke County/28023", 
+    "pct": {
+        "dem": 33.14, 
+        "per_point_diff": 32.83, 
+        "gop": 65.97
+    }
+}

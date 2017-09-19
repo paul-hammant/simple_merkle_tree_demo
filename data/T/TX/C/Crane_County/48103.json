@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 748, 
+        "dem": 299, 
+        "tot": 1381, 
+        "gop": 1047
+    }, 
+    "for": "TX/Crane County/48103", 
+    "pct": {
+        "dem": 21.65, 
+        "per_point_diff": 54.16, 
+        "gop": 75.81
+    }
+}

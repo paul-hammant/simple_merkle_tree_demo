@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 24266, 
+        "dem": 48707, 
+        "tot": 74952, 
+        "gop": 24441
+    }, 
+    "for": "GA/Richmond County/13245", 
+    "pct": {
+        "dem": 64.98, 
+        "per_point_diff": 32.38, 
+        "gop": 32.61
+    }
+}

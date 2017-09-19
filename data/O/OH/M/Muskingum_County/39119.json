@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12662, 
+        "dem": 10926, 
+        "tot": 36217, 
+        "gop": 23588
+    }, 
+    "for": "OH/Muskingum County/39119", 
+    "pct": {
+        "dem": 30.17, 
+        "per_point_diff": 34.96, 
+        "gop": 65.13
+    }
+}

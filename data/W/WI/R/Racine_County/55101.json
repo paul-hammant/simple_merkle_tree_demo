@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4114, 
+        "dem": 42506, 
+        "tot": 93678, 
+        "gop": 46620
+    }, 
+    "for": "WI/Racine County/55101", 
+    "pct": {
+        "dem": 45.37, 
+        "per_point_diff": 4.39, 
+        "gop": 49.77
+    }
+}

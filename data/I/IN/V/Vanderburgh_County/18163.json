@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12126, 
+        "dem": 28296, 
+        "tot": 71957, 
+        "gop": 40422
+    }, 
+    "for": "IN/Vanderburgh County/18163", 
+    "pct": {
+        "dem": 39.32, 
+        "per_point_diff": 16.85, 
+        "gop": 56.18
+    }
+}

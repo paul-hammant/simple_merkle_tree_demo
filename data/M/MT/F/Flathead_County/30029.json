@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 16846, 
+        "dem": 13233, 
+        "tot": 46144, 
+        "gop": 30079
+    }, 
+    "for": "MT/Flathead County/30029", 
+    "pct": {
+        "dem": 28.68, 
+        "per_point_diff": 36.51, 
+        "gop": 65.19
+    }
+}

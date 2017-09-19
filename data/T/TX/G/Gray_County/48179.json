@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5796, 
+        "dem": 699, 
+        "tot": 7360, 
+        "gop": 6495
+    }, 
+    "for": "TX/Gray County/48179", 
+    "pct": {
+        "dem": 9.5, 
+        "per_point_diff": 78.75, 
+        "gop": 88.25
+    }
+}

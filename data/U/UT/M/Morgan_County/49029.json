@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2584, 
+        "dem": 572, 
+        "tot": 5136, 
+        "gop": 3156
+    }, 
+    "for": "UT/Morgan County/49029", 
+    "pct": {
+        "dem": 11.14, 
+        "per_point_diff": 50.31, 
+        "gop": 61.45
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 465, 
+        "dem": 6774, 
+        "tot": 14757, 
+        "gop": 7239
+    }, 
+    "for": "MI/Leelanau County/26089", 
+    "pct": {
+        "dem": 45.9, 
+        "per_point_diff": 3.15, 
+        "gop": 49.05
+    }
+}

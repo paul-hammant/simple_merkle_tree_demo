@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 11290, 
+        "dem": 59827, 
+        "tot": 140145, 
+        "gop": 71117
+    }, 
+    "for": "IL/McHenry County/17111", 
+    "pct": {
+        "dem": 42.69, 
+        "per_point_diff": 8.06, 
+        "gop": 50.75
+    }
+}

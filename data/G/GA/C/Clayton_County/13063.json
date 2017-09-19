@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 64168, 
+        "dem": 75908, 
+        "tot": 89236, 
+        "gop": 11740
+    }, 
+    "for": "GA/Clayton County/13063", 
+    "pct": {
+        "dem": 85.06, 
+        "per_point_diff": 71.91, 
+        "gop": 13.16
+    }
+}

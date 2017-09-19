@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2126, 
+        "dem": 1648, 
+        "tot": 5470, 
+        "gop": 3774
+    }, 
+    "for": "MS/Carroll County/28015", 
+    "pct": {
+        "dem": 30.13, 
+        "per_point_diff": 38.87, 
+        "gop": 68.99
+    }
+}

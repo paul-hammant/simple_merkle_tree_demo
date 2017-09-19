@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1184, 
+        "dem": 2298, 
+        "tot": 5893, 
+        "gop": 3482
+    }, 
+    "for": "GA/McIntosh County/13191", 
+    "pct": {
+        "dem": 39.0, 
+        "per_point_diff": 20.09, 
+        "gop": 59.09
+    }
+}

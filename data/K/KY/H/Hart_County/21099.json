@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3590, 
+        "dem": 1730, 
+        "tot": 7261, 
+        "gop": 5320
+    }, 
+    "for": "KY/Hart County/21099", 
+    "pct": {
+        "dem": 23.83, 
+        "per_point_diff": 49.44, 
+        "gop": 73.27
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 22712, 
+        "dem": 17798, 
+        "tot": 60167, 
+        "gop": 40510
+    }, 
+    "for": "PA/Cambria County/42021", 
+    "pct": {
+        "dem": 29.58, 
+        "per_point_diff": 37.75, 
+        "gop": 67.33
+    }
+}

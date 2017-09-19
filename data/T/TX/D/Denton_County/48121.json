@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 59175, 
+        "dem": 110000, 
+        "tot": 293287, 
+        "gop": 169175
+    }, 
+    "for": "TX/Denton County/48121", 
+    "pct": {
+        "dem": 37.51, 
+        "per_point_diff": 20.18, 
+        "gop": 57.68
+    }
+}

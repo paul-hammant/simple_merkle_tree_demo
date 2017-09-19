@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2999, 
+        "dem": 9285, 
+        "tot": 23024, 
+        "gop": 12284
+    }, 
+    "for": "NY/Otsego County/36077", 
+    "pct": {
+        "dem": 40.33, 
+        "per_point_diff": 13.03, 
+        "gop": 53.35
+    }
+}

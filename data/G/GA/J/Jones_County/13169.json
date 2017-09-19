@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4344, 
+        "dem": 3960, 
+        "tot": 12524, 
+        "gop": 8304
+    }, 
+    "for": "GA/Jones County/13169", 
+    "pct": {
+        "dem": 31.62, 
+        "per_point_diff": 34.69, 
+        "gop": 66.3
+    }
+}

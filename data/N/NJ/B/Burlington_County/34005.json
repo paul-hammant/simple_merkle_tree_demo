@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 28822, 
+        "dem": 108361, 
+        "tot": 194988, 
+        "gop": 79539
+    }, 
+    "for": "NJ/Burlington County/34005", 
+    "pct": {
+        "dem": 55.57, 
+        "per_point_diff": 14.78, 
+        "gop": 40.79
+    }
+}

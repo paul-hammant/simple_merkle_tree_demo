@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3380, 
+        "dem": 56188, 
+        "tot": 112827, 
+        "gop": 52808
+    }, 
+    "for": "OH/Mahoning County/39099", 
+    "pct": {
+        "dem": 49.8, 
+        "per_point_diff": 3.0, 
+        "gop": 46.8
+    }
+}

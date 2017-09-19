@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1799, 
+        "dem": 1044, 
+        "tot": 4062, 
+        "gop": 2843
+    }, 
+    "for": "MI/Oscoda County/26135", 
+    "pct": {
+        "dem": 25.7, 
+        "per_point_diff": 44.29, 
+        "gop": 69.99
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1002, 
+        "dem": 1151, 
+        "tot": 3480, 
+        "gop": 2153
+    }, 
+    "for": "IL/Henderson County/17071", 
+    "pct": {
+        "dem": 33.07, 
+        "per_point_diff": 28.79, 
+        "gop": 61.87
+    }
+}

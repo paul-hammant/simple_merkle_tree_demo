@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10796, 
+        "dem": 9841, 
+        "tot": 32389, 
+        "gop": 20637
+    }, 
+    "for": "IN/Bartholomew County/18005", 
+    "pct": {
+        "dem": 30.38, 
+        "per_point_diff": 33.33, 
+        "gop": 63.72
+    }
+}

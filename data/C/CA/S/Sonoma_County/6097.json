@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 78606, 
+        "dem": 116027, 
+        "tot": 164060, 
+        "gop": 37421
+    }, 
+    "for": "CA/Sonoma County/6097", 
+    "pct": {
+        "dem": 70.72, 
+        "per_point_diff": 47.91, 
+        "gop": 22.81
+    }
+}

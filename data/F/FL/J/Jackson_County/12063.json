@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7848, 
+        "dem": 6383, 
+        "tot": 20997, 
+        "gop": 14231
+    }, 
+    "for": "FL/Jackson County/12063", 
+    "pct": {
+        "dem": 30.4, 
+        "per_point_diff": 37.38, 
+        "gop": 67.78
+    }
+}

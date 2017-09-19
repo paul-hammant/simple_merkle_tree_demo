@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1765, 
+        "dem": 1356, 
+        "tot": 4707, 
+        "gop": 3121
+    }, 
+    "for": "IA/Emmet County/19063", 
+    "pct": {
+        "dem": 28.81, 
+        "per_point_diff": 37.5, 
+        "gop": 66.31
+    }
+}

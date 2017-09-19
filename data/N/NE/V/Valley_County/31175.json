@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1433, 
+        "dem": 337, 
+        "tot": 2172, 
+        "gop": 1770
+    }, 
+    "for": "NE/Valley County/31175", 
+    "pct": {
+        "dem": 15.52, 
+        "per_point_diff": 65.98, 
+        "gop": 81.49
+    }
+}

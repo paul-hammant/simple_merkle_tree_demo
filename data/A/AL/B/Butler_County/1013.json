@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1175, 
+        "dem": 3716, 
+        "tot": 8685, 
+        "gop": 4891
+    }, 
+    "for": "AL/Butler County/1013", 
+    "pct": {
+        "dem": 42.79, 
+        "per_point_diff": 13.53, 
+        "gop": 56.32
+    }
+}

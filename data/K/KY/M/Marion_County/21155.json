@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2443, 
+        "dem": 2679, 
+        "tot": 8108, 
+        "gop": 5122
+    }, 
+    "for": "KY/Marion County/21155", 
+    "pct": {
+        "dem": 33.04, 
+        "per_point_diff": 30.13, 
+        "gop": 63.17
+    }
+}

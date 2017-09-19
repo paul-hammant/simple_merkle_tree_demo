@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4419, 
+        "dem": 874, 
+        "tot": 6510, 
+        "gop": 5293
+    }, 
+    "for": "CO/Moffat County/8081", 
+    "pct": {
+        "dem": 13.43, 
+        "per_point_diff": 67.88, 
+        "gop": 81.31
+    }
+}

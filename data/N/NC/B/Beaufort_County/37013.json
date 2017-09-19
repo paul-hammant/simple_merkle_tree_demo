@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5779, 
+        "dem": 8699, 
+        "tot": 23599, 
+        "gop": 14478
+    }, 
+    "for": "NC/Beaufort County/37013", 
+    "pct": {
+        "dem": 36.86, 
+        "per_point_diff": 24.49, 
+        "gop": 61.35
+    }
+}

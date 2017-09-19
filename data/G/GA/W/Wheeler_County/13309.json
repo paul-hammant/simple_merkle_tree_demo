@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 775, 
+        "dem": 646, 
+        "tot": 2102, 
+        "gop": 1421
+    }, 
+    "for": "GA/Wheeler County/13309", 
+    "pct": {
+        "dem": 30.73, 
+        "per_point_diff": 36.87, 
+        "gop": 67.6
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12997, 
+        "dem": 23224, 
+        "tot": 33925, 
+        "gop": 10227
+    }, 
+    "for": "GA/Dougherty County/13095", 
+    "pct": {
+        "dem": 68.46, 
+        "per_point_diff": 38.31, 
+        "gop": 30.15
+    }
+}

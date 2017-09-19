@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 762, 
+        "dem": 313, 
+        "tot": 1415, 
+        "gop": 1075
+    }, 
+    "for": "TX/Sutton County/48435", 
+    "pct": {
+        "dem": 22.12, 
+        "per_point_diff": 53.85, 
+        "gop": 75.97
+    }
+}

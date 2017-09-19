@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 850, 
+        "dem": 128, 
+        "tot": 1142, 
+        "gop": 978
+    }, 
+    "for": "NE/Boyd County/31015", 
+    "pct": {
+        "dem": 11.21, 
+        "per_point_diff": 74.43, 
+        "gop": 85.64
+    }
+}

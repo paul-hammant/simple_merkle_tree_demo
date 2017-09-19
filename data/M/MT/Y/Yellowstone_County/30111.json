@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17558, 
+        "dem": 21117, 
+        "tot": 64675, 
+        "gop": 38675
+    }, 
+    "for": "MT/Yellowstone County/30111", 
+    "pct": {
+        "dem": 32.65, 
+        "per_point_diff": 27.15, 
+        "gop": 59.8
+    }
+}

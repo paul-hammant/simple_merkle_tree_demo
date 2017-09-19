@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 854, 
+        "dem": 70, 
+        "tot": 1017, 
+        "gop": 924
+    }, 
+    "for": "TX/Armstrong County/48011", 
+    "pct": {
+        "dem": 6.88, 
+        "per_point_diff": 83.97, 
+        "gop": 90.86
+    }
+}

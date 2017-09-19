@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 766, 
+        "dem": 817, 
+        "tot": 2473, 
+        "gop": 1583
+    }, 
+    "for": "IL/Pulaski County/17153", 
+    "pct": {
+        "dem": 33.04, 
+        "per_point_diff": 30.97, 
+        "gop": 64.01
+    }
+}

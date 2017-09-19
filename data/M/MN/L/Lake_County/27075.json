@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 145, 
+        "dem": 3077, 
+        "tot": 6472, 
+        "gop": 2932
+    }, 
+    "for": "MN/Lake County/27075", 
+    "pct": {
+        "dem": 47.54, 
+        "per_point_diff": 2.24, 
+        "gop": 45.3
+    }
+}

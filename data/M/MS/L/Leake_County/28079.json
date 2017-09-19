@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1196, 
+        "dem": 3579, 
+        "tot": 8436, 
+        "gop": 4775
+    }, 
+    "for": "MS/Leake County/28079", 
+    "pct": {
+        "dem": 42.43, 
+        "per_point_diff": 14.18, 
+        "gop": 56.6
+    }
+}

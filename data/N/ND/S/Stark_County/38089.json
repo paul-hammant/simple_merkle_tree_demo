@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7973, 
+        "dem": 1745, 
+        "tot": 12115, 
+        "gop": 9718
+    }, 
+    "for": "ND/Stark County/38089", 
+    "pct": {
+        "dem": 14.4, 
+        "per_point_diff": 65.81, 
+        "gop": 80.21
+    }
+}

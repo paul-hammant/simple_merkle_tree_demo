@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 19606, 
+        "dem": 13197, 
+        "tot": 47376, 
+        "gop": 32803
+    }, 
+    "for": "AL/Calhoun County/1015", 
+    "pct": {
+        "dem": 27.86, 
+        "per_point_diff": 41.38, 
+        "gop": 69.24
+    }
+}

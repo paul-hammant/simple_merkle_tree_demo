@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1556, 
+        "dem": 831, 
+        "tot": 3430, 
+        "gop": 2387
+    }, 
+    "for": "NE/Jefferson County/31095", 
+    "pct": {
+        "dem": 24.23, 
+        "per_point_diff": 45.36, 
+        "gop": 69.59
+    }
+}

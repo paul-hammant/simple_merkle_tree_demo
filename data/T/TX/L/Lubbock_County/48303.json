@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 37610, 
+        "dem": 27956, 
+        "tot": 98060, 
+        "gop": 65566
+    }, 
+    "for": "TX/Lubbock County/48303", 
+    "pct": {
+        "dem": 28.51, 
+        "per_point_diff": 38.35, 
+        "gop": 66.86
+    }
+}

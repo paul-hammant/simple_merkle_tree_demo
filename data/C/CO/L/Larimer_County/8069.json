@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 9546, 
+        "dem": 92170, 
+        "tot": 193897, 
+        "gop": 82624
+    }, 
+    "for": "CO/Larimer County/8069", 
+    "pct": {
+        "dem": 47.54, 
+        "per_point_diff": 4.92, 
+        "gop": 42.61
+    }
+}

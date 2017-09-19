@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 542, 
+        "dem": 167, 
+        "tot": 900, 
+        "gop": 709
+    }, 
+    "for": "TX/Reagan County/48383", 
+    "pct": {
+        "dem": 18.56, 
+        "per_point_diff": 60.22, 
+        "gop": 78.78
+    }
+}

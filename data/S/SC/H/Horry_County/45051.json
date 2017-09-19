@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 47088, 
+        "dem": 36731, 
+        "tot": 124503, 
+        "gop": 83819
+    }, 
+    "for": "SC/Horry County/45051", 
+    "pct": {
+        "dem": 29.5, 
+        "per_point_diff": 37.82, 
+        "gop": 67.32
+    }
+}

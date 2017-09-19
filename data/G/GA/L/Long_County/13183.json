@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1267, 
+        "dem": 1356, 
+        "tot": 4109, 
+        "gop": 2623
+    }, 
+    "for": "GA/Long County/13183", 
+    "pct": {
+        "dem": 33.0, 
+        "per_point_diff": 30.83, 
+        "gop": 63.84
+    }
+}

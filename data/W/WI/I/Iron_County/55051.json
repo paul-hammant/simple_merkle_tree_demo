@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 817, 
+        "dem": 1273, 
+        "tot": 3477, 
+        "gop": 2090
+    }, 
+    "for": "WI/Iron County/55051", 
+    "pct": {
+        "dem": 36.61, 
+        "per_point_diff": 23.5, 
+        "gop": 60.11
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1394, 
+        "dem": 257, 
+        "tot": 2011, 
+        "gop": 1651
+    }, 
+    "for": "KS/Gray County/20069", 
+    "pct": {
+        "dem": 12.78, 
+        "per_point_diff": 69.32, 
+        "gop": 82.1
+    }
+}

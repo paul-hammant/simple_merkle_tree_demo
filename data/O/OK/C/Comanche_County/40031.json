@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7714, 
+        "dem": 11439, 
+        "tot": 32504, 
+        "gop": 19153
+    }, 
+    "for": "OK/Comanche County/40031", 
+    "pct": {
+        "dem": 35.19, 
+        "per_point_diff": 23.73, 
+        "gop": 58.93
+    }
+}

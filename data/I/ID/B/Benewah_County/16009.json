@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2321, 
+        "dem": 780, 
+        "tot": 4192, 
+        "gop": 3101
+    }, 
+    "for": "ID/Benewah County/16009", 
+    "pct": {
+        "dem": 18.61, 
+        "per_point_diff": 55.37, 
+        "gop": 73.97
+    }
+}

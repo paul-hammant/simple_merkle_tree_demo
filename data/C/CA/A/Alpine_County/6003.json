@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 107, 
+        "dem": 318, 
+        "tot": 575, 
+        "gop": 211
+    }, 
+    "for": "CA/Alpine County/6003", 
+    "pct": {
+        "dem": 55.3, 
+        "per_point_diff": 18.61, 
+        "gop": 36.7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4478, 
+        "dem": 5827, 
+        "tot": 17149, 
+        "gop": 10305
+    }, 
+    "for": "MI/Mecosta County/26107", 
+    "pct": {
+        "dem": 33.98, 
+        "per_point_diff": 26.11, 
+        "gop": 60.09
+    }
+}

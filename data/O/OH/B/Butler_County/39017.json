@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 47741, 
+        "dem": 56700, 
+        "tot": 168422, 
+        "gop": 104441
+    }, 
+    "for": "OH/Butler County/39017", 
+    "pct": {
+        "dem": 33.67, 
+        "per_point_diff": 28.35, 
+        "gop": 62.01
+    }
+}

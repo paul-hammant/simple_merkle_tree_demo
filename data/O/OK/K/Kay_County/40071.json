@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8434, 
+        "dem": 3734, 
+        "tot": 16795, 
+        "gop": 12168
+    }, 
+    "for": "OK/Kay County/40071", 
+    "pct": {
+        "dem": 22.23, 
+        "per_point_diff": 50.22, 
+        "gop": 72.45
+    }
+}

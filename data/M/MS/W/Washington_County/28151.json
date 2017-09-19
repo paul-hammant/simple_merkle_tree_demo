@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5306, 
+        "dem": 9847, 
+        "tot": 14571, 
+        "gop": 4541
+    }, 
+    "for": "MS/Washington County/28151", 
+    "pct": {
+        "dem": 67.58, 
+        "per_point_diff": 36.41, 
+        "gop": 31.16
+    }
+}

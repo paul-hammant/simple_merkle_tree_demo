@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10810, 
+        "dem": 3785, 
+        "tot": 19046, 
+        "gop": 14595
+    }, 
+    "for": "TX/Burnet County/48053", 
+    "pct": {
+        "dem": 19.87, 
+        "per_point_diff": 56.76, 
+        "gop": 76.63
+    }
+}

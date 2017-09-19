@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 64108, 
+        "dem": 148473, 
+        "tot": 246199, 
+        "gop": 84365
+    }, 
+    "for": "TN/Davidson County/47037", 
+    "pct": {
+        "dem": 60.31, 
+        "per_point_diff": 26.04, 
+        "gop": 34.27
+    }
+}

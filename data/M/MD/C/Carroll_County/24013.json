@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 31279, 
+        "dem": 24314, 
+        "tot": 84879, 
+        "gop": 55593
+    }, 
+    "for": "MD/Carroll County/24013", 
+    "pct": {
+        "dem": 28.65, 
+        "per_point_diff": 36.85, 
+        "gop": 65.5
+    }
+}

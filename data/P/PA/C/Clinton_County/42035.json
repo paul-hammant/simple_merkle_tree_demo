@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5168, 
+        "dem": 4533, 
+        "tot": 14839, 
+        "gop": 9701
+    }, 
+    "for": "PA/Clinton County/42035", 
+    "pct": {
+        "dem": 30.55, 
+        "per_point_diff": 34.83, 
+        "gop": 65.38
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7359, 
+        "dem": 3720, 
+        "tot": 15472, 
+        "gop": 11079
+    }, 
+    "for": "IN/Gibson County/18051", 
+    "pct": {
+        "dem": 24.04, 
+        "per_point_diff": 47.56, 
+        "gop": 71.61
+    }
+}

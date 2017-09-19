@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2070, 
+        "dem": 1396, 
+        "tot": 5105, 
+        "gop": 3466
+    }, 
+    "for": "IA/Calhoun County/19025", 
+    "pct": {
+        "dem": 27.35, 
+        "per_point_diff": 40.55, 
+        "gop": 67.89
+    }
+}

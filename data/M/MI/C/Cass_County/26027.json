@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6971, 
+        "dem": 7270, 
+        "tot": 23272, 
+        "gop": 14241
+    }, 
+    "for": "MI/Cass County/26027", 
+    "pct": {
+        "dem": 31.24, 
+        "per_point_diff": 29.95, 
+        "gop": 61.19
+    }
+}

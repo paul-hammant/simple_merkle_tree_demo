@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2579, 
+        "dem": 742, 
+        "tot": 4237, 
+        "gop": 3321
+    }, 
+    "for": "OK/Nowata County/40105", 
+    "pct": {
+        "dem": 17.51, 
+        "per_point_diff": 60.87, 
+        "gop": 78.38
+    }
+}

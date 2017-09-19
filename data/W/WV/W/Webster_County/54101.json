@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1730, 
+        "dem": 554, 
+        "tot": 2955, 
+        "gop": 2284
+    }, 
+    "for": "WV/Webster County/54101", 
+    "pct": {
+        "dem": 18.75, 
+        "per_point_diff": 58.54, 
+        "gop": 77.29
+    }
+}

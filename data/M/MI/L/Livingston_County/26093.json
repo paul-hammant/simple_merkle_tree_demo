@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 31287, 
+        "dem": 34378, 
+        "tot": 105577, 
+        "gop": 65665
+    }, 
+    "for": "MI/Livingston County/26093", 
+    "pct": {
+        "dem": 32.56, 
+        "per_point_diff": 29.63, 
+        "gop": 62.2
+    }
+}

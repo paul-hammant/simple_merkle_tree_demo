@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 43906, 
+        "dem": 57147, 
+        "tot": 74384, 
+        "gop": 13241
+    }, 
+    "for": "VA/Alexandria city/51510", 
+    "pct": {
+        "dem": 76.83, 
+        "per_point_diff": 59.03, 
+        "gop": 17.8
+    }
+}

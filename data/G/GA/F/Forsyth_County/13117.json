@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 46374, 
+        "dem": 23427, 
+        "tot": 97314, 
+        "gop": 69801
+    }, 
+    "for": "GA/Forsyth County/13117", 
+    "pct": {
+        "dem": 24.07, 
+        "per_point_diff": 47.65, 
+        "gop": 71.73
+    }
+}

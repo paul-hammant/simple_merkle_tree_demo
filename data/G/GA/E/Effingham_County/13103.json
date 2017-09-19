@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 13014, 
+        "dem": 4851, 
+        "tot": 23395, 
+        "gop": 17865
+    }, 
+    "for": "GA/Effingham County/13103", 
+    "pct": {
+        "dem": 20.74, 
+        "per_point_diff": 55.63, 
+        "gop": 76.36
+    }
+}

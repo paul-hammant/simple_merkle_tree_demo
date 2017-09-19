@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1165, 
+        "dem": 2705, 
+        "tot": 4287, 
+        "gop": 1540
+    }, 
+    "for": "GA/Macon County/13193", 
+    "pct": {
+        "dem": 63.1, 
+        "per_point_diff": 27.18, 
+        "gop": 35.92
+    }
+}

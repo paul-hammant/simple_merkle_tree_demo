@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 987, 
+        "dem": 553, 
+        "tot": 2230, 
+        "gop": 1540
+    }, 
+    "for": "MN/Lake of the Woods County/27077", 
+    "pct": {
+        "dem": 24.8, 
+        "per_point_diff": 44.26, 
+        "gop": 69.06
+    }
+}

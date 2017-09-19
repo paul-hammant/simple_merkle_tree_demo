@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 491, 
+        "dem": 4590, 
+        "tot": 9113, 
+        "gop": 4099
+    }, 
+    "for": "VA/Prince Edward County/51147", 
+    "pct": {
+        "dem": 50.37, 
+        "per_point_diff": 5.39, 
+        "gop": 44.98
+    }
+}

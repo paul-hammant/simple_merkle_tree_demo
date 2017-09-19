@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1636, 
+        "dem": 2098, 
+        "tot": 5923, 
+        "gop": 3734
+    }, 
+    "for": "GA/Ben Hill County/13017", 
+    "pct": {
+        "dem": 35.42, 
+        "per_point_diff": 27.62, 
+        "gop": 63.04
+    }
+}

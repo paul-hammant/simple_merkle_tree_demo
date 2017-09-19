@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 35069, 
+        "dem": 21040, 
+        "tot": 80296, 
+        "gop": 56109
+    }, 
+    "for": "SC/Anderson County/45007", 
+    "pct": {
+        "dem": 26.2, 
+        "per_point_diff": 43.67, 
+        "gop": 69.88
+    }
+}

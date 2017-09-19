@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 17292, 
+        "dem": 24420, 
+        "tot": 67987, 
+        "gop": 41712
+    }, 
+    "for": "LA/Ouachita Parish/22073", 
+    "pct": {
+        "dem": 35.92, 
+        "per_point_diff": 25.43, 
+        "gop": 61.35
+    }
+}

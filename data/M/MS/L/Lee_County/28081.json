@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 12060, 
+        "dem": 9635, 
+        "tot": 31974, 
+        "gop": 21695
+    }, 
+    "for": "MS/Lee County/28081", 
+    "pct": {
+        "dem": 30.13, 
+        "per_point_diff": 37.72, 
+        "gop": 67.85
+    }
+}

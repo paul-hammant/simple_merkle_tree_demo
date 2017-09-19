@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7705, 
+        "dem": 22680, 
+        "tot": 39761, 
+        "gop": 14975
+    }, 
+    "for": "RI/Newport County/44005", 
+    "pct": {
+        "dem": 57.04, 
+        "per_point_diff": 19.38, 
+        "gop": 37.66
+    }
+}

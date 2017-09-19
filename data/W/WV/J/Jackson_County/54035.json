@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6311, 
+        "dem": 2648, 
+        "tot": 12108, 
+        "gop": 8959
+    }, 
+    "for": "WV/Jackson County/54035", 
+    "pct": {
+        "dem": 21.87, 
+        "per_point_diff": 52.12, 
+        "gop": 73.99
+    }
+}

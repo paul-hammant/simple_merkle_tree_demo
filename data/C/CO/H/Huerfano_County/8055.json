@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 244, 
+        "dem": 1631, 
+        "tot": 3772, 
+        "gop": 1875
+    }, 
+    "for": "CO/Huerfano County/8055", 
+    "pct": {
+        "dem": 43.24, 
+        "per_point_diff": 6.47, 
+        "gop": 49.71
+    }
+}

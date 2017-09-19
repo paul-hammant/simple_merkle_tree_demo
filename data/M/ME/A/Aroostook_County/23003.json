@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 6042, 
+        "dem": 13377, 
+        "tot": 34963, 
+        "gop": 19419
+    }, 
+    "for": "ME/Aroostook County/23003", 
+    "pct": {
+        "dem": 38.26, 
+        "per_point_diff": 17.28, 
+        "gop": 55.54
+    }
+}

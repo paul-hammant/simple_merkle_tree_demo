@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 60, 
+        "dem": 5814, 
+        "tot": 11852, 
+        "gop": 5874
+    }, 
+    "for": "NC/Martin County/37117", 
+    "pct": {
+        "dem": 49.06, 
+        "per_point_diff": 0.51, 
+        "gop": 49.56
+    }
+}

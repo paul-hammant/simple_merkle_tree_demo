@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1432, 
+        "dem": 928, 
+        "tot": 3523, 
+        "gop": 2360
+    }, 
+    "for": "NE/Burt County/31021", 
+    "pct": {
+        "dem": 26.34, 
+        "per_point_diff": 40.65, 
+        "gop": 66.99
+    }
+}

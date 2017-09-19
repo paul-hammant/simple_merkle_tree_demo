@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 26029, 
+        "dem": 5550, 
+        "tot": 37937, 
+        "gop": 31579
+    }, 
+    "for": "AL/St. Clair County/1115", 
+    "pct": {
+        "dem": 14.63, 
+        "per_point_diff": 68.61, 
+        "gop": 83.24
+    }
+}

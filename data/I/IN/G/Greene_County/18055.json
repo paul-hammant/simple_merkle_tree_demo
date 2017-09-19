@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7346, 
+        "dem": 2929, 
+        "tot": 13763, 
+        "gop": 10275
+    }, 
+    "for": "IN/Greene County/18055", 
+    "pct": {
+        "dem": 21.28, 
+        "per_point_diff": 53.37, 
+        "gop": 74.66
+    }
+}

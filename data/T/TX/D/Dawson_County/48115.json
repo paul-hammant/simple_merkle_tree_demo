@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1801, 
+        "dem": 835, 
+        "tot": 3562, 
+        "gop": 2636
+    }, 
+    "for": "TX/Dawson County/48115", 
+    "pct": {
+        "dem": 23.44, 
+        "per_point_diff": 50.56, 
+        "gop": 74.0
+    }
+}

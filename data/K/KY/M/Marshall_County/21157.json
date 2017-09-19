@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 8650, 
+        "dem": 3672, 
+        "tot": 16678, 
+        "gop": 12322
+    }, 
+    "for": "KY/Marshall County/21157", 
+    "pct": {
+        "dem": 22.02, 
+        "per_point_diff": 51.86, 
+        "gop": 73.88
+    }
+}

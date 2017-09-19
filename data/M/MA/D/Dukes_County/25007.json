@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5864, 
+        "dem": 8338, 
+        "tot": 11434, 
+        "gop": 2474
+    }, 
+    "for": "MA/Dukes County/25007", 
+    "pct": {
+        "dem": 72.92, 
+        "per_point_diff": 51.29, 
+        "gop": 21.64
+    }
+}

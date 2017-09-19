@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2423, 
+        "dem": 2851, 
+        "tot": 8535, 
+        "gop": 5274
+    }, 
+    "for": "PA/Montour County/42093", 
+    "pct": {
+        "dem": 33.4, 
+        "per_point_diff": 28.39, 
+        "gop": 61.79
+    }
+}

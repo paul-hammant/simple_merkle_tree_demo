@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 24493, 
+        "dem": 10565, 
+        "tot": 48179, 
+        "gop": 35058
+    }, 
+    "for": "MO/Jasper County/29097", 
+    "pct": {
+        "dem": 21.93, 
+        "per_point_diff": 50.84, 
+        "gop": 72.77
+    }
+}

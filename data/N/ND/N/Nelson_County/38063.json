@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 489, 
+        "dem": 536, 
+        "tot": 1694, 
+        "gop": 1025
+    }, 
+    "for": "ND/Nelson County/38063", 
+    "pct": {
+        "dem": 31.64, 
+        "per_point_diff": 28.87, 
+        "gop": 60.51
+    }
+}

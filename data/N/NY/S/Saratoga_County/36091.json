@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 4542, 
+        "dem": 46546, 
+        "tot": 104089, 
+        "gop": 51088
+    }, 
+    "for": "NY/Saratoga County/36091", 
+    "pct": {
+        "dem": 44.72, 
+        "per_point_diff": 4.36, 
+        "gop": 49.08
+    }
+}

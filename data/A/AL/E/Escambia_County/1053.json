@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5584, 
+        "dem": 4698, 
+        "tot": 15213, 
+        "gop": 10282
+    }, 
+    "for": "AL/Escambia County/1053", 
+    "pct": {
+        "dem": 30.88, 
+        "per_point_diff": 36.71, 
+        "gop": 67.59
+    }
+}

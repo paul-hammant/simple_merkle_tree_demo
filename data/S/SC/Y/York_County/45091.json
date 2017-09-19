@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 25015, 
+        "dem": 41230, 
+        "tot": 113425, 
+        "gop": 66245
+    }, 
+    "for": "SC/York County/45091", 
+    "pct": {
+        "dem": 36.35, 
+        "per_point_diff": 22.05, 
+        "gop": 58.4
+    }
+}

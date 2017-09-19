@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 91692, 
+        "dem": 206640, 
+        "tot": 331861, 
+        "gop": 114948
+    }, 
+    "for": "TN/Shelby County/47157", 
+    "pct": {
+        "dem": 62.27, 
+        "per_point_diff": 27.63, 
+        "gop": 34.64
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 395162, 
+        "dem": 486351, 
+        "tot": 613195, 
+        "gop": 91189
+    }, 
+    "for": "CA/Alameda County/6001", 
+    "pct": {
+        "dem": 79.31, 
+        "per_point_diff": 64.44, 
+        "gop": 14.87
+    }
+}

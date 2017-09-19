@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 32214, 
+        "dem": 34051, 
+        "tot": 103596, 
+        "gop": 66265
+    }, 
+    "for": "NC/Union County/37179", 
+    "pct": {
+        "dem": 32.87, 
+        "per_point_diff": 31.1, 
+        "gop": 63.96
+    }
+}

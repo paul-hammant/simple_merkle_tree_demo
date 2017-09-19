@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1707, 
+        "dem": 444, 
+        "tot": 2663, 
+        "gop": 2151
+    }, 
+    "for": "KY/Lee County/21129", 
+    "pct": {
+        "dem": 16.67, 
+        "per_point_diff": 64.1, 
+        "gop": 80.77
+    }
+}

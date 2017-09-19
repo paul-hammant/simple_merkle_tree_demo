@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 704, 
+        "dem": 154, 
+        "tot": 1056, 
+        "gop": 858
+    }, 
+    "for": "MT/McCone County/30055", 
+    "pct": {
+        "dem": 14.58, 
+        "per_point_diff": 66.67, 
+        "gop": 81.25
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 1219, 
+        "dem": 1630, 
+        "tot": 4795, 
+        "gop": 2849
+    }, 
+    "for": "NE/Saline County/31151", 
+    "pct": {
+        "dem": 33.99, 
+        "per_point_diff": 25.42, 
+        "gop": 59.42
+    }
+}

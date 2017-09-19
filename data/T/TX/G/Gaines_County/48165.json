@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 3310, 
+        "dem": 597, 
+        "tot": 4609, 
+        "gop": 3907
+    }, 
+    "for": "TX/Gaines County/48165", 
+    "pct": {
+        "dem": 12.95, 
+        "per_point_diff": 71.82, 
+        "gop": 84.77
+    }
+}

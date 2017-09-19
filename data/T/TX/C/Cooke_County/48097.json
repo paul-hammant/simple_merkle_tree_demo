@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10829, 
+        "dem": 2345, 
+        "tot": 15894, 
+        "gop": 13174
+    }, 
+    "for": "TX/Cooke County/48097", 
+    "pct": {
+        "dem": 14.75, 
+        "per_point_diff": 68.13, 
+        "gop": 82.89
+    }
+}

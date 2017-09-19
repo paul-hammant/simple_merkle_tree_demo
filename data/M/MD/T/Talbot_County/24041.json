@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 2233, 
+        "dem": 7865, 
+        "tot": 18731, 
+        "gop": 10098
+    }, 
+    "for": "MD/Talbot County/24041", 
+    "pct": {
+        "dem": 41.99, 
+        "per_point_diff": 11.92, 
+        "gop": 53.91
+    }
+}

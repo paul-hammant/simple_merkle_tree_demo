@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 7719, 
+        "dem": 3991, 
+        "tot": 16333, 
+        "gop": 11710
+    }, 
+    "for": "PA/Snyder County/42109", 
+    "pct": {
+        "dem": 24.44, 
+        "per_point_diff": 47.26, 
+        "gop": 71.7
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 10256, 
+        "dem": 15614, 
+        "tot": 44122, 
+        "gop": 25870
+    }, 
+    "for": "NY/Oswego County/36075", 
+    "pct": {
+        "dem": 35.39, 
+        "per_point_diff": 23.24, 
+        "gop": 58.63
+    }
+}

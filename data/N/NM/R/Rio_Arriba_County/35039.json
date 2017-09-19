@@ -1,0 +1,14 @@
+{
+    "votes": {
+        "diff": 5951, 
+        "dem": 9534, 
+        "tot": 14767, 
+        "gop": 3583
+    }, 
+    "for": "NM/Rio Arriba County/35039", 
+    "pct": {
+        "dem": 64.56, 
+        "per_point_diff": 40.3, 
+        "gop": 24.26
+    }
+}
