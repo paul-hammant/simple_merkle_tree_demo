@@ -15,3 +15,7 @@ python2 update_merke_tree_hashes.py
 ```
 
 That one just runs in a loop.  Sure that's not exactly friendly to the host machine, but this is only a proof of concept.
+
+## Rust port
+
+There's a Rust port of this going on [here](https://github.com/paul-hammant/merkle-rust)
